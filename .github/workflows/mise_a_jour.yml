@@ -1,0 +1,36 @@
+name: Mise à jour du Calendrier FFE
+
+on:
+  schedule:
+    - cron: '0 4 * * *' # Tourne tous les jours à 4h00 du matin
+  workflow_dispatch: # Permet de lancer le robot manuellement avec un bouton
+
+jobs:
+  scraping:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: 📥 Récupérer les fichiers du site
+        uses: actions/checkout@v4
+
+      - name: 🐍 Installer Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: ⚙️ Installer les moteurs
+        run: pip install -r requirements.txt
+
+      - name: 🕷️ Lancer le Scraping FFE
+        # Il cherchera les tournois jusqu'à fin 2026.
+        run: python ffe_calendrier.py --debut 2026-04-01 --fin 2026-12-31 --json calendrier.json
+
+      - name: 💾 Sauvegarder et mettre en ligne
+        run: |
+          git config user.name "Robot FFE"
+          git config user.email "action@github.com"
+          git add calendrier.json
+          git commit -m "🤖 Mise à jour quotidienne des tournois" || echo "Aucun nouveau tournoi aujourd'hui."
+          git push
