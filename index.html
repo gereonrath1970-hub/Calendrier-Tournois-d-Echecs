@@ -1,0 +1,173 @@
+.<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calendrier des Échecs</title>
+    <style>
+        body { 
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+            background-color: #1A1208; 
+            /* Fond damier subtil */
+            background-image: repeating-linear-gradient(45deg, rgba(255,255,255,0.02) 25%, transparent 25%, transparent 75%, rgba(255,255,255,0.02) 75%, rgba(255,255,255,0.02)), repeating-linear-gradient(45deg, rgba(255,255,255,0.02) 25%, transparent 25%, transparent 75%, rgba(255,255,255,0.02) 75%, rgba(255,255,255,0.02));
+            background-position: 0 0, 20px 20px;
+            background-size: 40px 40px;
+            color: #F5F0E8; 
+            margin: 0; 
+            padding: 20px; 
+        }
+        
+        .header { text-align: center; margin-bottom: 30px; padding-bottom: 20px; border-bottom: 1px solid rgba(200,151,58,0.2); }
+        h1 { font-family: Georgia, serif; font-size: 2.5rem; color: #C8973A; margin: 0 0 5px 0; }
+        .subtitle { font-size: 0.8rem; color: #7A6A50; letter-spacing: 2px; text-transform: uppercase; }
+
+        .controles { display: flex; flex-direction: column; align-items: center; gap: 15px; margin-bottom: 30px; }
+        .filtres { display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; }
+        
+        button { 
+            background: rgba(0,0,0,0.3); border: 1px solid rgba(200,151,58,0.3); color: #C8973A;
+            padding: 8px 16px; border-radius: 20px; cursor: pointer; font-size: 0.85rem; font-weight: bold; transition: 0.3s;
+        }
+        button:hover { background: rgba(200,151,58,0.1); }
+        button.actif { background: rgba(200,151,58,0.2); border-color: #C8973A; box-shadow: 0 0 10px rgba(200,151,58,0.2); }
+        .btn-blitz.actif { border-color: #E05A5A; color: #E05A5A; background: rgba(224,90,90,0.15); box-shadow: 0 0 10px rgba(224,90,90,0.2); }
+        .btn-rapide.actif { border-color: #4AABCA; color: #4AABCA; background: rgba(74,171,202,0.15); box-shadow: 0 0 10px rgba(74,171,202,0.2); }
+        .btn-lente.actif { border-color: #7FC472; color: #7FC472; background: rgba(127,196,114,0.15); box-shadow: 0 0 10px rgba(127,196,114,0.2); }
+
+        .recherche {
+            width: 100%; max-width: 400px; padding: 10px 20px; border-radius: 20px;
+            border: 1px solid rgba(200,151,58,0.4); background: rgba(0,0,0,0.3);
+            color: #F5F0E8; font-size: 0.9rem; outline: none;
+        }
+        .recherche:focus { border-color: #C8973A; box-shadow: 0 0 10px rgba(200,151,58,0.2); }
+
+        #calendrier { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 20px; max-width: 1200px; margin: 0 auto; }
+        
+        .carte { 
+            background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.06); 
+            padding: 20px; border-radius: 10px; display: flex; flex-direction: column; justify-content: space-between;
+            transition: transform 0.2s, background 0.2s; backdrop-filter: blur(5px);
+        }
+        .carte:hover { background: rgba(200,151,58,0.05); border-color: rgba(200,151,58,0.3); transform: translateY(-3px); }
+        
+        .date { font-weight: bold; color: #C8973A; font-size: 0.9em; margin-bottom: 10px; font-family: Georgia, serif; }
+        .titre { font-size: 1.1em; font-weight: 600; margin-bottom: 10px; line-height: 1.4; }
+        .lieu { font-size: 0.85em; color: #ccc; margin-bottom: 15px; display: flex; align-items: center; gap: 5px; }
+        
+        .badge { display: inline-block; padding: 4px 12px; border-radius: 15px; font-size: 0.75em; font-weight: bold; margin-bottom: 15px; width: fit-content; }
+        .badge.blitz { color: #E05A5A; border: 1px solid #E05A5A; background: rgba(224,90,90,0.1); }
+        .badge.rapide { color: #4AABCA; border: 1px solid #4AABCA; background: rgba(74,171,202,0.1); }
+        .badge.lente { color: #7FC472; border: 1px solid #7FC472; background: rgba(127,196,114,0.1); }
+        
+        .lien { 
+            display: block; text-align: center; background: rgba(200,151,58,0.1); color: #C8973A; 
+            text-decoration: none; padding: 10px; border-radius: 6px; font-size: 0.85rem; transition: 0.2s; border: 1px solid rgba(200,151,58,0.2);
+        }
+        .lien:hover { background: rgba(200,151,58,0.2); }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        <h1>👑 Calendrier des Échecs 👑</h1>
+        <div class="subtitle">France · Tournois FFE</div>
+    </div>
+
+    <div class="controles">
+        <div class="filtres">
+            <button class="btn-tout actif" onclick="changerCadence('tout')">Toutes les cadences</button>
+            <button class="btn-blitz" onclick="changerCadence('blitz')">⚡ Blitz</button>
+            <button class="btn-rapide" onclick="changerCadence('rapide')">🕐 Rapide</button>
+            <button class="btn-lente" onclick="changerCadence('lente')">♟ Lente</button>
+        </div>
+        
+        <input type="text" id="barre-recherche" class="recherche" placeholder="📍 Rechercher un département (ex: 02) ou une ville..." onkeyup="chercherTexte()">
+    </div>
+
+    <div id="calendrier">
+        </div>
+
+    <script>
+        let tousLesTournois = [];
+        let cadenceActuelle = 'tout';
+        let texteActuel = '';
+
+        fetch('calendrier.json')
+            .then(reponse => reponse.json())
+            .then(donnees => {
+                tousLesTournois = donnees;
+                
+                tousLesTournois.forEach(t => {
+                    let titre = t.titre ? t.titre.toLowerCase() : '';
+                    if (titre.includes('blitz')) { t.cadence_calculee = 'blitz'; } 
+                    else if (titre.includes('rapide')) { t.cadence_calculee = 'rapide'; } 
+                    else { t.cadence_calculee = 'lente'; }
+                });
+
+                appliquerFiltres();
+            })
+            .catch(erreur => console.error("Erreur :", erreur));
+
+        function changerCadence(nouvelleCadence) {
+            cadenceActuelle = nouvelleCadence;
+            document.querySelectorAll('button').forEach(btn => btn.classList.remove('actif'));
+            document.querySelector(nouvelleCadence === 'tout' ? '.btn-tout' : `.btn-${nouvelleCadence}`).classList.add('actif');
+            appliquerFiltres();
+        }
+
+        function chercherTexte() {
+            texteActuel = document.getElementById('barre-recherche').value.toLowerCase();
+            appliquerFiltres();
+        }
+
+        function appliquerFiltres() {
+            let listeFiltree = tousLesTournois;
+
+            if (cadenceActuelle !== 'tout') {
+                listeFiltree = listeFiltree.filter(t => t.cadence_calculee === cadenceActuelle);
+            }
+
+            if (texteActuel.trim() !== '') {
+                listeFiltree = listeFiltree.filter(t => {
+                    let texteLieu = (t.lieu || "").toLowerCase();
+                    let texteTitre = (t.titre || "").toLowerCase();
+                    return texteLieu.includes(texteActuel) || texteTitre.includes(texteActuel);
+                });
+            }
+
+            afficherTournois(listeFiltree);
+        }
+
+        function afficherTournois(liste) {
+            const conteneur = document.getElementById('calendrier');
+            conteneur.innerHTML = ''; 
+
+            if (liste.length === 0) {
+                conteneur.innerHTML = "<p style='text-align:center; color:#ccc; grid-column: 1 / -1;'>Aucun tournoi ne correspond à cette recherche ♟️</p>";
+                return;
+            }
+
+            liste.forEach(tournoi => {
+                let cadence = tournoi.cadence_calculee;
+                let dateObj = new Date(tournoi.date);
+                let dateFormatee = dateObj.toLocaleDateString('fr-FR', { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' });
+                let lieuAffiche = tournoi.lieu ? tournoi.lieu : "Lieu non précisé";
+
+                let carte = document.createElement('div');
+                carte.className = `carte`;
+                carte.innerHTML = `
+                    <div>
+                        <div class="date">${dateFormatee}</div>
+                        <div class="titre">${tournoi.titre}</div>
+                        <div class="lieu">📍 ${lieuAffiche}</div>
+                        <div class="badge ${cadence}">${cadence.toUpperCase()}</div>
+                    </div>
+                    <a href="${tournoi.url_source}" class="lien" target="_blank">Voir sur le site FFE ↗</a>
+                `;
+                conteneur.appendChild(carte);
+            });
+        }
+    </script>
+
+</body>
+</html>
