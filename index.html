@@ -1,4 +1,4 @@
-.<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
@@ -8,7 +8,6 @@
         body { 
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
             background-color: #1A1208; 
-            /* Fond damier subtil */
             background-image: repeating-linear-gradient(45deg, rgba(255,255,255,0.02) 25%, transparent 25%, transparent 75%, rgba(255,255,255,0.02) 75%, rgba(255,255,255,0.02)), repeating-linear-gradient(45deg, rgba(255,255,255,0.02) 25%, transparent 25%, transparent 75%, rgba(255,255,255,0.02) 75%, rgba(255,255,255,0.02));
             background-position: 0 0, 20px 20px;
             background-size: 40px 40px;
@@ -69,7 +68,7 @@
 <body>
 
     <div class="header">
-        <h1>👑 Calendrier des Échecs 👑</h1>
+        <h1>♟ Calendrier des Échecs</h1>
         <div class="subtitle">France · Tournois FFE</div>
     </div>
 
@@ -120,13 +119,25 @@
             appliquerFiltres();
         }
 
+        // LE CERVEAU : On applique tous les filtres en même temps
         function appliquerFiltres() {
             let listeFiltree = tousLesTournois;
 
+            // NOUVEAU FILTRE : On cache les tournois passés !
+            let aujourdhui = new Date();
+            aujourdhui.setHours(0, 0, 0, 0); // On remet l'horloge à minuit pour ne compter que les jours entiers
+
+            listeFiltree = listeFiltree.filter(t => {
+                let dateTournoi = new Date(t.date);
+                return dateTournoi >= aujourdhui; // Le tournoi doit être aujourd'hui ou dans le futur
+            });
+
+            // Filtre de cadence
             if (cadenceActuelle !== 'tout') {
                 listeFiltree = listeFiltree.filter(t => t.cadence_calculee === cadenceActuelle);
             }
 
+            // Filtre de département/ville
             if (texteActuel.trim() !== '') {
                 listeFiltree = listeFiltree.filter(t => {
                     let texteLieu = (t.lieu || "").toLowerCase();
@@ -142,8 +153,11 @@
             const conteneur = document.getElementById('calendrier');
             conteneur.innerHTML = ''; 
 
+            // On trie les tournois par date croissante (le plus proche en premier)
+            liste.sort((a, b) => new Date(a.date) - new Date(b.date));
+
             if (liste.length === 0) {
-                conteneur.innerHTML = "<p style='text-align:center; color:#ccc; grid-column: 1 / -1;'>Aucun tournoi ne correspond à cette recherche ♟️</p>";
+                conteneur.innerHTML = "<p style='text-align:center; color:#ccc; grid-column: 1 / -1;'>Aucun tournoi à venir ne correspond à cette recherche ♟️</p>";
                 return;
             }
 
