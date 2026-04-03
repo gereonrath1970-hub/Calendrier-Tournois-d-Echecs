@@ -23,7 +23,7 @@
       --border:  rgba(240,180,41,0.22);
       --blitz:   #FF6B6B;
       --rapide:  #4ECDC4;
-      --lente:   #95E77E;
+      --lente:   #F0B429;
     }
 
     body {
@@ -45,7 +45,7 @@
     }
 
     /* ── HEADER ── */
-    header { position: relative; z-index: 1; text-align: center; padding: 3rem 1.5rem 1.5rem; border-bottom: 1px solid var(--border); }
+    header { position: relative; z-index: 10; text-align: center; padding: 3rem 1.5rem 1.5rem; border-bottom: 1px solid var(--border); }
     h1 {
       font-family: 'Playfair Display', Georgia, serif; font-size: clamp(2rem, 6vw, 3.5rem); font-weight: 900;
       background: linear-gradient(135deg, var(--gold-l) 0%, var(--gold) 45%, #9A6C20 100%);
@@ -54,7 +54,7 @@
     .subtitle { font-size: 0.72rem; color: var(--muted); letter-spacing: 0.22em; text-transform: uppercase; }
 
     /* ── STATS BAR ── */
-    .stats-bar { position: relative; z-index: 1; display: flex; justify-content: center; gap: 2.5rem; padding: 1.2rem 1rem; border-bottom: 1px solid rgba(200,151,58,0.08); flex-wrap: wrap; }
+    .stats-bar { position: relative; z-index: 10; display: flex; justify-content: center; gap: 2.5rem; padding: 1.2rem 1rem; border-bottom: 1px solid rgba(200,151,58,0.08); flex-wrap: wrap; }
     .stat { text-align: center; }
     .stat-val { font-family: 'Playfair Display', serif; font-size: 1.9rem; font-weight: 700; color: var(--gold); line-height: 1; }
     .stat-lbl { font-size: 0.62rem; text-transform: uppercase; letter-spacing: 0.12em; color: var(--muted); margin-top: 3px; }
@@ -63,7 +63,7 @@
     .stat-lente  .stat-val { color: var(--lente);  }
 
     /* ── CONTROLES ── */
-    .controles { position: relative; z-index: 1; display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 0.6rem; padding: 1rem 1.5rem; border-bottom: 1px solid rgba(200,151,58,0.08); }
+    .controles { position: relative; z-index: 10; display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 0.6rem; padding: 1rem 1.5rem; border-bottom: 1px solid rgba(200,151,58,0.08); }
     .sep { width: 1px; height: 24px; background: rgba(200,151,58,0.15); margin: 0 4px; }
     .search-wrap { position: relative; width: 100%; max-width: 260px; }
     .search-icon { position: absolute; left: 12px; top: 50%; transform: translateY(-50%); color: var(--muted); font-size: 0.8rem; }
@@ -77,7 +77,7 @@
 
     .filtre-btn {
       padding: 6px 14px; border-radius: 99px; border: 1px solid rgba(200,151,58,0.28);
-      background: transparent; color: var(--muted); font-size: 0.75rem; font-weight: 500;
+      background: rgba(0,0,0,0.2); color: var(--muted); font-size: 0.75rem; font-weight: 500;
       cursor: pointer; transition: all 0.18s;
     }
     .filtre-btn:hover { border-color: rgba(200,151,58,0.6); color: var(--ivory); }
@@ -89,37 +89,66 @@
     /* Bouton d'affichage Carte/Liste */
     #btn-vue { border-color: var(--gold); color: var(--gold); font-weight: 700; margin-left: 10px; }
     #btn-vue:hover { background: rgba(240,180,41,0.2); }
+    
+    /* Bouton de retour spécifique pour la vue Carte */
+    #btn-retour-carte { 
+        position: absolute; top: -60px; right: 2rem; border-color: var(--gold); 
+        color: var(--gold); font-weight: 700; z-index: 1000;
+    }
+    #btn-retour-carte:hover { background: rgba(240,180,41,0.2); }
 
     /* ── ZONES D'AFFICHAGE ── */
     #calendrier { position: relative; z-index: 1; display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 1rem; max-width: 1200px; margin: 0 auto; padding: 1.75rem 1.25rem 4rem; }
     
+    /* Zone de la carte avec son conteneur pour le bouton de retour */
+    #carte-france-controles { 
+        display: none; position: relative; width: calc(100% - 2rem); max-width: 1200px; 
+        margin: 7rem auto 2rem;
+    }
+    
     #carte-france { 
-        display: none; width: calc(100% - 2rem); max-width: 1200px; height: 600px; 
-        margin: 2rem auto; border-radius: 12px; border: 1px solid rgba(200,151,58,0.3); z-index: 1;
+        width: 100%; height: 600px; border-radius: 12px; 
+        border: 1px solid rgba(200,151,58,0.3); z-index: 1;
         box-shadow: 0 10px 30px rgba(0,0,0,0.5);
     }
 
-    /* ── CARTE TOURNOI ── */
+    /* ── CARTE TOURNOI AVEC PION GRAPHIQUE ── */
     .carte {
       background: rgba(255,255,255,0.06); border: 1px solid rgba(255,255,255,0.1); border-radius: 12px;
-      padding: 1.1rem 1.15rem 1.1rem 1.35rem; display: flex; flex-direction: column; cursor: pointer;
-      position: relative; transition: 0.22s;
+      display: flex; flex-direction: column; cursor: pointer;
+      position: relative; transition: 0.22s; overflow: hidden;
     }
-    .carte::before { content: ''; position: absolute; left: 0; top: 0; bottom: 0; width: 3px; border-radius: 12px 0 0 12px; }
-    .carte.blitz::before  { background: var(--blitz); }
-    .carte.rapide::before { background: var(--rapide); }
-    .carte.lente::before  { background: var(--lente); }
+    
+    /* LE PION GRAPHIQUE DÉCORATIF EN HAUT */
+    .carte-logo-pion {
+        height: 60px; width: 100%; position: relative;
+        background: radial-gradient(circle at center, rgba(139,92,246,0.15) 0%, transparent 80%);
+        display: flex; align-items: center; justify-content: center;
+        border-bottom: 1px solid rgba(255,255,255,0.05);
+    }
+    
+    .graphic-pion {
+        font-size: 2.8rem; filter: drop-shadow(0 0 10px transparent);
+        margin-top: -5px;
+    }
+    .carte.blitz .graphic-pion  { color: var(--blitz); filter: drop-shadow(0 0 10px rgba(255,107,107,0.4)); }
+    .carte.rapide .graphic-pion { color: var(--rapide); filter: drop-shadow(0 0 10px rgba(78,205,196,0.4)); }
+    .carte.lente .graphic-pion  { color: var(--lente); filter: drop-shadow(0 0 10px rgba(240,180,41,0.4)); }
+    
     .carte:hover { background: rgba(139,92,246,0.15); transform: translateY(-3px); }
+    
+    /* Corps de la carte */
+    .carte-body { padding: 1rem 1.25rem 1.1rem 1.25rem; }
 
     .carte-top { display: flex; justify-content: space-between; margin-bottom: 0.5rem; }
-    .carte-date { font-family: 'Playfair Display', serif; font-size: 0.78rem; font-weight: 700; color: var(--gold); }
+    .carte-date { font-family: 'Playfair Display', serif; font-size: 0.78rem; font-weight: 700; color: var(--muted); }
     
     .badge { font-size: 0.6rem; padding: 2px 8px; border-radius: 99px; font-weight: 600; border: 1px solid; }
-    .badge.blitz  { color: var(--blitz); border-color: rgba(224,90,90,0.45); }
-    .badge.rapide { color: var(--rapide); border-color: rgba(74,171,202,0.45); }
-    .badge.lente  { color: var(--lente); border-color: rgba(127,196,114,0.45); }
+    .badge.blitz  { color: var(--blitz); border-color: rgba(224,90,90,0.45); background: rgba(224,90,90,0.1); }
+    .badge.rapide { color: var(--rapide); border-color: rgba(74,171,202,0.45); background: rgba(74,171,202,0.1); }
+    .badge.lente  { color: var(--lente); border-color: rgba(240,180,41,0.45); background: rgba(240,180,41,0.1); }
 
-    .carte-titre { font-family: 'Playfair Display', serif; font-size: 0.96rem; font-weight: 700; margin-bottom: 0.6rem; }
+    .carte-titre { font-family: 'Playfair Display', serif; font-size: 1rem; font-weight: 700; margin-bottom: 0.6rem; color: var(--ivory); }
     .carte-lieu { font-size: 0.73rem; color: var(--muted); margin-bottom: 0.75rem; }
 
     /* ── PANEL DÉTAIL ── */
@@ -137,23 +166,25 @@
     .panel-titre { font-family: 'Playfair Display', serif; font-size: 1.1rem; color: var(--ivory); margin: 20px 0 5px; }
     .panel-body { padding: 1.25rem; flex: 1; overflow-y: auto; }
     .info-row { padding: 8px 0; border-bottom: 1px solid rgba(255,255,255,0.05); font-size: 0.85rem; }
-    .info-lbl { color: var(--muted); font-size: 0.65rem; text-transform: uppercase; }
+    .info-lbl { color: var(--muted); font-size: 0.65rem; text-transform: uppercase; margin-bottom: 3px; }
+    .info-val { color: var(--ivory); }
     .lien-ffe { display: block; text-align: center; padding: 10px; background: rgba(200,151,58,0.1); border-radius: 8px; color: var(--gold); text-decoration: none; margin: 1rem; }
     
     /* ── LE STYLE DU PION SUR LA CARTE ── */
     .pion-carte {
-        width: 30px; height: 30px; border-radius: 50%;
+        width: 32px; height: 32px; border-radius: 50%;
         display: flex; align-items: center; justify-content: center;
-        border: 2px solid #fff; font-size: 16px; color: #000; font-weight: bold;
+        border: 2px solid rgba(255,255,255,0.8); font-size: 18px; color: #000; font-weight: bold;
         transition: transform 0.2s;
     }
-    .pion-carte:hover { transform: scale(1.2); z-index: 1000 !important; }
+    .pion-carte:hover { transform: scale(1.2) translateY(-3px); z-index: 1000 !important; }
 
   </style>
 </head>
 <body>
 
 <header>
+  <span class="header-piece" style="font-size:3.2rem;display:block;margin-bottom:0.4rem;filter:drop-shadow(0 0 20px rgba(200,151,58,0.4)); animation:float 4s ease-in-out infinite;">♟</span>
   <h1>Tournois d'Échecs</h1>
   <p class="subtitle">France · Calendrier FFE · À venir</p>
 </header>
@@ -180,7 +211,11 @@
 </div>
 
 <div id="calendrier"></div>
-<div id="carte-france"></div>
+
+<div id="carte-france-controles">
+    <button class="filtre-btn" id="btn-retour-carte" onclick="basculerVue()">↩️ Retour à la Liste</button>
+    <div id="carte-france"></div>
+</div>
 
 <div class="overlay" id="overlay" onclick="fermerPanel()"></div>
 <div class="panel" id="panel">
@@ -195,7 +230,7 @@
 </div>
 
 <script>
-  const CADENCE_COLORS = { blitz:'#E05A5A', rapide:'#4AABCA', lente:'#7FC472' };
+  const CADENCE_COLORS = { blitz:'#FF6B6B', rapide:'#4ECDC4', lente:'#F0B429' };
   let tousLesTournois = [];
   let cadenceActuelle = 'tout';
   let texteActuel = '';
@@ -227,7 +262,7 @@
 
   function changerCadence(c, btn) {
     cadenceActuelle = c;
-    document.querySelectorAll('.filtre-btn:not(#btn-vue)').forEach(b => b.classList.remove('actif'));
+    document.querySelectorAll('.filtre-btn:not(#btn-vue):not(#btn-retour-carte)').forEach(b => b.classList.remove('actif'));
     btn.classList.add('actif');
     appliquerFiltres();
   }
@@ -264,13 +299,18 @@
   // ── LA LOGIQUE DE LA CARTE (LEAFLET) ──
   function basculerVue() {
       modeCarte = !modeCarte;
-      const btn = document.getElementById('btn-vue');
+      const grille = document.getElementById('calendrier');
+      const zoneCarte = document.getElementById('carte-france-controles');
+      const controlesListe = document.querySelector('.controles');
       
       if (modeCarte) {
-          btn.innerHTML = '📋 Vue Liste';
-          btn.classList.add('actif');
-          document.getElementById('calendrier').style.display = 'none';
-          document.getElementById('carte-france').style.display = 'block';
+          // On cache la liste et on affiche la carte
+          grille.style.display = 'none';
+          zoneCarte.style.display = 'block';
+          
+          // NOUVEAU : On cache les contrôles de la liste pour ne pas gêner
+          controlesListe.style.opacity = '0';
+          controlesListe.style.pointerEvents = 'none';
           
           // Si la carte n'existe pas encore, on la crée !
           if (!maCarteLeaflet) {
@@ -283,13 +323,14 @@
               
               groupePions = L.layerGroup().addTo(maCarteLeaflet);
           }
-          maCarteLeaflet.invalidateSize(); // Sécurité pour que la carte s'affiche bien
+          setTimeout(() => maCarteLeaflet.invalidateSize(), 100); // Sécurité pour que la carte s'affiche bien
           appliquerFiltres();
       } else {
-          btn.innerHTML = '🗺️ Vue Carte';
-          btn.classList.remove('actif');
-          document.getElementById('carte-france').style.display = 'none';
-          document.getElementById('calendrier').style.display = 'grid';
+          // On fait l'inverse
+          zoneCarte.style.display = 'none';
+          grille.style.display = 'grid';
+          controlesListe.style.opacity = '1';
+          controlesListe.style.pointerEvents = 'auto';
           appliquerFiltres();
       }
   }
@@ -306,7 +347,6 @@
               // On enlève le code postal pour la recherche (ex: "75 - PARIS" devient "PARIS")
               let nomVille = t.lieu.replace(/^\d+\s*-\s*/, '');
               
-              // On demande gentiment au gouvernement français où se trouve cette ville
               fetch(`https://api-adresse.data.gouv.fr/search/?q=${encodeURIComponent(nomVille)}&type=municipality&limit=1`)
                   .then(r => r.json())
                   .then(res => {
@@ -332,33 +372,48 @@
       const iconeEchecs = L.divIcon({
           className: 'custom-icon',
           html: `<div class="pion-carte" style="background-color: ${couleur}; box-shadow: 0 0 10px ${couleur};">♟</div>`,
-          iconSize: [30, 30],
-          iconAnchor: [15, 15]
+          iconSize: [32, 32],
+          iconAnchor: [16, 16]
       });
 
-      // On place le pion sur la carte et on lui dit d'ouvrir le menu au clic !
       L.marker(t.coords, {icon: iconeEchecs})
        .addTo(groupePions)
        .on('click', () => ouvrirPanel(t));
   }
 
 
-  // ── LA LOGIQUE DE LA GRILLE (LISTE CLASSIQUE) ──
+  // ── LA LOGIQUE DE LA GRILLE AVEC TON LOGO DU PION GRAPHIQUE ──
   function afficherGrille(liste) {
     const conteneur = document.getElementById('calendrier');
     conteneur.innerHTML = '';
+    
+    if (!liste.length) {
+      conteneur.innerHTML = `<div class="vide" style="grid-column: 1 / -1; text-align: center; padding: 4rem 1rem; color: var(--muted);">♟ Aucun tournoi à venir ne correspond.</div>`;
+      return;
+    }
+    
     liste.forEach((t) => {
       const c = t.cadence;
+      const dateFormatee = fmtDate(t.date);
+      const color = CADENCE_COLORS[c];
+      
       const carte = document.createElement('div');
       carte.className = `carte ${c}`;
       carte.onclick = () => ouvrirPanel(t);
+      
+      // VOICI LE DESIGN CORRIGÉ AVEC TON LOGO
       carte.innerHTML = `
-        <div class="carte-top">
-          <div class="carte-date">${fmtDate(t.date)}</div>
-          <span class="badge ${c}">${c.toUpperCase()}</span>
+        <div class="carte-logo-pion">
+            <span class="graphic-pion">♟</span>
         </div>
-        <div class="carte-titre">${t.titre}</div>
-        <div class="carte-lieu">📍 ${t.lieu || 'Lieu non précisé'}</div>
+        <div class="carte-body">
+            <div class="carte-top">
+              <div class="carte-date">${dateFormatee}</div>
+              <span class="badge ${c}">${c.toUpperCase()}</span>
+            </div>
+            <div class="carte-titre">${t.titre}</div>
+            <div class="carte-lieu">📍 ${t.lieu || 'Lieu non précisé'}</div>
+        </div>
       `;
       conteneur.appendChild(carte);
     });
@@ -372,8 +427,8 @@
     document.getElementById('panel-meta').textContent = fmtDate(t.date);
     
     let infosHtml = '';
-    if(t.lieu) infosHtml += `<div class="info-row"><div class="info-lbl">📍 Lieu du tournoi</div><div>${t.lieu}</div></div>`;
-    if(t.arbitre) infosHtml += `<div class="info-row"><div class="info-lbl">👤 Arbitre</div><div>${t.arbitre}</div></div>`;
+    if(t.lieu) infosHtml += `<div class="info-row"><div class="info-lbl">📍 Lieu du tournoi</div><div class="info-val">${t.lieu}</div></div>`;
+    if(t.arbitre) infosHtml += `<div class="info-row"><div class="info-lbl">👤 Arbitre</div><div class="info-val">${t.arbitre}</div></div>`;
     
     document.getElementById('panel-body').innerHTML = infosHtml || 'Aucune info supp.';
     document.getElementById('panel-lien').href = t.url_source;
