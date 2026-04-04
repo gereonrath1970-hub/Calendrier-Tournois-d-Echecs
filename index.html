@@ -89,8 +89,10 @@
     .carte-date { font-family: 'Playfair Display', serif; font-size: 0.78rem; font-weight: 700; color: var(--gold); }
     .badge { font-size: 0.6rem; padding: 2px 8px; border-radius: 99px; font-weight: 600; white-space: nowrap; border: 1px solid; flex-shrink: 0; }
     .badge.blitz { color: var(--blitz); border-color: rgba(224,90,90,0.45); background: rgba(224,90,90,0.1); } .badge.rapide { color: var(--rapide); border-color: rgba(74,171,202,0.45); background: rgba(74,171,202,0.1); } .badge.lente { color: var(--lente); border-color: rgba(127,196,114,0.45);background: rgba(127,196,114,0.1);}
-    .carte-titre { font-family: 'Playfair Display', serif; font-size: 0.96rem; font-weight: 700; color: var(--ivory); line-height: 1.3; margin-bottom: 0.6rem; }
-    .carte-lieu { display: flex; align-items: center; gap: 5px; font-size: 0.73rem; color: var(--muted); margin-bottom: 0.75rem; }
+    
+    .carte-titre { font-family: 'Playfair Display', serif; font-size: 0.96rem; font-weight: 700; color: var(--ivory); line-height: 1.3; margin-bottom: 0.8rem; display: flex; align-items: flex-start; }
+    .carte-lieu { display: flex; align-items: center; font-size: 0.8rem; color: var(--muted); margin-bottom: 0.5rem; font-weight: 500; }
+    
     .carte-footer { margin-top: auto; padding-top: 0.65rem; border-top: 1px solid rgba(200,151,58,0.1); display: flex; justify-content: space-between; align-items: center; font-size: 0.65rem; color: var(--muted); }
     .carte-hint { color: var(--gold); opacity: 0.75; }
 
@@ -106,15 +108,15 @@
     .panel-top { display: flex; justify-content: space-between; align-items: flex-start; gap: 8px; margin-bottom: 0.7rem; }
     .btn-fermer { background: rgba(255,255,255,0.06); border: 1px solid rgba(200,151,58,0.2); border-radius: 6px; color: var(--muted); cursor: pointer; padding: 4px 10px; font-size: 0.8rem; font-family: 'Inter', sans-serif; flex-shrink: 0; transition: background 0.15s; }
     .btn-fermer:hover { background: rgba(255,255,255,0.1); }
-    .panel-titre { font-family: 'Playfair Display', serif; font-size: 1.05rem; font-weight: 700; color: var(--ivory); line-height: 1.3; margin: 0 0 0.3rem; }
+    .panel-titre { font-family: 'Playfair Display', serif; font-size: 1.05rem; font-weight: 700; color: var(--ivory); line-height: 1.3; margin: 0 0 0.3rem; display: flex; align-items: flex-start; }
     .panel-meta { font-size: 0.72rem; color: var(--muted); }
     .panel-accent { height: 3px; flex-shrink: 0; }
     .panel-body { flex: 1; overflow-y: auto; padding: 1.1rem 1.25rem; }
-    .info-row { display: flex; gap: 10px; padding: 9px 0; border-bottom: 1px solid rgba(200,151,58,0.07); }
+    .info-row { display: flex; gap: 12px; padding: 12px 0; border-bottom: 1px solid rgba(200,151,58,0.07); }
     .info-row:last-child { border-bottom: none; }
-    .info-icon { font-size: 1rem; flex-shrink: 0; margin-top: 1px; }
-    .info-lbl  { font-size: 0.6rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--muted); margin-bottom: 2px; }
-    .info-val  { font-size: 0.84rem; color: var(--ivory); line-height: 1.45; }
+    .info-icon { font-size: 1.3rem; flex-shrink: 0; margin-top: -2px; }
+    .info-lbl  { font-size: 0.6rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--muted); margin-bottom: 3px; }
+    .info-val  { font-size: 0.9rem; color: var(--ivory); line-height: 1.45; font-weight: 500; }
     .panel-footer { padding: 1rem 1.25rem; border-top: 1px solid rgba(200,151,58,0.1); }
     .lien-ffe { display: block; text-align: center; padding: 10px; background: rgba(200,151,58,0.1); border: 1px solid rgba(200,151,58,0.3); border-radius: 8px; color: var(--gold); text-decoration: none; font-size: 0.8rem; font-family: 'Inter', sans-serif; transition: background 0.15s; }
     .lien-ffe:hover { background: rgba(200,151,58,0.18); }
@@ -256,7 +258,6 @@
           document.getElementById('carte-container').style.display = 'block';
           
           if (!maCarteLeaflet) {
-              // NOUVEAU : On limite STRICTEMENT la carte aux frontières de la France
               const frontieresFrance = L.latLngBounds([41.0, -5.5], [51.5, 10.0]);
               
               maCarteLeaflet = L.map('carte-france', {
@@ -265,7 +266,7 @@
                   minZoom: 5,
                   maxZoom: 12,
                   maxBounds: frontieresFrance, 
-                  maxBoundsViscosity: 1.0 // Empêche de "tirer" la carte au-delà des limites
+                  maxBoundsViscosity: 1.0
               });
               
               L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', { attribution: '© OpenStreetMap contributors © CARTO' }).addTo(maCarteLeaflet);
@@ -306,7 +307,6 @@
           const tournoisIci = villesUniques[ville];
           
           if (tournoisIci[0].coords === undefined) {
-              // NOUVEAU : Système de CACHE ! On regarde si ton navigateur connait déjà l'adresse
               let memoireGps = localStorage.getItem('gps_' + ville);
               
               if (memoireGps && memoireGps !== 'false') {
@@ -320,14 +320,13 @@
               } else if (memoireGps === 'false') {
                   tournoisIci.forEach(t => t.coords = false);
               } else {
-                  // Si l'adresse est inconnue, on interroge le gouvernement
                   try {
                       const r = await fetch(`https://api-adresse.data.gouv.fr/search/?q=${encodeURIComponent(ville)}&limit=1`);
                       const res = await r.json();
                       
                       if (res.features && res.features.length > 0) {
                           const gps = res.features[0].geometry.coordinates;
-                          localStorage.setItem('gps_' + ville, JSON.stringify(gps)); // On sauvegarde pour les prochaines fois !
+                          localStorage.setItem('gps_' + ville, JSON.stringify(gps)); 
                           
                           tournoisIci.forEach(t => {
                               let decLat = (Math.random() - 0.5) * 0.025;
@@ -378,19 +377,22 @@
       carte.style.animationDelay = `${(i % 10) * 0.04}s`;
       carte.onclick = () => ouvrirPanel(t);
 
+      // --- AJOUT DES EMOJIS (Lieu 📍 et Arbitre 👤) SUR LA CARTE PRINCIPALE ---
+      let arbitreHtml = t.arbitre ? `<div class="carte-lieu" style="margin-bottom: 0.5rem;"><span style="margin-right: 6px;">👤</span>${t.arbitre}</div>` : '';
+
       carte.innerHTML = `
         <div class="carte-top">
           <div class="carte-date">${fmtDate(t.date)}</div>
           <span class="badge ${c}">${labelCadence}</span>
         </div>
-        <div class="carte-titre">${t.titre}</div>
-        <div class="carte-lieu">
-          <svg width="11" height="13" viewBox="0 0 12 14" fill="none">
-            <path d="M6 0C3.24 0 1 2.24 1 5c0 4.5 5 9 5 9s5-4.5 5-9c0-2.76-2.24-5-5-5zm0 7a2 2 0 110-4 2 2 0 010 4z" fill="currentColor" opacity=".6"/>
-          </svg>
-          ${t.lieu || 'Lieu non précisé'}
+        <div class="carte-titre">
+          <span style="color: var(--gold); margin-right: 6px;">♟</span><span>${t.titre}</span>
         </div>
-        <div class="carte-footer">
+        <div class="carte-lieu" style="margin-bottom: 0.2rem;">
+          <span style="margin-right: 6px;">📍</span>${t.lieu || 'Lieu non précisé'}
+        </div>
+        ${arbitreHtml}
+        <div class="carte-footer" style="margin-top: 10px;">
           <span>Cliquer pour les détails</span>
           <span class="carte-hint" style="color:${color}">Voir →</span>
         </div>
@@ -405,7 +407,10 @@
     const labelCadence = c === 'blitz' ? '⚡ Blitz' : c === 'rapide' ? '🕐 Rapide' : '♟ Lente';
 
     document.getElementById('panel-badge').innerHTML = `<span class="badge ${c}">${labelCadence}</span>`;
-    document.getElementById('panel-titre').textContent = t.titre;
+    
+    // PION doré dans le panneau latéral
+    document.getElementById('panel-titre').innerHTML = `<span style="color: var(--gold); margin-right: 6px;">♟</span>${t.titre}`;
+    
     document.getElementById('panel-meta').textContent = fmtDate(t.date);
     document.getElementById('panel-accent').style.background = color;
 
