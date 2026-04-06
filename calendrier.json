@@ -385,22 +385,6 @@
   },
   {
     "date": "2026-04-04",
-    "titre": "8e Festival Franck Chandran de tournois fermés - Tournoi G",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71190",
-    "cadence": "Lente",
-    "lieu": "37 - TOURS",
-    "arbitre": "SALLY Paul-Adrien"
-  },
-  {
-    "date": "2026-04-04",
-    "titre": "8e Festival Franck Chandran de tournois fermés - Tournoi H",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71191",
-    "cadence": "Lente",
-    "lieu": "37 - TOURS",
-    "arbitre": "SALLY Paul-Adrien"
-  },
-  {
-    "date": "2026-04-04",
     "titre": "9eme Open International de Givet",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71111",
     "cadence": "Lente",
@@ -945,22 +929,6 @@
   },
   {
     "date": "2026-04-05",
-    "titre": "8e Festival Franck Chandran de tournois fermés - Tournoi G",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71190",
-    "cadence": "Lente",
-    "lieu": "37 - TOURS",
-    "arbitre": "SALLY Paul-Adrien"
-  },
-  {
-    "date": "2026-04-05",
-    "titre": "8e Festival Franck Chandran de tournois fermés - Tournoi H",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71191",
-    "cadence": "Lente",
-    "lieu": "37 - TOURS",
-    "arbitre": "SALLY Paul-Adrien"
-  },
-  {
-    "date": "2026-04-05",
     "titre": "9eme Open International de Givet",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71111",
     "cadence": "Lente",
@@ -1395,22 +1363,6 @@
     "date": "2026-04-06",
     "titre": "8e Festival Franck Chandran de tournois fermés - Tournoi F",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71189",
-    "cadence": "Lente",
-    "lieu": "37 - TOURS",
-    "arbitre": "SALLY Paul-Adrien"
-  },
-  {
-    "date": "2026-04-06",
-    "titre": "8e Festival Franck Chandran de tournois fermés - Tournoi G",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71190",
-    "cadence": "Lente",
-    "lieu": "37 - TOURS",
-    "arbitre": "SALLY Paul-Adrien"
-  },
-  {
-    "date": "2026-04-06",
-    "titre": "8e Festival Franck Chandran de tournois fermés - Tournoi H",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71191",
     "cadence": "Lente",
     "lieu": "37 - TOURS",
     "arbitre": "SALLY Paul-Adrien"
@@ -4622,6 +4574,14 @@
     "cadence": "Lente",
     "lieu": "92 - MALAKOFF",
     "arbitre": "LEWIS John"
+  },
+  {
+    "date": "2026-04-25",
+    "titre": "5er Rapide Interne CEES",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71871",
+    "cadence": "Rapide",
+    "lieu": "9A - L'ETANG SALE",
+    "arbitre": "BARRE Jean-Marie"
   },
   {
     "date": "2026-04-25",
