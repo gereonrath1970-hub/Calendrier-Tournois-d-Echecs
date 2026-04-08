@@ -3705,6 +3705,14 @@
   },
   {
     "date": "2026-04-19",
+    "titre": "5ème Blitz FIDE de Vals-les-Bains",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71872",
+    "cadence": "Blitz",
+    "lieu": "07 - VALS LES BAINS",
+    "arbitre": "PIERRE Timothee"
+  },
+  {
+    "date": "2026-04-19",
     "titre": "Championnat International d’Echecs de Lyon Henri Rinck 2026 Blitz",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=68186",
     "cadence": "Blitz",
@@ -4113,6 +4121,14 @@
   },
   {
     "date": "2026-04-22",
+    "titre": "392è Rapide FIDE Interchess -2000 (conseillé aux débutants adultes jeunes et enfants)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71883",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-04-22",
     "titre": "Championnat de France des Jeunes",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=68167",
     "cadence": "Lente",
@@ -4286,6 +4302,14 @@
     "cadence": "Lente",
     "lieu": "83 - HYERES",
     "arbitre": "RAMAZZOTTI Bernard"
+  },
+  {
+    "date": "2026-04-23",
+    "titre": "393è Rapide FIDE Interchess",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71884",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
   },
   {
     "date": "2026-04-23",
@@ -4585,11 +4609,35 @@
   },
   {
     "date": "2026-04-25",
+    "titre": "102è Blitz FIDE Interchess",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71886",
+    "cadence": "Blitz",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-04-25",
     "titre": "22e Open international de Malakoff",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=69996",
     "cadence": "Lente",
     "lieu": "92 - MALAKOFF",
     "arbitre": "LEWIS John"
+  },
+  {
+    "date": "2026-04-25",
+    "titre": "251è Open FIDE Interchess de 3 Rondes (réservé Elo fide de 1700 à 2250)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71891",
+    "cadence": "Lente",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-04-25",
+    "titre": "252è Open FIDE Interchess de 3 Rondes -1800",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71885",
+    "cadence": "Lente",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
   },
   {
     "date": "2026-04-25",
@@ -4798,6 +4846,14 @@
     "cadence": "Rapide",
     "lieu": "83 - VIDAUBAN",
     "arbitre": "PELLICANO Marc"
+  },
+  {
+    "date": "2026-04-25",
+    "titre": "Tournoi des familles Axa 25 avril 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71864",
+    "cadence": "Lente",
+    "lieu": "69 - LYON",
+    "arbitre": "BUDACI Lionel"
   },
   {
     "date": "2026-04-25",
@@ -5249,6 +5305,22 @@
   },
   {
     "date": "2026-05-01",
+    "titre": "4ème Open FIDE d'Eure et Loir - Open A (-2400)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71867",
+    "cadence": "Lente",
+    "lieu": "28 - NOGENT LE ROI",
+    "arbitre": "SOBRY Sebastien"
+  },
+  {
+    "date": "2026-05-01",
+    "titre": "4ème Open FIDE d'Eure et Loir - Open B (-1700)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71868",
+    "cadence": "Lente",
+    "lieu": "28 - NOGENT LE ROI",
+    "arbitre": "SOBRY Sebastien"
+  },
+  {
+    "date": "2026-05-01",
     "titre": "52ème Trophée Dussart",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71757",
     "cadence": "Lente",
@@ -5593,6 +5665,22 @@
   },
   {
     "date": "2026-05-02",
+    "titre": "4ème Open FIDE d'Eure et Loir - Open A (-2400)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71867",
+    "cadence": "Lente",
+    "lieu": "28 - NOGENT LE ROI",
+    "arbitre": "SOBRY Sebastien"
+  },
+  {
+    "date": "2026-05-02",
+    "titre": "4ème Open FIDE d'Eure et Loir - Open B (-1700)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71868",
+    "cadence": "Lente",
+    "lieu": "28 - NOGENT LE ROI",
+    "arbitre": "SOBRY Sebastien"
+  },
+  {
+    "date": "2026-05-02",
     "titre": "Challenge Hegy André 2026 r3-4",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71254",
     "cadence": "Lente",
@@ -5662,6 +5750,14 @@
     "cadence": "Lente",
     "lieu": "64 - BAYONNE",
     "arbitre": "JARRIER Francis"
+  },
+  {
+    "date": "2026-05-02",
+    "titre": "Tournois des Aventuriers Courtois 2 mai 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71873",
+    "cadence": "Lente",
+    "lieu": "69 - LYON",
+    "arbitre": "BUDACI Lionel"
   },
   {
     "date": "2026-05-02",
@@ -5838,6 +5934,22 @@
     "cadence": "Rapide",
     "lieu": "59 - ERQUINGHEM LYS",
     "arbitre": "BLOT Philippe"
+  },
+  {
+    "date": "2026-05-03",
+    "titre": "4ème Open FIDE d'Eure et Loir - Open A (-2400)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71867",
+    "cadence": "Lente",
+    "lieu": "28 - NOGENT LE ROI",
+    "arbitre": "SOBRY Sebastien"
+  },
+  {
+    "date": "2026-05-03",
+    "titre": "4ème Open FIDE d'Eure et Loir - Open B (-1700)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71868",
+    "cadence": "Lente",
+    "lieu": "28 - NOGENT LE ROI",
+    "arbitre": "SOBRY Sebastien"
   },
   {
     "date": "2026-05-03",
@@ -6169,6 +6281,14 @@
   },
   {
     "date": "2026-05-08",
+    "titre": "28e chpt Feminin de Martinique Rapide",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71869",
+    "cadence": "Rapide",
+    "lieu": "9D - LAMENTIN",
+    "arbitre": "DANGLADES Jacqueline"
+  },
+  {
+    "date": "2026-05-08",
     "titre": "2éme rapide d'Avon Jean-Pierre Le Poulain",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71033",
     "cadence": "Rapide",
@@ -6261,7 +6381,7 @@
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=68558",
     "cadence": "Lente",
     "lieu": "77 - MEAUX",
-    "arbitre": "AZZEGAG Jocelyn"
+    "arbitre": "LAUER Alban"
   },
   {
     "date": "2026-05-08",
@@ -6293,7 +6413,7 @@
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=68557",
     "cadence": "Lente",
     "lieu": "77 - MEAUX",
-    "arbitre": "AZZEGAG Jocelyn"
+    "arbitre": "LAUER Alban"
   },
   {
     "date": "2026-05-08",
@@ -6317,7 +6437,15 @@
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=68559",
     "cadence": "Lente",
     "lieu": "77 - MEAUX",
-    "arbitre": "AZZEGAG Jocelyn"
+    "arbitre": "LAUER Alban"
+  },
+  {
+    "date": "2026-05-08",
+    "titre": "Tournoi de Blitz du 8 mai St Pierre des Corps",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71866",
+    "cadence": "Blitz",
+    "lieu": "37 - SAINT PIERRE DES CORPS",
+    "arbitre": "SALLY Paul-Adrien"
   },
   {
     "date": "2026-05-08",
@@ -6385,6 +6513,14 @@
   },
   {
     "date": "2026-05-09",
+    "titre": "42ème Challenge Denis Schitz - Territoires Thionville-Fensch Val d'Alzette Pays des 3 Frontières",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71892",
+    "cadence": "Lente",
+    "lieu": "57 - TRESSANGE",
+    "arbitre": "LECLERC Bernard"
+  },
+  {
+    "date": "2026-05-09",
     "titre": "4e Blitz de L'Isle-Adam",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71024",
     "cadence": "Blitz",
@@ -6406,6 +6542,14 @@
     "cadence": "Lente",
     "lieu": "83 - LA CRAU",
     "arbitre": "RAMAZZOTTI Bernard"
+  },
+  {
+    "date": "2026-05-09",
+    "titre": "8ème Open du Petit Capitole -2000 (-2400)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71888",
+    "cadence": "Lente",
+    "lieu": "31 - TOULOUSE",
+    "arbitre": "CWIEK NGUYEN Francoi"
   },
   {
     "date": "2026-05-09",
@@ -6568,6 +6712,14 @@
     "arbitre": "FRANCOIS Ginaud"
   },
   {
+    "date": "2026-05-09",
+    "titre": "Tournois des Aventuriers Courtois 9 mai 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71874",
+    "cadence": "Lente",
+    "lieu": "69 - LYON",
+    "arbitre": "BUDACI Lionel"
+  },
+  {
     "date": "2026-05-10",
     "titre": "1er Championnat Nouvelle-Aquitaine +50 ans FIDE Lent",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71108",
@@ -6617,6 +6769,14 @@
   },
   {
     "date": "2026-05-10",
+    "titre": "42ème Challenge Denis Schitz - Rapide - Territoires Thionville-Fensch Val d'Alzette",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71893",
+    "cadence": "Rapide",
+    "lieu": "57 - TRESSANGE",
+    "arbitre": "LECLERC Bernard"
+  },
+  {
+    "date": "2026-05-10",
     "titre": "5ème Open FIDE de Vaucluse (-2400 elo)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71718",
     "cadence": "Lente",
@@ -6638,6 +6798,14 @@
     "cadence": "Rapide",
     "lieu": "95 - L'ISLE ADAM",
     "arbitre": "TELLIER Valentin"
+  },
+  {
+    "date": "2026-05-10",
+    "titre": "8ème Open du Petit Capitole -2000 (-2400)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71888",
+    "cadence": "Lente",
+    "lieu": "31 - TOULOUSE",
+    "arbitre": "CWIEK NGUYEN Francoi"
   },
   {
     "date": "2026-05-10",
@@ -7913,6 +8081,14 @@
   },
   {
     "date": "2026-05-16",
+    "titre": "Tournois des Aventuriers Courtois 16 mai 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71875",
+    "cadence": "Lente",
+    "lieu": "69 - LYON",
+    "arbitre": "BUDACI Lionel"
+  },
+  {
+    "date": "2026-05-16",
     "titre": "VCC Tournoi Interne 2025-2026 r7",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=69175",
     "cadence": "Lente",
@@ -8593,11 +8769,35 @@
   },
   {
     "date": "2026-05-23",
+    "titre": "Tournois des Aventuriers Courtois 23 mai 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71876",
+    "cadence": "Lente",
+    "lieu": "69 - LYON",
+    "arbitre": "BUDACI Lionel"
+  },
+  {
+    "date": "2026-05-23",
     "titre": "Troph'Echecs Roanne 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=69417",
     "cadence": "Lente",
     "lieu": "42 - ROANNE",
     "arbitre": "DEMAILLE Bertrand"
+  },
+  {
+    "date": "2026-05-24",
+    "titre": "12eme rapide de Bonchamp Principal",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71895",
+    "cadence": "Rapide",
+    "lieu": "53 - BONCHAMP LES LAVAL",
+    "arbitre": "JUDALET-ILLAND Ghisl"
+  },
+  {
+    "date": "2026-05-24",
+    "titre": "12eme rapide de Bonchamp Promotionnel",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71894",
+    "cadence": "Rapide",
+    "lieu": "53 - BONCHAMP LES LAVAL",
+    "arbitre": "JUDALET-ILLAND Ghisl"
   },
   {
     "date": "2026-05-24",
@@ -8798,6 +8998,14 @@
     "cadence": "Rapide",
     "lieu": "13 - AIX EN PROVENCE",
     "arbitre": "DIMITROV Christo"
+  },
+  {
+    "date": "2026-05-24",
+    "titre": "Rapide de Saint Julien le Montagnier Mai 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71887",
+    "cadence": "Rapide",
+    "lieu": "83 - SAINT JULIEN",
+    "arbitre": "PELLICANO Marc"
   },
   {
     "date": "2026-05-24",
@@ -9225,6 +9433,14 @@
   },
   {
     "date": "2026-05-30",
+    "titre": "Circuit 54 2025-26 - Etape 5 Saint Max",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71841",
+    "cadence": "Lente",
+    "lieu": "54 - SAINT MAX",
+    "arbitre": "ADRIAN Claude"
+  },
+  {
+    "date": "2026-05-30",
     "titre": "Interne 1hKO La Dame Noire 2026 r11-12",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=68086",
     "cadence": "Lente",
@@ -9289,6 +9505,14 @@
   },
   {
     "date": "2026-05-30",
+    "titre": "Tournois des Aventuriers Courtois 30 mai 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71877",
+    "cadence": "Lente",
+    "lieu": "69 - LYON",
+    "arbitre": "BUDACI Lionel"
+  },
+  {
+    "date": "2026-05-30",
     "titre": "Trophée Jean BIOU 2025-26 r7",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=69033",
     "cadence": "Lente",
@@ -9342,6 +9566,22 @@
     "cadence": "Blitz",
     "lieu": "91 - MASSY",
     "arbitre": "KIM Jisu"
+  },
+  {
+    "date": "2026-05-31",
+    "titre": "3ème Rapide des 3 Pays",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71878",
+    "cadence": "Rapide",
+    "lieu": "68 - HUNINGUE",
+    "arbitre": "HEDDACHE Rachid"
+  },
+  {
+    "date": "2026-05-31",
+    "titre": "3ème Rapide des 3 Pays (moins de 12 ans)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71879",
+    "cadence": "Rapide",
+    "lieu": "68 - HUNINGUE",
+    "arbitre": "HEDDACHE Rachid"
   },
   {
     "date": "2026-05-31",
@@ -10273,6 +10513,14 @@
   },
   {
     "date": "2026-06-14",
+    "titre": "18ème Rapide Club 608 - Paris 15ème",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71870",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "VIGNA Patrick"
+  },
+  {
+    "date": "2026-06-14",
     "titre": "1er Open A Rapide de Montaigu",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70804",
     "cadence": "Rapide",
@@ -10488,6 +10736,14 @@
     "arbitre": "MOURET Erick"
   },
   {
+    "date": "2026-06-14",
+    "titre": "Tournoi accompagnateurs Caïssa 14 Juin 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71865",
+    "cadence": "Lente",
+    "lieu": "69 - LYON",
+    "arbitre": "BUDACI Lionel"
+  },
+  {
     "date": "2026-06-15",
     "titre": "Interne Echiquier Montois 2026 r5-7",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71502",
@@ -10558,6 +10814,14 @@
     "cadence": "Lente",
     "lieu": "33 - BORDEAUX",
     "arbitre": "MULLON Jean-Baptiste"
+  },
+  {
+    "date": "2026-06-20",
+    "titre": "3e Blitz FIDE du Grau du Roi",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71863",
+    "cadence": "Blitz",
+    "lieu": "30 - LE GRAU DU ROI",
+    "arbitre": "FOSSELLA Manuel"
   },
   {
     "date": "2026-06-20",
@@ -11153,6 +11417,22 @@
   },
   {
     "date": "2026-06-28",
+    "titre": "Rapide de Liffré 2026 - Tournoi A",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71880",
+    "cadence": "Rapide",
+    "lieu": "35 - LIFFRE",
+    "arbitre": "RUHLMANN Dominique"
+  },
+  {
+    "date": "2026-06-28",
+    "titre": "Rapide de Liffré 2026 - Tournoi B",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71881",
+    "cadence": "Rapide",
+    "lieu": "35 - LIFFRE",
+    "arbitre": "RUHLMANN Dominique"
+  },
+  {
+    "date": "2026-06-28",
     "titre": "Rapide de Liffré 2026 - tournoi Petits Pions",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71882",
     "cadence": "Rapide",
@@ -11366,14 +11646,6 @@
     "cadence": "Lente",
     "lieu": "33 - HOURTIN",
     "arbitre": "LAPEYRE Pierre"
-  },
-  {
-    "date": "2026-06-30",
-    "titre": "Circuit 54 2025-26 - Etape 5 Saint Max",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71841",
-    "cadence": "Lente",
-    "lieu": "54 - SAINT MAX",
-    "arbitre": "ADRIAN Claude"
   },
   {
     "date": "2026-06-30",
@@ -15244,24 +15516,24 @@
     "titre": "23ème Open International d'Echecs du Pic d'Anie",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71665",
     "cadence": "Lente",
-    "lieu": "Information indisponible",
-    "arbitre": "Information indisponible"
+    "lieu": "64 - ARETTE",
+    "arbitre": "CWIEK NGUYEN Francoi"
   },
   {
     "date": "2026-08-04",
     "titre": "23ème Open International d'Echecs du Pic d'Anie A",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71666",
     "cadence": "Lente",
-    "lieu": "Information indisponible",
-    "arbitre": "Information indisponible"
+    "lieu": "64 - ARETTE",
+    "arbitre": "CWIEK NGUYEN Francoi"
   },
   {
     "date": "2026-08-04",
     "titre": "23ème Open International d'Echecs du Pic d'Anie B",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71667",
     "cadence": "Lente",
-    "lieu": "Information indisponible",
-    "arbitre": "Information indisponible"
+    "lieu": "64 - ARETTE",
+    "arbitre": "CWIEK NGUYEN Francoi"
   },
   {
     "date": "2026-08-04",
@@ -15320,12 +15592,212 @@
     "arbitre": "RODON Gurvan"
   },
   {
+    "date": "2026-08-05",
+    "titre": "23ème Open International d'Echecs du Pic d'Anie",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71665",
+    "cadence": "Lente",
+    "lieu": "64 - ARETTE",
+    "arbitre": "CWIEK NGUYEN Francoi"
+  },
+  {
+    "date": "2026-08-05",
+    "titre": "23ème Open International d'Echecs du Pic d'Anie A",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71666",
+    "cadence": "Lente",
+    "lieu": "64 - ARETTE",
+    "arbitre": "CWIEK NGUYEN Francoi"
+  },
+  {
+    "date": "2026-08-05",
+    "titre": "23ème Open International d'Echecs du Pic d'Anie B",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71667",
+    "cadence": "Lente",
+    "lieu": "64 - ARETTE",
+    "arbitre": "CWIEK NGUYEN Francoi"
+  },
+  {
+    "date": "2026-08-05",
+    "titre": "Circuit d'Echecs Gascon 2026 Tournoi A",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71409",
+    "cadence": "Lente",
+    "lieu": "32 - RISCLE",
+    "arbitre": "LUCAZEAU Alain"
+  },
+  {
+    "date": "2026-08-05",
+    "titre": "Circuit d'Echecs Gascon 2026 Tournoi B",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71410",
+    "cadence": "Lente",
+    "lieu": "32 - RISCLE",
+    "arbitre": "LUCAZEAU Alain"
+  },
+  {
+    "date": "2026-08-05",
+    "titre": "Circuit d'Echecs Gascon 2026 Tournoi C",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71411",
+    "cadence": "Lente",
+    "lieu": "32 - RISCLE",
+    "arbitre": "LUCAZEAU Alain"
+  },
+  {
+    "date": "2026-08-05",
+    "titre": "Circuit d'Echecs Gascon 2026 Tournoi Open",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71412",
+    "cadence": "Lente",
+    "lieu": "32 - RISCLE",
+    "arbitre": "LUCAZEAU Alain"
+  },
+  {
+    "date": "2026-08-05",
+    "titre": "Open International de Lisieux 10000 - 2026 - Kids'Open",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71176",
+    "cadence": "Lente",
+    "lieu": "14 - LISIEUX",
+    "arbitre": "RODON Gurvan"
+  },
+  {
+    "date": "2026-08-05",
+    "titre": "Open International de Lisieux 10000 - 2026 - Tournoi A",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71174",
+    "cadence": "Lente",
+    "lieu": "14 - LISIEUX",
+    "arbitre": "RODON Gurvan"
+  },
+  {
+    "date": "2026-08-05",
+    "titre": "Open International de Lisieux 10000 - 2026 - Tournoi B",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71175",
+    "cadence": "Lente",
+    "lieu": "14 - LISIEUX",
+    "arbitre": "RODON Gurvan"
+  },
+  {
+    "date": "2026-08-06",
+    "titre": "23ème Open International d'Echecs du Pic d'Anie",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71665",
+    "cadence": "Lente",
+    "lieu": "64 - ARETTE",
+    "arbitre": "CWIEK NGUYEN Francoi"
+  },
+  {
+    "date": "2026-08-06",
+    "titre": "23ème Open International d'Echecs du Pic d'Anie A",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71666",
+    "cadence": "Lente",
+    "lieu": "64 - ARETTE",
+    "arbitre": "CWIEK NGUYEN Francoi"
+  },
+  {
+    "date": "2026-08-06",
+    "titre": "23ème Open International d'Echecs du Pic d'Anie B",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71667",
+    "cadence": "Lente",
+    "lieu": "64 - ARETTE",
+    "arbitre": "CWIEK NGUYEN Francoi"
+  },
+  {
+    "date": "2026-08-06",
+    "titre": "Circuit d'Echecs Gascon 2026 Tournoi A",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71409",
+    "cadence": "Lente",
+    "lieu": "32 - RISCLE",
+    "arbitre": "LUCAZEAU Alain"
+  },
+  {
+    "date": "2026-08-06",
+    "titre": "Circuit d'Echecs Gascon 2026 Tournoi B",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71410",
+    "cadence": "Lente",
+    "lieu": "32 - RISCLE",
+    "arbitre": "LUCAZEAU Alain"
+  },
+  {
+    "date": "2026-08-06",
+    "titre": "Circuit d'Echecs Gascon 2026 Tournoi C",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71411",
+    "cadence": "Lente",
+    "lieu": "32 - RISCLE",
+    "arbitre": "LUCAZEAU Alain"
+  },
+  {
+    "date": "2026-08-06",
+    "titre": "Circuit d'Echecs Gascon 2026 Tournoi Open",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71412",
+    "cadence": "Lente",
+    "lieu": "32 - RISCLE",
+    "arbitre": "LUCAZEAU Alain"
+  },
+  {
+    "date": "2026-08-07",
+    "titre": "23ème Open International d'Echecs du Pic d'Anie",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71665",
+    "cadence": "Lente",
+    "lieu": "64 - ARETTE",
+    "arbitre": "CWIEK NGUYEN Francoi"
+  },
+  {
+    "date": "2026-08-07",
+    "titre": "23ème Open International d'Echecs du Pic d'Anie A",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71666",
+    "cadence": "Lente",
+    "lieu": "64 - ARETTE",
+    "arbitre": "CWIEK NGUYEN Francoi"
+  },
+  {
+    "date": "2026-08-07",
+    "titre": "23ème Open International d'Echecs du Pic d'Anie B",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71667",
+    "cadence": "Lente",
+    "lieu": "64 - ARETTE",
+    "arbitre": "CWIEK NGUYEN Francoi"
+  },
+  {
+    "date": "2026-08-08",
+    "titre": "23ème Open International d'Echecs du Pic d'Anie",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71665",
+    "cadence": "Lente",
+    "lieu": "64 - ARETTE",
+    "arbitre": "CWIEK NGUYEN Francoi"
+  },
+  {
+    "date": "2026-08-08",
+    "titre": "23ème Open International d'Echecs du Pic d'Anie A",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71666",
+    "cadence": "Lente",
+    "lieu": "64 - ARETTE",
+    "arbitre": "CWIEK NGUYEN Francoi"
+  },
+  {
+    "date": "2026-08-08",
+    "titre": "23ème Open International d'Echecs du Pic d'Anie B",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71667",
+    "cadence": "Lente",
+    "lieu": "64 - ARETTE",
+    "arbitre": "CWIEK NGUYEN Francoi"
+  },
+  {
+    "date": "2026-08-08",
+    "titre": "Championnat de France 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=68166",
+    "cadence": "Lente",
+    "lieu": "9Z - FRANCE",
+    "arbitre": "MOURET Erick"
+  },
+  {
+    "date": "2026-08-09",
+    "titre": "Championnat de France 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=68166",
+    "cadence": "Lente",
+    "lieu": "9Z - FRANCE",
+    "arbitre": "MOURET Erick"
+  },
+  {
     "date": "2026-08-10",
     "titre": "Championnat de France 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=68166",
     "cadence": "Lente",
-    "lieu": "Information indisponible",
-    "arbitre": "Information indisponible"
+    "lieu": "9Z - FRANCE",
+    "arbitre": "MOURET Erick"
   },
   {
     "date": "2026-08-11",
