@@ -1,4 +1,4 @@
-.<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="fr">
 <head>
   <meta charset="UTF-8">
@@ -117,9 +117,14 @@
     .info-icon { font-size: 1.3rem; flex-shrink: 0; margin-top: -2px; }
     .info-lbl  { font-size: 0.6rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--muted); margin-bottom: 3px; }
     .info-val  { font-size: 0.9rem; color: var(--ivory); line-height: 1.45; font-weight: 500; }
-    .panel-footer { padding: 1rem 1.25rem; border-top: 1px solid rgba(200,151,58,0.1); }
+    
+    .panel-footer { padding: 1rem 1.25rem; border-top: 1px solid rgba(200,151,58,0.1); display: flex; flex-direction: column; gap: 10px; }
     .lien-ffe { display: block; text-align: center; padding: 10px; background: rgba(200,151,58,0.1); border: 1px solid rgba(200,151,58,0.3); border-radius: 8px; color: var(--gold); text-decoration: none; font-size: 0.8rem; font-family: 'Inter', sans-serif; transition: background 0.15s; }
     .lien-ffe:hover { background: rgba(200,151,58,0.18); }
+    
+    /* NOUVEAU : Le design du bouton Google Agenda */
+    .lien-agenda { display: block; text-align: center; padding: 10px; background: rgba(59, 130, 246, 0.15); border: 1px solid rgba(59, 130, 246, 0.4); border-radius: 8px; color: #60A5FA; text-decoration: none; font-size: 0.8rem; font-family: 'Inter', sans-serif; transition: background 0.15s; font-weight: bold; }
+    .lien-agenda:hover { background: rgba(59, 130, 246, 0.25); box-shadow: 0 0 10px rgba(59, 130, 246, 0.2); }
 
     .pion-carte { width: 30px; height: 30px; border-radius: 50%; display: flex; align-items: center; justify-content: center; border: 2px solid #fff; font-size: 16px; color: #000; font-weight: bold; transition: transform 0.2s; }
     .pion-carte:hover { transform: scale(1.2); z-index: 1000 !important; }
@@ -185,9 +190,8 @@
   </div>
   <div class="panel-accent" id="panel-accent"></div>
   <div class="panel-body" id="panel-body"></div>
-  <div class="panel-footer">
-    <a href="#" class="lien-ffe" id="panel-lien" target="_blank">Voir la fiche sur echecs.asso.fr ↗</a>
-  </div>
+  <div class="panel-footer" id="panel-footer-actions">
+    </div>
 </div>
 
 <script>
@@ -208,6 +212,33 @@
     if (titre.includes('blitz')) return 'blitz';
     if (titre.includes('rapide')) return 'rapide';
     return 'lente';
+  }
+
+  // NOUVELLE FONCTION : Le créateur de lien magique Google Agenda
+  function genererLienAgenda(t) {
+    // On met en forme la date de début : AAAAMMJJ
+    let d = new Date(t.date);
+    let annee = d.getFullYear();
+    let mois = String(d.getMonth() + 1).padStart(2, '0');
+    let jour = String(d.getDate()).padStart(2, '0');
+    let dateDebut = `${annee}${mois}${jour}`;
+
+    // Pour Google, un événement qui dure toute la journée s'arrête le lendemain matin
+    let dFin = new Date(d);
+    dFin.setDate(dFin.getDate() + 1);
+    let anneeFin = dFin.getFullYear();
+    let moisFin = String(dFin.getMonth() + 1).padStart(2, '0');
+    let jourFin = String(dFin.getDate()).padStart(2, '0');
+    let dateFin = `${anneeFin}${moisFin}${jourFin}`;
+
+    let url = new URL('https://calendar.google.com/calendar/render');
+    url.searchParams.append('action', 'TEMPLATE');
+    url.searchParams.append('text', '♟ ' + t.titre);
+    url.searchParams.append('dates', dateDebut + '/' + dateFin);
+    if (t.lieu) url.searchParams.append('location', t.lieu);
+    url.searchParams.append('details', 'Lien FFE vers le tournoi : ' + t.url_source);
+
+    return url.toString();
   }
 
   fetch('calendrier.json')
@@ -377,7 +408,6 @@
       carte.style.animationDelay = `${(i % 10) * 0.04}s`;
       carte.onclick = () => ouvrirPanel(t);
 
-      // --- AJOUT DES EMOJIS (Lieu 📍 et Arbitre 👤) SUR LA CARTE PRINCIPALE ---
       let arbitreHtml = t.arbitre ? `<div class="carte-lieu" style="margin-bottom: 0.5rem;"><span style="margin-right: 6px;">👤</span>${t.arbitre}</div>` : '';
 
       carte.innerHTML = `
@@ -407,10 +437,7 @@
     const labelCadence = c === 'blitz' ? '⚡ Blitz' : c === 'rapide' ? '🕐 Rapide' : '♟ Lente';
 
     document.getElementById('panel-badge').innerHTML = `<span class="badge ${c}">${labelCadence}</span>`;
-    
-    // PION doré dans le panneau latéral
     document.getElementById('panel-titre').innerHTML = `<span style="color: var(--gold); margin-right: 6px;">♟</span>${t.titre}`;
-    
     document.getElementById('panel-meta').textContent = fmtDate(t.date);
     document.getElementById('panel-accent').style.background = color;
 
@@ -426,7 +453,13 @@
     }
 
     document.getElementById('panel-body').innerHTML = infosHtml;
-    document.getElementById('panel-lien').href = t.url_source;
+    
+    // NOUVEAU : On fabrique le lien Google Agenda et on affiche les deux boutons
+    let lienGoogleAgenda = genererLienAgenda(t);
+    document.getElementById('panel-footer-actions').innerHTML = `
+        <a href="${lienGoogleAgenda}" class="lien-agenda" target="_blank">📅 Ajouter à mon Google Agenda</a>
+        <a href="${t.url_source}" class="lien-ffe" target="_blank">Voir la fiche sur echecs.asso.fr ↗</a>
+    `;
 
     document.getElementById('overlay').classList.add('visible');
     document.getElementById('panel').classList.add('ouvert');
