@@ -4449,6 +4449,14 @@
   },
   {
     "date": "2026-04-24",
+    "titre": "574e Rapide Fide du Canal",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71900",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "RUBINI Xavier"
+  },
+  {
+    "date": "2026-04-24",
     "titre": "Championnat de France des Jeunes",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=68167",
     "cadence": "Lente",
@@ -4881,6 +4889,14 @@
   },
   {
     "date": "2026-04-26",
+    "titre": "1er Open FIDE rapide de l'Echiquier Moulien",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71910",
+    "cadence": "Rapide",
+    "lieu": "9C - LE MOULE",
+    "arbitre": "MAROT Philippe"
+  },
+  {
+    "date": "2026-04-26",
     "titre": "1er Open de Bonsecours",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71337",
     "cadence": "Lente",
@@ -5150,6 +5166,14 @@
     "cadence": "Lente",
     "lieu": "92 - MALAKOFF",
     "arbitre": "LEWIS John"
+  },
+  {
+    "date": "2026-04-30",
+    "titre": "2ème tournoi rapide du collège du Ruisseau",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71911",
+    "cadence": "Rapide",
+    "lieu": "9A - SAINT LOUIS",
+    "arbitre": "BARRE Jean-Marie"
   },
   {
     "date": "2026-04-30",
@@ -5985,7 +6009,7 @@
   },
   {
     "date": "2026-05-03",
-    "titre": "Choc des Légendes - Baie Mahault Mai 2025",
+    "titre": "Choc des Légendes - Baie Mahault Mai 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71896",
     "cadence": "Lente",
     "lieu": "9C - BAIE MAHAULT",
@@ -6353,6 +6377,14 @@
   },
   {
     "date": "2026-05-08",
+    "titre": "575e Rapide Fide du Canal",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71901",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "RUBINI Xavier"
+  },
+  {
+    "date": "2026-05-08",
     "titre": "5e Open rapide de Cébazat Tournoi A +1500 Elo",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71793",
     "cadence": "Rapide",
@@ -6510,6 +6542,14 @@
     "cadence": "Rapide",
     "lieu": "46 - CREYSSE",
     "arbitre": "DENIS Vincent"
+  },
+  {
+    "date": "2026-05-09",
+    "titre": "2e Tournoi Interne de Tresses",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71897",
+    "cadence": "Lente",
+    "lieu": "33 - TRESSES",
+    "arbitre": "FEIT Jean-Luc"
   },
   {
     "date": "2026-05-09",
@@ -7625,6 +7665,14 @@
   },
   {
     "date": "2026-05-15",
+    "titre": "576e Rapide Fide du Canal",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71902",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "RUBINI Xavier"
+  },
+  {
+    "date": "2026-05-15",
     "titre": "7ème Open -1700 du Pays de Bray",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71203",
     "cadence": "Lente",
@@ -8553,6 +8601,14 @@
   },
   {
     "date": "2026-05-22",
+    "titre": "577e Rapide Fide du Canal",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71903",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "RUBINI Xavier"
+  },
+  {
+    "date": "2026-05-22",
     "titre": "7ème soirée open blitz de Maisons-Laffitte 2025-2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=69191",
     "cadence": "Blitz",
@@ -8822,6 +8878,14 @@
     "cadence": "Rapide",
     "lieu": "29 - HUELGOAT",
     "arbitre": "PRIGENT Jerome"
+  },
+  {
+    "date": "2026-05-24",
+    "titre": "1er Tournoi Open rapide d'Echecs Anlè Moun",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71898",
+    "cadence": "Rapide",
+    "lieu": "9D - FORT DE FRANCE",
+    "arbitre": "DIAMANT-BERGER Ludov"
   },
   {
     "date": "2026-05-24",
@@ -9230,6 +9294,14 @@
     "cadence": "Rapide",
     "lieu": "77 - NOISIEL",
     "arbitre": "BELEY Huong"
+  },
+  {
+    "date": "2026-05-29",
+    "titre": "578e Rapide Fide du Canal",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71904",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "RUBINI Xavier"
   },
   {
     "date": "2026-05-29",
@@ -9761,6 +9833,14 @@
   },
   {
     "date": "2026-05-31",
+    "titre": "Rapide de Gravigny 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71899",
+    "cadence": "Rapide",
+    "lieu": "27 - GRAVIGNY",
+    "arbitre": "ADELINE Bruno"
+  },
+  {
+    "date": "2026-05-31",
     "titre": "tournoi Annuel du CABE 2025-26 r8-9",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=68069",
     "cadence": "Lente",
@@ -9870,6 +9950,14 @@
     "cadence": "Rapide",
     "lieu": "95 - FRANCONVILLE",
     "arbitre": "APPENDINO Jerome"
+  },
+  {
+    "date": "2026-06-05",
+    "titre": "579e Rapide Fide du Canal",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71905",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "RUBINI Xavier"
   },
   {
     "date": "2026-06-05",
@@ -10361,6 +10449,14 @@
   },
   {
     "date": "2026-06-12",
+    "titre": "580e Rapide Fide du Canal",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71906",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "RUBINI Xavier"
+  },
+  {
+    "date": "2026-06-12",
     "titre": "Blitz Cyber Securite Management -juin 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=68436",
     "cadence": "Blitz",
@@ -10801,6 +10897,14 @@
   },
   {
     "date": "2026-06-19",
+    "titre": "581e Rapide Fide du Canal",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71907",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "RUBINI Xavier"
+  },
+  {
+    "date": "2026-06-19",
     "titre": "Interne Echiquier Montois 2026 r5-7",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71502",
     "cadence": "Lente",
@@ -11094,6 +11198,14 @@
     "cadence": "Blitz",
     "lieu": "77 - MEAUX",
     "arbitre": "COUSIN Fabien"
+  },
+  {
+    "date": "2026-06-26",
+    "titre": "582e Rapide Fide du Canal",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71908",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "RUBINI Xavier"
   },
   {
     "date": "2026-06-26",
@@ -11902,6 +12014,14 @@
     "cadence": "Lente",
     "lieu": "33 - HOURTIN",
     "arbitre": "LAPEYRE Pierre"
+  },
+  {
+    "date": "2026-07-03",
+    "titre": "583e Rapide Fide du Canal",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71909",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "RUBINI Xavier"
   },
   {
     "date": "2026-07-03",
@@ -15009,7 +15129,7 @@
   },
   {
     "date": "2026-07-27",
-    "titre": "30ème Tournoi international de Créon - Tournoi Masters",
+    "titre": "30ème Tournoi international de Créon - Tournoi Masters (+2100)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71607",
     "cadence": "Lente",
     "lieu": "33 - CREON",
@@ -15025,7 +15145,7 @@
   },
   {
     "date": "2026-07-27",
-    "titre": "30ème Tournoi international de Créon - Tournoi Raoul Lorioux",
+    "titre": "30ème Tournoi international de Créon - Tournoi Raoul Lorioux (-1800)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71594",
     "cadence": "Lente",
     "lieu": "33 - CREON",
@@ -15033,7 +15153,7 @@
   },
   {
     "date": "2026-07-28",
-    "titre": "30ème Tournoi international de Créon - Tournoi Masters",
+    "titre": "30ème Tournoi international de Créon - Tournoi Masters (+2100)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71607",
     "cadence": "Lente",
     "lieu": "33 - CREON",
@@ -15049,7 +15169,7 @@
   },
   {
     "date": "2026-07-28",
-    "titre": "30ème Tournoi international de Créon - Tournoi Raoul Lorioux",
+    "titre": "30ème Tournoi international de Créon - Tournoi Raoul Lorioux (-1800)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71594",
     "cadence": "Lente",
     "lieu": "33 - CREON",
@@ -15057,7 +15177,7 @@
   },
   {
     "date": "2026-07-29",
-    "titre": "30ème Tournoi international de Créon - Tournoi Masters",
+    "titre": "30ème Tournoi international de Créon - Tournoi Masters (+2100)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71607",
     "cadence": "Lente",
     "lieu": "33 - CREON",
@@ -15073,7 +15193,7 @@
   },
   {
     "date": "2026-07-29",
-    "titre": "30ème Tournoi international de Créon - Tournoi Raoul Lorioux",
+    "titre": "30ème Tournoi international de Créon - Tournoi Raoul Lorioux (-1800)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71594",
     "cadence": "Lente",
     "lieu": "33 - CREON",
@@ -15105,7 +15225,7 @@
   },
   {
     "date": "2026-07-30",
-    "titre": "30ème Tournoi international de Créon - Tournoi Masters",
+    "titre": "30ème Tournoi international de Créon - Tournoi Masters (+2100)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71607",
     "cadence": "Lente",
     "lieu": "33 - CREON",
@@ -15121,7 +15241,7 @@
   },
   {
     "date": "2026-07-30",
-    "titre": "30ème Tournoi international de Créon - Tournoi Raoul Lorioux",
+    "titre": "30ème Tournoi international de Créon - Tournoi Raoul Lorioux (-1800)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71594",
     "cadence": "Lente",
     "lieu": "33 - CREON",
@@ -15153,7 +15273,7 @@
   },
   {
     "date": "2026-07-31",
-    "titre": "30ème Tournoi international de Créon - Tournoi Masters",
+    "titre": "30ème Tournoi international de Créon - Tournoi Masters (+2100)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71607",
     "cadence": "Lente",
     "lieu": "33 - CREON",
@@ -15169,7 +15289,7 @@
   },
   {
     "date": "2026-07-31",
-    "titre": "30ème Tournoi international de Créon - Tournoi Raoul Lorioux",
+    "titre": "30ème Tournoi international de Créon - Tournoi Raoul Lorioux (-1800)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71594",
     "cadence": "Lente",
     "lieu": "33 - CREON",
@@ -15217,7 +15337,7 @@
   },
   {
     "date": "2026-08-01",
-    "titre": "30ème Tournoi international de Créon - Tournoi Masters",
+    "titre": "30ème Tournoi international de Créon - Tournoi Masters (+2100)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71607",
     "cadence": "Lente",
     "lieu": "33 - CREON",
@@ -15233,7 +15353,7 @@
   },
   {
     "date": "2026-08-01",
-    "titre": "30ème Tournoi international de Créon - Tournoi Raoul Lorioux",
+    "titre": "30ème Tournoi international de Créon - Tournoi Raoul Lorioux (-1800)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71594",
     "cadence": "Lente",
     "lieu": "33 - CREON",
@@ -15329,7 +15449,7 @@
   },
   {
     "date": "2026-08-02",
-    "titre": "30ème Tournoi international de Créon - Tournoi Masters",
+    "titre": "30ème Tournoi international de Créon - Tournoi Masters (+2100)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71607",
     "cadence": "Lente",
     "lieu": "33 - CREON",
@@ -15345,7 +15465,7 @@
   },
   {
     "date": "2026-08-02",
-    "titre": "30ème Tournoi international de Créon - Tournoi Raoul Lorioux",
+    "titre": "30ème Tournoi international de Créon - Tournoi Raoul Lorioux (-1800)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71594",
     "cadence": "Lente",
     "lieu": "33 - CREON",
