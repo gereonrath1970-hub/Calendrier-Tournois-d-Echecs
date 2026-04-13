@@ -2377,14 +2377,6 @@
   },
   {
     "date": "2026-04-11",
-    "titre": "Tournois FIDE de Castelnaudary 2026 (-2200) toutes rondes - E",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71443",
-    "cadence": "Lente",
-    "lieu": "11 - CASTELNAUDARY",
-    "arbitre": "CAPITANIO Patrice"
-  },
-  {
-    "date": "2026-04-11",
     "titre": "Tournois interne Club d'Echecs Oyonnax Dortan (-1800)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71451",
     "cadence": "Lente",
@@ -2891,14 +2883,6 @@
     "date": "2026-04-12",
     "titre": "Tournois FIDE de Castelnaudary 2026 (-2200) toutes rondes - D",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71442",
-    "cadence": "Lente",
-    "lieu": "11 - CASTELNAUDARY",
-    "arbitre": "CAPITANIO Patrice"
-  },
-  {
-    "date": "2026-04-12",
-    "titre": "Tournois FIDE de Castelnaudary 2026 (-2200) toutes rondes - E",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71443",
     "cadence": "Lente",
     "lieu": "11 - CASTELNAUDARY",
     "arbitre": "CAPITANIO Patrice"
@@ -4665,6 +4649,14 @@
   },
   {
     "date": "2026-04-25",
+    "titre": "Blitz couronnais avril 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71925",
+    "cadence": "Blitz",
+    "lieu": "16 - LA COURONNE",
+    "arbitre": "PERCHE Ludovic"
+  },
+  {
+    "date": "2026-04-25",
     "titre": "CJS C1 Saint Pierre en Faucigny 25-04-2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71538",
     "cadence": "Lente",
@@ -5089,6 +5081,22 @@
   },
   {
     "date": "2026-04-26",
+    "titre": "Tournoi interne ECA S1 2026 Poule A",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71932",
+    "cadence": "Lente",
+    "lieu": "63 - CLERMONT FERRAND",
+    "arbitre": "FLOUZAT Jean-Marc"
+  },
+  {
+    "date": "2026-04-26",
+    "titre": "Tournoi interne ECA S1 2026 Poule B",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71933",
+    "cadence": "Lente",
+    "lieu": "63 - CLERMONT FERRAND",
+    "arbitre": "FLOUZAT Jean-Marc"
+  },
+  {
+    "date": "2026-04-26",
     "titre": "Trophées Bernard Papet 2026 phase 3",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71746",
     "cadence": "Lente",
@@ -5120,12 +5128,44 @@
     "arbitre": "BUDACI Lionel"
   },
   {
+    "date": "2026-04-27",
+    "titre": "Tournoi interne ECA S1 2026 Poule A",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71932",
+    "cadence": "Lente",
+    "lieu": "63 - CLERMONT FERRAND",
+    "arbitre": "FLOUZAT Jean-Marc"
+  },
+  {
+    "date": "2026-04-27",
+    "titre": "Tournoi interne ECA S1 2026 Poule B",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71933",
+    "cadence": "Lente",
+    "lieu": "63 - CLERMONT FERRAND",
+    "arbitre": "FLOUZAT Jean-Marc"
+  },
+  {
     "date": "2026-04-28",
     "titre": "22e Open international de Malakoff",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=69996",
     "cadence": "Lente",
     "lieu": "92 - MALAKOFF",
     "arbitre": "LEWIS John"
+  },
+  {
+    "date": "2026-04-28",
+    "titre": "Tournoi interne ECA S1 2026 Poule A",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71932",
+    "cadence": "Lente",
+    "lieu": "63 - CLERMONT FERRAND",
+    "arbitre": "FLOUZAT Jean-Marc"
+  },
+  {
+    "date": "2026-04-28",
+    "titre": "Tournoi interne ECA S1 2026 Poule B",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71933",
+    "cadence": "Lente",
+    "lieu": "63 - CLERMONT FERRAND",
+    "arbitre": "FLOUZAT Jean-Marc"
   },
   {
     "date": "2026-04-28",
@@ -5158,6 +5198,22 @@
     "cadence": "Blitz",
     "lieu": "92 - MALAKOFF",
     "arbitre": "LEWIS John"
+  },
+  {
+    "date": "2026-04-29",
+    "titre": "Tournoi interne ECA S1 2026 Poule A",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71932",
+    "cadence": "Lente",
+    "lieu": "63 - CLERMONT FERRAND",
+    "arbitre": "FLOUZAT Jean-Marc"
+  },
+  {
+    "date": "2026-04-29",
+    "titre": "Tournoi interne ECA S1 2026 Poule B",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71933",
+    "cadence": "Lente",
+    "lieu": "63 - CLERMONT FERRAND",
+    "arbitre": "FLOUZAT Jean-Marc"
   },
   {
     "date": "2026-04-30",
@@ -5565,7 +5621,7 @@
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71326",
     "cadence": "Lente",
     "lieu": "77 - MEAUX",
-    "arbitre": "AZZEGAG Jocelyn"
+    "arbitre": "PINCON Stephane"
   },
   {
     "date": "2026-05-02",
@@ -5573,7 +5629,7 @@
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71392",
     "cadence": "Lente",
     "lieu": "77 - MEAUX",
-    "arbitre": "AZZEGAG Jocelyn"
+    "arbitre": "PINCON Stephane"
   },
   {
     "date": "2026-05-02",
@@ -5581,7 +5637,7 @@
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71393",
     "cadence": "Lente",
     "lieu": "77 - MEAUX",
-    "arbitre": "AZZEGAG Jocelyn"
+    "arbitre": "PINCON Stephane"
   },
   {
     "date": "2026-05-02",
@@ -5589,7 +5645,7 @@
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71527",
     "cadence": "Lente",
     "lieu": "77 - MEAUX",
-    "arbitre": "AZZEGAG Jocelyn"
+    "arbitre": "PINCON Stephane"
   },
   {
     "date": "2026-05-02",
@@ -5597,7 +5653,7 @@
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71528",
     "cadence": "Lente",
     "lieu": "77 - MEAUX",
-    "arbitre": "AZZEGAG Jocelyn"
+    "arbitre": "PINCON Stephane"
   },
   {
     "date": "2026-05-02",
@@ -5605,7 +5661,7 @@
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71529",
     "cadence": "Lente",
     "lieu": "77 - MEAUX",
-    "arbitre": "AZZEGAG Jocelyn"
+    "arbitre": "PINCON Stephane"
   },
   {
     "date": "2026-05-02",
@@ -5613,7 +5669,23 @@
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71530",
     "cadence": "Lente",
     "lieu": "77 - MEAUX",
-    "arbitre": "AZZEGAG Jocelyn"
+    "arbitre": "PINCON Stephane"
+  },
+  {
+    "date": "2026-05-02",
+    "titre": "14e Trophée Jeunes Meaux Open H (-1800 Elo)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71950",
+    "cadence": "Lente",
+    "lieu": "77 - MEAUX",
+    "arbitre": "PINCON Stephane"
+  },
+  {
+    "date": "2026-05-02",
+    "titre": "14e Trophée Jeunes Meaux Open I (-1800 Elo)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71951",
+    "cadence": "Lente",
+    "lieu": "77 - MEAUX",
+    "arbitre": "PINCON Stephane"
   },
   {
     "date": "2026-05-02",
@@ -5769,6 +5841,22 @@
   },
   {
     "date": "2026-05-02",
+    "titre": "Rapide du Bisch’trot de Bischheim Mai 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71931",
+    "cadence": "Rapide",
+    "lieu": "67 - BISCHHEIM",
+    "arbitre": "PETER Sasha"
+  },
+  {
+    "date": "2026-05-02",
+    "titre": "Tournoi Blitz interne d'Antibes mai 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71953",
+    "cadence": "Blitz",
+    "lieu": "06 - ANTIBES",
+    "arbitre": "HAVARD Jean-Michel"
+  },
+  {
+    "date": "2026-05-02",
     "titre": "Tournoi international du jumelage Bayonne-Pampelune 2026 (-2400)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71556",
     "cadence": "Lente",
@@ -5797,7 +5885,7 @@
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71326",
     "cadence": "Lente",
     "lieu": "77 - MEAUX",
-    "arbitre": "AZZEGAG Jocelyn"
+    "arbitre": "PINCON Stephane"
   },
   {
     "date": "2026-05-03",
@@ -5805,7 +5893,7 @@
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71392",
     "cadence": "Lente",
     "lieu": "77 - MEAUX",
-    "arbitre": "AZZEGAG Jocelyn"
+    "arbitre": "PINCON Stephane"
   },
   {
     "date": "2026-05-03",
@@ -5813,7 +5901,7 @@
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71393",
     "cadence": "Lente",
     "lieu": "77 - MEAUX",
-    "arbitre": "AZZEGAG Jocelyn"
+    "arbitre": "PINCON Stephane"
   },
   {
     "date": "2026-05-03",
@@ -5821,7 +5909,7 @@
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71527",
     "cadence": "Lente",
     "lieu": "77 - MEAUX",
-    "arbitre": "AZZEGAG Jocelyn"
+    "arbitre": "PINCON Stephane"
   },
   {
     "date": "2026-05-03",
@@ -5829,7 +5917,7 @@
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71528",
     "cadence": "Lente",
     "lieu": "77 - MEAUX",
-    "arbitre": "AZZEGAG Jocelyn"
+    "arbitre": "PINCON Stephane"
   },
   {
     "date": "2026-05-03",
@@ -5837,7 +5925,7 @@
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71529",
     "cadence": "Lente",
     "lieu": "77 - MEAUX",
-    "arbitre": "AZZEGAG Jocelyn"
+    "arbitre": "PINCON Stephane"
   },
   {
     "date": "2026-05-03",
@@ -5845,7 +5933,23 @@
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71530",
     "cadence": "Lente",
     "lieu": "77 - MEAUX",
-    "arbitre": "AZZEGAG Jocelyn"
+    "arbitre": "PINCON Stephane"
+  },
+  {
+    "date": "2026-05-03",
+    "titre": "14e Trophée Jeunes Meaux Open H (-1800 Elo)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71950",
+    "cadence": "Lente",
+    "lieu": "77 - MEAUX",
+    "arbitre": "PINCON Stephane"
+  },
+  {
+    "date": "2026-05-03",
+    "titre": "14e Trophée Jeunes Meaux Open I (-1800 Elo)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71951",
+    "cadence": "Lente",
+    "lieu": "77 - MEAUX",
+    "arbitre": "PINCON Stephane"
   },
   {
     "date": "2026-05-03",
@@ -6425,6 +6529,14 @@
   },
   {
     "date": "2026-05-08",
+    "titre": "Championnat de la Réunion Individuel 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71926",
+    "cadence": "Lente",
+    "lieu": "9A - SAINT DENIS",
+    "arbitre": "LUTARD Florian"
+  },
+  {
+    "date": "2026-05-08",
     "titre": "Championnat du Gard 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71695",
     "cadence": "Lente",
@@ -6553,6 +6665,14 @@
   },
   {
     "date": "2026-05-09",
+    "titre": "2ème Coupe de fleurs Marseille -2400",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71928",
+    "cadence": "Lente",
+    "lieu": "13 - MARSEILLE",
+    "arbitre": "SAVARY Xavier"
+  },
+  {
+    "date": "2026-05-09",
     "titre": "3eme Festival Blitz de Rouen",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71484",
     "cadence": "Blitz",
@@ -6630,6 +6750,14 @@
     "cadence": "Lente",
     "lieu": "68 - KINGERSHEIM",
     "arbitre": "DE FAVERI Gabriel"
+  },
+  {
+    "date": "2026-05-09",
+    "titre": "Championnat de la Réunion Individuel 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71926",
+    "cadence": "Lente",
+    "lieu": "9A - SAINT DENIS",
+    "arbitre": "LUTARD Florian"
   },
   {
     "date": "2026-05-09",
@@ -6801,6 +6929,14 @@
   },
   {
     "date": "2026-05-10",
+    "titre": "2ème Coupe de fleurs Marseille -2400",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71928",
+    "cadence": "Lente",
+    "lieu": "13 - MARSEILLE",
+    "arbitre": "SAVARY Xavier"
+  },
+  {
+    "date": "2026-05-10",
     "titre": "33ème Tournoi Philantropique Echecs et Dames",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=69184",
     "cadence": "Lente",
@@ -6889,6 +7025,14 @@
   },
   {
     "date": "2026-05-10",
+    "titre": "Championnat de la Réunion Individuel 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71926",
+    "cadence": "Lente",
+    "lieu": "9A - SAINT DENIS",
+    "arbitre": "LUTARD Florian"
+  },
+  {
+    "date": "2026-05-10",
     "titre": "Championnat du 93 2026 (-1750)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=69541",
     "cadence": "Lente",
@@ -6910,6 +7054,14 @@
     "cadence": "Lente",
     "lieu": "30 - NIMES",
     "arbitre": "PIERRE Timothee"
+  },
+  {
+    "date": "2026-05-10",
+    "titre": "Finale Tournoi d'Encouragement 2026 du CDJE44 à Guérande",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71917",
+    "cadence": "Lente",
+    "lieu": "44 - GUERANDE",
+    "arbitre": "AMOSSE Blandine"
   },
   {
     "date": "2026-05-10",
@@ -6942,6 +7094,22 @@
     "cadence": "Lente",
     "lieu": "19 - BRIVE LA GAILLARDE",
     "arbitre": "PRIE Eric"
+  },
+  {
+    "date": "2026-05-10",
+    "titre": "Tournoi Rapide International de Valence 2026 Accession",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71930",
+    "cadence": "Rapide",
+    "lieu": "26 - VALENCE",
+    "arbitre": "GERANDI Guillaume"
+  },
+  {
+    "date": "2026-05-10",
+    "titre": "Tournoi Rapide International de Valence 2026 Principal",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71929",
+    "cadence": "Rapide",
+    "lieu": "26 - VALENCE",
+    "arbitre": "GERANDI Guillaume"
   },
   {
     "date": "2026-05-10",
@@ -7016,6 +7184,14 @@
     "arbitre": "DE FAVERI Gabriel"
   },
   {
+    "date": "2026-05-11",
+    "titre": "Championnat de la Réunion Individuel 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71926",
+    "cadence": "Lente",
+    "lieu": "9A - SAINT DENIS",
+    "arbitre": "LUTARD Florian"
+  },
+  {
     "date": "2026-05-12",
     "titre": "1er Open International de Lecci - Open A (+2100)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70736",
@@ -7054,6 +7230,14 @@
     "cadence": "Lente",
     "lieu": "68 - KINGERSHEIM",
     "arbitre": "DE FAVERI Gabriel"
+  },
+  {
+    "date": "2026-05-12",
+    "titre": "Championnat de la Réunion Individuel 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71926",
+    "cadence": "Lente",
+    "lieu": "9A - SAINT DENIS",
+    "arbitre": "LUTARD Florian"
   },
   {
     "date": "2026-05-13",
@@ -7118,6 +7302,14 @@
     "cadence": "Lente",
     "lieu": "45 - SAINT JEAN DE BRAYE",
     "arbitre": "BERNARD Denis"
+  },
+  {
+    "date": "2026-05-13",
+    "titre": "Championnat de la Réunion Individuel 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71926",
+    "cadence": "Lente",
+    "lieu": "9A - SAINT DENIS",
+    "arbitre": "LUTARD Florian"
   },
   {
     "date": "2026-05-13",
@@ -7321,6 +7513,30 @@
   },
   {
     "date": "2026-05-14",
+    "titre": "30 eme rapide de monteux JEUNES inf à 1299",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71916",
+    "cadence": "Rapide",
+    "lieu": "84 - MONTEUX",
+    "arbitre": "CHERON Stephane"
+  },
+  {
+    "date": "2026-05-14",
+    "titre": "30eme rapide international Monteux",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71948",
+    "cadence": "Rapide",
+    "lieu": "84 - MONTEUX",
+    "arbitre": "CHERON Stephane"
+  },
+  {
+    "date": "2026-05-14",
+    "titre": "30eme rapide monteux -1700",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71949",
+    "cadence": "Rapide",
+    "lieu": "84 - MONTEUX",
+    "arbitre": "CHERON Stephane"
+  },
+  {
+    "date": "2026-05-14",
     "titre": "3ème Festival International de Ceyreste et Cassis Échecs Open A +1800 Elo",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70066",
     "cadence": "Lente",
@@ -7414,6 +7630,30 @@
     "cadence": "Lente",
     "lieu": "45 - SAINT JEAN DE BRAYE",
     "arbitre": "BERNARD Denis"
+  },
+  {
+    "date": "2026-05-14",
+    "titre": "Championnat de la Réunion Individuel 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71926",
+    "cadence": "Lente",
+    "lieu": "9A - SAINT DENIS",
+    "arbitre": "LUTARD Florian"
+  },
+  {
+    "date": "2026-05-14",
+    "titre": "Championnats de Moselle A 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71936",
+    "cadence": "Lente",
+    "lieu": "57 - THIONVILLE",
+    "arbitre": "MARCHAL Roger"
+  },
+  {
+    "date": "2026-05-14",
+    "titre": "Championnats de Moselle B 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71937",
+    "cadence": "Lente",
+    "lieu": "57 - THIONVILLE",
+    "arbitre": "MARCHAL Roger"
   },
   {
     "date": "2026-05-14",
@@ -7710,6 +7950,30 @@
     "cadence": "Lente",
     "lieu": "45 - SAINT JEAN DE BRAYE",
     "arbitre": "BERNARD Denis"
+  },
+  {
+    "date": "2026-05-15",
+    "titre": "Championnat de la Réunion Individuel 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71926",
+    "cadence": "Lente",
+    "lieu": "9A - SAINT DENIS",
+    "arbitre": "LUTARD Florian"
+  },
+  {
+    "date": "2026-05-15",
+    "titre": "Championnats de Moselle A 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71936",
+    "cadence": "Lente",
+    "lieu": "57 - THIONVILLE",
+    "arbitre": "MARCHAL Roger"
+  },
+  {
+    "date": "2026-05-15",
+    "titre": "Championnats de Moselle B 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71937",
+    "cadence": "Lente",
+    "lieu": "57 - THIONVILLE",
+    "arbitre": "MARCHAL Roger"
   },
   {
     "date": "2026-05-15",
@@ -8038,6 +8302,30 @@
     "cadence": "Lente",
     "lieu": "45 - SAINT JEAN DE BRAYE",
     "arbitre": "BERNARD Denis"
+  },
+  {
+    "date": "2026-05-16",
+    "titre": "Championnat de la Réunion Individuel 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71926",
+    "cadence": "Lente",
+    "lieu": "9A - SAINT DENIS",
+    "arbitre": "LUTARD Florian"
+  },
+  {
+    "date": "2026-05-16",
+    "titre": "Championnats de Moselle A 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71936",
+    "cadence": "Lente",
+    "lieu": "57 - THIONVILLE",
+    "arbitre": "MARCHAL Roger"
+  },
+  {
+    "date": "2026-05-16",
+    "titre": "Championnats de Moselle B 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71937",
+    "cadence": "Lente",
+    "lieu": "57 - THIONVILLE",
+    "arbitre": "MARCHAL Roger"
   },
   {
     "date": "2026-05-16",
@@ -8449,11 +8737,51 @@
   },
   {
     "date": "2026-05-17",
+    "titre": "Championnat de la Réunion Individuel 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71926",
+    "cadence": "Lente",
+    "lieu": "9A - SAINT DENIS",
+    "arbitre": "LUTARD Florian"
+  },
+  {
+    "date": "2026-05-17",
+    "titre": "Championnats de Moselle A 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71936",
+    "cadence": "Lente",
+    "lieu": "57 - THIONVILLE",
+    "arbitre": "MARCHAL Roger"
+  },
+  {
+    "date": "2026-05-17",
+    "titre": "Championnats de Moselle B 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71937",
+    "cadence": "Lente",
+    "lieu": "57 - THIONVILLE",
+    "arbitre": "MARCHAL Roger"
+  },
+  {
+    "date": "2026-05-17",
     "titre": "Classique du 3e Festival d'échecs de Chalosse 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71597",
     "cadence": "Lente",
     "lieu": "40 - HAGETMAU",
     "arbitre": "LAPEYRE Pierre"
+  },
+  {
+    "date": "2026-05-17",
+    "titre": "Grand Prix d’Arçonnay 2026 Tournoi A Honneur",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71942",
+    "cadence": "Lente",
+    "lieu": "72 - ARCONNAY",
+    "arbitre": "PY Sebastien"
+  },
+  {
+    "date": "2026-05-17",
+    "titre": "Grand Prix d’Arçonnay 2026 Tournoi B Promotion",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71918",
+    "cadence": "Lente",
+    "lieu": "72 - ARCONNAY",
+    "arbitre": "PY Sebastien"
   },
   {
     "date": "2026-05-17",
@@ -8649,6 +8977,14 @@
   },
   {
     "date": "2026-05-23",
+    "titre": "17e Open International d'Amilly",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71952",
+    "cadence": "Lente",
+    "lieu": "45 - AMILLY",
+    "arbitre": "BERNARD Denis"
+  },
+  {
+    "date": "2026-05-23",
     "titre": "26e Open de Narbonne (-2400 elo)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70352",
     "cadence": "Lente",
@@ -8710,6 +9046,38 @@
     "cadence": "Lente",
     "lieu": "59 - FROMELLES",
     "arbitre": "DUPONT Daniel-Noel"
+  },
+  {
+    "date": "2026-05-23",
+    "titre": "42e open Fide de Domloup - Tournoi A (-2400)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71944",
+    "cadence": "Lente",
+    "lieu": "35 - DOMLOUP",
+    "arbitre": "AUBRY Pascal"
+  },
+  {
+    "date": "2026-05-23",
+    "titre": "42e open Fide de Domloup - Tournoi B",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71945",
+    "cadence": "Lente",
+    "lieu": "35 - DOMLOUP",
+    "arbitre": "AUBRY Pascal"
+  },
+  {
+    "date": "2026-05-23",
+    "titre": "42e open Fide de Domloup - Tournoi C",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71946",
+    "cadence": "Lente",
+    "lieu": "35 - DOMLOUP",
+    "arbitre": "AUBRY Pascal"
+  },
+  {
+    "date": "2026-05-23",
+    "titre": "42e open Fide de Domloup - Tournoi D",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71947",
+    "cadence": "Lente",
+    "lieu": "35 - DOMLOUP",
+    "arbitre": "AUBRY Pascal"
   },
   {
     "date": "2026-05-23",
@@ -8873,6 +9241,14 @@
   },
   {
     "date": "2026-05-24",
+    "titre": "17e Open International d'Amilly",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71952",
+    "cadence": "Lente",
+    "lieu": "45 - AMILLY",
+    "arbitre": "BERNARD Denis"
+  },
+  {
+    "date": "2026-05-24",
     "titre": "1er Rapide Jeunes d'Huelgoat",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71229",
     "cadence": "Rapide",
@@ -8966,6 +9342,38 @@
     "cadence": "Lente",
     "lieu": "59 - FROMELLES",
     "arbitre": "DUPONT Daniel-Noel"
+  },
+  {
+    "date": "2026-05-24",
+    "titre": "42e open Fide de Domloup - Tournoi A (-2400)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71944",
+    "cadence": "Lente",
+    "lieu": "35 - DOMLOUP",
+    "arbitre": "AUBRY Pascal"
+  },
+  {
+    "date": "2026-05-24",
+    "titre": "42e open Fide de Domloup - Tournoi B",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71945",
+    "cadence": "Lente",
+    "lieu": "35 - DOMLOUP",
+    "arbitre": "AUBRY Pascal"
+  },
+  {
+    "date": "2026-05-24",
+    "titre": "42e open Fide de Domloup - Tournoi C",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71946",
+    "cadence": "Lente",
+    "lieu": "35 - DOMLOUP",
+    "arbitre": "AUBRY Pascal"
+  },
+  {
+    "date": "2026-05-24",
+    "titre": "42e open Fide de Domloup - Tournoi D",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71947",
+    "cadence": "Lente",
+    "lieu": "35 - DOMLOUP",
+    "arbitre": "AUBRY Pascal"
   },
   {
     "date": "2026-05-24",
@@ -9129,6 +9537,14 @@
   },
   {
     "date": "2026-05-25",
+    "titre": "17e Open International d'Amilly",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71952",
+    "cadence": "Lente",
+    "lieu": "45 - AMILLY",
+    "arbitre": "BERNARD Denis"
+  },
+  {
+    "date": "2026-05-25",
     "titre": "22ème Tournoi de Pentecôte de Bennwihr 2026 - Tournoi A",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71570",
     "cadence": "Lente",
@@ -9206,6 +9622,38 @@
     "cadence": "Lente",
     "lieu": "59 - FROMELLES",
     "arbitre": "DUPONT Daniel-Noel"
+  },
+  {
+    "date": "2026-05-25",
+    "titre": "42e open Fide de Domloup - Tournoi A (-2400)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71944",
+    "cadence": "Lente",
+    "lieu": "35 - DOMLOUP",
+    "arbitre": "AUBRY Pascal"
+  },
+  {
+    "date": "2026-05-25",
+    "titre": "42e open Fide de Domloup - Tournoi B",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71945",
+    "cadence": "Lente",
+    "lieu": "35 - DOMLOUP",
+    "arbitre": "AUBRY Pascal"
+  },
+  {
+    "date": "2026-05-25",
+    "titre": "42e open Fide de Domloup - Tournoi C",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71946",
+    "cadence": "Lente",
+    "lieu": "35 - DOMLOUP",
+    "arbitre": "AUBRY Pascal"
+  },
+  {
+    "date": "2026-05-25",
+    "titre": "42e open Fide de Domloup - Tournoi D",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71947",
+    "cadence": "Lente",
+    "lieu": "35 - DOMLOUP",
+    "arbitre": "AUBRY Pascal"
   },
   {
     "date": "2026-05-25",
@@ -9534,6 +9982,14 @@
     "cadence": "Lente",
     "lieu": "56 - LORIENT",
     "arbitre": "PLAT Sammy"
+  },
+  {
+    "date": "2026-05-30",
+    "titre": "Tournoi Rapide interne d'Antibes mai 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71954",
+    "cadence": "Rapide",
+    "lieu": "06 - ANTIBES",
+    "arbitre": "HAVARD Jean-Michel"
   },
   {
     "date": "2026-05-30",
@@ -10033,6 +10489,22 @@
   },
   {
     "date": "2026-06-06",
+    "titre": "40 eme rapide d'orange tournoi jeunes",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71915",
+    "cadence": "Rapide",
+    "lieu": "84 - ORANGE",
+    "arbitre": "CHERON Stephane"
+  },
+  {
+    "date": "2026-06-06",
+    "titre": "40eme rapide d'orange tournoi principal",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71943",
+    "cadence": "Rapide",
+    "lieu": "84 - ORANGE",
+    "arbitre": "CHERON Stephane"
+  },
+  {
+    "date": "2026-06-06",
     "titre": "47ème blitz des Cassis Chess Days",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=69258",
     "cadence": "Blitz",
@@ -10201,11 +10673,35 @@
   },
   {
     "date": "2026-06-07",
+    "titre": "27e rapide de Fouesnant à cadence rapide- Tournoi B U12-U14-U16",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71920",
+    "cadence": "Rapide",
+    "lieu": "29 - FOUESNANT",
+    "arbitre": "LECORNU Laurent"
+  },
+  {
+    "date": "2026-06-07",
+    "titre": "27e tournoi de Fouesnant à cadence rapide",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71919",
+    "cadence": "Rapide",
+    "lieu": "29 - FOUESNANT",
+    "arbitre": "LECORNU Laurent"
+  },
+  {
+    "date": "2026-06-07",
     "titre": "2eme Open FIDE Lent Culture-Echecs",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=69362",
     "cadence": "Lente",
     "lieu": "92 - SURESNES",
     "arbitre": "BASTIEN Andre"
+  },
+  {
+    "date": "2026-06-07",
+    "titre": "2eme Rapide de Saint Maixent l'école (GPL)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71941",
+    "cadence": "Rapide",
+    "lieu": "79 - SAINT MAIXENT L'ECOLE",
+    "arbitre": "DENIS Stephane"
   },
   {
     "date": "2026-06-07",
@@ -10249,11 +10745,27 @@
   },
   {
     "date": "2026-06-07",
+    "titre": "4e Rapide Interne de l'Echiquier Malouin",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71938",
+    "cadence": "Rapide",
+    "lieu": "35 - SAINT MALO",
+    "arbitre": "AL AHDAB Nasir"
+  },
+  {
+    "date": "2026-06-07",
     "titre": "5e Rapide de Pessac",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70939",
     "cadence": "Rapide",
     "lieu": "33 - PESSAC",
     "arbitre": "LAPEYRE Pierre"
+  },
+  {
+    "date": "2026-06-07",
+    "titre": "5è Tournoi Serge Nardus",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71940",
+    "cadence": "Lente",
+    "lieu": "65 - VIC EN BIGORRE",
+    "arbitre": "CWIEK NGUYEN Francoi"
   },
   {
     "date": "2026-06-07",
@@ -10681,6 +11193,14 @@
   },
   {
     "date": "2026-06-14",
+    "titre": "2eme tournoi du Phare Ouest",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71923",
+    "cadence": "Lente",
+    "lieu": "35 - BETTON",
+    "arbitre": "PERNOT Damien"
+  },
+  {
+    "date": "2026-06-14",
     "titre": "2ème Rapide d'Echecs de Panazol",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=68990",
     "cadence": "Rapide",
@@ -10734,6 +11254,14 @@
     "cadence": "Rapide",
     "lieu": "21 - NORGES LA VILLE",
     "arbitre": "BOILEAU Mickael"
+  },
+  {
+    "date": "2026-06-14",
+    "titre": "4ème Rapide de l'Echiquier Marmandais",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71924",
+    "cadence": "Rapide",
+    "lieu": "47 - FOURQUES SUR GARONNE",
+    "arbitre": "MARIMON Frederic"
   },
   {
     "date": "2026-06-14",
@@ -10809,6 +11337,14 @@
   },
   {
     "date": "2026-06-14",
+    "titre": "RAPIDE CAMBRAI 14 JUIN 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71914",
+    "cadence": "Rapide",
+    "lieu": "59 - CAMBRAI",
+    "arbitre": "SAUVE Philippe"
+  },
+  {
+    "date": "2026-06-14",
     "titre": "Rapide Masters de la Ligne des Bambous Juin 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71845",
     "cadence": "Rapide",
@@ -10838,6 +11374,14 @@
     "cadence": "Lente",
     "lieu": "9Z - FRANCE",
     "arbitre": "MOURET Erick"
+  },
+  {
+    "date": "2026-06-14",
+    "titre": "Tournoi Rapide Vitry sur Seine Juin 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71934",
+    "cadence": "Rapide",
+    "lieu": "94 - VITRY SUR SEINE",
+    "arbitre": "LORENZO Alfredo"
   },
   {
     "date": "2026-06-14",
@@ -10926,6 +11470,22 @@
     "cadence": "Lente",
     "lieu": "33 - BORDEAUX",
     "arbitre": "MULLON Jean-Baptiste"
+  },
+  {
+    "date": "2026-06-20",
+    "titre": "22e Grand Prix du Beaujolais (moins de 1700 elo) - Open B",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71922",
+    "cadence": "Lente",
+    "lieu": "69 - VILLEFRANCHE SUR SAONE",
+    "arbitre": "LEFEVRE Margaux"
+  },
+  {
+    "date": "2026-06-20",
+    "titre": "22e Grand Prix du Beaujolais (moins de 2400 elo) - Open A",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71921",
+    "cadence": "Lente",
+    "lieu": "69 - VILLEFRANCHE SUR SAONE",
+    "arbitre": "LEFEVRE Margaux"
   },
   {
     "date": "2026-06-20",
@@ -11038,6 +11598,22 @@
     "cadence": "Rapide",
     "lieu": "40 - MONT DE MARSAN",
     "arbitre": "DUBERTRAND Bernard"
+  },
+  {
+    "date": "2026-06-21",
+    "titre": "22e Grand Prix du Beaujolais (moins de 1700 elo) - Open B",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71922",
+    "cadence": "Lente",
+    "lieu": "69 - VILLEFRANCHE SUR SAONE",
+    "arbitre": "LEFEVRE Margaux"
+  },
+  {
+    "date": "2026-06-21",
+    "titre": "22e Grand Prix du Beaujolais (moins de 2400 elo) - Open A",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71921",
+    "cadence": "Lente",
+    "lieu": "69 - VILLEFRANCHE SUR SAONE",
+    "arbitre": "LEFEVRE Margaux"
   },
   {
     "date": "2026-06-21",
@@ -12169,6 +12745,14 @@
   },
   {
     "date": "2026-07-04",
+    "titre": "Blitz du Lac de Saint-Cyr Juillet 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71935",
+    "cadence": "Blitz",
+    "lieu": "86 - BEAUMONT",
+    "arbitre": "PICARD Joel"
+  },
+  {
+    "date": "2026-07-04",
     "titre": "Festival Saint-Lô 2026 - Open -2000",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70274",
     "cadence": "Lente",
@@ -12318,6 +12902,14 @@
     "cadence": "Lente",
     "lieu": "34 - MONTPELLIER",
     "arbitre": "MOURET Erick"
+  },
+  {
+    "date": "2026-07-05",
+    "titre": "4e Rapide d'Echecs d'Yssingeaux",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71939",
+    "cadence": "Rapide",
+    "lieu": "43 - YSSINGEAUX",
+    "arbitre": "MARTINEZ Romain"
   },
   {
     "date": "2026-07-05",
@@ -13356,8 +13948,8 @@
     "titre": "17e Festival international de Vaujany Tournoi Petizelos",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=69091",
     "cadence": "Lente",
-    "lieu": "Information indisponible",
-    "arbitre": "Information indisponible"
+    "lieu": "38 - VAUJANY",
+    "arbitre": "PERNOUD Claire"
   },
   {
     "date": "2026-07-12",
@@ -13420,8 +14012,8 @@
     "titre": "30e Festival International Jean-Claude Loubatière Open A (+2100 Elo)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70578",
     "cadence": "Lente",
-    "lieu": "Information indisponible",
-    "arbitre": "Information indisponible"
+    "lieu": "34 - MONTPELLIER",
+    "arbitre": "MOURET Erick"
   },
   {
     "date": "2026-07-12",
@@ -13556,8 +14148,8 @@
     "titre": "1er Open International d’Échecs des Menuires - Tournoi Accession",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=69036",
     "cadence": "Lente",
-    "lieu": "Information indisponible",
-    "arbitre": "Information indisponible"
+    "lieu": "73 - SAINT MARTIN DE BELLEVILLE",
+    "arbitre": "BISSIERES Matthieu"
   },
   {
     "date": "2026-07-13",
@@ -13676,8 +14268,8 @@
     "titre": "19e Open international de Plancoët - Tournoi B",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=69746",
     "cadence": "Lente",
-    "lieu": "Information indisponible",
-    "arbitre": "Information indisponible"
+    "lieu": "22 - PLANCOET",
+    "arbitre": "BLEUZEN Christian"
   },
   {
     "date": "2026-07-14",
@@ -13828,8 +14420,8 @@
     "titre": "1er Open International d’Échecs des Menuires - Tournoi Accession",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=69036",
     "cadence": "Lente",
-    "lieu": "Information indisponible",
-    "arbitre": "Information indisponible"
+    "lieu": "73 - SAINT MARTIN DE BELLEVILLE",
+    "arbitre": "BISSIERES Matthieu"
   },
   {
     "date": "2026-07-15",
@@ -13844,8 +14436,8 @@
     "titre": "1er Open International d’Échecs des Menuires - Tournoi de Maîtres",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=69035",
     "cadence": "Lente",
-    "lieu": "Information indisponible",
-    "arbitre": "Information indisponible"
+    "lieu": "73 - SAINT MARTIN DE BELLEVILLE",
+    "arbitre": "BISSIERES Matthieu"
   },
   {
     "date": "2026-07-15",
@@ -13892,24 +14484,24 @@
     "titre": "Championnat de Paris 2026 Open C",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71862",
     "cadence": "Lente",
-    "lieu": "Information indisponible",
-    "arbitre": "Information indisponible"
+    "lieu": "75 - PARIS",
+    "arbitre": "BOUNZOU Nadir"
   },
   {
     "date": "2026-07-15",
     "titre": "Festival des 400 Coups 2026 - Open International des Boulets des 400 Coups (+1900)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70801",
     "cadence": "Lente",
-    "lieu": "Information indisponible",
-    "arbitre": "Information indisponible"
+    "lieu": "82 - MONTAUBAN",
+    "arbitre": "LAPEYRE Pierre"
   },
   {
     "date": "2026-07-15",
     "titre": "Festival des 400 Coups 2026 - Open International des Canons des 400 Coups (-2000)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70802",
     "cadence": "Lente",
-    "lieu": "Information indisponible",
-    "arbitre": "Information indisponible"
+    "lieu": "82 - MONTAUBAN",
+    "arbitre": "LAPEYRE Pierre"
   },
   {
     "date": "2026-07-16",
@@ -13924,8 +14516,8 @@
     "titre": "17e Festival international de Vaujany Tournoi Petizelos",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=69091",
     "cadence": "Lente",
-    "lieu": "Information indisponible",
-    "arbitre": "Information indisponible"
+    "lieu": "38 - VAUJANY",
+    "arbitre": "PERNOUD Claire"
   },
   {
     "date": "2026-07-16",
@@ -13948,8 +14540,8 @@
     "titre": "19e Open international de Plancoët - Tournoi B",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=69746",
     "cadence": "Lente",
-    "lieu": "Information indisponible",
-    "arbitre": "Information indisponible"
+    "lieu": "22 - PLANCOET",
+    "arbitre": "BLEUZEN Christian"
   },
   {
     "date": "2026-07-16",
@@ -14052,8 +14644,8 @@
     "titre": "17e Festival international de Vaujany Tournoi Petizelos",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=69091",
     "cadence": "Lente",
-    "lieu": "Information indisponible",
-    "arbitre": "Information indisponible"
+    "lieu": "38 - VAUJANY",
+    "arbitre": "PERNOUD Claire"
   },
   {
     "date": "2026-07-17",
@@ -14092,8 +14684,8 @@
     "titre": "1er Open International d’Échecs des Menuires - Tournoi Accession",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=69036",
     "cadence": "Lente",
-    "lieu": "Information indisponible",
-    "arbitre": "Information indisponible"
+    "lieu": "73 - SAINT MARTIN DE BELLEVILLE",
+    "arbitre": "BISSIERES Matthieu"
   },
   {
     "date": "2026-07-17",
@@ -14188,8 +14780,8 @@
     "titre": "1er Open International d’Échecs des Menuires - Tournoi de Maîtres",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=69035",
     "cadence": "Lente",
-    "lieu": "Information indisponible",
-    "arbitre": "Information indisponible"
+    "lieu": "73 - SAINT MARTIN DE BELLEVILLE",
+    "arbitre": "BISSIERES Matthieu"
   },
   {
     "date": "2026-07-18",
@@ -14612,8 +15204,8 @@
     "titre": "TrophĂ©e Dole 2026 - Tournoi Accession (-2200 elo)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70948",
     "cadence": "Lente",
-    "lieu": "Information indisponible",
-    "arbitre": "Information indisponible"
+    "lieu": "13 - AIX EN PROVENCE",
+    "arbitre": "DIMITROV Christo"
   },
   {
     "date": "2026-07-22",
@@ -15684,8 +16276,8 @@
     "titre": "Circuit d'Echecs Gascon 2026 Tournoi C",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71411",
     "cadence": "Lente",
-    "lieu": "Information indisponible",
-    "arbitre": "Information indisponible"
+    "lieu": "32 - RISCLE",
+    "arbitre": "LUCAZEAU Alain"
   },
   {
     "date": "2026-08-04",
@@ -16268,8 +16860,8 @@
     "titre": "Allauch 8e Festival B 2026 (-1800)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71828",
     "cadence": "Lente",
-    "lieu": "Information indisponible",
-    "arbitre": "Information indisponible"
+    "lieu": "13 - ALLAUCH",
+    "arbitre": "CHAZEAU Laineur-Loth"
   },
   {
     "date": "2026-08-25",
