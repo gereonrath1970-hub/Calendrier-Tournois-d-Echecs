@@ -5185,6 +5185,14 @@
   },
   {
     "date": "2026-04-29",
+    "titre": "394è Rapide FIDE Interchess -2000 (conseille aux debutants adultes jeunes et enfants)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71960",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-04-29",
     "titre": "Tournoi d 'Echecs Scolaire Lyon 2 29 avril 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71704",
     "cadence": "Lente",
@@ -5217,6 +5225,14 @@
   },
   {
     "date": "2026-04-30",
+    "titre": "107è Rapide FFE Interchess -1600 Elo (conseillé aux débutants adultes jeunes et enfants)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71957",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-04-30",
     "titre": "22e Open international de Malakoff",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=69996",
     "cadence": "Lente",
@@ -5230,6 +5246,14 @@
     "cadence": "Rapide",
     "lieu": "9A - SAINT LOUIS",
     "arbitre": "BARRE Jean-Marie"
+  },
+  {
+    "date": "2026-04-30",
+    "titre": "395è Rapide FIDE Interchess",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71961",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
   },
   {
     "date": "2026-04-30",
@@ -6121,6 +6145,14 @@
   },
   {
     "date": "2026-05-03",
+    "titre": "Grand Prix de l'Oise Saison 2025-2026 Journée 6",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71965",
+    "cadence": "Lente",
+    "lieu": "60 - SENLIS",
+    "arbitre": "CHELLILI Bachir"
+  },
+  {
+    "date": "2026-05-03",
     "titre": "La Meldoise Echecs Mai 2026 -1800 Elo",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71750",
     "cadence": "Lente",
@@ -6742,6 +6774,46 @@
     "cadence": "Lente",
     "lieu": "44 - CARQUEFOU",
     "arbitre": "LEBRET Loriane"
+  },
+  {
+    "date": "2026-05-09",
+    "titre": "CEHR Challenge Jeunes 2026 U08 Mixtes",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71958",
+    "cadence": "Lente",
+    "lieu": "68 - ESCHENTZWILLER",
+    "arbitre": "LENGERT Rene"
+  },
+  {
+    "date": "2026-05-09",
+    "titre": "CEHR Challenge Jeunes 2026 U10 Mixtes",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71959",
+    "cadence": "Lente",
+    "lieu": "68 - ESCHENTZWILLER",
+    "arbitre": "LENGERT Rene"
+  },
+  {
+    "date": "2026-05-09",
+    "titre": "CEHR Challenge Jeunes 2026 U12 Mixtes",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71963",
+    "cadence": "Lente",
+    "lieu": "68 - ESCHENTZWILLER",
+    "arbitre": "LENGERT Rene"
+  },
+  {
+    "date": "2026-05-09",
+    "titre": "CEHR Challenge Jeunes 2026 U14 Mixtes",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71964",
+    "cadence": "Lente",
+    "lieu": "68 - ESCHENTZWILLER",
+    "arbitre": "LENGERT Rene"
+  },
+  {
+    "date": "2026-05-09",
+    "titre": "CEHR Challenge Jeunes 2026 U16 Mixtes",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71966",
+    "cadence": "Lente",
+    "lieu": "68 - ESCHENTZWILLER",
+    "arbitre": "LENGERT Rene"
   },
   {
     "date": "2026-05-09",
@@ -9009,6 +9081,14 @@
   },
   {
     "date": "2026-05-23",
+    "titre": "2e Open Jeunes d’Amilly",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71962",
+    "cadence": "Lente",
+    "lieu": "45 - AMILLY",
+    "arbitre": "BERNARD Denis"
+  },
+  {
+    "date": "2026-05-23",
     "titre": "2nd Open International des Maîtres du Temps de Cahors",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70095",
     "cadence": "Lente",
@@ -9294,6 +9374,14 @@
     "cadence": "Lente",
     "lieu": "01 - MEXIMIEUX",
     "arbitre": "MAILLET Etienne"
+  },
+  {
+    "date": "2026-05-24",
+    "titre": "2e Open Jeunes d’Amilly",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71962",
+    "cadence": "Lente",
+    "lieu": "45 - AMILLY",
+    "arbitre": "BERNARD Denis"
   },
   {
     "date": "2026-05-24",
@@ -9585,6 +9673,14 @@
   },
   {
     "date": "2026-05-25",
+    "titre": "2e Open Jeunes d’Amilly",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71962",
+    "cadence": "Lente",
+    "lieu": "45 - AMILLY",
+    "arbitre": "BERNARD Denis"
+  },
+  {
+    "date": "2026-05-25",
     "titre": "2nd Open International des Maîtres du Temps de Cahors",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70095",
     "cadence": "Lente",
@@ -9742,6 +9838,14 @@
     "cadence": "Rapide",
     "lieu": "77 - NOISIEL",
     "arbitre": "BELEY Huong"
+  },
+  {
+    "date": "2026-05-29",
+    "titre": "4e Blitz du Philidor Mulhouse",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71955",
+    "cadence": "Blitz",
+    "lieu": "68 - MULHOUSE",
+    "arbitre": "GOETTELMANN Guillaum"
   },
   {
     "date": "2026-05-29",
@@ -17518,6 +17622,14 @@
     "cadence": "Lente",
     "lieu": "06 - MENTON",
     "arbitre": "PERNOUD Claire"
+  },
+  {
+    "date": "2026-10-24",
+    "titre": "4e Rapide de Socx",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71956",
+    "cadence": "Rapide",
+    "lieu": "59 - SOCX",
+    "arbitre": "FERYN Alexandre"
   },
   {
     "date": "2026-10-25",
