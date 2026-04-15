@@ -4849,6 +4849,14 @@
   },
   {
     "date": "2026-04-25",
+    "titre": "Rapide mensuel du CEIT avril 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71979",
+    "cadence": "Rapide",
+    "lieu": "31 - TOULOUSE",
+    "arbitre": "VAN ELST Andreas"
+  },
+  {
+    "date": "2026-04-25",
     "titre": "Tournoi des familles Axa 25 avril 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71864",
     "cadence": "Lente",
@@ -5070,6 +5078,14 @@
     "cadence": "Rapide",
     "lieu": "84 - AVIGNON",
     "arbitre": "BACON Bruno"
+  },
+  {
+    "date": "2026-04-26",
+    "titre": "Rapide du Blitz Society du 26 avril",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71968",
+    "cadence": "Blitz",
+    "lieu": "75 - PARIS",
+    "arbitre": "BEZZA Zakaria"
   },
   {
     "date": "2026-04-26",
@@ -5374,6 +5390,14 @@
     "cadence": "Rapide",
     "lieu": "62 - ISBERGUES",
     "arbitre": "DUPONT Daniel-Noel"
+  },
+  {
+    "date": "2026-05-01",
+    "titre": "396è Rapide FIDE Interchess",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71969",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
   },
   {
     "date": "2026-05-01",
@@ -5713,6 +5737,14 @@
   },
   {
     "date": "2026-05-02",
+    "titre": "16è Marathon de Blitz FIDE Interchess",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71972",
+    "cadence": "Blitz",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-05-02",
     "titre": "1er Open International de Ouistreham",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71713",
     "cadence": "Lente",
@@ -5774,6 +5806,22 @@
     "cadence": "Lente",
     "lieu": "59 - ORCHIES",
     "arbitre": "RENARD Stephane"
+  },
+  {
+    "date": "2026-05-02",
+    "titre": "397è Rapide FIDE Interchess -1700 (conseillé aux débutants adultes jeunes et enfants)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71970",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-05-02",
+    "titre": "398è Rapide FIDE Interchess -2000 (conseillé aux débutants adultes jeunes et enfants)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71971",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
   },
   {
     "date": "2026-05-02",
@@ -6041,6 +6089,14 @@
   },
   {
     "date": "2026-05-03",
+    "titre": "253è Open FIDE Interchess de 3 Rondes -1800",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71973",
+    "cadence": "Lente",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-05-03",
     "titre": "2e Open de Montélimar",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=69707",
     "cadence": "Lente",
@@ -6078,6 +6134,14 @@
     "cadence": "Rapide",
     "lieu": "08 - VOUZIERS",
     "arbitre": "AKREMANN Jordan"
+  },
+  {
+    "date": "2026-05-03",
+    "titre": "399è Rapide FIDE Interchess",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71974",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
   },
   {
     "date": "2026-05-03",
@@ -6310,6 +6374,14 @@
     "cadence": "Lente",
     "lieu": "68 - KINGERSHEIM",
     "arbitre": "DE FAVERI Gabriel"
+  },
+  {
+    "date": "2026-05-06",
+    "titre": "Blitz mensuel d'Aubagne - Mai 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71967",
+    "cadence": "Blitz",
+    "lieu": "13 - AUBAGNE",
+    "arbitre": "ROMAN Sylvian"
   },
   {
     "date": "2026-05-06",
@@ -9033,6 +9105,14 @@
   },
   {
     "date": "2026-05-22",
+    "titre": "PrixDeBlitz Echiquier Nanceien 25-26 Tournoi 6",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71982",
+    "cadence": "Blitz",
+    "lieu": "54 - NANCY",
+    "arbitre": "RITTIE Daniel"
+  },
+  {
+    "date": "2026-05-22",
     "titre": "Tournoi interne Saint-Max 2025-2026 r8",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=68988",
     "cadence": "Lente",
@@ -9054,6 +9134,22 @@
     "cadence": "Lente",
     "lieu": "45 - AMILLY",
     "arbitre": "BERNARD Denis"
+  },
+  {
+    "date": "2026-05-23",
+    "titre": "1er Open Blitz FIDE d'Elne",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71980",
+    "cadence": "Blitz",
+    "lieu": "66 - ELNE",
+    "arbitre": "GARCIA Richard"
+  },
+  {
+    "date": "2026-05-23",
+    "titre": "20ème Open de Pentecôte du CEIT",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71978",
+    "cadence": "Lente",
+    "lieu": "31 - TOULOUSE",
+    "arbitre": "VAN ELST Andreas"
   },
   {
     "date": "2026-05-23",
@@ -9353,6 +9449,14 @@
   },
   {
     "date": "2026-05-24",
+    "titre": "20ème Open de Pentecôte du CEIT",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71978",
+    "cadence": "Lente",
+    "lieu": "31 - TOULOUSE",
+    "arbitre": "VAN ELST Andreas"
+  },
+  {
+    "date": "2026-05-24",
     "titre": "26e Open de Narbonne (-2400 elo)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70352",
     "cadence": "Lente",
@@ -9633,6 +9737,14 @@
   },
   {
     "date": "2026-05-25",
+    "titre": "20ème Open de Pentecôte du CEIT",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71978",
+    "cadence": "Lente",
+    "lieu": "31 - TOULOUSE",
+    "arbitre": "VAN ELST Andreas"
+  },
+  {
+    "date": "2026-05-25",
     "titre": "22ème Tournoi de Pentecôte de Bennwihr 2026 - Tournoi A",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71570",
     "cadence": "Lente",
@@ -9830,6 +9942,14 @@
     "cadence": "Lente",
     "lieu": "01 - MONTREVEL EN BRESSE",
     "arbitre": "WLASSEWITCH Sylvain"
+  },
+  {
+    "date": "2026-05-29",
+    "titre": "144ème Open Rapide de Montreuil",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71983",
+    "cadence": "Rapide",
+    "lieu": "93 - MONTREUIL",
+    "arbitre": "MAUFFREY Hugues"
   },
   {
     "date": "2026-05-29",
@@ -11457,6 +11577,14 @@
   },
   {
     "date": "2026-06-14",
+    "titre": "Rapide de Brest 2026 - Open Marie-Paule Lecuyer",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71981",
+    "cadence": "Rapide",
+    "lieu": "29 - BREST",
+    "arbitre": "LECORNU Laurent"
+  },
+  {
+    "date": "2026-06-14",
     "titre": "Rapide de Limoux 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71800",
     "cadence": "Rapide",
@@ -11542,6 +11670,14 @@
     "cadence": "Blitz",
     "lieu": "69 - CORBAS",
     "arbitre": "ACIKGOZ Tuncay"
+  },
+  {
+    "date": "2026-06-19",
+    "titre": "145ème Open Rapide de Montreuil",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71984",
+    "cadence": "Rapide",
+    "lieu": "93 - MONTREUIL",
+    "arbitre": "MAUFFREY Hugues"
   },
   {
     "date": "2026-06-19",
@@ -15825,6 +15961,30 @@
   },
   {
     "date": "2026-07-27",
+    "titre": "19ème Festival International d'Echecs de Marseille - Accession",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71976",
+    "cadence": "Lente",
+    "lieu": "13 - MARSEILLE",
+    "arbitre": "ESCAFRE Stephane"
+  },
+  {
+    "date": "2026-07-27",
+    "titre": "19ème Festival International d'Echecs de Marseille - Amateur",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71977",
+    "cadence": "Lente",
+    "lieu": "13 - MARSEILLE",
+    "arbitre": "ESCAFRE Stephane"
+  },
+  {
+    "date": "2026-07-27",
+    "titre": "19ème Festival International d'Echecs de Marseille - Principal",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71975",
+    "cadence": "Lente",
+    "lieu": "13 - MARSEILLE",
+    "arbitre": "ESCAFRE Stephane"
+  },
+  {
+    "date": "2026-07-27",
     "titre": "30ème Tournoi international de Créon - Tournoi Masters (+2100)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71607",
     "cadence": "Lente",
@@ -15849,6 +16009,30 @@
   },
   {
     "date": "2026-07-28",
+    "titre": "19ème Festival International d'Echecs de Marseille - Accession",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71976",
+    "cadence": "Lente",
+    "lieu": "13 - MARSEILLE",
+    "arbitre": "ESCAFRE Stephane"
+  },
+  {
+    "date": "2026-07-28",
+    "titre": "19ème Festival International d'Echecs de Marseille - Amateur",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71977",
+    "cadence": "Lente",
+    "lieu": "13 - MARSEILLE",
+    "arbitre": "ESCAFRE Stephane"
+  },
+  {
+    "date": "2026-07-28",
+    "titre": "19ème Festival International d'Echecs de Marseille - Principal",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71975",
+    "cadence": "Lente",
+    "lieu": "13 - MARSEILLE",
+    "arbitre": "ESCAFRE Stephane"
+  },
+  {
+    "date": "2026-07-28",
     "titre": "30ème Tournoi international de Créon - Tournoi Masters (+2100)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71607",
     "cadence": "Lente",
@@ -15873,6 +16057,30 @@
   },
   {
     "date": "2026-07-29",
+    "titre": "19ème Festival International d'Echecs de Marseille - Accession",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71976",
+    "cadence": "Lente",
+    "lieu": "13 - MARSEILLE",
+    "arbitre": "ESCAFRE Stephane"
+  },
+  {
+    "date": "2026-07-29",
+    "titre": "19ème Festival International d'Echecs de Marseille - Amateur",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71977",
+    "cadence": "Lente",
+    "lieu": "13 - MARSEILLE",
+    "arbitre": "ESCAFRE Stephane"
+  },
+  {
+    "date": "2026-07-29",
+    "titre": "19ème Festival International d'Echecs de Marseille - Principal",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71975",
+    "cadence": "Lente",
+    "lieu": "13 - MARSEILLE",
+    "arbitre": "ESCAFRE Stephane"
+  },
+  {
+    "date": "2026-07-29",
     "titre": "30ème Tournoi international de Créon - Tournoi Masters (+2100)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71607",
     "cadence": "Lente",
@@ -15894,6 +16102,30 @@
     "cadence": "Lente",
     "lieu": "33 - CREON",
     "arbitre": "MARIMON Frederic"
+  },
+  {
+    "date": "2026-07-30",
+    "titre": "19ème Festival International d'Echecs de Marseille - Accession",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71976",
+    "cadence": "Lente",
+    "lieu": "13 - MARSEILLE",
+    "arbitre": "ESCAFRE Stephane"
+  },
+  {
+    "date": "2026-07-30",
+    "titre": "19ème Festival International d'Echecs de Marseille - Amateur",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71977",
+    "cadence": "Lente",
+    "lieu": "13 - MARSEILLE",
+    "arbitre": "ESCAFRE Stephane"
+  },
+  {
+    "date": "2026-07-30",
+    "titre": "19ème Festival International d'Echecs de Marseille - Principal",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71975",
+    "cadence": "Lente",
+    "lieu": "13 - MARSEILLE",
+    "arbitre": "ESCAFRE Stephane"
   },
   {
     "date": "2026-07-30",
@@ -15942,6 +16174,30 @@
     "cadence": "Lente",
     "lieu": "33 - CREON",
     "arbitre": "MARIMON Frederic"
+  },
+  {
+    "date": "2026-07-31",
+    "titre": "19ème Festival International d'Echecs de Marseille - Accession",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71976",
+    "cadence": "Lente",
+    "lieu": "13 - MARSEILLE",
+    "arbitre": "ESCAFRE Stephane"
+  },
+  {
+    "date": "2026-07-31",
+    "titre": "19ème Festival International d'Echecs de Marseille - Amateur",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71977",
+    "cadence": "Lente",
+    "lieu": "13 - MARSEILLE",
+    "arbitre": "ESCAFRE Stephane"
+  },
+  {
+    "date": "2026-07-31",
+    "titre": "19ème Festival International d'Echecs de Marseille - Principal",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71975",
+    "cadence": "Lente",
+    "lieu": "13 - MARSEILLE",
+    "arbitre": "ESCAFRE Stephane"
   },
   {
     "date": "2026-07-31",
@@ -16006,6 +16262,30 @@
     "cadence": "Lente",
     "lieu": "22 - PERROS GUIREC",
     "arbitre": "CASTEL Efflam"
+  },
+  {
+    "date": "2026-08-01",
+    "titre": "19ème Festival International d'Echecs de Marseille - Accession",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71976",
+    "cadence": "Lente",
+    "lieu": "13 - MARSEILLE",
+    "arbitre": "ESCAFRE Stephane"
+  },
+  {
+    "date": "2026-08-01",
+    "titre": "19ème Festival International d'Echecs de Marseille - Amateur",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71977",
+    "cadence": "Lente",
+    "lieu": "13 - MARSEILLE",
+    "arbitre": "ESCAFRE Stephane"
+  },
+  {
+    "date": "2026-08-01",
+    "titre": "19ème Festival International d'Echecs de Marseille - Principal",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71975",
+    "cadence": "Lente",
+    "lieu": "13 - MARSEILLE",
+    "arbitre": "ESCAFRE Stephane"
   },
   {
     "date": "2026-08-01",
@@ -16094,6 +16374,30 @@
     "cadence": "Lente",
     "lieu": "14 - LISIEUX",
     "arbitre": "RODON Gurvan"
+  },
+  {
+    "date": "2026-08-02",
+    "titre": "19ème Festival International d'Echecs de Marseille - Accession",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71976",
+    "cadence": "Lente",
+    "lieu": "13 - MARSEILLE",
+    "arbitre": "ESCAFRE Stephane"
+  },
+  {
+    "date": "2026-08-02",
+    "titre": "19ème Festival International d'Echecs de Marseille - Amateur",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71977",
+    "cadence": "Lente",
+    "lieu": "13 - MARSEILLE",
+    "arbitre": "ESCAFRE Stephane"
+  },
+  {
+    "date": "2026-08-02",
+    "titre": "19ème Festival International d'Echecs de Marseille - Principal",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71975",
+    "cadence": "Lente",
+    "lieu": "13 - MARSEILLE",
+    "arbitre": "ESCAFRE Stephane"
   },
   {
     "date": "2026-08-02",
