@@ -1529,7 +1529,7 @@
   },
   {
     "date": "2026-04-08",
-    "titre": "104è Rapide FFE Interchess -1400 Elo et -14 Ans",
+    "titre": "104è Rapide FFE Interchess -1400 ANNULE",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71727",
     "cadence": "Rapide",
     "lieu": "75 - PARIS",
@@ -4432,6 +4432,14 @@
     "arbitre": "HENNEQUIN Chantal"
   },
   {
+    "date": "2026-04-23",
+    "titre": "Rapide interne Munchhausen Avril 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71985",
+    "cadence": "Rapide",
+    "lieu": "67 - MUNCHHAUSEN",
+    "arbitre": "MOOG Olivier"
+  },
+  {
     "date": "2026-04-24",
     "titre": "574e Rapide Fide du Canal",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71900",
@@ -4582,6 +4590,14 @@
     "cadence": "Blitz",
     "lieu": "57 - SARREGUEMINES",
     "arbitre": "MENETRIER Manuel"
+  },
+  {
+    "date": "2026-04-24",
+    "titre": "Rapide Patu de Rosemont 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71993",
+    "cadence": "Rapide",
+    "lieu": "9A - SAINT BENOIT",
+    "arbitre": "OLIVIER Jean"
   },
   {
     "date": "2026-04-24",
@@ -6617,6 +6633,14 @@
   },
   {
     "date": "2026-05-08",
+    "titre": "Blitz Echiquier Niçois 8 mai 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71999",
+    "cadence": "Blitz",
+    "lieu": "06 - NICE",
+    "arbitre": "VILLEGAS Pierre"
+  },
+  {
+    "date": "2026-05-08",
     "titre": "Challenge Hegy André 2026 r3-4",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71254",
     "cadence": "Lente",
@@ -6926,6 +6950,14 @@
     "cadence": "Lente",
     "lieu": "30 - NIMES",
     "arbitre": "PIERRE Timothee"
+  },
+  {
+    "date": "2026-05-09",
+    "titre": "Circuit rapide jeunes Isère 2026 - Etape 4",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71995",
+    "cadence": "Rapide",
+    "lieu": "38 - SAINT CLAIR DU RHONE",
+    "arbitre": "DELELIS-FANIEN Thier"
   },
   {
     "date": "2026-05-09",
@@ -7574,6 +7606,14 @@
     "cadence": "Lente",
     "lieu": "01 - GEX",
     "arbitre": "KUPALOV Igor"
+  },
+  {
+    "date": "2026-05-14",
+    "titre": "20e Tournoi de Blitz de Mundolsheim - Tournoi A",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71997",
+    "cadence": "Blitz",
+    "lieu": "67 - MUNDOLSHEIM",
+    "arbitre": "PETER Sasha"
   },
   {
     "date": "2026-05-14",
@@ -8929,6 +8969,14 @@
   },
   {
     "date": "2026-05-17",
+    "titre": "Grand tournoi des Faïenciers Mai 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71996",
+    "cadence": "Lente",
+    "lieu": "57 - SARREGUEMINES",
+    "arbitre": "MENETRIER Manuel"
+  },
+  {
+    "date": "2026-05-17",
     "titre": "Nat. 1 Féminines",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=68163",
     "cadence": "Lente",
@@ -9313,6 +9361,14 @@
   },
   {
     "date": "2026-05-23",
+    "titre": "Championnats de la Manche 2026 - de 2400",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71987",
+    "cadence": "Lente",
+    "lieu": "50 - BREHAL",
+    "arbitre": "BENETEAU Hubert"
+  },
+  {
+    "date": "2026-05-23",
     "titre": "Grand Blitz à Aix en Provence 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71292",
     "cadence": "Blitz",
@@ -9641,6 +9697,14 @@
   },
   {
     "date": "2026-05-24",
+    "titre": "Championnats de la Manche 2026 - de 2400",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71987",
+    "cadence": "Lente",
+    "lieu": "50 - BREHAL",
+    "arbitre": "BENETEAU Hubert"
+  },
+  {
+    "date": "2026-05-24",
     "titre": "Grand Rapide à Aix en Provence 2026 - Tournoi B (-1700 elo)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71294",
     "cadence": "Rapide",
@@ -9929,6 +9993,22 @@
   },
   {
     "date": "2026-05-27",
+    "titre": "Fermé LMC Mai 26 A",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71991",
+    "cadence": "Lente",
+    "lieu": "59 - LILLE",
+    "arbitre": "SOUBIROU Oriane"
+  },
+  {
+    "date": "2026-05-27",
+    "titre": "Fermé LMC Mai 26 B",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71992",
+    "cadence": "Lente",
+    "lieu": "59 - LILLE",
+    "arbitre": "SOUBIROU Oriane"
+  },
+  {
+    "date": "2026-05-27",
     "titre": "Tournoi interne Thiais 2026 r8",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=69780",
     "cadence": "Lente",
@@ -9942,6 +10022,22 @@
     "cadence": "Lente",
     "lieu": "01 - MONTREVEL EN BRESSE",
     "arbitre": "WLASSEWITCH Sylvain"
+  },
+  {
+    "date": "2026-05-28",
+    "titre": "Fermé LMC Mai 26 A",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71991",
+    "cadence": "Lente",
+    "lieu": "59 - LILLE",
+    "arbitre": "SOUBIROU Oriane"
+  },
+  {
+    "date": "2026-05-28",
+    "titre": "Fermé LMC Mai 26 B",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71992",
+    "cadence": "Lente",
+    "lieu": "59 - LILLE",
+    "arbitre": "SOUBIROU Oriane"
   },
   {
     "date": "2026-05-29",
@@ -10006,6 +10102,22 @@
     "cadence": "Blitz",
     "lieu": "54 - VANDOEUVRE LES NANCY",
     "arbitre": "BAABOUZ Moussa"
+  },
+  {
+    "date": "2026-05-29",
+    "titre": "Fermé LMC Mai 26 A",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71991",
+    "cadence": "Lente",
+    "lieu": "59 - LILLE",
+    "arbitre": "SOUBIROU Oriane"
+  },
+  {
+    "date": "2026-05-29",
+    "titre": "Fermé LMC Mai 26 B",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71992",
+    "cadence": "Lente",
+    "lieu": "59 - LILLE",
+    "arbitre": "SOUBIROU Oriane"
   },
   {
     "date": "2026-05-29",
@@ -10561,6 +10673,14 @@
   },
   {
     "date": "2026-06-03",
+    "titre": "4eme Rapide Jeunes St Jude- Armentières",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71998",
+    "cadence": "Rapide",
+    "lieu": "59 - ARMENTIERES",
+    "arbitre": "BLOT Philippe"
+  },
+  {
+    "date": "2026-06-03",
     "titre": "Interne 1hKO La Dame Noire 2026 r11-12",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=68086",
     "cadence": "Lente",
@@ -10598,6 +10718,14 @@
     "cadence": "Lente",
     "lieu": "78 - MONTIGNY LE BRETONNEUX",
     "arbitre": "RIVIER Sylvain"
+  },
+  {
+    "date": "2026-06-04",
+    "titre": "Rapide interne Munchhausen Juin 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71986",
+    "cadence": "Rapide",
+    "lieu": "67 - MUNCHHAUSEN",
+    "arbitre": "MOOG Olivier"
   },
   {
     "date": "2026-06-04",
@@ -11529,6 +11657,14 @@
   },
   {
     "date": "2026-06-14",
+    "titre": "Championnat d'Aveyron 2026 de Parties Rapides",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71988",
+    "cadence": "Rapide",
+    "lieu": "12 - NAUCELLE",
+    "arbitre": "HARY Serge"
+  },
+  {
+    "date": "2026-06-14",
     "titre": "Comité Directeur",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=68173",
     "cadence": "Lente",
@@ -12278,6 +12414,14 @@
     "cadence": "Lente",
     "lieu": "38 - VILLARD DE LANS",
     "arbitre": "PERNOUD Claire"
+  },
+  {
+    "date": "2026-06-28",
+    "titre": "22e tournoi rapide de Oye-Plage",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71989",
+    "cadence": "Rapide",
+    "lieu": "62 - OYE PLAGE",
+    "arbitre": "FLEURQUIN Boris"
   },
   {
     "date": "2026-06-28",
@@ -17760,6 +17904,14 @@
     "arbitre": "AIT CHAOUCHE Samy"
   },
   {
+    "date": "2026-10-17",
+    "titre": "2ème Open International de Saint-Macaire",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71990",
+    "cadence": "Lente",
+    "lieu": "33 - SAINT MACAIRE",
+    "arbitre": "MARIMON Frederic"
+  },
+  {
     "date": "2026-10-18",
     "titre": "23è Open International d'Echecs de Menton Tournoi A (1900 et +)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71134",
@@ -17782,6 +17934,14 @@
     "cadence": "Lente",
     "lieu": "06 - MENTON",
     "arbitre": "PERNOUD Claire"
+  },
+  {
+    "date": "2026-10-18",
+    "titre": "2ème Open International de Saint-Macaire",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71990",
+    "cadence": "Lente",
+    "lieu": "33 - SAINT MACAIRE",
+    "arbitre": "MARIMON Frederic"
   },
   {
     "date": "2026-10-19",
@@ -17808,6 +17968,14 @@
     "arbitre": "PERNOUD Claire"
   },
   {
+    "date": "2026-10-19",
+    "titre": "2ème Open International de Saint-Macaire",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71990",
+    "cadence": "Lente",
+    "lieu": "33 - SAINT MACAIRE",
+    "arbitre": "MARIMON Frederic"
+  },
+  {
     "date": "2026-10-20",
     "titre": "23è Open International d'Echecs de Menton Tournoi A (1900 et +)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71134",
@@ -17832,6 +18000,14 @@
     "arbitre": "PERNOUD Claire"
   },
   {
+    "date": "2026-10-20",
+    "titre": "2ème Open International de Saint-Macaire",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71990",
+    "cadence": "Lente",
+    "lieu": "33 - SAINT MACAIRE",
+    "arbitre": "MARIMON Frederic"
+  },
+  {
     "date": "2026-10-21",
     "titre": "23è Open International d'Echecs de Menton Tournoi A (1900 et +)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71134",
@@ -17854,6 +18030,14 @@
     "cadence": "Lente",
     "lieu": "06 - MENTON",
     "arbitre": "PERNOUD Claire"
+  },
+  {
+    "date": "2026-10-21",
+    "titre": "2ème Open International de Saint-Macaire",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71990",
+    "cadence": "Lente",
+    "lieu": "33 - SAINT MACAIRE",
+    "arbitre": "MARIMON Frederic"
   },
   {
     "date": "2026-10-22",
