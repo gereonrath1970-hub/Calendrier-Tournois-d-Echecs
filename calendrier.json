@@ -5225,6 +5225,14 @@
   },
   {
     "date": "2026-04-29",
+    "titre": "4eme rapide de Pantin",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72007",
+    "cadence": "Rapide",
+    "lieu": "93 - PANTIN",
+    "arbitre": "DORVAL Olivier"
+  },
+  {
+    "date": "2026-04-29",
     "titre": "Tournoi d 'Echecs Scolaire Lyon 2 29 avril 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71704",
     "cadence": "Lente",
@@ -10417,6 +10425,22 @@
   },
   {
     "date": "2026-05-31",
+    "titre": "1er open rapide de Viuz-en-Sallaz Accession",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72004",
+    "cadence": "Rapide",
+    "lieu": "74 - VIUZ EN SALLAZ",
+    "arbitre": "MANUEL Marc"
+  },
+  {
+    "date": "2026-05-31",
+    "titre": "1er open rapide de Viuz-en-Sallaz-Principal",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72003",
+    "cadence": "Rapide",
+    "lieu": "74 - VIUZ EN SALLAZ",
+    "arbitre": "MANUEL Marc"
+  },
+  {
+    "date": "2026-05-31",
     "titre": "2ème Open rapide de Bures-sur-Yvette - mai 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71226",
     "cadence": "Rapide",
@@ -11393,6 +11417,22 @@
   },
   {
     "date": "2026-06-13",
+    "titre": "4ème Open +1700 Echecs Academy Marseille Passion A (-2400)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72001",
+    "cadence": "Lente",
+    "lieu": "13 - MARSEILLE",
+    "arbitre": "BEDHOUCHE Sadek"
+  },
+  {
+    "date": "2026-06-13",
+    "titre": "4ème Open -1800 Echecs Academy Marseille Passion B (-1800)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72002",
+    "cadence": "Lente",
+    "lieu": "13 - MARSEILLE",
+    "arbitre": "BEDHOUCHE Sadek"
+  },
+  {
+    "date": "2026-06-13",
     "titre": "Championnat de Franche-Comté de blitz 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71767",
     "cadence": "Blitz",
@@ -11478,6 +11518,14 @@
     "cadence": "Rapide",
     "lieu": "62 - VENDIN LES BETHUNE",
     "arbitre": "LE ROL Eric"
+  },
+  {
+    "date": "2026-06-14",
+    "titre": "14 tournoi pédagogique",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72006",
+    "cadence": "Lente",
+    "lieu": "78 - MAGNY LES HAMEAUX",
+    "arbitre": "PLANTET Marc"
   },
   {
     "date": "2026-06-14",
@@ -11598,6 +11646,30 @@
     "cadence": "Lente",
     "lieu": "74 - SALLANCHES",
     "arbitre": "MANUEL Marc"
+  },
+  {
+    "date": "2026-06-14",
+    "titre": "4ème Open +1700 Echecs Academy Marseille Passion A (-2400)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72001",
+    "cadence": "Lente",
+    "lieu": "13 - MARSEILLE",
+    "arbitre": "BEDHOUCHE Sadek"
+  },
+  {
+    "date": "2026-06-14",
+    "titre": "4ème Open -1800 Echecs Academy Marseille Passion B (-1800)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72002",
+    "cadence": "Lente",
+    "lieu": "13 - MARSEILLE",
+    "arbitre": "BEDHOUCHE Sadek"
+  },
+  {
+    "date": "2026-06-14",
+    "titre": "4ème Open de Bonneuil",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72000",
+    "cadence": "Lente",
+    "lieu": "94 - BONNEUIL SUR MARNE",
+    "arbitre": "GELIN Helene"
   },
   {
     "date": "2026-06-14",
@@ -11768,6 +11840,14 @@
     "arbitre": "DUBERTRAND Bernard"
   },
   {
+    "date": "2026-06-15",
+    "titre": "Interne de Poissy tournoi fermé eté 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72008",
+    "cadence": "Lente",
+    "lieu": "78 - POISSY",
+    "arbitre": "PLANTET Marc"
+  },
+  {
     "date": "2026-06-16",
     "titre": "Blitz interne de Sainte Anne d'Auray 2025-26 - 5",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=69302",
@@ -11784,12 +11864,28 @@
     "arbitre": "DUBERTRAND Bernard"
   },
   {
+    "date": "2026-06-16",
+    "titre": "Interne de Poissy tournoi fermé eté 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72008",
+    "cadence": "Lente",
+    "lieu": "78 - POISSY",
+    "arbitre": "PLANTET Marc"
+  },
+  {
     "date": "2026-06-17",
     "titre": "Interne Echiquier Montois 2026 r5-7",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71502",
     "cadence": "Lente",
     "lieu": "40 - MONT DE MARSAN",
     "arbitre": "DUBERTRAND Bernard"
+  },
+  {
+    "date": "2026-06-17",
+    "titre": "Interne de Poissy tournoi fermé eté 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72008",
+    "cadence": "Lente",
+    "lieu": "78 - POISSY",
+    "arbitre": "PLANTET Marc"
   },
   {
     "date": "2026-06-18",
@@ -13382,6 +13478,14 @@
     "cadence": "Lente",
     "lieu": "34 - FABREGUES",
     "arbitre": "FOSSELLA Manuel"
+  },
+  {
+    "date": "2026-07-05",
+    "titre": "Festival international d'échecs de Clichy 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72005",
+    "cadence": "Lente",
+    "lieu": "92 - CLICHY",
+    "arbitre": "BONVALOT Isabelle"
   },
   {
     "date": "2026-07-05",
