@@ -3969,14 +3969,6 @@
   },
   {
     "date": "2026-04-21",
-    "titre": "41eme échecs et malt",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71395",
-    "cadence": "Lente",
-    "lieu": "93 - PANTIN",
-    "arbitre": "AZZEGAG Jocelyn"
-  },
-  {
-    "date": "2026-04-21",
     "titre": "Championnat de France des Jeunes",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=68167",
     "cadence": "Lente",
@@ -5581,7 +5573,7 @@
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71844",
     "cadence": "Blitz",
     "lieu": "57 - THIONVILLE",
-    "arbitre": "LEFEBVRE Lucas"
+    "arbitre": "ROBY Simon"
   },
   {
     "date": "2026-05-01",
@@ -5918,6 +5910,14 @@
     "cadence": "Rapide",
     "lieu": "57 - THIONVILLE",
     "arbitre": "LEFEBVRE Lucas"
+  },
+  {
+    "date": "2026-05-02",
+    "titre": "Open de l'Accordeur 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72012",
+    "cadence": "Lente",
+    "lieu": "9B - CAYENNE",
+    "arbitre": "LEVEQUE Christophe"
   },
   {
     "date": "2026-05-02",
@@ -6281,6 +6281,14 @@
   },
   {
     "date": "2026-05-03",
+    "titre": "Open de l'Accordeur 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72012",
+    "cadence": "Lente",
+    "lieu": "9B - CAYENNE",
+    "arbitre": "LEVEQUE Christophe"
+  },
+  {
+    "date": "2026-05-03",
     "titre": "Rapide de Pierrevert 2026 Tournoi A",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71619",
     "cadence": "Rapide",
@@ -6390,6 +6398,14 @@
     "cadence": "Lente",
     "lieu": "54 - SEICHAMPS",
     "arbitre": "SCHMITT Nicolas"
+  },
+  {
+    "date": "2026-05-05",
+    "titre": "42eme échecs et malt",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72014",
+    "cadence": "Lente",
+    "lieu": "93 - PANTIN",
+    "arbitre": "AZZEGAG Jocelyn"
   },
   {
     "date": "2026-05-05",
@@ -10017,6 +10033,14 @@
   },
   {
     "date": "2026-05-27",
+    "titre": "Tournoi Rapide FIDE de l'école d'échecs de Hyères - Mai 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72013",
+    "cadence": "Rapide",
+    "lieu": "83 - HYERES",
+    "arbitre": "RAMAZZOTTI Bernard"
+  },
+  {
+    "date": "2026-05-27",
     "titre": "Tournoi interne Thiais 2026 r8",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=69780",
     "cadence": "Lente",
@@ -10705,6 +10729,14 @@
   },
   {
     "date": "2026-06-03",
+    "titre": "Championnat du Var des Maternelles 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72009",
+    "cadence": "Lente",
+    "lieu": "83 - HYERES",
+    "arbitre": "RAMAZZOTTI Bernard"
+  },
+  {
+    "date": "2026-06-03",
     "titre": "Interne 1hKO La Dame Noire 2026 r11-12",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=68086",
     "cadence": "Lente",
@@ -11278,6 +11310,14 @@
     "cadence": "Lente",
     "lieu": "74 - ANNEMASSE",
     "arbitre": "SYLVESTRE-BARON Mich"
+  },
+  {
+    "date": "2026-06-10",
+    "titre": "Championnat de Hyères des Cours Préparatoires 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72010",
+    "cadence": "Lente",
+    "lieu": "83 - HYERES",
+    "arbitre": "RAMAZZOTTI Bernard"
   },
   {
     "date": "2026-06-10",
