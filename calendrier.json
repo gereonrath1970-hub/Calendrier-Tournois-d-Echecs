@@ -2289,14 +2289,6 @@
   },
   {
     "date": "2026-04-11",
-    "titre": "Rapide des Faïenciers - 7 - tournoi du printemps 2026",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=68886",
-    "cadence": "Rapide",
-    "lieu": "57 - SARREGUEMINES",
-    "arbitre": "MENETRIER Manuel"
-  },
-  {
-    "date": "2026-04-11",
     "titre": "Tournoi Interne METL 2025-26 (-2400) r7",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=69012",
     "cadence": "Lente",
@@ -4849,14 +4841,6 @@
   },
   {
     "date": "2026-04-25",
-    "titre": "Rapide mensuel d'Avril 2026 des Cavaliers d'Argens",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71370",
-    "cadence": "Rapide",
-    "lieu": "83 - VIDAUBAN",
-    "arbitre": "PELLICANO Marc"
-  },
-  {
-    "date": "2026-04-25",
     "titre": "Rapide mensuel du CEIT avril 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71979",
     "cadence": "Rapide",
@@ -6417,6 +6401,14 @@
   },
   {
     "date": "2026-05-06",
+    "titre": "400è Rapide FIDE Interchess 2200 (conseillé aux débutants adultes jeunes et enfants)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72021",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-05-06",
     "titre": "Blitz mensuel d'Aubagne - Mai 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71967",
     "cadence": "Blitz",
@@ -6449,11 +6441,35 @@
   },
   {
     "date": "2026-05-07",
+    "titre": "108è Rapide FFE Interchess -1600 Elo (conseillé aux débutants adultes jeunes et enfants)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72018",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-05-07",
+    "titre": "401è Rapide FIDE Interchess",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72022",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-05-07",
     "titre": "Challenge Hegy André 2026 r3-4",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71254",
     "cadence": "Lente",
     "lieu": "68 - KINGERSHEIM",
     "arbitre": "DE FAVERI Gabriel"
+  },
+  {
+    "date": "2026-05-08",
+    "titre": "103è Blitz FIDE Interchess",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72025",
+    "cadence": "Blitz",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
   },
   {
     "date": "2026-05-08",
@@ -6542,6 +6558,22 @@
     "cadence": "Lente",
     "lieu": "51 - REIMS",
     "arbitre": "PIERQUIN Bernard"
+  },
+  {
+    "date": "2026-05-08",
+    "titre": "254è Open FIDE Interchess de 3 Rondes (réservé elo fide 1600 à 1799)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72023",
+    "cadence": "Lente",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-05-08",
+    "titre": "255è Open FIDE Interchess de 3 Rondes -1700",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72024",
+    "cadence": "Lente",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
   },
   {
     "date": "2026-05-08",
@@ -6782,6 +6814,14 @@
     "cadence": "Rapide",
     "lieu": "13 - VITROLLES",
     "arbitre": "REGAUD Denis"
+  },
+  {
+    "date": "2026-05-09",
+    "titre": "10è Marathon Rapide FFE Interchess -2000 (conseillé aux débutants adultes et jeunes)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72016",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "PHAM Hieu Tuong"
   },
   {
     "date": "2026-05-09",
@@ -7030,6 +7070,14 @@
     "cadence": "Lente",
     "lieu": "22 - SAINT BRIEUC",
     "arbitre": "CLOAREC Bernard"
+  },
+  {
+    "date": "2026-05-09",
+    "titre": "RAPIDASPOM 09-05-2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72026",
+    "cadence": "Lente",
+    "lieu": "33 - BORDEAUX",
+    "arbitre": "SALLETTE Alain"
   },
   {
     "date": "2026-05-09",
@@ -9065,6 +9113,14 @@
   },
   {
     "date": "2026-05-18",
+    "titre": "5ème Championnat Interne de Gex",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72019",
+    "cadence": "Lente",
+    "lieu": "01 - GEX",
+    "arbitre": "LALIEU Charles"
+  },
+  {
+    "date": "2026-05-18",
     "titre": "CCC - Tournoi Fou 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71821",
     "cadence": "Lente",
@@ -9078,6 +9134,14 @@
     "cadence": "Lente",
     "lieu": "2B - BASTIA",
     "arbitre": "GERONIMI Pierre-Fran"
+  },
+  {
+    "date": "2026-05-19",
+    "titre": "5ème Championnat Interne de Gex",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72019",
+    "cadence": "Lente",
+    "lieu": "01 - GEX",
+    "arbitre": "LALIEU Charles"
   },
   {
     "date": "2026-05-19",
@@ -9105,6 +9169,14 @@
   },
   {
     "date": "2026-05-20",
+    "titre": "5ème Championnat Interne de Gex",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72019",
+    "cadence": "Lente",
+    "lieu": "01 - GEX",
+    "arbitre": "LALIEU Charles"
+  },
+  {
+    "date": "2026-05-20",
     "titre": "CCC - Tournoi Fou 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71821",
     "cadence": "Lente",
@@ -9129,6 +9201,14 @@
   },
   {
     "date": "2026-05-21",
+    "titre": "5ème Championnat Interne de Gex",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72019",
+    "cadence": "Lente",
+    "lieu": "01 - GEX",
+    "arbitre": "LALIEU Charles"
+  },
+  {
+    "date": "2026-05-21",
     "titre": "CCC - Tournoi Fou 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71821",
     "cadence": "Lente",
@@ -9150,6 +9230,14 @@
     "cadence": "Rapide",
     "lieu": "75 - PARIS",
     "arbitre": "RUBINI Xavier"
+  },
+  {
+    "date": "2026-05-22",
+    "titre": "5ème Championnat Interne de Gex",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72019",
+    "cadence": "Lente",
+    "lieu": "01 - GEX",
+    "arbitre": "LALIEU Charles"
   },
   {
     "date": "2026-05-22",
@@ -9369,6 +9457,14 @@
   },
   {
     "date": "2026-05-23",
+    "titre": "5ème Championnat Interne de Gex",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72019",
+    "cadence": "Lente",
+    "lieu": "01 - GEX",
+    "arbitre": "LALIEU Charles"
+  },
+  {
+    "date": "2026-05-23",
     "titre": "6ème Open International d'Avallon",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71837",
     "cadence": "Lente",
@@ -9406,6 +9502,14 @@
     "cadence": "Lente",
     "lieu": "51 - REIMS",
     "arbitre": "BUREAU Francis"
+  },
+  {
+    "date": "2026-05-23",
+    "titre": "RAPIDASPOM 23-05-2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72027",
+    "cadence": "Lente",
+    "lieu": "33 - BORDEAUX",
+    "arbitre": "SALLETTE Alain"
   },
   {
     "date": "2026-05-23",
@@ -9689,6 +9793,14 @@
   },
   {
     "date": "2026-05-24",
+    "titre": "5ème Championnat Interne de Gex",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72019",
+    "cadence": "Lente",
+    "lieu": "01 - GEX",
+    "arbitre": "LALIEU Charles"
+  },
+  {
+    "date": "2026-05-24",
     "titre": "6ème Open International d'Avallon",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71837",
     "cadence": "Lente",
@@ -9953,6 +10065,14 @@
   },
   {
     "date": "2026-05-25",
+    "titre": "5ème Championnat Interne de Gex",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72019",
+    "cadence": "Lente",
+    "lieu": "01 - GEX",
+    "arbitre": "LALIEU Charles"
+  },
+  {
+    "date": "2026-05-25",
     "titre": "6ème Open International d'Avallon",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71837",
     "cadence": "Lente",
@@ -10014,6 +10134,14 @@
     "cadence": "Lente",
     "lieu": "30 - ALES",
     "arbitre": "PIERRE Timothee"
+  },
+  {
+    "date": "2026-05-26",
+    "titre": "Tournoi d’échecs du lycée Marguerite Jauzelon (Bellepierre 2026)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72017",
+    "cadence": "Lente",
+    "lieu": "9A - SAINT DENIS",
+    "arbitre": "PRETET Thierry"
   },
   {
     "date": "2026-05-27",
@@ -10342,6 +10470,14 @@
     "cadence": "Lente",
     "lieu": "78 - MONTIGNY LE BRETONNEUX",
     "arbitre": "RIVIER Sylvain"
+  },
+  {
+    "date": "2026-05-30",
+    "titre": "RAPIDASPOM 30-05-2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72028",
+    "cadence": "Lente",
+    "lieu": "33 - BORDEAUX",
+    "arbitre": "SALLETTE Alain"
   },
   {
     "date": "2026-05-30",
@@ -10969,6 +11105,14 @@
   },
   {
     "date": "2026-06-06",
+    "titre": "Championnat des Yvelines toutes catégorie 2026 (-2400)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72020",
+    "cadence": "Lente",
+    "lieu": "78 - MANTES LA JOLIE",
+    "arbitre": "CLAISSE Patrick"
+  },
+  {
+    "date": "2026-06-06",
     "titre": "Championnat du Lot Lent 2026 (-2400)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71036",
     "cadence": "Lente",
@@ -11014,6 +11158,14 @@
     "cadence": "Lente",
     "lieu": "78 - MONTIGNY LE BRETONNEUX",
     "arbitre": "RIVIER Sylvain"
+  },
+  {
+    "date": "2026-06-06",
+    "titre": "RAPIDASPOM 06-06-2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72029",
+    "cadence": "Lente",
+    "lieu": "33 - BORDEAUX",
+    "arbitre": "SALLETTE Alain"
   },
   {
     "date": "2026-06-06",
@@ -11198,6 +11350,14 @@
     "cadence": "Lente",
     "lieu": "50 - AGNEAUX",
     "arbitre": "BENETEAU Hubert"
+  },
+  {
+    "date": "2026-06-07",
+    "titre": "Championnat des Yvelines toutes catégorie 2026 (-2400)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72020",
+    "cadence": "Lente",
+    "lieu": "78 - MANTES LA JOLIE",
+    "arbitre": "CLAISSE Patrick"
   },
   {
     "date": "2026-06-07",
@@ -11494,6 +11654,14 @@
     "cadence": "Lente",
     "lieu": "40 - MONT DE MARSAN",
     "arbitre": "DUBERTRAND Bernard"
+  },
+  {
+    "date": "2026-06-13",
+    "titre": "Rapide mensuel d'Avril 2026 des Cavaliers d'Argens",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71370",
+    "cadence": "Rapide",
+    "lieu": "83 - VIDAUBAN",
+    "arbitre": "PELLICANO Marc"
   },
   {
     "date": "2026-06-13",
@@ -13382,6 +13550,14 @@
     "cadence": "Lente",
     "lieu": "83 - HYERES",
     "arbitre": "RAMAZZOTTI Bernard"
+  },
+  {
+    "date": "2026-07-05",
+    "titre": "1er Tournoi Rapide de Royan - Tournoi Principal",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72030",
+    "cadence": "Rapide",
+    "lieu": "17 - ROYAN",
+    "arbitre": "LOUASSIER Nadege"
   },
   {
     "date": "2026-07-05",
