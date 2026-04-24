@@ -1993,22 +1993,6 @@
   },
   {
     "date": "2026-04-11",
-    "titre": "4e tournois toutes rondes d'Ille et Mat - I",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71758",
-    "cadence": "Lente",
-    "lieu": "35 - SAINT GREGOIRE",
-    "arbitre": "PERNOT Damien"
-  },
-  {
-    "date": "2026-04-11",
-    "titre": "4e tournois toutes rondes d'Ille et Mat - J",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71759",
-    "cadence": "Lente",
-    "lieu": "35 - SAINT GREGOIRE",
-    "arbitre": "PERNOT Damien"
-  },
-  {
-    "date": "2026-04-11",
     "titre": "4e tournois toutes rondes d'Ille et Mat - Suisse",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70693",
     "cadence": "Lente",
@@ -2665,22 +2649,6 @@
   },
   {
     "date": "2026-04-12",
-    "titre": "4e tournois toutes rondes d'Ille et Mat - I",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71758",
-    "cadence": "Lente",
-    "lieu": "35 - SAINT GREGOIRE",
-    "arbitre": "PERNOT Damien"
-  },
-  {
-    "date": "2026-04-12",
-    "titre": "4e tournois toutes rondes d'Ille et Mat - J",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71759",
-    "cadence": "Lente",
-    "lieu": "35 - SAINT GREGOIRE",
-    "arbitre": "PERNOT Damien"
-  },
-  {
-    "date": "2026-04-12",
     "titre": "4e tournois toutes rondes d'Ille et Mat - Suisse",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70693",
     "cadence": "Lente",
@@ -3001,22 +2969,6 @@
   },
   {
     "date": "2026-04-13",
-    "titre": "4e tournois toutes rondes d'Ille et Mat - I",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71758",
-    "cadence": "Lente",
-    "lieu": "35 - SAINT GREGOIRE",
-    "arbitre": "PERNOT Damien"
-  },
-  {
-    "date": "2026-04-13",
-    "titre": "4e tournois toutes rondes d'Ille et Mat - J",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71759",
-    "cadence": "Lente",
-    "lieu": "35 - SAINT GREGOIRE",
-    "arbitre": "PERNOT Damien"
-  },
-  {
-    "date": "2026-04-13",
     "titre": "4e tournois toutes rondes d'Ille et Mat - Suisse",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70693",
     "cadence": "Lente",
@@ -3139,22 +3091,6 @@
     "date": "2026-04-14",
     "titre": "4e tournois toutes rondes d'Ille et Mat - H",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70692",
-    "cadence": "Lente",
-    "lieu": "35 - SAINT GREGOIRE",
-    "arbitre": "PERNOT Damien"
-  },
-  {
-    "date": "2026-04-14",
-    "titre": "4e tournois toutes rondes d'Ille et Mat - I",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71758",
-    "cadence": "Lente",
-    "lieu": "35 - SAINT GREGOIRE",
-    "arbitre": "PERNOT Damien"
-  },
-  {
-    "date": "2026-04-14",
-    "titre": "4e tournois toutes rondes d'Ille et Mat - J",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71759",
     "cadence": "Lente",
     "lieu": "35 - SAINT GREGOIRE",
     "arbitre": "PERNOT Damien"
@@ -11230,6 +11166,14 @@
     "cadence": "Rapide",
     "lieu": "62 - ISBERGUES",
     "arbitre": "CLAREBOUT Julien"
+  },
+  {
+    "date": "2026-06-07",
+    "titre": "27e Rapide de Fouesnant - Tournoi C U8-U10",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72031",
+    "cadence": "Rapide",
+    "lieu": "29 - FOUESNANT",
+    "arbitre": "LECORNU Laurent"
   },
   {
     "date": "2026-06-07",
