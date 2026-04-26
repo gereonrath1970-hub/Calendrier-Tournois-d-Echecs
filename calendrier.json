@@ -1889,7 +1889,7 @@
   },
   {
     "date": "2026-04-11",
-    "titre": "34e Rapide Fide de l'Echecs Club Montpellier",
+    "titre": "34e Rapide Fide de l'Echecs Club Montpellier ANNULE",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=69385",
     "cadence": "Rapide",
     "lieu": "34 - MONTPELLIER",
@@ -3145,7 +3145,7 @@
   },
   {
     "date": "2026-04-15",
-    "titre": "105è Rapide FFE Interchess -1400 Elo et - 14 Ans",
+    "titre": "105è Rapide FFE Interchess -1400 Elo ANNULE",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71785",
     "cadence": "Rapide",
     "lieu": "75 - PARIS",
@@ -6849,6 +6849,14 @@
   },
   {
     "date": "2026-05-09",
+    "titre": "8ème Open du Petit Capitole B -2000 (-2400)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72038",
+    "cadence": "Lente",
+    "lieu": "31 - TOULOUSE",
+    "arbitre": "CWIEK NGUYEN Francoi"
+  },
+  {
+    "date": "2026-05-09",
     "titre": "9ème Open FIDE de Carquefou - Tournoi A (1600-2400)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=69908",
     "cadence": "Lente",
@@ -7105,6 +7113,22 @@
   },
   {
     "date": "2026-05-10",
+    "titre": "21ème Rapide de Lesneven",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72032",
+    "cadence": "Rapide",
+    "lieu": "29 - LESNEVEN",
+    "arbitre": "PRIGENT Jerome"
+  },
+  {
+    "date": "2026-05-10",
+    "titre": "21èmeTournoi Rapide des moins de 1300 de Lesneven",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72041",
+    "cadence": "Rapide",
+    "lieu": "29 - LESNEVEN",
+    "arbitre": "PRIGENT Jerome"
+  },
+  {
+    "date": "2026-05-10",
     "titre": "2e tournoi fermé à norme de MI du Pays de Bray",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70089",
     "cadence": "Lente",
@@ -7171,6 +7195,14 @@
     "date": "2026-05-10",
     "titre": "8ème Open du Petit Capitole -2000 (-2400)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71888",
+    "cadence": "Lente",
+    "lieu": "31 - TOULOUSE",
+    "arbitre": "CWIEK NGUYEN Francoi"
+  },
+  {
+    "date": "2026-05-10",
+    "titre": "8ème Open du Petit Capitole B -2000 (-2400)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72038",
     "cadence": "Lente",
     "lieu": "31 - TOULOUSE",
     "arbitre": "CWIEK NGUYEN Francoi"
@@ -9185,6 +9217,14 @@
   },
   {
     "date": "2026-05-22",
+    "titre": "Blitz de Mai de l'Échiquier Nîmois 2026-05-22",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72035",
+    "cadence": "Blitz",
+    "lieu": "30 - NIMES",
+    "arbitre": "PIERRE Timothee"
+  },
+  {
+    "date": "2026-05-22",
     "titre": "CCC - Tournoi Fou 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71821",
     "cadence": "Lente",
@@ -9206,6 +9246,14 @@
     "cadence": "Blitz",
     "lieu": "54 - NANCY",
     "arbitre": "RITTIE Daniel"
+  },
+  {
+    "date": "2026-05-22",
+    "titre": "Tournoi de blitz d'Albi 22 mai 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72034",
+    "cadence": "Blitz",
+    "lieu": "81 - ALBI",
+    "arbitre": "AUREJAC Pierre"
   },
   {
     "date": "2026-05-22",
@@ -9430,6 +9478,14 @@
     "cadence": "Blitz",
     "lieu": "13 - AIX EN PROVENCE",
     "arbitre": "DIMITROV Christo"
+  },
+  {
+    "date": "2026-05-23",
+    "titre": "Les samedis de Colomiers - Open Mai 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72039",
+    "cadence": "Lente",
+    "lieu": "31 - COLOMIERS",
+    "arbitre": "CARPENTIER Jean-Chri"
   },
   {
     "date": "2026-05-23",
@@ -11318,6 +11374,14 @@
     "cadence": "Lente",
     "lieu": "37 - CHANCEAUX SUR CHOISILLE",
     "arbitre": "POTAUX Olivier"
+  },
+  {
+    "date": "2026-06-07",
+    "titre": "Festival Echec et Mat Open Rapide à Foix Juin 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72033",
+    "cadence": "Rapide",
+    "lieu": "09 - FOIX",
+    "arbitre": "FONT Marc"
   },
   {
     "date": "2026-06-07",
@@ -18176,6 +18240,22 @@
     "arbitre": "MARIMON Frederic"
   },
   {
+    "date": "2026-10-17",
+    "titre": "Open international de Liffré 2026 - A",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72036",
+    "cadence": "Lente",
+    "lieu": "35 - LIFFRE",
+    "arbitre": "RUHLMANN Dominique"
+  },
+  {
+    "date": "2026-10-17",
+    "titre": "Open international de Liffré 2026 - B",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72037",
+    "cadence": "Lente",
+    "lieu": "35 - LIFFRE",
+    "arbitre": "RUHLMANN Dominique"
+  },
+  {
     "date": "2026-10-18",
     "titre": "23è Open International d'Echecs de Menton Tournoi A (1900 et +)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71134",
@@ -18206,6 +18286,22 @@
     "cadence": "Lente",
     "lieu": "33 - SAINT MACAIRE",
     "arbitre": "MARIMON Frederic"
+  },
+  {
+    "date": "2026-10-18",
+    "titre": "Open international de Liffré 2026 - A",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72036",
+    "cadence": "Lente",
+    "lieu": "35 - LIFFRE",
+    "arbitre": "RUHLMANN Dominique"
+  },
+  {
+    "date": "2026-10-18",
+    "titre": "Open international de Liffré 2026 - B",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72037",
+    "cadence": "Lente",
+    "lieu": "35 - LIFFRE",
+    "arbitre": "RUHLMANN Dominique"
   },
   {
     "date": "2026-10-19",
@@ -18240,6 +18336,22 @@
     "arbitre": "MARIMON Frederic"
   },
   {
+    "date": "2026-10-19",
+    "titre": "Open international de Liffré 2026 - A",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72036",
+    "cadence": "Lente",
+    "lieu": "35 - LIFFRE",
+    "arbitre": "RUHLMANN Dominique"
+  },
+  {
+    "date": "2026-10-19",
+    "titre": "Open international de Liffré 2026 - B",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72037",
+    "cadence": "Lente",
+    "lieu": "35 - LIFFRE",
+    "arbitre": "RUHLMANN Dominique"
+  },
+  {
     "date": "2026-10-20",
     "titre": "23è Open International d'Echecs de Menton Tournoi A (1900 et +)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71134",
@@ -18272,6 +18384,22 @@
     "arbitre": "MARIMON Frederic"
   },
   {
+    "date": "2026-10-20",
+    "titre": "Open international de Liffré 2026 - A",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72036",
+    "cadence": "Lente",
+    "lieu": "35 - LIFFRE",
+    "arbitre": "RUHLMANN Dominique"
+  },
+  {
+    "date": "2026-10-20",
+    "titre": "Open international de Liffré 2026 - B",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72037",
+    "cadence": "Lente",
+    "lieu": "35 - LIFFRE",
+    "arbitre": "RUHLMANN Dominique"
+  },
+  {
     "date": "2026-10-21",
     "titre": "23è Open International d'Echecs de Menton Tournoi A (1900 et +)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71134",
@@ -18302,6 +18430,30 @@
     "cadence": "Lente",
     "lieu": "33 - SAINT MACAIRE",
     "arbitre": "MARIMON Frederic"
+  },
+  {
+    "date": "2026-10-21",
+    "titre": "Open international de Liffré 2026 - A",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72036",
+    "cadence": "Lente",
+    "lieu": "35 - LIFFRE",
+    "arbitre": "RUHLMANN Dominique"
+  },
+  {
+    "date": "2026-10-21",
+    "titre": "Open international de Liffré 2026 - B",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72037",
+    "cadence": "Lente",
+    "lieu": "35 - LIFFRE",
+    "arbitre": "RUHLMANN Dominique"
+  },
+  {
+    "date": "2026-10-21",
+    "titre": "Open international de Liffré 2026 - Blitz",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72040",
+    "cadence": "Blitz",
+    "lieu": "35 - LIFFRE",
+    "arbitre": "RUHLMANN Dominique"
   },
   {
     "date": "2026-10-22",
@@ -18328,6 +18480,22 @@
     "arbitre": "PERNOUD Claire"
   },
   {
+    "date": "2026-10-22",
+    "titre": "Open international de Liffré 2026 - A",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72036",
+    "cadence": "Lente",
+    "lieu": "35 - LIFFRE",
+    "arbitre": "RUHLMANN Dominique"
+  },
+  {
+    "date": "2026-10-22",
+    "titre": "Open international de Liffré 2026 - B",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72037",
+    "cadence": "Lente",
+    "lieu": "35 - LIFFRE",
+    "arbitre": "RUHLMANN Dominique"
+  },
+  {
     "date": "2026-10-23",
     "titre": "23è Open International d'Echecs de Menton Tournoi A (1900 et +)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71134",
@@ -18350,6 +18518,22 @@
     "cadence": "Lente",
     "lieu": "06 - MENTON",
     "arbitre": "PERNOUD Claire"
+  },
+  {
+    "date": "2026-10-23",
+    "titre": "Open international de Liffré 2026 - A",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72036",
+    "cadence": "Lente",
+    "lieu": "35 - LIFFRE",
+    "arbitre": "RUHLMANN Dominique"
+  },
+  {
+    "date": "2026-10-23",
+    "titre": "Open international de Liffré 2026 - B",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72037",
+    "cadence": "Lente",
+    "lieu": "35 - LIFFRE",
+    "arbitre": "RUHLMANN Dominique"
   },
   {
     "date": "2026-10-24",
