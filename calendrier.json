@@ -6841,6 +6841,14 @@
   },
   {
     "date": "2026-05-09",
+    "titre": "7ème Blitz de Chambéry",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72047",
+    "cadence": "Blitz",
+    "lieu": "73 - CHAMBERY",
+    "arbitre": "BILLOTTI Romain"
+  },
+  {
+    "date": "2026-05-09",
     "titre": "8ème Open du Petit Capitole -2000 (-2400)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71888",
     "cadence": "Lente",
@@ -12017,6 +12025,14 @@
   },
   {
     "date": "2026-06-14",
+    "titre": "Rapide de l'Indre 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72042",
+    "cadence": "Rapide",
+    "lieu": "36 - SAINT MARCEL",
+    "arbitre": "AUGONNET Herve"
+  },
+  {
+    "date": "2026-06-14",
     "titre": "Scolaires - Finales",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=68174",
     "cadence": "Lente",
@@ -12232,6 +12248,14 @@
     "arbitre": "PLANTET Marc"
   },
   {
+    "date": "2026-06-20",
+    "titre": "Tournoi interne du club d'Evian 2026 -2400",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72049",
+    "cadence": "Lente",
+    "lieu": "74 - EVIAN LES BAINS",
+    "arbitre": "LURVOIS Jean-Luc"
+  },
+  {
     "date": "2026-06-21",
     "titre": "11ème Rapide de Veigy-Foncenex Accession (-1600)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71096",
@@ -12424,6 +12448,22 @@
     "arbitre": "DIMEY Stephane"
   },
   {
+    "date": "2026-06-21",
+    "titre": "Tournoi interne du club d'Evian 2026 -2400",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72049",
+    "cadence": "Lente",
+    "lieu": "74 - EVIAN LES BAINS",
+    "arbitre": "LURVOIS Jean-Luc"
+  },
+  {
+    "date": "2026-06-22",
+    "titre": "Tournoi interne du club d'Evian 2026 -2400",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72049",
+    "cadence": "Lente",
+    "lieu": "74 - EVIAN LES BAINS",
+    "arbitre": "LURVOIS Jean-Luc"
+  },
+  {
     "date": "2026-06-23",
     "titre": "Blitz de Valdoie 23-06-2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71768",
@@ -12432,12 +12472,36 @@
     "arbitre": "RICHARD Steve"
   },
   {
+    "date": "2026-06-23",
+    "titre": "Tournoi interne du club d'Evian 2026 -2400",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72049",
+    "cadence": "Lente",
+    "lieu": "74 - EVIAN LES BAINS",
+    "arbitre": "LURVOIS Jean-Luc"
+  },
+  {
     "date": "2026-06-24",
     "titre": "Tournoi interne Thiais 2026 r9",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=69781",
     "cadence": "Lente",
     "lieu": "94 - THIAIS",
     "arbitre": "AZZEGAG Jocelyn"
+  },
+  {
+    "date": "2026-06-24",
+    "titre": "Tournoi interne du club d'Evian 2026 -2400",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72049",
+    "cadence": "Lente",
+    "lieu": "74 - EVIAN LES BAINS",
+    "arbitre": "LURVOIS Jean-Luc"
+  },
+  {
+    "date": "2026-06-25",
+    "titre": "Tournoi interne du club d'Evian 2026 -2400",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72049",
+    "cadence": "Lente",
+    "lieu": "74 - EVIAN LES BAINS",
+    "arbitre": "LURVOIS Jean-Luc"
   },
   {
     "date": "2026-06-26",
@@ -12470,6 +12534,14 @@
     "cadence": "Rapide",
     "lieu": "75 - PARIS",
     "arbitre": "RUBINI Xavier"
+  },
+  {
+    "date": "2026-06-26",
+    "titre": "Tournoi interne du club d'Evian 2026 -2400",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72049",
+    "cadence": "Lente",
+    "lieu": "74 - EVIAN LES BAINS",
+    "arbitre": "LURVOIS Jean-Luc"
   },
   {
     "date": "2026-06-26",
@@ -12614,6 +12686,14 @@
     "cadence": "Lente",
     "lieu": "52 - CHAUMONT",
     "arbitre": "PICARD Serge"
+  },
+  {
+    "date": "2026-06-27",
+    "titre": "Tournoi interne du club d'Evian 2026 -2400",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72049",
+    "cadence": "Lente",
+    "lieu": "74 - EVIAN LES BAINS",
+    "arbitre": "LURVOIS Jean-Luc"
   },
   {
     "date": "2026-06-27",
@@ -12878,6 +12958,14 @@
     "cadence": "Lente",
     "lieu": "77 - FONTAINEBLEAU",
     "arbitre": "LECLERC Louis"
+  },
+  {
+    "date": "2026-06-28",
+    "titre": "Tournoi interne du club d'Evian 2026 -2400",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72049",
+    "cadence": "Lente",
+    "lieu": "74 - EVIAN LES BAINS",
+    "arbitre": "LURVOIS Jean-Luc"
   },
   {
     "date": "2026-06-28",
@@ -14590,6 +14678,22 @@
     "cadence": "Lente",
     "lieu": "61 - BRIOUZE",
     "arbitre": "LE FOURNIER Pascal"
+  },
+  {
+    "date": "2026-07-11",
+    "titre": "4ème tournoi loisirs rapide de l'échiquier du Pouliguen (-1600)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72048",
+    "cadence": "Rapide",
+    "lieu": "44 - LE POULIGUEN",
+    "arbitre": "POTIRON Nicolas"
+  },
+  {
+    "date": "2026-07-11",
+    "titre": "4ème tournoi rapide de l'échiquier du Pouliguen",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72046",
+    "cadence": "Rapide",
+    "lieu": "44 - LE POULIGUEN",
+    "arbitre": "POTIRON Nicolas"
   },
   {
     "date": "2026-07-11",
@@ -18222,6 +18326,38 @@
     "cadence": "Rapide",
     "lieu": "24 - PERIGUEUX",
     "arbitre": "LAPEYRE Pierre"
+  },
+  {
+    "date": "2026-09-26",
+    "titre": "2ème Open d'échecs de Fontenay le Comte (-2400)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72045",
+    "cadence": "Lente",
+    "lieu": "85 - FONTENAY",
+    "arbitre": "POTIRON Nicolas"
+  },
+  {
+    "date": "2026-09-27",
+    "titre": "2ème Open d'échecs de Fontenay le Comte (-2400)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72045",
+    "cadence": "Lente",
+    "lieu": "85 - FONTENAY",
+    "arbitre": "POTIRON Nicolas"
+  },
+  {
+    "date": "2026-09-27",
+    "titre": "Rapide de L'Echiquier Mosellan 2026 A",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72043",
+    "cadence": "Rapide",
+    "lieu": "57 - L'HOPITAL",
+    "arbitre": "MARCHAL Roger"
+  },
+  {
+    "date": "2026-09-27",
+    "titre": "Rapide de L'Echiquier Mosellan 2026 B",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72044",
+    "cadence": "Rapide",
+    "lieu": "57 - LHOPITAL",
+    "arbitre": "MARCHAL Roger"
   },
   {
     "date": "2026-09-27",
