@@ -1889,14 +1889,6 @@
   },
   {
     "date": "2026-04-11",
-    "titre": "34e Rapide Fide de l'Echecs Club Montpellier ANNULE",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=69385",
-    "cadence": "Rapide",
-    "lieu": "34 - MONTPELLIER",
-    "arbitre": "LONG Raphael"
-  },
-  {
-    "date": "2026-04-11",
     "titre": "384è Rapide FIDE Interchess -1700 (conseillé aux débutants adultes jeunes et enfants)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71730",
     "cadence": "Rapide",
@@ -3433,6 +3425,14 @@
   },
   {
     "date": "2026-04-18",
+    "titre": "11eme Open International d'Echecs de Noisiel 2026 - Open C (-2000 Elo et + 50 ans)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70139",
+    "cadence": "Lente",
+    "lieu": "77 - NOISIEL",
+    "arbitre": "AZZEGAG Jocelyn"
+  },
+  {
+    "date": "2026-04-18",
     "titre": "14e Tournoi Rapide Interne de Meaux",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=68543",
     "cadence": "Rapide",
@@ -3446,6 +3446,14 @@
     "cadence": "Blitz",
     "lieu": "75 - PARIS",
     "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-04-18",
+    "titre": "1er Miam Miam Chess d'Arcueil",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71714",
+    "cadence": "Lente",
+    "lieu": "94 - ARCUEIL",
+    "arbitre": "MARKS Edwin"
   },
   {
     "date": "2026-04-18",
@@ -3563,6 +3571,14 @@
     "date": "2026-04-19",
     "titre": "11eme Open International d'Echecs de Noisiel 2026 - Open B (-2000 Elo)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70138",
+    "cadence": "Lente",
+    "lieu": "77 - NOISIEL",
+    "arbitre": "AZZEGAG Jocelyn"
+  },
+  {
+    "date": "2026-04-19",
+    "titre": "11eme Open International d'Echecs de Noisiel 2026 - Open C (-2000 Elo et + 50 ans)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70139",
     "cadence": "Lente",
     "lieu": "77 - NOISIEL",
     "arbitre": "AZZEGAG Jocelyn"
@@ -3761,6 +3777,14 @@
   },
   {
     "date": "2026-04-20",
+    "titre": "11eme Open International d'Echecs de Noisiel 2026 - Open C (-2000 Elo et + 50 ans)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70139",
+    "cadence": "Lente",
+    "lieu": "77 - NOISIEL",
+    "arbitre": "AZZEGAG Jocelyn"
+  },
+  {
+    "date": "2026-04-20",
     "titre": "2ème Tournoi Open B (-1800) de Pâques 2026 de Hyeres",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70565",
     "cadence": "Lente",
@@ -3889,6 +3913,14 @@
   },
   {
     "date": "2026-04-21",
+    "titre": "11eme Open International d'Echecs de Noisiel 2026 - Open C (-2000 Elo et + 50 ans)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70139",
+    "cadence": "Lente",
+    "lieu": "77 - NOISIEL",
+    "arbitre": "AZZEGAG Jocelyn"
+  },
+  {
+    "date": "2026-04-21",
     "titre": "2ème Tournoi Open B (-1800) de Pâques 2026 de Hyeres",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70565",
     "cadence": "Lente",
@@ -4011,6 +4043,14 @@
     "date": "2026-04-22",
     "titre": "11eme Open International d'Echecs de Noisiel 2026 - Open B (-2000 Elo)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70138",
+    "cadence": "Lente",
+    "lieu": "77 - NOISIEL",
+    "arbitre": "AZZEGAG Jocelyn"
+  },
+  {
+    "date": "2026-04-22",
+    "titre": "11eme Open International d'Echecs de Noisiel 2026 - Open C (-2000 Elo et + 50 ans)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70139",
     "cadence": "Lente",
     "lieu": "77 - NOISIEL",
     "arbitre": "AZZEGAG Jocelyn"
@@ -4177,7 +4217,7 @@
   },
   {
     "date": "2026-04-23",
-    "titre": "106è Rapide FFE Interchess -1600 Elo (conseillé aux débutants adultes jeunes et enfants)",
+    "titre": "106è Rapide FFE Interchess -1600 Elo ANNULE",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71890",
     "cadence": "Rapide",
     "lieu": "75 - PARIS",
@@ -4195,6 +4235,14 @@
     "date": "2026-04-23",
     "titre": "11eme Open International d'Echecs de Noisiel 2026 - Open B (-2000 Elo)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70138",
+    "cadence": "Lente",
+    "lieu": "77 - NOISIEL",
+    "arbitre": "AZZEGAG Jocelyn"
+  },
+  {
+    "date": "2026-04-23",
+    "titre": "11eme Open International d'Echecs de Noisiel 2026 - Open C (-2000 Elo et + 50 ans)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70139",
     "cadence": "Lente",
     "lieu": "77 - NOISIEL",
     "arbitre": "AZZEGAG Jocelyn"
@@ -4521,6 +4569,14 @@
   },
   {
     "date": "2026-04-24",
+    "titre": "Tournoi blitz du Vésinet no 7 du 24-04-2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71801",
+    "cadence": "Blitz",
+    "lieu": "78 - LE VESINET",
+    "arbitre": "IMBERT Christophe"
+  },
+  {
+    "date": "2026-04-24",
     "titre": "Tournoi de Blitz Echiquier Bordelais - 8",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71468",
     "cadence": "Blitz",
@@ -4793,6 +4849,14 @@
   },
   {
     "date": "2026-04-25",
+    "titre": "Tournoi interne MJC de Rodez 2026 (-2200) r3-5",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=68999",
+    "cadence": "Lente",
+    "lieu": "12 - RODEZ",
+    "arbitre": "TANGUY Fabien"
+  },
+  {
+    "date": "2026-04-25",
     "titre": "Troph'Echecs Chauffailles 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=69416",
     "cadence": "Lente",
@@ -4806,14 +4870,6 @@
     "cadence": "Lente",
     "lieu": "57 - HOMBOURG BUDANGE",
     "arbitre": "LEFEBVRE Lucas"
-  },
-  {
-    "date": "2026-04-25",
-    "titre": "tournoi Annuel du CABE 2025-26 r7",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=68068",
-    "cadence": "Lente",
-    "lieu": "74 - ANNEMASSE",
-    "arbitre": "SYLVESTRE-BARON Mich"
   },
   {
     "date": "2026-04-26",
@@ -5157,7 +5213,7 @@
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70871",
     "cadence": "Blitz",
     "lieu": "92 - MALAKOFF",
-    "arbitre": "LEWIS John"
+    "arbitre": "AZZEGAG Jocelyn"
   },
   {
     "date": "2026-04-29",
@@ -7561,6 +7617,14 @@
   },
   {
     "date": "2026-05-14",
+    "titre": "104è Blitz FIDE Interchess -2000 (conseillé aux débutants adultes jeunes et enfants)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72054",
+    "cadence": "Blitz",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-05-14",
     "titre": "10e Open des Lémovices - Open A",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71334",
     "cadence": "Lente",
@@ -7798,6 +7862,22 @@
     "cadence": "Lente",
     "lieu": "13 - CEYRESTE",
     "arbitre": "REGAUD Denis"
+  },
+  {
+    "date": "2026-05-14",
+    "titre": "403è Rapide FIDE Interchess",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72055",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-05-14",
+    "titre": "42e Championnat de Martinique Toutes Catégories",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72064",
+    "cadence": "Lente",
+    "lieu": "9D - LE LAMENTIN",
+    "arbitre": "PRUDENT Sylvio"
   },
   {
     "date": "2026-05-14",
@@ -8121,6 +8201,14 @@
   },
   {
     "date": "2026-05-15",
+    "titre": "42e Championnat de Martinique Toutes Catégories",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72064",
+    "cadence": "Lente",
+    "lieu": "9D - LE LAMENTIN",
+    "arbitre": "PRUDENT Sylvio"
+  },
+  {
+    "date": "2026-05-15",
     "titre": "47ème Open de l'Ascension d'Issy-les-Moulineaux",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71458",
     "cadence": "Lente",
@@ -8262,6 +8350,14 @@
     "cadence": "Lente",
     "lieu": "2A - AJACCIO",
     "arbitre": "ORSONI Jean-Philippe"
+  },
+  {
+    "date": "2026-05-16",
+    "titre": "105è Blitz FIDE Interchess",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72058",
+    "cadence": "Blitz",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
   },
   {
     "date": "2026-05-16",
@@ -8486,6 +8582,22 @@
     "cadence": "Rapide",
     "lieu": "67 - ILLKIRCH GRAFFENSTADEN",
     "arbitre": "HEDDACHE Rachid"
+  },
+  {
+    "date": "2026-05-16",
+    "titre": "405è Rapide FIDE Interchess -2000 (conseillé aux débutants adultes jeunes et enfants)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72057",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-05-16",
+    "titre": "42e Championnat de Martinique Toutes Catégories",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72064",
+    "cadence": "Lente",
+    "lieu": "9D - LE LAMENTIN",
+    "arbitre": "PRUDENT Sylvio"
   },
   {
     "date": "2026-05-16",
@@ -8801,6 +8913,14 @@
   },
   {
     "date": "2026-05-17",
+    "titre": "256è Open FIDE Interchess de 3 Rondes -1800",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72059",
+    "cadence": "Lente",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-05-17",
     "titre": "28e tournoi 1hKO de Montigny",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=69939",
     "cadence": "Lente",
@@ -8910,6 +9030,22 @@
     "cadence": "Lente",
     "lieu": "13 - CEYRESTE",
     "arbitre": "REGAUD Denis"
+  },
+  {
+    "date": "2026-05-17",
+    "titre": "406è Rapide FIDE Interchess",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72060",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-05-17",
+    "titre": "42e Championnat de Martinique Toutes Catégories",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72064",
+    "cadence": "Lente",
+    "lieu": "9D - LE LAMENTIN",
+    "arbitre": "PRUDENT Sylvio"
   },
   {
     "date": "2026-05-17",
@@ -9254,6 +9390,14 @@
     "cadence": "Blitz",
     "lieu": "54 - NANCY",
     "arbitre": "RITTIE Daniel"
+  },
+  {
+    "date": "2026-05-22",
+    "titre": "Tournoi blitz du Vésinet no 8 du 22-05-2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72052",
+    "cadence": "Blitz",
+    "lieu": "78 - LE VESINET",
+    "arbitre": "IMBERT Christophe"
   },
   {
     "date": "2026-05-22",
@@ -10817,6 +10961,14 @@
   },
   {
     "date": "2026-05-31",
+    "titre": "XXII tournoi Schlemaire",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72070",
+    "cadence": "Lente",
+    "lieu": "10 - SAINTE SAVINE",
+    "arbitre": "GUYOT Philippe"
+  },
+  {
+    "date": "2026-05-31",
     "titre": "tournoi Annuel du CABE 2025-26 r8-9",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=68069",
     "cadence": "Lente",
@@ -11121,6 +11273,14 @@
   },
   {
     "date": "2026-06-06",
+    "titre": "Elite 13 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72061",
+    "cadence": "Lente",
+    "lieu": "13 - AUBAGNE",
+    "arbitre": "CHAUVET Jean-Marc"
+  },
+  {
+    "date": "2026-06-06",
     "titre": "Grand Prix rapides du Val de Marnes Saison 2025-2026 Etape 5A",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71039",
     "cadence": "Rapide",
@@ -11385,6 +11545,14 @@
   },
   {
     "date": "2026-06-07",
+    "titre": "Elite 13 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72061",
+    "cadence": "Lente",
+    "lieu": "13 - AUBAGNE",
+    "arbitre": "CHAUVET Jean-Marc"
+  },
+  {
+    "date": "2026-06-07",
     "titre": "Festival Echec et Mat Open Rapide à Foix Juin 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72033",
     "cadence": "Rapide",
@@ -11609,6 +11777,14 @@
   },
   {
     "date": "2026-06-13",
+    "titre": "1er GrandPrix des Territoires Thionville-Fensch et Val d'Alzette Jeunes",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72075",
+    "cadence": "Lente",
+    "lieu": "57 - TRESSANGE",
+    "arbitre": "LECLERC Bernard"
+  },
+  {
+    "date": "2026-06-13",
     "titre": "2e Festival des Horloges - Tours - Rapide",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71194",
     "cadence": "Rapide",
@@ -11670,6 +11846,14 @@
     "cadence": "Lente",
     "lieu": "40 - MONT DE MARSAN",
     "arbitre": "DUBERTRAND Bernard"
+  },
+  {
+    "date": "2026-06-13",
+    "titre": "Rapide des Lions 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72072",
+    "cadence": "Rapide",
+    "lieu": "69 - LYON",
+    "arbitre": "MATHIEU Christophe"
   },
   {
     "date": "2026-06-13",
@@ -11761,6 +11945,14 @@
   },
   {
     "date": "2026-06-14",
+    "titre": "1er GrandPrix des Territoires Thionville-Fensch et Val d'Alzette Open",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72074",
+    "cadence": "Lente",
+    "lieu": "57 - TRESSANGE",
+    "arbitre": "LECLERC Bernard"
+  },
+  {
+    "date": "2026-06-14",
     "titre": "1er Open A Rapide de Montaigu",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70804",
     "cadence": "Rapide",
@@ -11774,6 +11966,14 @@
     "cadence": "Lente",
     "lieu": "85 - MONTAIGU",
     "arbitre": "POTIRON Nicolas"
+  },
+  {
+    "date": "2026-06-14",
+    "titre": "1er Rapide International Armentieres Mat 88",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72062",
+    "cadence": "Rapide",
+    "lieu": "59 - ARMENTIERES",
+    "arbitre": "BLOT Philippe"
   },
   {
     "date": "2026-06-14",
@@ -12822,6 +13022,14 @@
     "cadence": "Lente",
     "lieu": "33 - HOURTIN",
     "arbitre": "LAPEYRE Pierre"
+  },
+  {
+    "date": "2026-06-28",
+    "titre": "2e Open Rapide de Vaison-la-Romaine",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72073",
+    "cadence": "Rapide",
+    "lieu": "84 - VAISON LA ROMAINE",
+    "arbitre": "MARTINEZ Sebastien"
   },
   {
     "date": "2026-06-28",
@@ -14681,6 +14889,14 @@
   },
   {
     "date": "2026-07-11",
+    "titre": "4ème Open \"LOISIRS\" de l'échiquier du Pouliguen (-1600)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72050",
+    "cadence": "Lente",
+    "lieu": "44 - LE POULIGUEN",
+    "arbitre": "POTIRON Nicolas"
+  },
+  {
+    "date": "2026-07-11",
     "titre": "4ème tournoi loisirs rapide de l'échiquier du Pouliguen (-1600)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72048",
     "cadence": "Rapide",
@@ -15921,7 +16137,7 @@
   },
   {
     "date": "2026-07-22",
-    "titre": "10Ă¨me Festival de lâ€™EFE Metz - Tournoi A",
+    "titre": "10ème Festival de l’EFE Metz - Tournoi A",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71533",
     "cadence": "Lente",
     "lieu": "57 - METZ",
@@ -15929,7 +16145,7 @@
   },
   {
     "date": "2026-07-22",
-    "titre": "10Ă¨me Festival de lâ€™EFE Metz - Tournoi B",
+    "titre": "10ème Festival de l’EFE Metz - Tournoi B",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71659",
     "cadence": "Lente",
     "lieu": "57 - METZ",
@@ -15937,7 +16153,7 @@
   },
   {
     "date": "2026-07-22",
-    "titre": "10Ă¨me Festival de lâ€™EFE Metz - Tournoi C",
+    "titre": "10ème Festival de l’EFE Metz - Tournoi C",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71660",
     "cadence": "Lente",
     "lieu": "57 - METZ",
@@ -15945,7 +16161,7 @@
   },
   {
     "date": "2026-07-22",
-    "titre": "10Ă¨me Festival de lâ€™EFE Metz - Tournoi D",
+    "titre": "10ème Festival de l’EFE Metz - Tournoi D",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71661",
     "cadence": "Lente",
     "lieu": "57 - METZ",
@@ -15953,7 +16169,47 @@
   },
   {
     "date": "2026-07-22",
-    "titre": "40Ă¨me Open International d'Echecs d'Avoine",
+    "titre": "10ème Festival de l’EFE Metz - Tournoi E",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72065",
+    "cadence": "Lente",
+    "lieu": "57 - METZ",
+    "arbitre": "DELMOTTE Eric"
+  },
+  {
+    "date": "2026-07-22",
+    "titre": "10ème Festival de l’EFE Metz - Tournoi F",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72066",
+    "cadence": "Lente",
+    "lieu": "57 - METZ",
+    "arbitre": "DELMOTTE Eric"
+  },
+  {
+    "date": "2026-07-22",
+    "titre": "10ème Festival de l’EFE Metz - Tournoi G",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72067",
+    "cadence": "Lente",
+    "lieu": "57 - METZ",
+    "arbitre": "DELMOTTE Eric"
+  },
+  {
+    "date": "2026-07-22",
+    "titre": "10ème Festival de l’EFE Metz - Tournoi H",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72068",
+    "cadence": "Lente",
+    "lieu": "57 - METZ",
+    "arbitre": "DELMOTTE Eric"
+  },
+  {
+    "date": "2026-07-22",
+    "titre": "10ème Festival de l’EFE Metz - Tournoi I",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72069",
+    "cadence": "Lente",
+    "lieu": "57 - METZ",
+    "arbitre": "DELMOTTE Eric"
+  },
+  {
+    "date": "2026-07-22",
+    "titre": "40ème Open International d'Echecs d'Avoine",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71087",
     "cadence": "Lente",
     "lieu": "37 - AVOINE",
@@ -15961,7 +16217,7 @@
   },
   {
     "date": "2026-07-22",
-    "titre": "6Ă¨me Festival International d'Ă©checs de Fontainebleau - Masters (+1950)",
+    "titre": "6ème Festival International d'échecs de Fontainebleau - Masters (+1950)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71367",
     "cadence": "Lente",
     "lieu": "77 - FONTAINEBLEAU",
@@ -15969,7 +16225,7 @@
   },
   {
     "date": "2026-07-22",
-    "titre": "6Ă¨me Festival de Fontainebleau - Open FrĂ©dĂ©ric Coustal (-2000)",
+    "titre": "6ème Festival de Fontainebleau - Open Frédéric Coustal (-2000)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71376",
     "cadence": "Lente",
     "lieu": "77 - FONTAINEBLEAU",
@@ -16009,7 +16265,7 @@
   },
   {
     "date": "2026-07-22",
-    "titre": "Open International d'Aix en Provence - TrophĂ©e Dole 2026 - Tournoi Masters (+2100 elo)",
+    "titre": "Open International d'Aix en Provence - Trophée Dole 2026 - Tournoi Masters (+2100 elo)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70947",
     "cadence": "Lente",
     "lieu": "13 - AIX EN PROVENCE",
@@ -16017,7 +16273,7 @@
   },
   {
     "date": "2026-07-22",
-    "titre": "TrophĂ©e Dole 2026 - Tournoi Accession (-2200 elo)",
+    "titre": "Trophée Dole 2026 - Tournoi Accession (-2200 elo)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70948",
     "cadence": "Lente",
     "lieu": "13 - AIX EN PROVENCE",
@@ -16025,7 +16281,7 @@
   },
   {
     "date": "2026-07-22",
-    "titre": "TrophĂ©e Dole 2026 - Tournoi Petits ZĂ©los (-1700 elo)",
+    "titre": "Trophée Dole 2026 - Tournoi Petits Zélos (-1700 elo)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70949",
     "cadence": "Lente",
     "lieu": "13 - AIX EN PROVENCE",
@@ -16059,6 +16315,46 @@
     "date": "2026-07-23",
     "titre": "10ème Festival de l’EFE Metz - Tournoi D",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71661",
+    "cadence": "Lente",
+    "lieu": "57 - METZ",
+    "arbitre": "DELMOTTE Eric"
+  },
+  {
+    "date": "2026-07-23",
+    "titre": "10ème Festival de l’EFE Metz - Tournoi E",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72065",
+    "cadence": "Lente",
+    "lieu": "57 - METZ",
+    "arbitre": "DELMOTTE Eric"
+  },
+  {
+    "date": "2026-07-23",
+    "titre": "10ème Festival de l’EFE Metz - Tournoi F",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72066",
+    "cadence": "Lente",
+    "lieu": "57 - METZ",
+    "arbitre": "DELMOTTE Eric"
+  },
+  {
+    "date": "2026-07-23",
+    "titre": "10ème Festival de l’EFE Metz - Tournoi G",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72067",
+    "cadence": "Lente",
+    "lieu": "57 - METZ",
+    "arbitre": "DELMOTTE Eric"
+  },
+  {
+    "date": "2026-07-23",
+    "titre": "10ème Festival de l’EFE Metz - Tournoi H",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72068",
+    "cadence": "Lente",
+    "lieu": "57 - METZ",
+    "arbitre": "DELMOTTE Eric"
+  },
+  {
+    "date": "2026-07-23",
+    "titre": "10ème Festival de l’EFE Metz - Tournoi I",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72069",
     "cadence": "Lente",
     "lieu": "57 - METZ",
     "arbitre": "DELMOTTE Eric"
@@ -16193,6 +16489,46 @@
   },
   {
     "date": "2026-07-24",
+    "titre": "10ème Festival de l’EFE Metz - Tournoi E",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72065",
+    "cadence": "Lente",
+    "lieu": "57 - METZ",
+    "arbitre": "DELMOTTE Eric"
+  },
+  {
+    "date": "2026-07-24",
+    "titre": "10ème Festival de l’EFE Metz - Tournoi F",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72066",
+    "cadence": "Lente",
+    "lieu": "57 - METZ",
+    "arbitre": "DELMOTTE Eric"
+  },
+  {
+    "date": "2026-07-24",
+    "titre": "10ème Festival de l’EFE Metz - Tournoi G",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72067",
+    "cadence": "Lente",
+    "lieu": "57 - METZ",
+    "arbitre": "DELMOTTE Eric"
+  },
+  {
+    "date": "2026-07-24",
+    "titre": "10ème Festival de l’EFE Metz - Tournoi H",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72068",
+    "cadence": "Lente",
+    "lieu": "57 - METZ",
+    "arbitre": "DELMOTTE Eric"
+  },
+  {
+    "date": "2026-07-24",
+    "titre": "10ème Festival de l’EFE Metz - Tournoi I",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72069",
+    "cadence": "Lente",
+    "lieu": "57 - METZ",
+    "arbitre": "DELMOTTE Eric"
+  },
+  {
+    "date": "2026-07-24",
     "titre": "40ème Open International d'Echecs d'Avoine",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71087",
     "cadence": "Lente",
@@ -16321,6 +16657,46 @@
   },
   {
     "date": "2026-07-25",
+    "titre": "10ème Festival de l’EFE Metz - Tournoi E",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72065",
+    "cadence": "Lente",
+    "lieu": "57 - METZ",
+    "arbitre": "DELMOTTE Eric"
+  },
+  {
+    "date": "2026-07-25",
+    "titre": "10ème Festival de l’EFE Metz - Tournoi F",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72066",
+    "cadence": "Lente",
+    "lieu": "57 - METZ",
+    "arbitre": "DELMOTTE Eric"
+  },
+  {
+    "date": "2026-07-25",
+    "titre": "10ème Festival de l’EFE Metz - Tournoi G",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72067",
+    "cadence": "Lente",
+    "lieu": "57 - METZ",
+    "arbitre": "DELMOTTE Eric"
+  },
+  {
+    "date": "2026-07-25",
+    "titre": "10ème Festival de l’EFE Metz - Tournoi H",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72068",
+    "cadence": "Lente",
+    "lieu": "57 - METZ",
+    "arbitre": "DELMOTTE Eric"
+  },
+  {
+    "date": "2026-07-25",
+    "titre": "10ème Festival de l’EFE Metz - Tournoi I",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72069",
+    "cadence": "Lente",
+    "lieu": "57 - METZ",
+    "arbitre": "DELMOTTE Eric"
+  },
+  {
+    "date": "2026-07-25",
     "titre": "40ème Open International d'Echecs d'Avoine",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71087",
     "cadence": "Lente",
@@ -16443,6 +16819,46 @@
     "date": "2026-07-26",
     "titre": "10ème Festival de l’EFE Metz - Tournoi D",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71661",
+    "cadence": "Lente",
+    "lieu": "57 - METZ",
+    "arbitre": "DELMOTTE Eric"
+  },
+  {
+    "date": "2026-07-26",
+    "titre": "10ème Festival de l’EFE Metz - Tournoi E",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72065",
+    "cadence": "Lente",
+    "lieu": "57 - METZ",
+    "arbitre": "DELMOTTE Eric"
+  },
+  {
+    "date": "2026-07-26",
+    "titre": "10ème Festival de l’EFE Metz - Tournoi F",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72066",
+    "cadence": "Lente",
+    "lieu": "57 - METZ",
+    "arbitre": "DELMOTTE Eric"
+  },
+  {
+    "date": "2026-07-26",
+    "titre": "10ème Festival de l’EFE Metz - Tournoi G",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72067",
+    "cadence": "Lente",
+    "lieu": "57 - METZ",
+    "arbitre": "DELMOTTE Eric"
+  },
+  {
+    "date": "2026-07-26",
+    "titre": "10ème Festival de l’EFE Metz - Tournoi H",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72068",
+    "cadence": "Lente",
+    "lieu": "57 - METZ",
+    "arbitre": "DELMOTTE Eric"
+  },
+  {
+    "date": "2026-07-26",
+    "titre": "10ème Festival de l’EFE Metz - Tournoi I",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72069",
     "cadence": "Lente",
     "lieu": "57 - METZ",
     "arbitre": "DELMOTTE Eric"
@@ -18361,6 +18777,14 @@
   },
   {
     "date": "2026-09-27",
+    "titre": "Rapide de L'Echiquier Mosellan 2026 C",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72071",
+    "cadence": "Rapide",
+    "lieu": "57 - L'HOPITAL",
+    "arbitre": "MARCHAL Roger"
+  },
+  {
+    "date": "2026-09-27",
     "titre": "Tournoi de Meillon 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71310",
     "cadence": "Lente",
@@ -18704,6 +19128,14 @@
     "arbitre": "FERYN Alexandre"
   },
   {
+    "date": "2026-10-24",
+    "titre": "Open de Loches support du championnat départemental d'Indre et Loire 2026 (-2400)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72063",
+    "cadence": "Lente",
+    "lieu": "37 - LOCHES",
+    "arbitre": "TEMPLEUR Jean-Claude"
+  },
+  {
     "date": "2026-10-25",
     "titre": "23è Open International d'Echecs de Menton Tournoi A (1900 et +)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71134",
@@ -18726,6 +19158,14 @@
     "cadence": "Lente",
     "lieu": "06 - MENTON",
     "arbitre": "PERNOUD Claire"
+  },
+  {
+    "date": "2026-10-25",
+    "titre": "Open de Loches support du championnat départemental d'Indre et Loire 2026 (-2400)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72063",
+    "cadence": "Lente",
+    "lieu": "37 - LOCHES",
+    "arbitre": "TEMPLEUR Jean-Claude"
   },
   {
     "date": "2026-10-30",
