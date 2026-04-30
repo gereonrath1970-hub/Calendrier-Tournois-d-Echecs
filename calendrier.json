@@ -6905,7 +6905,7 @@
   },
   {
     "date": "2026-05-09",
-    "titre": "8ème Open du Petit Capitole -2000 (-2400)",
+    "titre": "8ème Open du Petit Capitole +1900 (-2400)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71888",
     "cadence": "Lente",
     "lieu": "31 - TOULOUSE",
@@ -7257,7 +7257,7 @@
   },
   {
     "date": "2026-05-10",
-    "titre": "8ème Open du Petit Capitole -2000 (-2400)",
+    "titre": "8ème Open du Petit Capitole +1900 (-2400)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71888",
     "cadence": "Lente",
     "lieu": "31 - TOULOUSE",
@@ -9593,6 +9593,14 @@
   },
   {
     "date": "2026-05-23",
+    "titre": "4ème Open d'Echecs de Vaureal (-2100)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72078",
+    "cadence": "Lente",
+    "lieu": "95 - VAUREAL",
+    "arbitre": "ESTIN-CHARBONNEL Lau"
+  },
+  {
+    "date": "2026-05-23",
     "titre": "5ème Championnat Interne de Gex",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72019",
     "cadence": "Lente",
@@ -9934,6 +9942,14 @@
     "cadence": "Lente",
     "lieu": "56 - SAINTE ANNE D'AURAY",
     "arbitre": "MALRY Celia"
+  },
+  {
+    "date": "2026-05-24",
+    "titre": "4ème Open d'Echecs de Vaureal (-2100)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72078",
+    "cadence": "Lente",
+    "lieu": "95 - VAUREAL",
+    "arbitre": "ESTIN-CHARBONNEL Lau"
   },
   {
     "date": "2026-05-24",
@@ -10481,6 +10497,14 @@
   },
   {
     "date": "2026-05-30",
+    "titre": "3e Tournoi Interne de Tresses",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72076",
+    "cadence": "Lente",
+    "lieu": "33 - TRESSES",
+    "arbitre": "FEIT Jean-Luc"
+  },
+  {
+    "date": "2026-05-30",
     "titre": "5e Open International de Blitz du Lille Métropole Chess",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71689",
     "cadence": "Blitz",
@@ -10606,6 +10630,14 @@
     "cadence": "Lente",
     "lieu": "54 - SAINT MAX",
     "arbitre": "ADRIAN Claude"
+  },
+  {
+    "date": "2026-05-30",
+    "titre": "Grand Prix Feminin du Val de Marne Saison 2025-2026 Etape 4",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72082",
+    "cadence": "Lente",
+    "lieu": "94 - LE PERREUX SUR MARNE",
+    "arbitre": "BOGDANOVSKY Sonia"
   },
   {
     "date": "2026-05-30",
@@ -13041,6 +13073,14 @@
   },
   {
     "date": "2026-06-28",
+    "titre": "Casinca star master 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72083",
+    "cadence": "Lente",
+    "lieu": "2B - PENTA DI CASINCA",
+    "arbitre": "GERONIMI Pierre-Fran"
+  },
+  {
+    "date": "2026-06-28",
     "titre": "Coupe Loubatière Finale",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=68157",
     "cadence": "Lente",
@@ -13254,6 +13294,14 @@
     "cadence": "Lente",
     "lieu": "33 - HOURTIN",
     "arbitre": "LAPEYRE Pierre"
+  },
+  {
+    "date": "2026-06-29",
+    "titre": "Casinca star master 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72083",
+    "cadence": "Lente",
+    "lieu": "2B - PENTA DI CASINCA",
+    "arbitre": "GERONIMI Pierre-Fran"
   },
   {
     "date": "2026-06-29",
@@ -16361,6 +16409,14 @@
   },
   {
     "date": "2026-07-23",
+    "titre": "1er Triathlon des Echecs de Chambéry -Tournoi Lent",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72079",
+    "cadence": "Lente",
+    "lieu": "73 - CHAMBERY",
+    "arbitre": "BILLOTTI Romain"
+  },
+  {
+    "date": "2026-07-23",
     "titre": "40ème Open International d'Echecs d'Avoine",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71087",
     "cadence": "Lente",
@@ -16529,6 +16585,14 @@
   },
   {
     "date": "2026-07-24",
+    "titre": "1er Triathlon des Echecs de Chambéry -Tournoi Lent",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72079",
+    "cadence": "Lente",
+    "lieu": "73 - CHAMBERY",
+    "arbitre": "BILLOTTI Romain"
+  },
+  {
+    "date": "2026-07-24",
     "titre": "40ème Open International d'Echecs d'Avoine",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71087",
     "cadence": "Lente",
@@ -16697,6 +16761,14 @@
   },
   {
     "date": "2026-07-25",
+    "titre": "1er Triathlon des Echecs de Chambéry - Tournoi Rapide",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72080",
+    "cadence": "Rapide",
+    "lieu": "73 - CHAMBERY",
+    "arbitre": "BILLOTTI Romain"
+  },
+  {
+    "date": "2026-07-25",
     "titre": "40ème Open International d'Echecs d'Avoine",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71087",
     "cadence": "Lente",
@@ -16862,6 +16934,14 @@
     "cadence": "Lente",
     "lieu": "57 - METZ",
     "arbitre": "DELMOTTE Eric"
+  },
+  {
+    "date": "2026-07-26",
+    "titre": "1er Triathlon des Echecs de Chambéry - Tournoi Blitz",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72081",
+    "cadence": "Blitz",
+    "lieu": "73 - CHAMBERY",
+    "arbitre": "BILLOTTI Romain"
   },
   {
     "date": "2026-07-26",
@@ -18785,6 +18865,14 @@
   },
   {
     "date": "2026-09-27",
+    "titre": "Rapide de L'Echiquier Mosellan 2026 D",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72084",
+    "cadence": "Rapide",
+    "lieu": "57 - L'HOPITAL",
+    "arbitre": "MARCHAL Roger"
+  },
+  {
+    "date": "2026-09-27",
     "titre": "Tournoi de Meillon 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71310",
     "cadence": "Lente",
@@ -19121,6 +19209,14 @@
   },
   {
     "date": "2026-10-24",
+    "titre": "2eme Open International de Calais",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72077",
+    "cadence": "Lente",
+    "lieu": "62 - CALAIS",
+    "arbitre": "BLOT Philippe"
+  },
+  {
+    "date": "2026-10-24",
     "titre": "4e Rapide de Socx",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71956",
     "cadence": "Rapide",
@@ -19161,11 +19257,51 @@
   },
   {
     "date": "2026-10-25",
+    "titre": "2eme Open International de Calais",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72077",
+    "cadence": "Lente",
+    "lieu": "62 - CALAIS",
+    "arbitre": "BLOT Philippe"
+  },
+  {
+    "date": "2026-10-25",
     "titre": "Open de Loches support du championnat départemental d'Indre et Loire 2026 (-2400)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72063",
     "cadence": "Lente",
     "lieu": "37 - LOCHES",
     "arbitre": "TEMPLEUR Jean-Claude"
+  },
+  {
+    "date": "2026-10-26",
+    "titre": "2eme Open International de Calais",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72077",
+    "cadence": "Lente",
+    "lieu": "62 - CALAIS",
+    "arbitre": "BLOT Philippe"
+  },
+  {
+    "date": "2026-10-27",
+    "titre": "2eme Open International de Calais",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72077",
+    "cadence": "Lente",
+    "lieu": "62 - CALAIS",
+    "arbitre": "BLOT Philippe"
+  },
+  {
+    "date": "2026-10-28",
+    "titre": "2eme Open International de Calais",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72077",
+    "cadence": "Lente",
+    "lieu": "62 - CALAIS",
+    "arbitre": "BLOT Philippe"
+  },
+  {
+    "date": "2026-10-29",
+    "titre": "2eme Open International de Calais",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72077",
+    "cadence": "Lente",
+    "lieu": "62 - CALAIS",
+    "arbitre": "BLOT Philippe"
   },
   {
     "date": "2026-10-30",
