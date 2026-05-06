@@ -7397,7 +7397,7 @@
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71930",
     "cadence": "Rapide",
     "lieu": "26 - VALENCE",
-    "arbitre": "GERANDI Guillaume"
+    "arbitre": "BEC Alain"
   },
   {
     "date": "2026-05-10",
@@ -7405,7 +7405,7 @@
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71929",
     "cadence": "Rapide",
     "lieu": "26 - VALENCE",
-    "arbitre": "GERANDI Guillaume"
+    "arbitre": "BEC Alain"
   },
   {
     "date": "2026-05-10",
@@ -10025,6 +10025,14 @@
   },
   {
     "date": "2026-05-24",
+    "titre": "3éme Tournoi Rapide FIDE de Saint Martin 2026 (-2400)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72179",
+    "cadence": "Rapide",
+    "lieu": "9C - SAINT MARTIN",
+    "arbitre": "MAROT Philippe"
+  },
+  {
+    "date": "2026-05-24",
     "titre": "42e open Fide de Domloup - Tournoi A (-2400)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71944",
     "cadence": "Lente",
@@ -10614,6 +10622,14 @@
     "cadence": "Blitz",
     "lieu": "68 - MULHOUSE",
     "arbitre": "GOETTELMANN Guillaum"
+  },
+  {
+    "date": "2026-05-29",
+    "titre": "4e Tournoi de Blitz Mensuel de Cergy-Pontoise interne",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72176",
+    "cadence": "Blitz",
+    "lieu": "95 - PONTOISE",
+    "arbitre": "DAUPHIN Thomas"
   },
   {
     "date": "2026-05-29",
@@ -11246,6 +11262,14 @@
     "cadence": "Rapide",
     "lieu": "66 - PERPIGNAN",
     "arbitre": "LABORDE Stephane"
+  },
+  {
+    "date": "2026-05-31",
+    "titre": "Rapide Interne de Pont à Mousson 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72174",
+    "cadence": "Rapide",
+    "lieu": "54 - PONT A MOUSSON",
+    "arbitre": "PIERROT Philippe"
   },
   {
     "date": "2026-05-31",
@@ -12673,7 +12697,7 @@
   },
   {
     "date": "2026-06-14",
-    "titre": "9e Open Rapide de Sassenage - tournoi jeunes",
+    "titre": "9e Open Rapide de Sassenage - tournoi accession",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70608",
     "cadence": "Rapide",
     "lieu": "38 - SASSENAGE",
@@ -14272,6 +14296,14 @@
     "arbitre": "BUDACI Lionel"
   },
   {
+    "date": "2026-06-28",
+    "titre": "Trophée Polop Rapide 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72175",
+    "cadence": "Rapide",
+    "lieu": "65 - LOURES BAROUSSE",
+    "arbitre": "CWIEK NGUYEN Francoi"
+  },
+  {
     "date": "2026-06-29",
     "titre": "11e Open International Marina Viva (Open Jeunes)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71711",
@@ -15089,6 +15121,14 @@
   },
   {
     "date": "2026-07-05",
+    "titre": "Open jeune lent du Lac de Saint-Cyr 2026 (-2400)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72182",
+    "cadence": "Lente",
+    "lieu": "86 - BEAUMONT",
+    "arbitre": "PICARD Joel"
+  },
+  {
+    "date": "2026-07-05",
     "titre": "Open rapide Echiqeo Fontenay-sous-Bois",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71544",
     "cadence": "Rapide",
@@ -15232,6 +15272,14 @@
     "arbitre": "DECAEN Melvyn"
   },
   {
+    "date": "2026-07-06",
+    "titre": "Open jeune lent du Lac de Saint-Cyr 2026 (-2400)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72182",
+    "cadence": "Lente",
+    "lieu": "86 - BEAUMONT",
+    "arbitre": "PICARD Joel"
+  },
+  {
     "date": "2026-07-07",
     "titre": "16e open de Salon de Provence Tournoi B (-1700)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71823",
@@ -15358,6 +15406,14 @@
     "cadence": "Lente",
     "lieu": "50 - AGNEAUX",
     "arbitre": "DECAEN Melvyn"
+  },
+  {
+    "date": "2026-07-07",
+    "titre": "Open jeune lent du Lac de Saint-Cyr 2026 (-2400)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72182",
+    "cadence": "Lente",
+    "lieu": "86 - BEAUMONT",
+    "arbitre": "PICARD Joel"
   },
   {
     "date": "2026-07-08",
@@ -15502,6 +15558,14 @@
     "cadence": "Lente",
     "lieu": "50 - AGNEAUX",
     "arbitre": "DECAEN Melvyn"
+  },
+  {
+    "date": "2026-07-08",
+    "titre": "Open jeune lent du Lac de Saint-Cyr 2026 (-2400)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72182",
+    "cadence": "Lente",
+    "lieu": "86 - BEAUMONT",
+    "arbitre": "PICARD Joel"
   },
   {
     "date": "2026-07-09",
@@ -15678,6 +15742,14 @@
     "cadence": "Lente",
     "lieu": "50 - AGNEAUX",
     "arbitre": "DECAEN Melvyn"
+  },
+  {
+    "date": "2026-07-09",
+    "titre": "Open jeune lent du Lac de Saint-Cyr 2026 (-2400)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72182",
+    "cadence": "Lente",
+    "lieu": "86 - BEAUMONT",
+    "arbitre": "PICARD Joel"
   },
   {
     "date": "2026-07-10",
@@ -19312,6 +19384,22 @@
     "arbitre": "CLAREBOUT Julien"
   },
   {
+    "date": "2026-08-22",
+    "titre": "Festival International de l'Apogee - Nimes-Caissargues-Pont du Gard - Tournoi A (+1900 elo)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72180",
+    "cadence": "Lente",
+    "lieu": "30 - NIMES",
+    "arbitre": "DIMITROV Christo"
+  },
+  {
+    "date": "2026-08-22",
+    "titre": "Festival International de l'Apogee - Nimes-Caissargues-Pont du Gard - Tournoi B (-2000)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72181",
+    "cadence": "Lente",
+    "lieu": "30 - NIMES",
+    "arbitre": "DIMITROV Christo"
+  },
+  {
     "date": "2026-08-23",
     "titre": "12e Open Fide de St Antonin Noble Val (+1600)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71472",
@@ -19369,6 +19457,22 @@
   },
   {
     "date": "2026-08-23",
+    "titre": "Festival International de l'Apogee - Nimes-Caissargues-Pont du Gard - Tournoi A (+1900 elo)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72180",
+    "cadence": "Lente",
+    "lieu": "30 - NIMES",
+    "arbitre": "DIMITROV Christo"
+  },
+  {
+    "date": "2026-08-23",
+    "titre": "Festival International de l'Apogee - Nimes-Caissargues-Pont du Gard - Tournoi B (-2000)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72181",
+    "cadence": "Lente",
+    "lieu": "30 - NIMES",
+    "arbitre": "DIMITROV Christo"
+  },
+  {
+    "date": "2026-08-23",
     "titre": "Rapide de la côte d'Albâtre 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70980",
     "cadence": "Rapide",
@@ -19425,6 +19529,22 @@
   },
   {
     "date": "2026-08-24",
+    "titre": "Festival International de l'Apogee - Nimes-Caissargues-Pont du Gard - Tournoi A (+1900 elo)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72180",
+    "cadence": "Lente",
+    "lieu": "30 - NIMES",
+    "arbitre": "DIMITROV Christo"
+  },
+  {
+    "date": "2026-08-24",
+    "titre": "Festival International de l'Apogee - Nimes-Caissargues-Pont du Gard - Tournoi B (-2000)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72181",
+    "cadence": "Lente",
+    "lieu": "30 - NIMES",
+    "arbitre": "DIMITROV Christo"
+  },
+  {
+    "date": "2026-08-24",
     "titre": "Rapide de la côte d'Albâtre 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70980",
     "cadence": "Rapide",
@@ -19478,6 +19598,22 @@
     "cadence": "Lente",
     "lieu": "13 - ALLAUCH",
     "arbitre": "CHAZEAU Laineur-Loth"
+  },
+  {
+    "date": "2026-08-25",
+    "titre": "Festival International de l'Apogee - Nimes-Caissargues-Pont du Gard - Tournoi A (+1900 elo)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72180",
+    "cadence": "Lente",
+    "lieu": "30 - NIMES",
+    "arbitre": "DIMITROV Christo"
+  },
+  {
+    "date": "2026-08-25",
+    "titre": "Festival International de l'Apogee - Nimes-Caissargues-Pont du Gard - Tournoi B (-2000)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72181",
+    "cadence": "Lente",
+    "lieu": "30 - NIMES",
+    "arbitre": "DIMITROV Christo"
   },
   {
     "date": "2026-08-25",
@@ -19545,6 +19681,22 @@
   },
   {
     "date": "2026-08-26",
+    "titre": "Festival International de l'Apogee - Nimes-Caissargues-Pont du Gard - Tournoi A (+1900 elo)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72180",
+    "cadence": "Lente",
+    "lieu": "30 - NIMES",
+    "arbitre": "DIMITROV Christo"
+  },
+  {
+    "date": "2026-08-26",
+    "titre": "Festival International de l'Apogee - Nimes-Caissargues-Pont du Gard - Tournoi B (-2000)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72181",
+    "cadence": "Lente",
+    "lieu": "30 - NIMES",
+    "arbitre": "DIMITROV Christo"
+  },
+  {
+    "date": "2026-08-26",
     "titre": "Rapide de la côte d'Albâtre 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70980",
     "cadence": "Rapide",
@@ -19601,6 +19753,22 @@
   },
   {
     "date": "2026-08-27",
+    "titre": "Festival International de l'Apogee - Nimes-Caissargues-Pont du Gard - Tournoi A (+1900 elo)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72180",
+    "cadence": "Lente",
+    "lieu": "30 - NIMES",
+    "arbitre": "DIMITROV Christo"
+  },
+  {
+    "date": "2026-08-27",
+    "titre": "Festival International de l'Apogee - Nimes-Caissargues-Pont du Gard - Tournoi B (-2000)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72181",
+    "cadence": "Lente",
+    "lieu": "30 - NIMES",
+    "arbitre": "DIMITROV Christo"
+  },
+  {
+    "date": "2026-08-27",
     "titre": "Open A Bischwiller 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71752",
     "cadence": "Lente",
@@ -19689,6 +19857,22 @@
   },
   {
     "date": "2026-08-28",
+    "titre": "Festival International de l'Apogee - Nimes-Caissargues-Pont du Gard - Tournoi A (+1900 elo)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72180",
+    "cadence": "Lente",
+    "lieu": "30 - NIMES",
+    "arbitre": "DIMITROV Christo"
+  },
+  {
+    "date": "2026-08-28",
+    "titre": "Festival International de l'Apogee - Nimes-Caissargues-Pont du Gard - Tournoi B (-2000)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72181",
+    "cadence": "Lente",
+    "lieu": "30 - NIMES",
+    "arbitre": "DIMITROV Christo"
+  },
+  {
+    "date": "2026-08-28",
     "titre": "Open A Bischwiller 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71752",
     "cadence": "Lente",
@@ -19721,7 +19905,7 @@
   },
   {
     "date": "2026-08-29",
-    "titre": "1er Open d'ÃĐtÃĐ de Limersheim-Hindisheim (-1700)",
+    "titre": "1er Open d'été de Limersheim-Hindisheim (-1700)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71802",
     "cadence": "Lente",
     "lieu": "67 - LIMERSHEIM",
@@ -19729,7 +19913,7 @@
   },
   {
     "date": "2026-08-29",
-    "titre": "22ÃĻme Festival International de Dieppe - Open des Rois",
+    "titre": "22ème Festival International de Dieppe - Open des Rois",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70915",
     "cadence": "Lente",
     "lieu": "76 - DIEPPE",
@@ -19737,7 +19921,7 @@
   },
   {
     "date": "2026-08-29",
-    "titre": "22ÃĻme Festival International de Dieppe A - Grand Prix \"Duchesse de Berry\" (>1500)",
+    "titre": "22ème Festival International de Dieppe A - Grand Prix \"Duchesse de Berry\" (>1500)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70913",
     "cadence": "Lente",
     "lieu": "76 - DIEPPE",
@@ -19745,7 +19929,7 @@
   },
   {
     "date": "2026-08-29",
-    "titre": "22ÃĻme Festival International de Dieppe B - \"Les Vikings\" (<1700)",
+    "titre": "22ème Festival International de Dieppe B - \"Les Vikings\" (<1700)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70914",
     "cadence": "Lente",
     "lieu": "76 - DIEPPE",
@@ -19753,7 +19937,7 @@
   },
   {
     "date": "2026-08-29",
-    "titre": "2e open d'ÃĐtÃĐ d'AsniÃĻres 2026",
+    "titre": "2e open d'été d'Asnières 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71743",
     "cadence": "Lente",
     "lieu": "92 - ASNIERES SUR SEINE",
@@ -19785,7 +19969,23 @@
   },
   {
     "date": "2026-08-29",
-    "titre": "Internationaux de la RÃĐunion de Blitz 2026",
+    "titre": "Festival International de l'Apogee - Nimes-Caissargues-Pont du Gard - Tournoi A (+1900 elo)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72180",
+    "cadence": "Lente",
+    "lieu": "30 - NIMES",
+    "arbitre": "DIMITROV Christo"
+  },
+  {
+    "date": "2026-08-29",
+    "titre": "Festival International de l'Apogee - Nimes-Caissargues-Pont du Gard - Tournoi B (-2000)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72181",
+    "cadence": "Lente",
+    "lieu": "30 - NIMES",
+    "arbitre": "DIMITROV Christo"
+  },
+  {
+    "date": "2026-08-29",
+    "titre": "Internationaux de la Réunion de Blitz 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72105",
     "cadence": "Blitz",
     "lieu": "9A - SAINT DENIS",
@@ -19838,6 +20038,22 @@
     "cadence": "Lente",
     "lieu": "92 - ASNIERES SUR SEINE",
     "arbitre": "REGAUD Denis"
+  },
+  {
+    "date": "2026-08-30",
+    "titre": "Festival International de l'Apogee - Nimes-Caissargues-Pont du Gard - Tournoi A (+1900 elo)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72180",
+    "cadence": "Lente",
+    "lieu": "30 - NIMES",
+    "arbitre": "DIMITROV Christo"
+  },
+  {
+    "date": "2026-08-30",
+    "titre": "Festival International de l'Apogee - Nimes-Caissargues-Pont du Gard - Tournoi B (-2000)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72181",
+    "cadence": "Lente",
+    "lieu": "30 - NIMES",
+    "arbitre": "DIMITROV Christo"
   },
   {
     "date": "2026-08-30",
