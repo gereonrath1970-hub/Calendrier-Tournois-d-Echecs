@@ -5233,7 +5233,7 @@
   },
   {
     "date": "2026-04-30",
-    "titre": "107è Rapide FFE Interchess -1600 Elo (conseillé aux débutants adultes jeunes et enfants)",
+    "titre": "107è Rapide FFE Interchess -1600 ANNULE",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71957",
     "cadence": "Rapide",
     "lieu": "75 - PARIS",
@@ -7030,38 +7030,6 @@
     "cadence": "Rapide",
     "lieu": "38 - SAINT CLAIR DU RHONE",
     "arbitre": "RINGOT Francoise"
-  },
-  {
-    "date": "2026-05-09",
-    "titre": "Grand Prix rapides du Val de Marnes Saison 2025-2026 Etape 4A",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71122",
-    "cadence": "Rapide",
-    "lieu": "94 - MAISONS ALFORT",
-    "arbitre": "BENADDOU Khaled"
-  },
-  {
-    "date": "2026-05-09",
-    "titre": "Grand Prix rapides du Val de Marnes Saison 2025-2026 Etape 4B",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71123",
-    "cadence": "Rapide",
-    "lieu": "94 - MAISONS ALFORT",
-    "arbitre": "BENADDOU Khaled"
-  },
-  {
-    "date": "2026-05-09",
-    "titre": "Grand Prix rapides du Val de Marnes Saison 2025-2026 Etape 4C",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71124",
-    "cadence": "Rapide",
-    "lieu": "94 - MAISONS ALFORT",
-    "arbitre": "BENADDOU Khaled"
-  },
-  {
-    "date": "2026-05-09",
-    "titre": "Grand Prix rapides du Val de Marnes Saison 2025-2026 Etape 4D",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71125",
-    "cadence": "Rapide",
-    "lieu": "94 - MAISONS ALFORT",
-    "arbitre": "BENADDOU Khaled"
   },
   {
     "date": "2026-05-09",
@@ -9340,8 +9308,8 @@
     "titre": "43eme échecs et malt",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72127",
     "cadence": "Lente",
-    "lieu": "Information indisponible",
-    "arbitre": "Information indisponible"
+    "lieu": "93 - PANTIN",
+    "arbitre": "AZZEGAG Jocelyn"
   },
   {
     "date": "2026-05-19",
@@ -9356,24 +9324,64 @@
     "titre": "CCC - Tournoi Fou 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71821",
     "cadence": "Lente",
-    "lieu": "Information indisponible",
-    "arbitre": "Information indisponible"
+    "lieu": "2B - BASTIA",
+    "arbitre": "GERONIMI Pierre-Fran"
   },
   {
     "date": "2026-05-19",
     "titre": "CCC - Tournoi Tour 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71820",
     "cadence": "Lente",
-    "lieu": "Information indisponible",
-    "arbitre": "Information indisponible"
+    "lieu": "2B - BASTIA",
+    "arbitre": "GERONIMI Pierre-Fran"
   },
   {
     "date": "2026-05-19",
     "titre": "Tournoi interne ASPTT Metz 2025-26 r7",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=69767",
     "cadence": "Lente",
-    "lieu": "Information indisponible",
-    "arbitre": "Information indisponible"
+    "lieu": "57 - METZ",
+    "arbitre": "SCHMIDT Alain"
+  },
+  {
+    "date": "2026-05-20",
+    "titre": "407è Rapide FIDE Interchess -2000 (conseillé aux débutants adultes jeunes et enfants)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72150",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-05-20",
+    "titre": "5ème Championnat Interne de Gex",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72019",
+    "cadence": "Lente",
+    "lieu": "01 - GEX",
+    "arbitre": "LALIEU Charles"
+  },
+  {
+    "date": "2026-05-20",
+    "titre": "CCC - Tournoi Fou 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71821",
+    "cadence": "Lente",
+    "lieu": "2B - BASTIA",
+    "arbitre": "GERONIMI Pierre-Fran"
+  },
+  {
+    "date": "2026-05-20",
+    "titre": "CCC - Tournoi Tour 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71820",
+    "cadence": "Lente",
+    "lieu": "2B - BASTIA",
+    "arbitre": "GERONIMI Pierre-Fran"
+  },
+  {
+    "date": "2026-05-20",
+    "titre": "Tournoi Blitz FIDE de l'école d'échecs de Hyères - mai 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71693",
+    "cadence": "Blitz",
+    "lieu": "83 - HYERES",
+    "arbitre": "RAMAZZOTTI Bernard"
   },
   {
     "date": "2026-05-21",
@@ -9518,6 +9526,14 @@
     "cadence": "Lente",
     "lieu": "54 - SAINT MAX",
     "arbitre": "SCHMITT Nicolas"
+  },
+  {
+    "date": "2026-05-23",
+    "titre": "109è Rapide FFE Interchess -2000 Elo (conseillé aux débutants adultes jeunes et enfants)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72223",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "PHAM Hieu Tuong"
   },
   {
     "date": "2026-05-23",
@@ -13796,8 +13812,8 @@
     "titre": "9ème Festival \"Sundgo'chess\" - moins de 2400 - Tournoi 1",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72132",
     "cadence": "Lente",
-    "lieu": "Information indisponible",
-    "arbitre": "Information indisponible"
+    "lieu": "68 - ALTKIRCH",
+    "arbitre": "LENGERT Rene"
   },
   {
     "date": "2026-06-27",
@@ -13996,40 +14012,40 @@
     "titre": "Tournois Fermés Chess In Lyon juin 2026 Poule J",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72096",
     "cadence": "Lente",
-    "lieu": "Information indisponible",
-    "arbitre": "Information indisponible"
+    "lieu": "69 - LYON",
+    "arbitre": "BUDACI Lionel"
   },
   {
     "date": "2026-06-27",
     "titre": "Tournois Fermés Chess In Lyon juin 2026 Poule K",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72097",
     "cadence": "Lente",
-    "lieu": "Information indisponible",
-    "arbitre": "Information indisponible"
+    "lieu": "69 - LYON",
+    "arbitre": "BUDACI Lionel"
   },
   {
     "date": "2026-06-27",
     "titre": "Tournois Fermés Chess In Lyon juin 2026 Poule L",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72098",
     "cadence": "Lente",
-    "lieu": "Information indisponible",
-    "arbitre": "Information indisponible"
+    "lieu": "69 - LYON",
+    "arbitre": "BUDACI Lionel"
   },
   {
     "date": "2026-06-27",
     "titre": "Tournois Fermés Chess In Lyon juin 2026 Poule M",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72099",
     "cadence": "Lente",
-    "lieu": "Information indisponible",
-    "arbitre": "Information indisponible"
+    "lieu": "69 - LYON",
+    "arbitre": "BUDACI Lionel"
   },
   {
     "date": "2026-06-27",
     "titre": "Tournois Fermés Chess In Lyon juin 2026 Poule N",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72100",
     "cadence": "Lente",
-    "lieu": "Information indisponible",
-    "arbitre": "Information indisponible"
+    "lieu": "69 - LYON",
+    "arbitre": "BUDACI Lionel"
   },
   {
     "date": "2026-06-28",
@@ -15302,6 +15318,14 @@
     "cadence": "Rapide",
     "lieu": "94 - FONTENAY SOUS BOIS",
     "arbitre": "AZZEGAG Jocelyn"
+  },
+  {
+    "date": "2026-07-05",
+    "titre": "Tournoi Jeunes Eté 2026 Echiquier d'Azur Fréjus Saint-Raphaël",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72221",
+    "cadence": "Lente",
+    "lieu": "83 - SAINT RAPHAEL",
+    "arbitre": "AIDAOUI Brice"
   },
   {
     "date": "2026-07-06",
@@ -20326,6 +20350,14 @@
     "cadence": "Lente",
     "lieu": "83 - HYERES",
     "arbitre": "RAMAZZOTTI Bernard"
+  },
+  {
+    "date": "2026-09-02",
+    "titre": "Tournoi Jeunes de rentrée de Saint-Raphaël 2026-2027",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72222",
+    "cadence": "Lente",
+    "lieu": "83 - SAINT RAPHAEL",
+    "arbitre": "AIDAOUI Brice"
   },
   {
     "date": "2026-09-12",
