@@ -6993,6 +6993,14 @@
   },
   {
     "date": "2026-05-09",
+    "titre": "Championnat Accession de la Réunion Individuel 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71927",
+    "cadence": "Lente",
+    "lieu": "9A - SAINT DENIS",
+    "arbitre": "LUTARD Florian"
+  },
+  {
+    "date": "2026-05-09",
     "titre": "Championnat de la Réunion Individuel 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71926",
     "cadence": "Lente",
@@ -7281,6 +7289,14 @@
   },
   {
     "date": "2026-05-10",
+    "titre": "Championnat Accession de la Réunion Individuel 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71927",
+    "cadence": "Lente",
+    "lieu": "9A - SAINT DENIS",
+    "arbitre": "LUTARD Florian"
+  },
+  {
+    "date": "2026-05-10",
     "titre": "Championnat de la Réunion Individuel 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71926",
     "cadence": "Lente",
@@ -7457,6 +7473,14 @@
   },
   {
     "date": "2026-05-11",
+    "titre": "Championnat Accession de la Réunion Individuel 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71927",
+    "cadence": "Lente",
+    "lieu": "9A - SAINT DENIS",
+    "arbitre": "LUTARD Florian"
+  },
+  {
+    "date": "2026-05-11",
     "titre": "Championnat de la Réunion Individuel 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71926",
     "cadence": "Lente",
@@ -7505,6 +7529,14 @@
   },
   {
     "date": "2026-05-12",
+    "titre": "Championnat Accession de la Réunion Individuel 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71927",
+    "cadence": "Lente",
+    "lieu": "9A - SAINT DENIS",
+    "arbitre": "LUTARD Florian"
+  },
+  {
+    "date": "2026-05-12",
     "titre": "Championnat de la Réunion Individuel 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71926",
     "cadence": "Lente",
@@ -7537,7 +7569,7 @@
   },
   {
     "date": "2026-05-13",
-    "titre": "1er Tournoi Fermé à norme MI du Pays de Gex",
+    "titre": "1er Tournoi Ferm├® ├Ā norme MI du Pays de Gex",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=68747",
     "cadence": "Lente",
     "lieu": "01 - GEX",
@@ -7545,7 +7577,7 @@
   },
   {
     "date": "2026-05-13",
-    "titre": "2e tournoi fermé à norme de MI du Pays de Bray",
+    "titre": "2e tournoi ferm├® ├Ā norme de MI du Pays de Bray",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70089",
     "cadence": "Lente",
     "lieu": "76 - GOURNAY EN BRAY",
@@ -7561,7 +7593,7 @@
   },
   {
     "date": "2026-05-13",
-    "titre": "Challenge Hegy André 2026 r3-4",
+    "titre": "Challenge Hegy Andr├® 2026 r3-4",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71254",
     "cadence": "Lente",
     "lieu": "68 - KINGERSHEIM",
@@ -7569,7 +7601,15 @@
   },
   {
     "date": "2026-05-13",
-    "titre": "Championnat de France des aveugles et déficients visuels 2026",
+    "titre": "Championnat Accession de la R├®union Individuel 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71927",
+    "cadence": "Lente",
+    "lieu": "9A - SAINT DENIS",
+    "arbitre": "LUTARD Florian"
+  },
+  {
+    "date": "2026-05-13",
+    "titre": "Championnat de France des aveugles et d├®ficients visuels 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71042",
     "cadence": "Lente",
     "lieu": "45 - SAINT JEAN DE BRAYE",
@@ -7577,7 +7617,7 @@
   },
   {
     "date": "2026-05-13",
-    "titre": "Championnat de la Réunion Individuel 2026",
+    "titre": "Championnat de la R├®union Individuel 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71926",
     "cadence": "Lente",
     "lieu": "9A - SAINT DENIS",
@@ -7585,7 +7625,7 @@
   },
   {
     "date": "2026-05-13",
-    "titre": "Scolaire Collèges MAURON MI 2026",
+    "titre": "Scolaire Coll├©ges MAURON MI 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71854",
     "cadence": "Lente",
     "lieu": "56 - MAURON",
@@ -7601,7 +7641,7 @@
   },
   {
     "date": "2026-05-13",
-    "titre": "Top 12 Féminin",
+    "titre": "Top 12 F├®minin",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=68161",
     "cadence": "Lente",
     "lieu": "9Z - FRANCE",
@@ -7918,6 +7958,14 @@
     "cadence": "Lente",
     "lieu": "68 - KINGERSHEIM",
     "arbitre": "DE FAVERI Gabriel"
+  },
+  {
+    "date": "2026-05-14",
+    "titre": "Championnat Accession de la Réunion Individuel 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71927",
+    "cadence": "Lente",
+    "lieu": "9A - SAINT DENIS",
+    "arbitre": "LUTARD Florian"
   },
   {
     "date": "2026-05-14",
@@ -8262,6 +8310,14 @@
     "cadence": "Lente",
     "lieu": "68 - KINGERSHEIM",
     "arbitre": "DE FAVERI Gabriel"
+  },
+  {
+    "date": "2026-05-15",
+    "titre": "Championnat Accession de la Réunion Individuel 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71927",
+    "cadence": "Lente",
+    "lieu": "9A - SAINT DENIS",
+    "arbitre": "LUTARD Florian"
   },
   {
     "date": "2026-05-15",
@@ -8646,6 +8702,14 @@
     "cadence": "Lente",
     "lieu": "76 - GOURNAY EN BRAY",
     "arbitre": "CHELLILI Bachir"
+  },
+  {
+    "date": "2026-05-16",
+    "titre": "Championnat Accession de la Réunion Individuel 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71927",
+    "cadence": "Lente",
+    "lieu": "9A - SAINT DENIS",
+    "arbitre": "LUTARD Florian"
   },
   {
     "date": "2026-05-16",
@@ -9126,6 +9190,14 @@
     "cadence": "Blitz",
     "lieu": "29 - ROSPORDEN",
     "arbitre": "LEFEUVRE Francoise"
+  },
+  {
+    "date": "2026-05-17",
+    "titre": "Championnat Accession de la Réunion Individuel 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71927",
+    "cadence": "Lente",
+    "lieu": "9A - SAINT DENIS",
+    "arbitre": "LUTARD Florian"
   },
   {
     "date": "2026-05-17",
@@ -9777,7 +9849,7 @@
   },
   {
     "date": "2026-05-23",
-    "titre": "Championnat de Corse 2026 1/4",
+    "titre": "Championnat de Corse 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72119",
     "cadence": "Lente",
     "lieu": "2B - BASTIA",
@@ -10201,6 +10273,14 @@
   },
   {
     "date": "2026-05-24",
+    "titre": "Championnat de Corse 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72119",
+    "cadence": "Lente",
+    "lieu": "2B - BASTIA",
+    "arbitre": "HUMEAU Cyril"
+  },
+  {
+    "date": "2026-05-24",
     "titre": "Championnats de la Manche 2026 - de 2400",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71987",
     "cadence": "Lente",
@@ -10505,6 +10585,14 @@
   },
   {
     "date": "2026-05-25",
+    "titre": "Championnat de Corse 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72119",
+    "cadence": "Lente",
+    "lieu": "2B - BASTIA",
+    "arbitre": "HUMEAU Cyril"
+  },
+  {
+    "date": "2026-05-25",
     "titre": "Open de Champagne 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71470",
     "cadence": "Lente",
@@ -10574,6 +10662,14 @@
     "cadence": "Lente",
     "lieu": "25 - BESANCON",
     "arbitre": "NOYELLES Benoit"
+  },
+  {
+    "date": "2026-05-26",
+    "titre": "Championnat de Corse 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72119",
+    "cadence": "Lente",
+    "lieu": "2B - BASTIA",
+    "arbitre": "HUMEAU Cyril"
   },
   {
     "date": "2026-05-26",
@@ -11822,6 +11918,14 @@
     "cadence": "Lente",
     "lieu": "13 - AUBAGNE",
     "arbitre": "CHAUVET Jean-Marc"
+  },
+  {
+    "date": "2026-06-06",
+    "titre": "Grand Prix Rapides de Seine-Saint-Denis saison 2025-2026 Etape 3C",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72244",
+    "cadence": "Rapide",
+    "lieu": "93 - AUBERVILLIERS",
+    "arbitre": "LEMOINE Thomas"
   },
   {
     "date": "2026-06-06",
@@ -14073,7 +14177,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "12ème open de parties rapides de l'Echiquier Montluçonnais",
+    "titre": "12├©me open de parties rapides de l'Echiquier Montlu├¦onnais",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70244",
     "cadence": "Rapide",
     "lieu": "03 - MONTLUCON",
@@ -14081,7 +14185,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "13ème Mémorial Patrick Carrasco",
+    "titre": "13├©me M├®morial Patrick Carrasco",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71543",
     "cadence": "Lente",
     "lieu": "94 - ARCUEIL",
@@ -14097,7 +14201,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "21ème Rapide FIDE de Carquefou - Tournoi Jeunes",
+    "titre": "21├©me Rapide FIDE de Carquefou - Tournoi Jeunes",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70391",
     "cadence": "Rapide",
     "lieu": "44 - CARQUEFOU",
@@ -14105,7 +14209,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "21ème Rapide FIDE de Carquefou - Tournoi Principal",
+    "titre": "21├©me Rapide FIDE de Carquefou - Tournoi Principal",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70390",
     "cadence": "Rapide",
     "lieu": "44 - CARQUEFOU",
@@ -14137,7 +14241,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "28ème Open International des Vins du Médoc à Hourtin (33)",
+    "titre": "28├©me Open International des Vins du M├®doc ├Ā Hourtin (33)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70982",
     "cadence": "Lente",
     "lieu": "33 - HOURTIN",
@@ -14153,7 +14257,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "6e Festival du Mat de La Charité - Rapide",
+    "titre": "6e Festival du Mat de La Charit├® - Rapide",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71250",
     "cadence": "Rapide",
     "lieu": "58 - LA CHARITE SUR LOIRE",
@@ -14161,7 +14265,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "9ème Festival \"Sundgo'chess\" - moins de 2400 - Tournoi 1",
+    "titre": "9├©me Festival \"Sundgo'chess\" - moins de 2400 - Tournoi 1",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72132",
     "cadence": "Lente",
     "lieu": "68 - ALTKIRCH",
@@ -14169,7 +14273,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "9ème Festival \"Sundgo'chess\" - moins de 2400 - Tournoi 2",
+    "titre": "9├©me Festival \"Sundgo'chess\" - moins de 2400 - Tournoi 2",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72133",
     "cadence": "Lente",
     "lieu": "68 - ALTKIRCH",
@@ -14177,7 +14281,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "9ème Festival \"Sundgo'chess\" - moins de 2400 - Tournoi 3",
+    "titre": "9├©me Festival \"Sundgo'chess\" - moins de 2400 - Tournoi 3",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72134",
     "cadence": "Lente",
     "lieu": "68 - ALTKIRCH",
@@ -14185,7 +14289,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "9ème Festival \"Sundgo'chess\" - moins de 2400 - Tournoi 4",
+    "titre": "9├©me Festival \"Sundgo'chess\" - moins de 2400 - Tournoi 4",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72135",
     "cadence": "Lente",
     "lieu": "68 - ALTKIRCH",
@@ -14193,7 +14297,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "9ème Festival \"Sundgo'chess\" - moins de 2400 - Tournoi 5",
+    "titre": "9├©me Festival \"Sundgo'chess\" - moins de 2400 - Tournoi 5",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72136",
     "cadence": "Lente",
     "lieu": "68 - ALTKIRCH",
@@ -14201,7 +14305,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "9ème Festival \"Sundgo'chess\" - moins de 2400 - Tournoi 6",
+    "titre": "9├©me Festival \"Sundgo'chess\" - moins de 2400 - Tournoi 6",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72137",
     "cadence": "Lente",
     "lieu": "68 - ALTKIRCH",
@@ -14209,7 +14313,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "9ème Festival \"Sundgo'chess\" - moins de 2400 - Tournoi 7",
+    "titre": "9├©me Festival \"Sundgo'chess\" - moins de 2400 - Tournoi 7",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72138",
     "cadence": "Lente",
     "lieu": "68 - ALTKIRCH",
@@ -14225,7 +14329,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "Coupe Loubatière Finale",
+    "titre": "Coupe Loubati├©re Finale",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=68157",
     "cadence": "Lente",
     "lieu": "9H - FRANCE",
@@ -14241,7 +14345,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "Coupe de la Parité Finale",
+    "titre": "Coupe de la Parit├® Finale",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=68160",
     "cadence": "Lente",
     "lieu": "9Z - FRANCE",
@@ -14249,7 +14353,15 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "Les Bêtises de Cambrai IM 2026",
+    "titre": "Grand Prix Rapides de Seine-Saint-Denis saison 2025-2026 Etape 4C",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72247",
+    "cadence": "Rapide",
+    "lieu": "93 - LE BLANC MESNIL",
+    "arbitre": "LEMOINE Thomas"
+  },
+  {
+    "date": "2026-06-28",
+    "titre": "Les B├¬tises de Cambrai IM 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=68454",
     "cadence": "Lente",
     "lieu": "59 - CAMBRAI",
@@ -14289,7 +14401,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "Rapide de Liffré 2026 - Tournoi A",
+    "titre": "Rapide de Liffr├® 2026 - Tournoi A",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71880",
     "cadence": "Rapide",
     "lieu": "35 - LIFFRE",
@@ -14297,7 +14409,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "Rapide de Liffré 2026 - Tournoi B",
+    "titre": "Rapide de Liffr├® 2026 - Tournoi B",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71881",
     "cadence": "Rapide",
     "lieu": "35 - LIFFRE",
@@ -14305,7 +14417,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "Rapide de Liffré 2026 - tournoi Petits Pions",
+    "titre": "Rapide de Liffr├® 2026 - tournoi Petits Pions",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71882",
     "cadence": "Rapide",
     "lieu": "35 - LIFFRE",
@@ -14313,7 +14425,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "Rapide de Quimperlé 2026 - Tournoi Jeunes",
+    "titre": "Rapide de Quimperl├® 2026 - Tournoi Jeunes",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71590",
     "cadence": "Rapide",
     "lieu": "29 - QUIMPERLE",
@@ -14321,7 +14433,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "Rapide de Quimperlé 2026 - Tournoi Principal",
+    "titre": "Rapide de Quimperl├® 2026 - Tournoi Principal",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71589",
     "cadence": "Rapide",
     "lieu": "29 - QUIMPERLE",
@@ -14329,7 +14441,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "Top 12 Féminin Phase Finale",
+    "titre": "Top 12 F├®minin Phase Finale",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=68162",
     "cadence": "Lente",
     "lieu": "9Z - FRANCE",
@@ -14345,7 +14457,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "Tournoi international d'échecs Juraflore 2026 - Fort des Rousses - Open Master",
+    "titre": "Tournoi international d'├®checs Juraflore 2026 - Fort des Rousses - Open Master",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70851",
     "cadence": "Lente",
     "lieu": "39 - LES ROUSSES",
@@ -14369,7 +14481,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "Tournois Fermés Chess In Lyon juin 2026 Poule A",
+    "titre": "Tournois Ferm├®s Chess In Lyon juin 2026 Poule A",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=68226",
     "cadence": "Lente",
     "lieu": "69 - LYON",
@@ -14377,7 +14489,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "Tournois Fermés Chess In Lyon juin 2026 Poule B",
+    "titre": "Tournois Ferm├®s Chess In Lyon juin 2026 Poule B",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=68227",
     "cadence": "Lente",
     "lieu": "69 - LYON",
@@ -14385,7 +14497,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "Tournois Fermés Chess In Lyon juin 2026 Poule C",
+    "titre": "Tournois Ferm├®s Chess In Lyon juin 2026 Poule C",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=68228",
     "cadence": "Lente",
     "lieu": "69 - LYON",
@@ -14393,7 +14505,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "Tournois Fermés Chess In Lyon juin 2026 Poule D",
+    "titre": "Tournois Ferm├®s Chess In Lyon juin 2026 Poule D",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=68229",
     "cadence": "Lente",
     "lieu": "69 - LYON",
@@ -14401,7 +14513,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "Tournois Fermés Chess In Lyon juin 2026 Poule E",
+    "titre": "Tournois Ferm├®s Chess In Lyon juin 2026 Poule E",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72091",
     "cadence": "Lente",
     "lieu": "69 - LYON",
@@ -14409,7 +14521,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "Tournois Fermés Chess In Lyon juin 2026 Poule F",
+    "titre": "Tournois Ferm├®s Chess In Lyon juin 2026 Poule F",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72092",
     "cadence": "Lente",
     "lieu": "69 - LYON",
@@ -14417,7 +14529,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "Tournois Fermés Chess In Lyon juin 2026 Poule G",
+    "titre": "Tournois Ferm├®s Chess In Lyon juin 2026 Poule G",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72093",
     "cadence": "Lente",
     "lieu": "69 - LYON",
@@ -14425,7 +14537,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "Tournois Fermés Chess In Lyon juin 2026 Poule H",
+    "titre": "Tournois Ferm├®s Chess In Lyon juin 2026 Poule H",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72094",
     "cadence": "Lente",
     "lieu": "69 - LYON",
@@ -14433,7 +14545,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "Tournois Fermés Chess In Lyon juin 2026 Poule I",
+    "titre": "Tournois Ferm├®s Chess In Lyon juin 2026 Poule I",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72095",
     "cadence": "Lente",
     "lieu": "69 - LYON",
@@ -14441,7 +14553,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "Tournois Fermés Chess In Lyon juin 2026 Poule J",
+    "titre": "Tournois Ferm├®s Chess In Lyon juin 2026 Poule J",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72096",
     "cadence": "Lente",
     "lieu": "69 - LYON",
@@ -14449,7 +14561,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "Tournois Fermés Chess In Lyon juin 2026 Poule K",
+    "titre": "Tournois Ferm├®s Chess In Lyon juin 2026 Poule K",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72097",
     "cadence": "Lente",
     "lieu": "69 - LYON",
@@ -14457,7 +14569,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "Tournois Fermés Chess In Lyon juin 2026 Poule L",
+    "titre": "Tournois Ferm├®s Chess In Lyon juin 2026 Poule L",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72098",
     "cadence": "Lente",
     "lieu": "69 - LYON",
@@ -14465,7 +14577,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "Tournois Fermés Chess In Lyon juin 2026 Poule M",
+    "titre": "Tournois Ferm├®s Chess In Lyon juin 2026 Poule M",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72099",
     "cadence": "Lente",
     "lieu": "69 - LYON",
@@ -14473,7 +14585,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "Tournois Fermés Chess In Lyon juin 2026 Poule N",
+    "titre": "Tournois Ferm├®s Chess In Lyon juin 2026 Poule N",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72100",
     "cadence": "Lente",
     "lieu": "69 - LYON",
@@ -14481,7 +14593,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "Trophée Polop Rapide 2026",
+    "titre": "Troph├®e Polop Rapide 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72175",
     "cadence": "Rapide",
     "lieu": "65 - LOURES BAROUSSE",
