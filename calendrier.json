@@ -6969,16 +6969,8 @@
   },
   {
     "date": "2026-05-09",
-    "titre": "CEHR Challenge Jeunes 2026 U14 Mixtes",
+    "titre": "CEHR Challenge Jeunes 2026 U14 U16 Mixtes",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71964",
-    "cadence": "Lente",
-    "lieu": "68 - ESCHENTZWILLER",
-    "arbitre": "LENGERT Rene"
-  },
-  {
-    "date": "2026-05-09",
-    "titre": "CEHR Challenge Jeunes 2026 U16 Mixtes",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71966",
     "cadence": "Lente",
     "lieu": "68 - ESCHENTZWILLER",
     "arbitre": "LENGERT Rene"
@@ -9497,7 +9489,7 @@
   },
   {
     "date": "2026-05-22",
-    "titre": "106√® Blitz FIDE Interchess",
+    "titre": "106è Blitz FIDE Interchess",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72155",
     "cadence": "Blitz",
     "lieu": "75 - PARIS",
@@ -9505,7 +9497,7 @@
   },
   {
     "date": "2026-05-22",
-    "titre": "409√® Rapide FIDE Interchess -1700 (conseill√© aux d√©butants adultes jeune et enfants)",
+    "titre": "409è Rapide FIDE Interchess -1700 (conseillé aux débutants adultes jeune et enfants)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72151",
     "cadence": "Rapide",
     "lieu": "75 - PARIS",
@@ -9521,7 +9513,7 @@
   },
   {
     "date": "2026-05-22",
-    "titre": "5√®me Championnat Interne de Gex",
+    "titre": "5ème Championnat Interne de Gex",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72019",
     "cadence": "Lente",
     "lieu": "01 - GEX",
@@ -9529,7 +9521,7 @@
   },
   {
     "date": "2026-05-22",
-    "titre": "7√®me soir√©e open blitz de Maisons-Laffitte 2025-2026",
+    "titre": "7ème soirée open blitz de Maisons-Laffitte 2025-2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=69191",
     "cadence": "Blitz",
     "lieu": "78 - MAISONS LAFFITTE",
@@ -9537,7 +9529,7 @@
   },
   {
     "date": "2026-05-22",
-    "titre": "Blitz de Mai de l'√âchiquier N√Æmois 2026-05-22",
+    "titre": "Blitz de Mai de l'Échiquier Nîmois 2026-05-22",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72035",
     "cadence": "Blitz",
     "lieu": "30 - NIMES",
@@ -9569,7 +9561,15 @@
   },
   {
     "date": "2026-05-22",
-    "titre": "Tournoi blitz du V√©sinet no 8 du 22-05-2026",
+    "titre": "Tournoi Académique des Lycéens de Guyane 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72252",
+    "cadence": "Lente",
+    "lieu": "9B - CAYENNE",
+    "arbitre": "ERIPRET Nicolas"
+  },
+  {
+    "date": "2026-05-22",
+    "titre": "Tournoi blitz du Vésinet no 8 du 22-05-2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72052",
     "cadence": "Blitz",
     "lieu": "78 - LE VESINET",
@@ -9934,6 +9934,14 @@
     "cadence": "Lente",
     "lieu": "46 - CAHORS",
     "arbitre": "PRIE Eric"
+  },
+  {
+    "date": "2026-05-23",
+    "titre": "Tournoi Interne Rapide Brive 23-05-2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72209",
+    "cadence": "Rapide",
+    "lieu": "19 - BRIVE LA GAILLARDE",
+    "arbitre": "LAVAL Jose"
   },
   {
     "date": "2026-05-23",
@@ -10689,6 +10697,14 @@
   },
   {
     "date": "2026-05-27",
+    "titre": "411è Rapide FIDE Interchess -2000 (conseillé aux débutants adultes jeunes et enfants)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72212",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-05-27",
     "titre": "Fermé LMC Mai 26 A",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71991",
     "cadence": "Lente",
@@ -10734,6 +10750,14 @@
     "cadence": "Lente",
     "lieu": "25 - BESANCON",
     "arbitre": "NOYELLES Benoit"
+  },
+  {
+    "date": "2026-05-28",
+    "titre": "412è Rapide FIDE Interchess",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72253",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
   },
   {
     "date": "2026-05-28",
@@ -10889,6 +10913,14 @@
   },
   {
     "date": "2026-05-30",
+    "titre": "107è Blitz FIDE Interchess",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72256",
+    "cadence": "Blitz",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-05-30",
     "titre": "10e Tournoi Rapide Axiomatikos (-1400 et non-classés)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71565",
     "cadence": "Rapide",
@@ -10926,6 +10958,22 @@
     "cadence": "Lente",
     "lieu": "69 - CORBAS",
     "arbitre": "BISSIERES Matthieu"
+  },
+  {
+    "date": "2026-05-30",
+    "titre": "258è Open FIDE Interchess de 3 Rondes (Réservé elo fide de 1700 à 2200)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72254",
+    "cadence": "Lente",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-05-30",
+    "titre": "259è Open FIDE Interchess de 3 Rondes -1800",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72255",
+    "cadence": "Lente",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
   },
   {
     "date": "2026-05-30",
@@ -11265,6 +11313,14 @@
   },
   {
     "date": "2026-05-31",
+    "titre": "260è Open FIDE Interchess de 3 Rondes -1800",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72257",
+    "cadence": "Lente",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-05-31",
     "titre": "2ème Open rapide de Bures-sur-Yvette - mai 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71226",
     "cadence": "Rapide",
@@ -11302,6 +11358,14 @@
     "cadence": "Rapide",
     "lieu": "68 - HUNINGUE",
     "arbitre": "HEDDACHE Rachid"
+  },
+  {
+    "date": "2026-05-31",
+    "titre": "413è Rapide FIDE Interchess",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72258",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
   },
   {
     "date": "2026-05-31",
@@ -11977,6 +12041,14 @@
   },
   {
     "date": "2026-06-06",
+    "titre": "Open d’Evreux 2026 (-2400)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71994",
+    "cadence": "Lente",
+    "lieu": "27 - EVREUX",
+    "arbitre": "COZIC Vincent"
+  },
+  {
+    "date": "2026-06-06",
     "titre": "RAPIDASPOM 06-06-2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72029",
     "cadence": "Lente",
@@ -12286,6 +12358,14 @@
     "cadence": "Lente",
     "lieu": "78 - MONTIGNY LE BRETONNEUX",
     "arbitre": "RIVIER Sylvain"
+  },
+  {
+    "date": "2026-06-07",
+    "titre": "Open d’Evreux 2026 (-2400)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71994",
+    "cadence": "Lente",
+    "lieu": "27 - EVREUX",
+    "arbitre": "COZIC Vincent"
   },
   {
     "date": "2026-06-07",
@@ -15505,6 +15585,14 @@
   },
   {
     "date": "2026-07-06",
+    "titre": "30e Festival International Jean-Claude Loubatière Rapide",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72211",
+    "cadence": "Rapide",
+    "lieu": "34 - MONTPELLIER",
+    "arbitre": "COQUELLE Arnaud"
+  },
+  {
+    "date": "2026-07-06",
     "titre": "6e Festival International de La Plagne - Tournoi Accession",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70512",
     "cadence": "Lente",
@@ -15646,6 +15734,14 @@
     "cadence": "Lente",
     "lieu": "34 - MONTPELLIER",
     "arbitre": "MOURET Erick"
+  },
+  {
+    "date": "2026-07-07",
+    "titre": "30e Festival International Jean-Claude Loubatière Rapide",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72211",
+    "cadence": "Rapide",
+    "lieu": "34 - MONTPELLIER",
+    "arbitre": "COQUELLE Arnaud"
   },
   {
     "date": "2026-07-07",
@@ -15798,6 +15894,14 @@
     "cadence": "Lente",
     "lieu": "34 - MONTPELLIER",
     "arbitre": "MOURET Erick"
+  },
+  {
+    "date": "2026-07-08",
+    "titre": "30e Festival International Jean-Claude Loubatière Rapide",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72211",
+    "cadence": "Rapide",
+    "lieu": "34 - MONTPELLIER",
+    "arbitre": "COQUELLE Arnaud"
   },
   {
     "date": "2026-07-08",
@@ -15974,6 +16078,14 @@
     "cadence": "Lente",
     "lieu": "34 - MONTPELLIER",
     "arbitre": "MOURET Erick"
+  },
+  {
+    "date": "2026-07-09",
+    "titre": "30e Festival International Jean-Claude Loubatière Rapide",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72211",
+    "cadence": "Rapide",
+    "lieu": "34 - MONTPELLIER",
+    "arbitre": "COQUELLE Arnaud"
   },
   {
     "date": "2026-07-09",
@@ -16737,6 +16849,14 @@
   },
   {
     "date": "2026-07-13",
+    "titre": "Open d'été du Corsica Chess Club 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72208",
+    "cadence": "Lente",
+    "lieu": "2B - BASTIA",
+    "arbitre": "ORSONI Jean-Philippe"
+  },
+  {
+    "date": "2026-07-13",
     "titre": "Tournoi FIDE d'Eté du Philidor 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72123",
     "cadence": "Lente",
@@ -16881,6 +17001,14 @@
   },
   {
     "date": "2026-07-14",
+    "titre": "Open d'été du Corsica Chess Club 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72208",
+    "cadence": "Lente",
+    "lieu": "2B - BASTIA",
+    "arbitre": "ORSONI Jean-Philippe"
+  },
+  {
+    "date": "2026-07-14",
     "titre": "Tournoi FIDE d'Eté du Philidor 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72123",
     "cadence": "Lente",
@@ -17024,6 +17152,14 @@
     "arbitre": "LAPEYRE Pierre"
   },
   {
+    "date": "2026-07-15",
+    "titre": "Open d'été du Corsica Chess Club 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72208",
+    "cadence": "Lente",
+    "lieu": "2B - BASTIA",
+    "arbitre": "ORSONI Jean-Philippe"
+  },
+  {
     "date": "2026-07-16",
     "titre": "17e Festival international de Vaujany Tournoi Accession",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=69090",
@@ -17150,6 +17286,14 @@
     "cadence": "Lente",
     "lieu": "82 - MONTAUBAN",
     "arbitre": "LAPEYRE Pierre"
+  },
+  {
+    "date": "2026-07-16",
+    "titre": "Open d'été du Corsica Chess Club 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72208",
+    "cadence": "Lente",
+    "lieu": "2B - BASTIA",
+    "arbitre": "ORSONI Jean-Philippe"
   },
   {
     "date": "2026-07-17",
