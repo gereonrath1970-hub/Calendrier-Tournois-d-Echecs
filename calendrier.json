@@ -7661,7 +7661,7 @@
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71335",
     "cadence": "Lente",
     "lieu": "87 - LIMOGES",
-    "arbitre": "FRANCOIS Ginaud"
+    "arbitre": "TCHEFRANOFF Stephane"
   },
   {
     "date": "2026-05-14",
@@ -8045,7 +8045,7 @@
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71335",
     "cadence": "Lente",
     "lieu": "87 - LIMOGES",
-    "arbitre": "FRANCOIS Ginaud"
+    "arbitre": "TCHEFRANOFF Stephane"
   },
   {
     "date": "2026-05-15",
@@ -8429,7 +8429,7 @@
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71335",
     "cadence": "Lente",
     "lieu": "87 - LIMOGES",
-    "arbitre": "FRANCOIS Ginaud"
+    "arbitre": "TCHEFRANOFF Stephane"
   },
   {
     "date": "2026-05-16",
@@ -8893,7 +8893,7 @@
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71335",
     "cadence": "Lente",
     "lieu": "87 - LIMOGES",
-    "arbitre": "FRANCOIS Ginaud"
+    "arbitre": "TCHEFRANOFF Stephane"
   },
   {
     "date": "2026-05-17",
@@ -9533,7 +9533,7 @@
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72035",
     "cadence": "Blitz",
     "lieu": "30 - NIMES",
-    "arbitre": "PIERRE Timothee"
+    "arbitre": "FOSSELLA Manuel"
   },
   {
     "date": "2026-05-22",
@@ -10329,6 +10329,14 @@
   },
   {
     "date": "2026-05-24",
+    "titre": "Rapide Echiquier Niçois 24 mai 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72239",
+    "cadence": "Rapide",
+    "lieu": "06 - NICE",
+    "arbitre": "VILLEGAS Pierre"
+  },
+  {
+    "date": "2026-05-24",
     "titre": "Rapide Jeunes à Aix en Provence 2026 - (U8 à U14 et moins de 1500 elo rapide)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71295",
     "cadence": "Rapide",
@@ -10689,6 +10697,14 @@
   },
   {
     "date": "2026-05-26",
+    "titre": "Tournoi interne Rapide de Fontenilles 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72230",
+    "cadence": "Rapide",
+    "lieu": "31 - FONTENILLES",
+    "arbitre": "AIT CHAOUCHE Samy"
+  },
+  {
+    "date": "2026-05-26",
     "titre": "Tournoi interne de la TPG 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72101",
     "cadence": "Lente",
@@ -10737,6 +10753,14 @@
   },
   {
     "date": "2026-05-27",
+    "titre": "Tournoi interne Rapide de Fontenilles 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72230",
+    "cadence": "Rapide",
+    "lieu": "31 - FONTENILLES",
+    "arbitre": "AIT CHAOUCHE Samy"
+  },
+  {
+    "date": "2026-05-27",
     "titre": "Tournoi interne Thiais 2026 r8",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=69780",
     "cadence": "Lente",
@@ -10782,6 +10806,14 @@
     "cadence": "Lente",
     "lieu": "59 - LILLE",
     "arbitre": "SOUBIROU Oriane"
+  },
+  {
+    "date": "2026-05-28",
+    "titre": "Tournoi interne Rapide de Fontenilles 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72230",
+    "cadence": "Rapide",
+    "lieu": "31 - FONTENILLES",
+    "arbitre": "AIT CHAOUCHE Samy"
   },
   {
     "date": "2026-05-28",
@@ -11065,6 +11097,14 @@
   },
   {
     "date": "2026-05-30",
+    "titre": "Bolides - Saison 19 - Tournoi 8",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72219",
+    "cadence": "Lente",
+    "lieu": "35 - RENNES",
+    "arbitre": "BLEUZEN Christian"
+  },
+  {
+    "date": "2026-05-30",
     "titre": "CJS C1 Viuz-en-Sallaz 30 mai 26",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71717",
     "cadence": "Lente",
@@ -11094,6 +11134,22 @@
     "cadence": "Lente",
     "lieu": "74 - VIUZ EN SALLAZ",
     "arbitre": "MANUEL Marc"
+  },
+  {
+    "date": "2026-05-30",
+    "titre": "Challenge Marc Lasserre 2026 Tournoi parallèle",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72225",
+    "cadence": "Lente",
+    "lieu": "65 - TARBES",
+    "arbitre": "BILDSTEIN Gerard"
+  },
+  {
+    "date": "2026-05-30",
+    "titre": "Challenge Marc Lasserre 2026 phase finale",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72224",
+    "cadence": "Lente",
+    "lieu": "65 - TARBES",
+    "arbitre": "BILDSTEIN Gerard"
   },
   {
     "date": "2026-05-30",
@@ -11166,6 +11222,14 @@
     "cadence": "Lente",
     "lieu": "33 - BORDEAUX",
     "arbitre": "SALLETTE Alain"
+  },
+  {
+    "date": "2026-05-30",
+    "titre": "Super Bolides - Saison 19 - Tournoi 8",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72218",
+    "cadence": "Lente",
+    "lieu": "35 - RENNES",
+    "arbitre": "BLEUZEN Christian"
   },
   {
     "date": "2026-05-30",
@@ -11278,6 +11342,14 @@
     "cadence": "Lente",
     "lieu": "63 - LEMPDES",
     "arbitre": "BOYADJIS Philippe"
+  },
+  {
+    "date": "2026-05-31",
+    "titre": "17è Marathon de Blitz FIDE Interchess",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72259",
+    "cadence": "Blitz",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
   },
   {
     "date": "2026-05-31",
@@ -11641,6 +11713,22 @@
   },
   {
     "date": "2026-06-03",
+    "titre": "Blitz des Primeurs juin 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72237",
+    "cadence": "Blitz",
+    "lieu": "09 - SOUEIX ROGALLE",
+    "arbitre": "GALLORINI Jean-Chris"
+  },
+  {
+    "date": "2026-06-03",
+    "titre": "Blitz mensuel d'Aubagne - Juin 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72241",
+    "cadence": "Blitz",
+    "lieu": "13 - AUBAGNE",
+    "arbitre": "ROMAN Sylvian"
+  },
+  {
+    "date": "2026-06-03",
     "titre": "Championnat d'Ile-de-France des lycées 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72149",
     "cadence": "Lente",
@@ -11849,6 +11937,14 @@
   },
   {
     "date": "2026-06-06",
+    "titre": "1e Open Classique FIDE (-1600) de Saint Jean Pla de Corts",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72250",
+    "cadence": "Lente",
+    "lieu": "66 - SAINT JEAN PLA DE CORTS",
+    "arbitre": "GARCIA Richard"
+  },
+  {
+    "date": "2026-06-06",
     "titre": "1er Open International de l’Échiquier Romanais Péageois",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71694",
     "cadence": "Lente",
@@ -11945,6 +12041,14 @@
   },
   {
     "date": "2026-06-06",
+    "titre": "8e Open Classique FIDE (-2400) de Saint Jean Pla de Corts",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72249",
+    "cadence": "Lente",
+    "lieu": "66 - SAINT JEAN PLA DE CORTS",
+    "arbitre": "GARCIA Richard"
+  },
+  {
+    "date": "2026-06-06",
     "titre": "8e Open de Printemps de l'Echecs Club Montpellier (-2400)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=69386",
     "cadence": "Lente",
@@ -11982,6 +12086,22 @@
     "cadence": "Lente",
     "lieu": "13 - AUBAGNE",
     "arbitre": "CHAUVET Jean-Marc"
+  },
+  {
+    "date": "2026-06-06",
+    "titre": "Grand Prix Rapides de Seine-Saint-Denis saison 2025-2026 Etape 3A",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72242",
+    "cadence": "Rapide",
+    "lieu": "93 - AUBERVILLIERS",
+    "arbitre": "LEMOINE Thomas"
+  },
+  {
+    "date": "2026-06-06",
+    "titre": "Grand Prix Rapides de Seine-Saint-Denis saison 2025-2026 Etape 3B",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72243",
+    "cadence": "Rapide",
+    "lieu": "93 - AUBERVILLIERS",
+    "arbitre": "LEMOINE Thomas"
   },
   {
     "date": "2026-06-06",
@@ -12105,6 +12225,14 @@
   },
   {
     "date": "2026-06-07",
+    "titre": "10e Open Blitz FIDE Jeunes de Saint Jean Pla de Corts",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72251",
+    "cadence": "Blitz",
+    "lieu": "66 - SAINT JEAN PLA DE CORTS",
+    "arbitre": "GARCIA Richard"
+  },
+  {
+    "date": "2026-06-07",
     "titre": "11ème Open Rapide de Cergy-Pontoise Échecs",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71239",
     "cadence": "Rapide",
@@ -12142,6 +12270,14 @@
     "cadence": "Rapide",
     "lieu": "72 - LA FERTE BERNARD",
     "arbitre": "FLAMENT Sebastien"
+  },
+  {
+    "date": "2026-06-07",
+    "titre": "1e Open Classique FIDE (-1600) de Saint Jean Pla de Corts",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72250",
+    "cadence": "Lente",
+    "lieu": "66 - SAINT JEAN PLA DE CORTS",
+    "arbitre": "GARCIA Richard"
   },
   {
     "date": "2026-06-07",
@@ -12289,6 +12425,14 @@
   },
   {
     "date": "2026-06-07",
+    "titre": "8e Open Classique FIDE (-2400) de Saint Jean Pla de Corts",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72249",
+    "cadence": "Lente",
+    "lieu": "66 - SAINT JEAN PLA DE CORTS",
+    "arbitre": "GARCIA Richard"
+  },
+  {
+    "date": "2026-06-07",
     "titre": "8e Open de Printemps de l'Echecs Club Montpellier (-2400)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=69386",
     "cadence": "Lente",
@@ -12337,6 +12481,22 @@
   },
   {
     "date": "2026-06-07",
+    "titre": "Chpt de Blitz 2026 du CDJE 59",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72216",
+    "cadence": "Blitz",
+    "lieu": "59 - VALENCIENNES",
+    "arbitre": "RENARD Stephane"
+  },
+  {
+    "date": "2026-06-07",
+    "titre": "Chpt de parties rapides 2026 du CDJE 59",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72217",
+    "cadence": "Rapide",
+    "lieu": "59 - VALENCIENNES",
+    "arbitre": "RENARD Stephane"
+  },
+  {
+    "date": "2026-06-07",
     "titre": "Elite 13 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72061",
     "cadence": "Lente",
@@ -12350,6 +12510,14 @@
     "cadence": "Rapide",
     "lieu": "09 - FOIX",
     "arbitre": "FONT Marc"
+  },
+  {
+    "date": "2026-06-07",
+    "titre": "Grand Prix de l'Oise Saison 2025-2026 Journée 7",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72260",
+    "cadence": "Lente",
+    "lieu": "60 - CHANTILLY",
+    "arbitre": "CHELLILI Bachir"
   },
   {
     "date": "2026-06-07",
@@ -12374,6 +12542,14 @@
     "cadence": "Rapide",
     "lieu": "62 - HENIN BEAUMONT",
     "arbitre": "TAHAR-CHAOUCH Fouzia"
+  },
+  {
+    "date": "2026-06-07",
+    "titre": "Rapide de Villereal 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72232",
+    "cadence": "Rapide",
+    "lieu": "47 - VILLEREAL",
+    "arbitre": "PRIE Eric"
   },
   {
     "date": "2026-06-07",
@@ -12849,6 +13025,22 @@
   },
   {
     "date": "2026-06-14",
+    "titre": "1er Rapide de Le Club d'Echecs de la Rade - Tournoi A",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72235",
+    "cadence": "Rapide",
+    "lieu": "83 - TOULON",
+    "arbitre": "MONTELLA Laurent"
+  },
+  {
+    "date": "2026-06-14",
+    "titre": "1er Rapide de Le Club d'Echecs de la Rade - Tournoi B de U8 à U14",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72236",
+    "cadence": "Rapide",
+    "lieu": "83 - TOULON",
+    "arbitre": "MONTELLA Laurent"
+  },
+  {
+    "date": "2026-06-14",
     "titre": "23ème rapide Maurice Besnier - Open A",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70173",
     "cadence": "Rapide",
@@ -12870,6 +13062,14 @@
     "cadence": "Rapide",
     "lieu": "02 - BERNOT",
     "arbitre": "BRACQ Gregory"
+  },
+  {
+    "date": "2026-06-14",
+    "titre": "26ème Rapide des Fous Furieux de Fontenay le Fleury",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72229",
+    "cadence": "Rapide",
+    "lieu": "78 - FONTENAY LE FLEURY",
+    "arbitre": "CLAISSE Patrick"
   },
   {
     "date": "2026-06-14",
@@ -13145,6 +13345,14 @@
   },
   {
     "date": "2026-06-14",
+    "titre": "Rapide Echiquier Niçois 14 juin 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72240",
+    "cadence": "Rapide",
+    "lieu": "06 - NICE",
+    "arbitre": "VILLEGAS Pierre"
+  },
+  {
+    "date": "2026-06-14",
     "titre": "Rapide Masters de la Ligne des Bambous Juin 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71845",
     "cadence": "Rapide",
@@ -13214,6 +13422,14 @@
     "cadence": "Lente",
     "lieu": "64 - BERNADETS",
     "arbitre": "AIT CHAOUCHE Samy"
+  },
+  {
+    "date": "2026-06-14",
+    "titre": "Tournoi de fin d'année de l'Aviron Bayonnais 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72234",
+    "cadence": "Lente",
+    "lieu": "64 - BAYONNE",
+    "arbitre": "ETCHEGARAY Patrice"
   },
   {
     "date": "2026-06-15",
@@ -13446,6 +13662,14 @@
     "cadence": "Lente",
     "lieu": "78 - MONTIGNY LE BRETONNEUX",
     "arbitre": "PLANTET Marc"
+  },
+  {
+    "date": "2026-06-20",
+    "titre": "Tournoi interne FOAV 2025-26 - 6",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72228",
+    "cadence": "Lente",
+    "lieu": "77 - FONTAINEBLEAU",
+    "arbitre": "LECLERC Louis"
   },
   {
     "date": "2026-06-20",
@@ -13718,6 +13942,14 @@
     "cadence": "Rapide",
     "lieu": "29 - CONCARNEAU",
     "arbitre": "DIMEY Stephane"
+  },
+  {
+    "date": "2026-06-21",
+    "titre": "Tournoi Rapide du Petit Pouchet Juin 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72248",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "BOGDANOVSKY Sonia"
   },
   {
     "date": "2026-06-21",
@@ -14257,7 +14489,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "12├©me open de parties rapides de l'Echiquier Montlu├¦onnais",
+    "titre": "12ème open de parties rapides de l'Echiquier Montluçonnais",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70244",
     "cadence": "Rapide",
     "lieu": "03 - MONTLUCON",
@@ -14265,7 +14497,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "13├©me M├®morial Patrick Carrasco",
+    "titre": "13ème Mémorial Patrick Carrasco",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71543",
     "cadence": "Lente",
     "lieu": "94 - ARCUEIL",
@@ -14281,7 +14513,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "21├©me Rapide FIDE de Carquefou - Tournoi Jeunes",
+    "titre": "21ème Rapide FIDE de Carquefou - Tournoi Jeunes",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70391",
     "cadence": "Rapide",
     "lieu": "44 - CARQUEFOU",
@@ -14289,7 +14521,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "21├©me Rapide FIDE de Carquefou - Tournoi Principal",
+    "titre": "21ème Rapide FIDE de Carquefou - Tournoi Principal",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70390",
     "cadence": "Rapide",
     "lieu": "44 - CARQUEFOU",
@@ -14321,7 +14553,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "28├©me Open International des Vins du M├®doc ├Ā Hourtin (33)",
+    "titre": "28ème Open International des Vins du Médoc à Hourtin (33)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70982",
     "cadence": "Lente",
     "lieu": "33 - HOURTIN",
@@ -14337,7 +14569,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "6e Festival du Mat de La Charit├® - Rapide",
+    "titre": "6e Festival du Mat de La Charité - Rapide",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71250",
     "cadence": "Rapide",
     "lieu": "58 - LA CHARITE SUR LOIRE",
@@ -14345,7 +14577,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "9├©me Festival \"Sundgo'chess\" - moins de 2400 - Tournoi 1",
+    "titre": "9ème Festival \"Sundgo'chess\" - moins de 2400 - Tournoi 1",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72132",
     "cadence": "Lente",
     "lieu": "68 - ALTKIRCH",
@@ -14353,7 +14585,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "9├©me Festival \"Sundgo'chess\" - moins de 2400 - Tournoi 2",
+    "titre": "9ème Festival \"Sundgo'chess\" - moins de 2400 - Tournoi 2",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72133",
     "cadence": "Lente",
     "lieu": "68 - ALTKIRCH",
@@ -14361,7 +14593,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "9├©me Festival \"Sundgo'chess\" - moins de 2400 - Tournoi 3",
+    "titre": "9ème Festival \"Sundgo'chess\" - moins de 2400 - Tournoi 3",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72134",
     "cadence": "Lente",
     "lieu": "68 - ALTKIRCH",
@@ -14369,7 +14601,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "9├©me Festival \"Sundgo'chess\" - moins de 2400 - Tournoi 4",
+    "titre": "9ème Festival \"Sundgo'chess\" - moins de 2400 - Tournoi 4",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72135",
     "cadence": "Lente",
     "lieu": "68 - ALTKIRCH",
@@ -14377,7 +14609,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "9├©me Festival \"Sundgo'chess\" - moins de 2400 - Tournoi 5",
+    "titre": "9ème Festival \"Sundgo'chess\" - moins de 2400 - Tournoi 5",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72136",
     "cadence": "Lente",
     "lieu": "68 - ALTKIRCH",
@@ -14385,7 +14617,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "9├©me Festival \"Sundgo'chess\" - moins de 2400 - Tournoi 6",
+    "titre": "9ème Festival \"Sundgo'chess\" - moins de 2400 - Tournoi 6",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72137",
     "cadence": "Lente",
     "lieu": "68 - ALTKIRCH",
@@ -14393,7 +14625,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "9├©me Festival \"Sundgo'chess\" - moins de 2400 - Tournoi 7",
+    "titre": "9ème Festival \"Sundgo'chess\" - moins de 2400 - Tournoi 7",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72138",
     "cadence": "Lente",
     "lieu": "68 - ALTKIRCH",
@@ -14409,7 +14641,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "Coupe Loubati├©re Finale",
+    "titre": "Coupe Loubatière Finale",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=68157",
     "cadence": "Lente",
     "lieu": "9H - FRANCE",
@@ -14425,11 +14657,27 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "Coupe de la Parit├® Finale",
+    "titre": "Coupe de la Parité Finale",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=68160",
     "cadence": "Lente",
     "lieu": "9Z - FRANCE",
     "arbitre": "MOURET Erick"
+  },
+  {
+    "date": "2026-06-28",
+    "titre": "Grand Prix Rapides de Seine-Saint-Denis saison 2025-2026 Etape 4A",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72245",
+    "cadence": "Rapide",
+    "lieu": "93 - LE BLANC MESNIL",
+    "arbitre": "LEMOINE Thomas"
+  },
+  {
+    "date": "2026-06-28",
+    "titre": "Grand Prix Rapides de Seine-Saint-Denis saison 2025-2026 Etape 4B",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72246",
+    "cadence": "Rapide",
+    "lieu": "93 - LE BLANC MESNIL",
+    "arbitre": "LEMOINE Thomas"
   },
   {
     "date": "2026-06-28",
@@ -14441,7 +14689,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "Les B├¬tises de Cambrai IM 2026",
+    "titre": "Les Bêtises de Cambrai IM 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=68454",
     "cadence": "Lente",
     "lieu": "59 - CAMBRAI",
@@ -14481,7 +14729,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "Rapide de Liffr├® 2026 - Tournoi A",
+    "titre": "Rapide de Liffré 2026 - Tournoi A",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71880",
     "cadence": "Rapide",
     "lieu": "35 - LIFFRE",
@@ -14489,7 +14737,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "Rapide de Liffr├® 2026 - Tournoi B",
+    "titre": "Rapide de Liffré 2026 - Tournoi B",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71881",
     "cadence": "Rapide",
     "lieu": "35 - LIFFRE",
@@ -14497,7 +14745,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "Rapide de Liffr├® 2026 - tournoi Petits Pions",
+    "titre": "Rapide de Liffré 2026 - tournoi Petits Pions",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71882",
     "cadence": "Rapide",
     "lieu": "35 - LIFFRE",
@@ -14505,7 +14753,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "Rapide de Quimperl├® 2026 - Tournoi Jeunes",
+    "titre": "Rapide de Quimperlé 2026 - Tournoi Jeunes",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71590",
     "cadence": "Rapide",
     "lieu": "29 - QUIMPERLE",
@@ -14513,7 +14761,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "Rapide de Quimperl├® 2026 - Tournoi Principal",
+    "titre": "Rapide de Quimperlé 2026 - Tournoi Principal",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71589",
     "cadence": "Rapide",
     "lieu": "29 - QUIMPERLE",
@@ -14521,11 +14769,27 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "Top 12 F├®minin Phase Finale",
+    "titre": "Rapide de Villeneuve 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72226",
+    "cadence": "Rapide",
+    "lieu": "47 - VILLENEUVE SUR LOT",
+    "arbitre": "DENIS Vincent"
+  },
+  {
+    "date": "2026-06-28",
+    "titre": "Top 12 Féminin Phase Finale",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=68162",
     "cadence": "Lente",
     "lieu": "9Z - FRANCE",
     "arbitre": "MOURET Erick"
+  },
+  {
+    "date": "2026-06-28",
+    "titre": "Tournoi Rapide interne Echiquier d'Azur Juin 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72227",
+    "cadence": "Rapide",
+    "lieu": "83 - SAINT RAPHAEL",
+    "arbitre": "AIDAOUI Brice"
   },
   {
     "date": "2026-06-28",
@@ -14537,7 +14801,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "Tournoi international d'├®checs Juraflore 2026 - Fort des Rousses - Open Master",
+    "titre": "Tournoi international d'échecs Juraflore 2026 - Fort des Rousses - Open Master",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70851",
     "cadence": "Lente",
     "lieu": "39 - LES ROUSSES",
@@ -14561,7 +14825,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "Tournois Ferm├®s Chess In Lyon juin 2026 Poule A",
+    "titre": "Tournois Fermés Chess In Lyon juin 2026 Poule A",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=68226",
     "cadence": "Lente",
     "lieu": "69 - LYON",
@@ -14569,7 +14833,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "Tournois Ferm├®s Chess In Lyon juin 2026 Poule B",
+    "titre": "Tournois Fermés Chess In Lyon juin 2026 Poule B",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=68227",
     "cadence": "Lente",
     "lieu": "69 - LYON",
@@ -14577,7 +14841,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "Tournois Ferm├®s Chess In Lyon juin 2026 Poule C",
+    "titre": "Tournois Fermés Chess In Lyon juin 2026 Poule C",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=68228",
     "cadence": "Lente",
     "lieu": "69 - LYON",
@@ -14585,7 +14849,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "Tournois Ferm├®s Chess In Lyon juin 2026 Poule D",
+    "titre": "Tournois Fermés Chess In Lyon juin 2026 Poule D",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=68229",
     "cadence": "Lente",
     "lieu": "69 - LYON",
@@ -14593,7 +14857,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "Tournois Ferm├®s Chess In Lyon juin 2026 Poule E",
+    "titre": "Tournois Fermés Chess In Lyon juin 2026 Poule E",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72091",
     "cadence": "Lente",
     "lieu": "69 - LYON",
@@ -14601,7 +14865,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "Tournois Ferm├®s Chess In Lyon juin 2026 Poule F",
+    "titre": "Tournois Fermés Chess In Lyon juin 2026 Poule F",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72092",
     "cadence": "Lente",
     "lieu": "69 - LYON",
@@ -14609,7 +14873,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "Tournois Ferm├®s Chess In Lyon juin 2026 Poule G",
+    "titre": "Tournois Fermés Chess In Lyon juin 2026 Poule G",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72093",
     "cadence": "Lente",
     "lieu": "69 - LYON",
@@ -14617,7 +14881,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "Tournois Ferm├®s Chess In Lyon juin 2026 Poule H",
+    "titre": "Tournois Fermés Chess In Lyon juin 2026 Poule H",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72094",
     "cadence": "Lente",
     "lieu": "69 - LYON",
@@ -14625,7 +14889,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "Tournois Ferm├®s Chess In Lyon juin 2026 Poule I",
+    "titre": "Tournois Fermés Chess In Lyon juin 2026 Poule I",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72095",
     "cadence": "Lente",
     "lieu": "69 - LYON",
@@ -14633,7 +14897,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "Tournois Ferm├®s Chess In Lyon juin 2026 Poule J",
+    "titre": "Tournois Fermés Chess In Lyon juin 2026 Poule J",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72096",
     "cadence": "Lente",
     "lieu": "69 - LYON",
@@ -14641,7 +14905,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "Tournois Ferm├®s Chess In Lyon juin 2026 Poule K",
+    "titre": "Tournois Fermés Chess In Lyon juin 2026 Poule K",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72097",
     "cadence": "Lente",
     "lieu": "69 - LYON",
@@ -14649,7 +14913,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "Tournois Ferm├®s Chess In Lyon juin 2026 Poule L",
+    "titre": "Tournois Fermés Chess In Lyon juin 2026 Poule L",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72098",
     "cadence": "Lente",
     "lieu": "69 - LYON",
@@ -14657,7 +14921,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "Tournois Ferm├®s Chess In Lyon juin 2026 Poule M",
+    "titre": "Tournois Fermés Chess In Lyon juin 2026 Poule M",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72099",
     "cadence": "Lente",
     "lieu": "69 - LYON",
@@ -14665,7 +14929,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "Tournois Ferm├®s Chess In Lyon juin 2026 Poule N",
+    "titre": "Tournois Fermés Chess In Lyon juin 2026 Poule N",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72100",
     "cadence": "Lente",
     "lieu": "69 - LYON",
@@ -14673,7 +14937,7 @@
   },
   {
     "date": "2026-06-28",
-    "titre": "Troph├®e Polop Rapide 2026",
+    "titre": "Trophée Polop Rapide 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72175",
     "cadence": "Rapide",
     "lieu": "65 - LOURES BAROUSSE",
@@ -14894,6 +15158,14 @@
     "cadence": "Lente",
     "lieu": "33 - HOURTIN",
     "arbitre": "LAPEYRE Pierre"
+  },
+  {
+    "date": "2026-07-01",
+    "titre": "Blitz des Primeurs juillet 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72238",
+    "cadence": "Blitz",
+    "lieu": "09 - SOUEIX ROGALLE",
+    "arbitre": "GALLORINI Jean-Chris"
   },
   {
     "date": "2026-07-01",
@@ -19592,6 +19864,22 @@
     "arbitre": "CWIEK NGUYEN Francoi"
   },
   {
+    "date": "2026-08-07",
+    "titre": "Championnat de France 2026 - National",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72269",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-07",
+    "titre": "Championnat de France 2026 - National Féminin",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72270",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
     "date": "2026-08-08",
     "titre": "23ème Open International d'Echecs du Pic d'Anie",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71665",
@@ -19625,6 +19913,118 @@
   },
   {
     "date": "2026-08-08",
+    "titre": "Championnat de France 2026 - Accession Roger Ferry",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72261",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-08",
+    "titre": "Championnat de France 2026 - National",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72269",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-08",
+    "titre": "Championnat de France 2026 - National Féminin",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72270",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-08",
+    "titre": "Championnat de France 2026 - National Féminin departages blitz",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72274",
+    "cadence": "Blitz",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-08",
+    "titre": "Championnat de France 2026 - National Féminin départages rapide",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72272",
+    "cadence": "Rapide",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-08",
+    "titre": "Championnat de France 2026 - National departages blitz",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72273",
+    "cadence": "Blitz",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-08",
+    "titre": "Championnat de France 2026 - National départages rapide",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72271",
+    "cadence": "Rapide",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-08",
+    "titre": "Championnat de France 2026 - Open A",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72264",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-08",
+    "titre": "Championnat de France 2026 - Open B",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72265",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-08",
+    "titre": "Championnat de France 2026 - Open C",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72266",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-08",
+    "titre": "Championnat de France 2026 - Open D",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72267",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-08",
+    "titre": "Championnat de France 2026 - Open E",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72268",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-08",
+    "titre": "Championnat de France 2026 - Seniors plus",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72262",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-08",
+    "titre": "Championnat de France 2026 - Vétérans",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72263",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-08",
     "titre": "Rapide de l'été de Haguenau 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72125",
     "cadence": "Rapide",
@@ -19648,12 +20048,236 @@
     "arbitre": "MOURET Erick"
   },
   {
+    "date": "2026-08-09",
+    "titre": "Championnat de France 2026 - Accession Roger Ferry",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72261",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-09",
+    "titre": "Championnat de France 2026 - National",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72269",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-09",
+    "titre": "Championnat de France 2026 - National Féminin",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72270",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-09",
+    "titre": "Championnat de France 2026 - National Féminin departages blitz",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72274",
+    "cadence": "Blitz",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-09",
+    "titre": "Championnat de France 2026 - National Féminin départages rapide",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72272",
+    "cadence": "Rapide",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-09",
+    "titre": "Championnat de France 2026 - National departages blitz",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72273",
+    "cadence": "Blitz",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-09",
+    "titre": "Championnat de France 2026 - National départages rapide",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72271",
+    "cadence": "Rapide",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-09",
+    "titre": "Championnat de France 2026 - Open A",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72264",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-09",
+    "titre": "Championnat de France 2026 - Open B",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72265",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-09",
+    "titre": "Championnat de France 2026 - Open C",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72266",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-09",
+    "titre": "Championnat de France 2026 - Open D",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72267",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-09",
+    "titre": "Championnat de France 2026 - Open E",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72268",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-09",
+    "titre": "Championnat de France 2026 - Seniors plus",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72262",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-09",
+    "titre": "Championnat de France 2026 - Vétérans",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72263",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
     "date": "2026-08-10",
     "titre": "Championnat de France 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=68166",
     "cadence": "Lente",
     "lieu": "9Z - FRANCE",
     "arbitre": "MOURET Erick"
+  },
+  {
+    "date": "2026-08-10",
+    "titre": "Championnat de France 2026 - Accession Roger Ferry",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72261",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-10",
+    "titre": "Championnat de France 2026 - National",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72269",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-10",
+    "titre": "Championnat de France 2026 - National Féminin",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72270",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-10",
+    "titre": "Championnat de France 2026 - National Féminin departages blitz",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72274",
+    "cadence": "Blitz",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-10",
+    "titre": "Championnat de France 2026 - National Féminin départages rapide",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72272",
+    "cadence": "Rapide",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-10",
+    "titre": "Championnat de France 2026 - National departages blitz",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72273",
+    "cadence": "Blitz",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-10",
+    "titre": "Championnat de France 2026 - National départages rapide",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72271",
+    "cadence": "Rapide",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-10",
+    "titre": "Championnat de France 2026 - Open A",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72264",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-10",
+    "titre": "Championnat de France 2026 - Open B",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72265",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-10",
+    "titre": "Championnat de France 2026 - Open C",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72266",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-10",
+    "titre": "Championnat de France 2026 - Open D",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72267",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-10",
+    "titre": "Championnat de France 2026 - Open E",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72268",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-10",
+    "titre": "Championnat de France 2026 - Seniors plus",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72262",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-10",
+    "titre": "Championnat de France 2026 - Vétérans",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72263",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
   },
   {
     "date": "2026-08-11",
@@ -19664,12 +20288,236 @@
     "arbitre": "MOURET Erick"
   },
   {
+    "date": "2026-08-11",
+    "titre": "Championnat de France 2026 - Accession Roger Ferry",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72261",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-11",
+    "titre": "Championnat de France 2026 - National",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72269",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-11",
+    "titre": "Championnat de France 2026 - National Féminin",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72270",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-11",
+    "titre": "Championnat de France 2026 - National Féminin departages blitz",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72274",
+    "cadence": "Blitz",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-11",
+    "titre": "Championnat de France 2026 - National Féminin départages rapide",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72272",
+    "cadence": "Rapide",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-11",
+    "titre": "Championnat de France 2026 - National departages blitz",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72273",
+    "cadence": "Blitz",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-11",
+    "titre": "Championnat de France 2026 - National départages rapide",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72271",
+    "cadence": "Rapide",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-11",
+    "titre": "Championnat de France 2026 - Open A",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72264",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-11",
+    "titre": "Championnat de France 2026 - Open B",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72265",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-11",
+    "titre": "Championnat de France 2026 - Open C",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72266",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-11",
+    "titre": "Championnat de France 2026 - Open D",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72267",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-11",
+    "titre": "Championnat de France 2026 - Open E",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72268",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-11",
+    "titre": "Championnat de France 2026 - Seniors plus",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72262",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-11",
+    "titre": "Championnat de France 2026 - Vétérans",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72263",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
     "date": "2026-08-12",
     "titre": "Championnat de France 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=68166",
     "cadence": "Lente",
     "lieu": "9Z - FRANCE",
     "arbitre": "MOURET Erick"
+  },
+  {
+    "date": "2026-08-12",
+    "titre": "Championnat de France 2026 - Accession Roger Ferry",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72261",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-12",
+    "titre": "Championnat de France 2026 - National",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72269",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-12",
+    "titre": "Championnat de France 2026 - National Féminin",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72270",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-12",
+    "titre": "Championnat de France 2026 - National Féminin departages blitz",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72274",
+    "cadence": "Blitz",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-12",
+    "titre": "Championnat de France 2026 - National Féminin départages rapide",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72272",
+    "cadence": "Rapide",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-12",
+    "titre": "Championnat de France 2026 - National departages blitz",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72273",
+    "cadence": "Blitz",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-12",
+    "titre": "Championnat de France 2026 - National départages rapide",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72271",
+    "cadence": "Rapide",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-12",
+    "titre": "Championnat de France 2026 - Open A",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72264",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-12",
+    "titre": "Championnat de France 2026 - Open B",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72265",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-12",
+    "titre": "Championnat de France 2026 - Open C",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72266",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-12",
+    "titre": "Championnat de France 2026 - Open D",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72267",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-12",
+    "titre": "Championnat de France 2026 - Open E",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72268",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-12",
+    "titre": "Championnat de France 2026 - Seniors plus",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72262",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-12",
+    "titre": "Championnat de France 2026 - Vétérans",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72263",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
   },
   {
     "date": "2026-08-13",
@@ -19680,12 +20528,236 @@
     "arbitre": "MOURET Erick"
   },
   {
+    "date": "2026-08-13",
+    "titre": "Championnat de France 2026 - Accession Roger Ferry",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72261",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-13",
+    "titre": "Championnat de France 2026 - National",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72269",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-13",
+    "titre": "Championnat de France 2026 - National Féminin",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72270",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-13",
+    "titre": "Championnat de France 2026 - National Féminin departages blitz",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72274",
+    "cadence": "Blitz",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-13",
+    "titre": "Championnat de France 2026 - National Féminin départages rapide",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72272",
+    "cadence": "Rapide",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-13",
+    "titre": "Championnat de France 2026 - National departages blitz",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72273",
+    "cadence": "Blitz",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-13",
+    "titre": "Championnat de France 2026 - National départages rapide",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72271",
+    "cadence": "Rapide",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-13",
+    "titre": "Championnat de France 2026 - Open A",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72264",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-13",
+    "titre": "Championnat de France 2026 - Open B",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72265",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-13",
+    "titre": "Championnat de France 2026 - Open C",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72266",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-13",
+    "titre": "Championnat de France 2026 - Open D",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72267",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-13",
+    "titre": "Championnat de France 2026 - Open E",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72268",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-13",
+    "titre": "Championnat de France 2026 - Seniors plus",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72262",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-13",
+    "titre": "Championnat de France 2026 - Vétérans",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72263",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
     "date": "2026-08-14",
     "titre": "Championnat de France 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=68166",
     "cadence": "Lente",
     "lieu": "9Z - FRANCE",
     "arbitre": "MOURET Erick"
+  },
+  {
+    "date": "2026-08-14",
+    "titre": "Championnat de France 2026 - Accession Roger Ferry",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72261",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-14",
+    "titre": "Championnat de France 2026 - National",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72269",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-14",
+    "titre": "Championnat de France 2026 - National Féminin",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72270",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-14",
+    "titre": "Championnat de France 2026 - National Féminin departages blitz",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72274",
+    "cadence": "Blitz",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-14",
+    "titre": "Championnat de France 2026 - National Féminin départages rapide",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72272",
+    "cadence": "Rapide",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-14",
+    "titre": "Championnat de France 2026 - National departages blitz",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72273",
+    "cadence": "Blitz",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-14",
+    "titre": "Championnat de France 2026 - National départages rapide",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72271",
+    "cadence": "Rapide",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-14",
+    "titre": "Championnat de France 2026 - Open A",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72264",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-14",
+    "titre": "Championnat de France 2026 - Open B",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72265",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-14",
+    "titre": "Championnat de France 2026 - Open C",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72266",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-14",
+    "titre": "Championnat de France 2026 - Open D",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72267",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-14",
+    "titre": "Championnat de France 2026 - Open E",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72268",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-14",
+    "titre": "Championnat de France 2026 - Seniors plus",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72262",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-14",
+    "titre": "Championnat de France 2026 - Vétérans",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72263",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
   },
   {
     "date": "2026-08-15",
@@ -19696,12 +20768,236 @@
     "arbitre": "MOURET Erick"
   },
   {
+    "date": "2026-08-15",
+    "titre": "Championnat de France 2026 - Accession Roger Ferry",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72261",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-15",
+    "titre": "Championnat de France 2026 - National",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72269",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-15",
+    "titre": "Championnat de France 2026 - National Féminin",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72270",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-15",
+    "titre": "Championnat de France 2026 - National Féminin departages blitz",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72274",
+    "cadence": "Blitz",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-15",
+    "titre": "Championnat de France 2026 - National Féminin départages rapide",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72272",
+    "cadence": "Rapide",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-15",
+    "titre": "Championnat de France 2026 - National departages blitz",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72273",
+    "cadence": "Blitz",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-15",
+    "titre": "Championnat de France 2026 - National départages rapide",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72271",
+    "cadence": "Rapide",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-15",
+    "titre": "Championnat de France 2026 - Open A",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72264",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-15",
+    "titre": "Championnat de France 2026 - Open B",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72265",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-15",
+    "titre": "Championnat de France 2026 - Open C",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72266",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-15",
+    "titre": "Championnat de France 2026 - Open D",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72267",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-15",
+    "titre": "Championnat de France 2026 - Open E",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72268",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-15",
+    "titre": "Championnat de France 2026 - Seniors plus",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72262",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-15",
+    "titre": "Championnat de France 2026 - Vétérans",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72263",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
     "date": "2026-08-16",
     "titre": "Championnat de France 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=68166",
     "cadence": "Lente",
     "lieu": "9Z - FRANCE",
     "arbitre": "MOURET Erick"
+  },
+  {
+    "date": "2026-08-16",
+    "titre": "Championnat de France 2026 - Accession Roger Ferry",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72261",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-16",
+    "titre": "Championnat de France 2026 - National",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72269",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-16",
+    "titre": "Championnat de France 2026 - National Féminin",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72270",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-16",
+    "titre": "Championnat de France 2026 - National Féminin departages blitz",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72274",
+    "cadence": "Blitz",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-16",
+    "titre": "Championnat de France 2026 - National Féminin départages rapide",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72272",
+    "cadence": "Rapide",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-16",
+    "titre": "Championnat de France 2026 - National departages blitz",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72273",
+    "cadence": "Blitz",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-16",
+    "titre": "Championnat de France 2026 - National départages rapide",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72271",
+    "cadence": "Rapide",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-16",
+    "titre": "Championnat de France 2026 - Open A",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72264",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-16",
+    "titre": "Championnat de France 2026 - Open B",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72265",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-16",
+    "titre": "Championnat de France 2026 - Open C",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72266",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-16",
+    "titre": "Championnat de France 2026 - Open D",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72267",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-16",
+    "titre": "Championnat de France 2026 - Open E",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72268",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-16",
+    "titre": "Championnat de France 2026 - Seniors plus",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72262",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-08-16",
+    "titre": "Championnat de France 2026 - Vétérans",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72263",
+    "cadence": "Lente",
+    "lieu": "03 - VICHY",
+    "arbitre": "BENADDOU Khaled"
   },
   {
     "date": "2026-08-18",
@@ -20808,15 +22104,47 @@
     "arbitre": "AIT CHAOUCHE Samy"
   },
   {
-    "date": "2026-10-17",
-    "titre": "2ème Open International de Saint-Macaire",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71990",
+    "date": "2026-10-04",
+    "titre": "Tournoi Roger Pelat 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72231",
     "cadence": "Lente",
-    "lieu": "33 - SAINT MACAIRE",
-    "arbitre": "MARIMON Frederic"
+    "lieu": "31 - VILLENEUVE TOLOSANE",
+    "arbitre": "CARPENTIER Jean-Chri"
   },
   {
     "date": "2026-10-17",
+    "titre": "2ème Open International de Saint-Macaire",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71990",
+    "cadence": "Lente",
+    "lieu": "33 - SAINT MACAIRE",
+    "arbitre": "MARIMON Frederic"
+  },
+  {
+    "date": "2026-10-17",
+    "titre": "4e Festival International d'Annemasse - Tournoi Accession",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72214",
+    "cadence": "Lente",
+    "lieu": "74 - ANNEMASSE",
+    "arbitre": "WLASSEWITCH Sylvain"
+  },
+  {
+    "date": "2026-10-17",
+    "titre": "4e Festival International d'Annemasse - Tournoi Amateur",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72215",
+    "cadence": "Lente",
+    "lieu": "74 - ANNEMASSE",
+    "arbitre": "WLASSEWITCH Sylvain"
+  },
+  {
+    "date": "2026-10-17",
+    "titre": "4e Festival International d'Annemasse - Tournoi Maitre",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72213",
+    "cadence": "Lente",
+    "lieu": "74 - ANNEMASSE",
+    "arbitre": "WLASSEWITCH Sylvain"
+  },
+  {
+    "date": "2026-10-17",
     "titre": "Open international de Liffré 2026 - A",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72036",
     "cadence": "Lente",
@@ -20865,6 +22193,30 @@
   },
   {
     "date": "2026-10-18",
+    "titre": "4e Festival International d'Annemasse - Tournoi Accession",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72214",
+    "cadence": "Lente",
+    "lieu": "74 - ANNEMASSE",
+    "arbitre": "WLASSEWITCH Sylvain"
+  },
+  {
+    "date": "2026-10-18",
+    "titre": "4e Festival International d'Annemasse - Tournoi Amateur",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72215",
+    "cadence": "Lente",
+    "lieu": "74 - ANNEMASSE",
+    "arbitre": "WLASSEWITCH Sylvain"
+  },
+  {
+    "date": "2026-10-18",
+    "titre": "4e Festival International d'Annemasse - Tournoi Maitre",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72213",
+    "cadence": "Lente",
+    "lieu": "74 - ANNEMASSE",
+    "arbitre": "WLASSEWITCH Sylvain"
+  },
+  {
+    "date": "2026-10-18",
     "titre": "Open international de Liffré 2026 - A",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72036",
     "cadence": "Lente",
@@ -20913,6 +22265,30 @@
   },
   {
     "date": "2026-10-19",
+    "titre": "4e Festival International d'Annemasse - Tournoi Accession",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72214",
+    "cadence": "Lente",
+    "lieu": "74 - ANNEMASSE",
+    "arbitre": "WLASSEWITCH Sylvain"
+  },
+  {
+    "date": "2026-10-19",
+    "titre": "4e Festival International d'Annemasse - Tournoi Amateur",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72215",
+    "cadence": "Lente",
+    "lieu": "74 - ANNEMASSE",
+    "arbitre": "WLASSEWITCH Sylvain"
+  },
+  {
+    "date": "2026-10-19",
+    "titre": "4e Festival International d'Annemasse - Tournoi Maitre",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72213",
+    "cadence": "Lente",
+    "lieu": "74 - ANNEMASSE",
+    "arbitre": "WLASSEWITCH Sylvain"
+  },
+  {
+    "date": "2026-10-19",
     "titre": "Open international de Liffré 2026 - A",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72036",
     "cadence": "Lente",
@@ -20961,6 +22337,30 @@
   },
   {
     "date": "2026-10-20",
+    "titre": "4e Festival International d'Annemasse - Tournoi Accession",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72214",
+    "cadence": "Lente",
+    "lieu": "74 - ANNEMASSE",
+    "arbitre": "WLASSEWITCH Sylvain"
+  },
+  {
+    "date": "2026-10-20",
+    "titre": "4e Festival International d'Annemasse - Tournoi Amateur",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72215",
+    "cadence": "Lente",
+    "lieu": "74 - ANNEMASSE",
+    "arbitre": "WLASSEWITCH Sylvain"
+  },
+  {
+    "date": "2026-10-20",
+    "titre": "4e Festival International d'Annemasse - Tournoi Maitre",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72213",
+    "cadence": "Lente",
+    "lieu": "74 - ANNEMASSE",
+    "arbitre": "WLASSEWITCH Sylvain"
+  },
+  {
+    "date": "2026-10-20",
     "titre": "Open international de Liffré 2026 - A",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72036",
     "cadence": "Lente",
@@ -21006,6 +22406,30 @@
     "cadence": "Lente",
     "lieu": "33 - SAINT MACAIRE",
     "arbitre": "MARIMON Frederic"
+  },
+  {
+    "date": "2026-10-21",
+    "titre": "4e Festival International d'Annemasse - Tournoi Accession",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72214",
+    "cadence": "Lente",
+    "lieu": "74 - ANNEMASSE",
+    "arbitre": "WLASSEWITCH Sylvain"
+  },
+  {
+    "date": "2026-10-21",
+    "titre": "4e Festival International d'Annemasse - Tournoi Amateur",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72215",
+    "cadence": "Lente",
+    "lieu": "74 - ANNEMASSE",
+    "arbitre": "WLASSEWITCH Sylvain"
+  },
+  {
+    "date": "2026-10-21",
+    "titre": "4e Festival International d'Annemasse - Tournoi Maitre",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72213",
+    "cadence": "Lente",
+    "lieu": "74 - ANNEMASSE",
+    "arbitre": "WLASSEWITCH Sylvain"
   },
   {
     "date": "2026-10-21",
@@ -21057,6 +22481,30 @@
   },
   {
     "date": "2026-10-22",
+    "titre": "4e Festival International d'Annemasse - Tournoi Accession",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72214",
+    "cadence": "Lente",
+    "lieu": "74 - ANNEMASSE",
+    "arbitre": "WLASSEWITCH Sylvain"
+  },
+  {
+    "date": "2026-10-22",
+    "titre": "4e Festival International d'Annemasse - Tournoi Amateur",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72215",
+    "cadence": "Lente",
+    "lieu": "74 - ANNEMASSE",
+    "arbitre": "WLASSEWITCH Sylvain"
+  },
+  {
+    "date": "2026-10-22",
+    "titre": "4e Festival International d'Annemasse - Tournoi Maitre",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72213",
+    "cadence": "Lente",
+    "lieu": "74 - ANNEMASSE",
+    "arbitre": "WLASSEWITCH Sylvain"
+  },
+  {
+    "date": "2026-10-22",
     "titre": "Open international de Liffré 2026 - A",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72036",
     "cadence": "Lente",
@@ -21094,6 +22542,30 @@
     "cadence": "Lente",
     "lieu": "06 - MENTON",
     "arbitre": "PERNOUD Claire"
+  },
+  {
+    "date": "2026-10-23",
+    "titre": "4e Festival International d'Annemasse - Tournoi Accession",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72214",
+    "cadence": "Lente",
+    "lieu": "74 - ANNEMASSE",
+    "arbitre": "WLASSEWITCH Sylvain"
+  },
+  {
+    "date": "2026-10-23",
+    "titre": "4e Festival International d'Annemasse - Tournoi Amateur",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72215",
+    "cadence": "Lente",
+    "lieu": "74 - ANNEMASSE",
+    "arbitre": "WLASSEWITCH Sylvain"
+  },
+  {
+    "date": "2026-10-23",
+    "titre": "4e Festival International d'Annemasse - Tournoi Maitre",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72213",
+    "cadence": "Lente",
+    "lieu": "74 - ANNEMASSE",
+    "arbitre": "WLASSEWITCH Sylvain"
   },
   {
     "date": "2026-10-23",
