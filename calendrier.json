@@ -1,5 +1,53 @@
 [
   {
+    "date": "2026-04-01",
+    "titre": "103è Rapide FFE Interchess -1400 Elo et -14 Aans",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71618",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-04-01",
+    "titre": "377è Rapide FIDE Interchess -2000 (conseillé aux adultes jeunes et enfants)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71644",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-04-01",
+    "titre": "Blitz mensuel d'Aubagne - Avril 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71676",
+    "cadence": "Blitz",
+    "lieu": "13 - AUBAGNE",
+    "arbitre": "ROMAN Sylvian"
+  },
+  {
+    "date": "2026-04-01",
+    "titre": "Tournoi Interne de Seichamps Echecs 2025-2026 r4",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=68938",
+    "cadence": "Lente",
+    "lieu": "54 - SEICHAMPS",
+    "arbitre": "SCHMITT Nicolas"
+  },
+  {
+    "date": "2026-04-01",
+    "titre": "Tournoi d 'Echecs Scolaire Lyon 1 1er avril 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71703",
+    "cadence": "Lente",
+    "lieu": "69 - LYON",
+    "arbitre": "MATHIEU Christophe"
+  },
+  {
+    "date": "2026-04-01",
+    "titre": "Tournois de FROMELLES M4 25-26",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71346",
+    "cadence": "Lente",
+    "lieu": "59 - FROMELLES",
+    "arbitre": "DUPONT Daniel-Noel"
+  },
+  {
     "date": "2026-04-02",
     "titre": "378è Rapide FIDE Interchess",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71645",
@@ -5377,22 +5425,6 @@
   },
   {
     "date": "2026-05-01",
-    "titre": "4ème Open FIDE d'Eure et Loir - Open A (-2400)",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71867",
-    "cadence": "Lente",
-    "lieu": "28 - NOGENT LE ROI",
-    "arbitre": "SOBRY Sebastien"
-  },
-  {
-    "date": "2026-05-01",
-    "titre": "4ème Open FIDE d'Eure et Loir - Open B (-1700)",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71868",
-    "cadence": "Lente",
-    "lieu": "28 - NOGENT LE ROI",
-    "arbitre": "SOBRY Sebastien"
-  },
-  {
-    "date": "2026-05-01",
     "titre": "52ème Trophée Dussart",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71757",
     "cadence": "Lente",
@@ -5649,38 +5681,6 @@
   },
   {
     "date": "2026-05-02",
-    "titre": "14e Trophée Jeunes Meaux Open F (-1800 Elo)",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71529",
-    "cadence": "Lente",
-    "lieu": "77 - MEAUX",
-    "arbitre": "PINCON Stephane"
-  },
-  {
-    "date": "2026-05-02",
-    "titre": "14e Trophée Jeunes Meaux Open G (-1800 Elo)",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71530",
-    "cadence": "Lente",
-    "lieu": "77 - MEAUX",
-    "arbitre": "PINCON Stephane"
-  },
-  {
-    "date": "2026-05-02",
-    "titre": "14e Trophée Jeunes Meaux Open H (-1800 Elo)",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71950",
-    "cadence": "Lente",
-    "lieu": "77 - MEAUX",
-    "arbitre": "PINCON Stephane"
-  },
-  {
-    "date": "2026-05-02",
-    "titre": "14e Trophée Jeunes Meaux Open I (-1800 Elo)",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71951",
-    "cadence": "Lente",
-    "lieu": "77 - MEAUX",
-    "arbitre": "PINCON Stephane"
-  },
-  {
-    "date": "2026-05-02",
     "titre": "16è Marathon de Blitz FIDE Interchess",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71972",
     "cadence": "Blitz",
@@ -5774,22 +5774,6 @@
     "cadence": "Rapide",
     "lieu": "59 - GRANDE SYNTHE",
     "arbitre": "LE ROL Eric"
-  },
-  {
-    "date": "2026-05-02",
-    "titre": "4ème Open FIDE d'Eure et Loir - Open A (-2400)",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71867",
-    "cadence": "Lente",
-    "lieu": "28 - NOGENT LE ROI",
-    "arbitre": "SOBRY Sebastien"
-  },
-  {
-    "date": "2026-05-02",
-    "titre": "4ème Open FIDE d'Eure et Loir - Open B (-1700)",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71868",
-    "cadence": "Lente",
-    "lieu": "28 - NOGENT LE ROI",
-    "arbitre": "SOBRY Sebastien"
   },
   {
     "date": "2026-05-02",
@@ -5945,38 +5929,6 @@
   },
   {
     "date": "2026-05-03",
-    "titre": "14e Trophée Jeunes Meaux Open F (-1800 Elo)",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71529",
-    "cadence": "Lente",
-    "lieu": "77 - MEAUX",
-    "arbitre": "PINCON Stephane"
-  },
-  {
-    "date": "2026-05-03",
-    "titre": "14e Trophée Jeunes Meaux Open G (-1800 Elo)",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71530",
-    "cadence": "Lente",
-    "lieu": "77 - MEAUX",
-    "arbitre": "PINCON Stephane"
-  },
-  {
-    "date": "2026-05-03",
-    "titre": "14e Trophée Jeunes Meaux Open H (-1800 Elo)",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71950",
-    "cadence": "Lente",
-    "lieu": "77 - MEAUX",
-    "arbitre": "PINCON Stephane"
-  },
-  {
-    "date": "2026-05-03",
-    "titre": "14e Trophée Jeunes Meaux Open I (-1800 Elo)",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71951",
-    "cadence": "Lente",
-    "lieu": "77 - MEAUX",
-    "arbitre": "PINCON Stephane"
-  },
-  {
-    "date": "2026-05-03",
     "titre": "1er Open International de Ouistreham",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71713",
     "cadence": "Lente",
@@ -6102,22 +6054,6 @@
     "cadence": "Rapide",
     "lieu": "59 - ERQUINGHEM LYS",
     "arbitre": "BLOT Philippe"
-  },
-  {
-    "date": "2026-05-03",
-    "titre": "4ème Open FIDE d'Eure et Loir - Open A (-2400)",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71867",
-    "cadence": "Lente",
-    "lieu": "28 - NOGENT LE ROI",
-    "arbitre": "SOBRY Sebastien"
-  },
-  {
-    "date": "2026-05-03",
-    "titre": "4ème Open FIDE d'Eure et Loir - Open B (-1700)",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71868",
-    "cadence": "Lente",
-    "lieu": "28 - NOGENT LE ROI",
-    "arbitre": "SOBRY Sebastien"
   },
   {
     "date": "2026-05-03",
