@@ -9889,14 +9889,6 @@
   },
   {
     "date": "2026-05-24",
-    "titre": "12eme rapide de Bonchamp Promotionnel",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71894",
-    "cadence": "Rapide",
-    "lieu": "53 - BONCHAMP LES LAVAL",
-    "arbitre": "JUDALET-ILLAND Ghisl"
-  },
-  {
-    "date": "2026-05-24",
     "titre": "12ème Open d'Avoine des moins de 1700 elo",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71088",
     "cadence": "Lente",
@@ -11737,6 +11729,30 @@
   },
   {
     "date": "2026-06-03",
+    "titre": "CEHR Challenge Scolaires 2026 CE1 - CE2",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72342",
+    "cadence": "Lente",
+    "lieu": "68 - MULHOUSE",
+    "arbitre": "LENGERT Rene"
+  },
+  {
+    "date": "2026-06-03",
+    "titre": "CEHR Challenge Scolaires 2026 CM1 - CM2",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72344",
+    "cadence": "Lente",
+    "lieu": "68 - MULHOUSE",
+    "arbitre": "LENGERT Rene"
+  },
+  {
+    "date": "2026-06-03",
+    "titre": "CEHR Challenge Scolaires 2026 GS-CP",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72343",
+    "cadence": "Lente",
+    "lieu": "68 - MULHOUSE",
+    "arbitre": "LENGERT Rene"
+  },
+  {
+    "date": "2026-06-03",
     "titre": "Championnat d'Ile-de-France des lycées 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72149",
     "cadence": "Lente",
@@ -11798,6 +11814,14 @@
     "cadence": "Lente",
     "lieu": "74 - ANNEMASSE",
     "arbitre": "SYLVESTRE-BARON Mich"
+  },
+  {
+    "date": "2026-06-04",
+    "titre": "3eme tournoi de blitz de Metz Benko",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72361",
+    "cadence": "Blitz",
+    "lieu": "57 - METZ",
+    "arbitre": "DILLENSCHNEIDER Erne"
   },
   {
     "date": "2026-06-04",
@@ -12241,6 +12265,14 @@
   },
   {
     "date": "2026-06-06",
+    "titre": "Rapide Jeunes Toulouse Lardenne 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72362",
+    "cadence": "Rapide",
+    "lieu": "31 - TOULOUSE",
+    "arbitre": "CWIEK NGUYEN Francoi"
+  },
+  {
+    "date": "2026-06-06",
     "titre": "Rapide des Faïenciers - 8 - tournoi de Pentecôte",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=68887",
     "cadence": "Rapide",
@@ -12323,6 +12355,14 @@
     "date": "2026-06-07",
     "titre": "17ème tournoi Rapide d'Yffiniac",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71093",
+    "cadence": "Rapide",
+    "lieu": "22 - YFFINIAC",
+    "arbitre": "CLOAREC Bernard"
+  },
+  {
+    "date": "2026-06-07",
+    "titre": "17ème tournoi Rapide d'Yffiniac -1500 Elo",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72348",
     "cadence": "Rapide",
     "lieu": "22 - YFFINIAC",
     "arbitre": "CLOAREC Bernard"
@@ -12493,7 +12533,7 @@
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70398",
     "cadence": "Rapide",
     "lieu": "16 - MONTBRON",
-    "arbitre": "PLASSART Jean-Luc"
+    "arbitre": "CYRILLE Dominique"
   },
   {
     "date": "2026-06-07",
@@ -12641,6 +12681,14 @@
   },
   {
     "date": "2026-06-07",
+    "titre": "Open Jeunes de Petit Bourg 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72347",
+    "cadence": "Lente",
+    "lieu": "9C - PETIT BOURG",
+    "arbitre": "MAROT Philippe"
+  },
+  {
+    "date": "2026-06-07",
     "titre": "Open d’Evreux 2026 (-2400)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71994",
     "cadence": "Lente",
@@ -12654,6 +12702,14 @@
     "cadence": "Rapide",
     "lieu": "62 - HENIN BEAUMONT",
     "arbitre": "TAHAR-CHAOUCH Fouzia"
+  },
+  {
+    "date": "2026-06-07",
+    "titre": "Rapide Feminin Haute-Garonne 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72363",
+    "cadence": "Rapide",
+    "lieu": "31 - NAILLOUX",
+    "arbitre": "SANCHEZ Nicolas"
   },
   {
     "date": "2026-06-07",
@@ -12713,6 +12769,14 @@
   },
   {
     "date": "2026-06-08",
+    "titre": "1er Tournoi Interne des CP de l'école Buisson Le Passage d'Agen",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72355",
+    "cadence": "Lente",
+    "lieu": "47 - LE PASSAGE",
+    "arbitre": "PRIE Eric"
+  },
+  {
+    "date": "2026-06-08",
     "titre": "Interne 1hKO La Dame Noire 2026 r11-12",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=68086",
     "cadence": "Lente",
@@ -12750,6 +12814,14 @@
     "cadence": "Lente",
     "lieu": "78 - MONTIGNY LE BRETONNEUX",
     "arbitre": "RIVIER Sylvain"
+  },
+  {
+    "date": "2026-06-09",
+    "titre": "Match Inter-écoles E. Lacour-Le Passage VS Villeréal 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72356",
+    "cadence": "Lente",
+    "lieu": "47 - LE PASSAGE",
+    "arbitre": "PRIE Eric"
   },
   {
     "date": "2026-06-09",
@@ -12838,6 +12910,14 @@
     "cadence": "Lente",
     "lieu": "9Z - FRANCE",
     "arbitre": "MOURET Erick"
+  },
+  {
+    "date": "2026-06-11",
+    "titre": "Tournoi de Lacroix 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72340",
+    "cadence": "Lente",
+    "lieu": "9C - LE MOULE",
+    "arbitre": "MAROT Philippe"
   },
   {
     "date": "2026-06-11",
@@ -13457,6 +13537,14 @@
   },
   {
     "date": "2026-06-14",
+    "titre": "Championnat d'échecs des Alpes du Sud 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72365",
+    "cadence": "Lente",
+    "lieu": "04 - FORCALQUIER",
+    "arbitre": "DE ANDRES OTERINO Ca"
+  },
+  {
+    "date": "2026-06-14",
     "titre": "Championnat du Var de Blitz 2026 tournoi A",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72111",
     "cadence": "Blitz",
@@ -13656,6 +13744,14 @@
     "arbitre": "PLANTET Marc"
   },
   {
+    "date": "2026-06-16",
+    "titre": "Tournoi de Débibakas 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72341",
+    "cadence": "Lente",
+    "lieu": "9C - LE MOULE",
+    "arbitre": "MAROT Philippe"
+  },
+  {
     "date": "2026-06-17",
     "titre": "Championnat de Hyères 2026 des CE1 et CE2",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72307",
@@ -13678,6 +13774,14 @@
     "cadence": "Lente",
     "lieu": "78 - POISSY",
     "arbitre": "PLANTET Marc"
+  },
+  {
+    "date": "2026-06-17",
+    "titre": "Tournoi Jeunes de l’Échecs Club Montpellier Juin 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72366",
+    "cadence": "Lente",
+    "lieu": "34 - MONTPELLIER",
+    "arbitre": "LE QUERE Alexandre"
   },
   {
     "date": "2026-06-17",
@@ -14465,6 +14569,22 @@
   },
   {
     "date": "2026-06-27",
+    "titre": "23ème Tournoi Kintzheim - Tournoi A",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72345",
+    "cadence": "Lente",
+    "lieu": "67 - KINTZHEIM",
+    "arbitre": "SCHLOTTER Cecile"
+  },
+  {
+    "date": "2026-06-27",
+    "titre": "23ème Tournoi Kintzheim - Tournoi B",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72346",
+    "cadence": "Lente",
+    "lieu": "67 - KINTZHEIM",
+    "arbitre": "SCHLOTTER Cecile"
+  },
+  {
+    "date": "2026-06-27",
     "titre": "28ème Open International des Vins du Médoc à Hourtin (33)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70982",
     "cadence": "Lente",
@@ -15057,11 +15177,27 @@
   },
   {
     "date": "2026-06-28",
+    "titre": "Rapide de la Marne 2026 Reims",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72349",
+    "cadence": "Rapide",
+    "lieu": "51 - REIMS",
+    "arbitre": "BUREAU Francis"
+  },
+  {
+    "date": "2026-06-28",
     "titre": "Top 12 Féminin Phase Finale",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=68162",
     "cadence": "Lente",
     "lieu": "9Z - FRANCE",
     "arbitre": "MOURET Erick"
+  },
+  {
+    "date": "2026-06-28",
+    "titre": "Tournoi Rapide du Cavalier Rouge 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72364",
+    "cadence": "Rapide",
+    "lieu": "92 - CLAMART",
+    "arbitre": "TRAN Raymond"
   },
   {
     "date": "2026-06-28",
@@ -15878,6 +16014,14 @@
     "cadence": "Lente",
     "lieu": "13 - SALON DE PROVENCE",
     "arbitre": "CHAZEAU Laineur-Loth"
+  },
+  {
+    "date": "2026-07-05",
+    "titre": "1er Open d'echecs International de Sarcelles",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72350",
+    "cadence": "Lente",
+    "lieu": "95 - SARCELLES",
+    "arbitre": "BENADDOU Khaled"
   },
   {
     "date": "2026-07-05",
@@ -22281,6 +22425,14 @@
   },
   {
     "date": "2026-09-13",
+    "titre": "2e Mémorial Bernadette Riff 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72360",
+    "cadence": "Lente",
+    "lieu": "68 - BISEL",
+    "arbitre": "GERANDI Guillaume"
+  },
+  {
+    "date": "2026-09-13",
     "titre": "6e Open de La Palme (-1600)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71445",
     "cadence": "Lente",
@@ -22384,6 +22536,38 @@
     "arbitre": "POTIRON Nicolas"
   },
   {
+    "date": "2026-09-26",
+    "titre": "6e Open d'automne de Saint-Brieuc - Tournoi A (-2400)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72351",
+    "cadence": "Lente",
+    "lieu": "22 - SAINT BRIEUC",
+    "arbitre": "CLOAREC Bernard"
+  },
+  {
+    "date": "2026-09-26",
+    "titre": "6e Open d'automne de Saint-Brieuc - Tournoi B",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72352",
+    "cadence": "Lente",
+    "lieu": "22 - SAINT BRIEUC",
+    "arbitre": "CLOAREC Bernard"
+  },
+  {
+    "date": "2026-09-26",
+    "titre": "6e Open d'automne de Saint-Brieuc - Tournoi C",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72353",
+    "cadence": "Lente",
+    "lieu": "22 - SAINT BRIEUC",
+    "arbitre": "CLOAREC Bernard"
+  },
+  {
+    "date": "2026-09-26",
+    "titre": "6e Open d'automne de Saint-Brieuc - Tournoi D",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72354",
+    "cadence": "Lente",
+    "lieu": "22 - SAINT BRIEUC",
+    "arbitre": "CLOAREC Bernard"
+  },
+  {
     "date": "2026-09-27",
     "titre": "2ème Open d'échecs de Fontenay le Comte (-2400)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72045",
@@ -22406,6 +22590,38 @@
     "cadence": "Rapide",
     "lieu": "38 - EYBENS",
     "arbitre": "CALIN Miguel"
+  },
+  {
+    "date": "2026-09-27",
+    "titre": "6e Open d'automne de Saint-Brieuc - Tournoi A (-2400)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72351",
+    "cadence": "Lente",
+    "lieu": "22 - SAINT BRIEUC",
+    "arbitre": "CLOAREC Bernard"
+  },
+  {
+    "date": "2026-09-27",
+    "titre": "6e Open d'automne de Saint-Brieuc - Tournoi B",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72352",
+    "cadence": "Lente",
+    "lieu": "22 - SAINT BRIEUC",
+    "arbitre": "CLOAREC Bernard"
+  },
+  {
+    "date": "2026-09-27",
+    "titre": "6e Open d'automne de Saint-Brieuc - Tournoi C",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72353",
+    "cadence": "Lente",
+    "lieu": "22 - SAINT BRIEUC",
+    "arbitre": "CLOAREC Bernard"
+  },
+  {
+    "date": "2026-09-27",
+    "titre": "6e Open d'automne de Saint-Brieuc - Tournoi D",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72354",
+    "cadence": "Lente",
+    "lieu": "22 - SAINT BRIEUC",
+    "arbitre": "CLOAREC Bernard"
   },
   {
     "date": "2026-09-27",
@@ -22454,6 +22670,22 @@
     "cadence": "Lente",
     "lieu": "75 - PARIS",
     "arbitre": "DENOUS Cyprien"
+  },
+  {
+    "date": "2026-10-03",
+    "titre": "1er Open International des Flandres - HEC-CANM",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72359",
+    "cadence": "Lente",
+    "lieu": "59 - HAZEBROUCK",
+    "arbitre": "BLOT Philippe"
+  },
+  {
+    "date": "2026-10-04",
+    "titre": "1er Open International des Flandres - HEC-CANM",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72359",
+    "cadence": "Lente",
+    "lieu": "59 - HAZEBROUCK",
+    "arbitre": "BLOT Philippe"
   },
   {
     "date": "2026-10-04",
