@@ -5665,22 +5665,6 @@
   },
   {
     "date": "2026-05-02",
-    "titre": "14e Trophée Jeunes Meaux Open D (-1800 Elo)",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71527",
-    "cadence": "Lente",
-    "lieu": "77 - MEAUX",
-    "arbitre": "PINCON Stephane"
-  },
-  {
-    "date": "2026-05-02",
-    "titre": "14e Trophée Jeunes Meaux Open E (-1800 Elo)",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71528",
-    "cadence": "Lente",
-    "lieu": "77 - MEAUX",
-    "arbitre": "PINCON Stephane"
-  },
-  {
-    "date": "2026-05-02",
     "titre": "16è Marathon de Blitz FIDE Interchess",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71972",
     "cadence": "Blitz",
@@ -5907,22 +5891,6 @@
     "date": "2026-05-03",
     "titre": "14e Trophée Jeunes Meaux Open C (-1800 Elo)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71393",
-    "cadence": "Lente",
-    "lieu": "77 - MEAUX",
-    "arbitre": "PINCON Stephane"
-  },
-  {
-    "date": "2026-05-03",
-    "titre": "14e Trophée Jeunes Meaux Open D (-1800 Elo)",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71527",
-    "cadence": "Lente",
-    "lieu": "77 - MEAUX",
-    "arbitre": "PINCON Stephane"
-  },
-  {
-    "date": "2026-05-03",
-    "titre": "14e Trophée Jeunes Meaux Open E (-1800 Elo)",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71528",
     "cadence": "Lente",
     "lieu": "77 - MEAUX",
     "arbitre": "PINCON Stephane"
@@ -6230,14 +6198,6 @@
     "cadence": "Lente",
     "lieu": "64 - BAYONNE",
     "arbitre": "JARRIER Francis"
-  },
-  {
-    "date": "2026-05-03",
-    "titre": "XXVIème Rapide de l'Échiquier Royal - ANNULE -",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71438",
-    "cadence": "Rapide",
-    "lieu": "71 - CHATENOY LE ROYAL",
-    "arbitre": "FARGERE Jacky"
   },
   {
     "date": "2026-05-04",
@@ -11897,6 +11857,14 @@
   },
   {
     "date": "2026-06-05",
+    "titre": "2ème Blitz Pizza du Pic du Gar",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72368",
+    "cadence": "Blitz",
+    "lieu": "65 - LOURES BAROUSSE",
+    "arbitre": "JOIN Etienne"
+  },
+  {
+    "date": "2026-06-05",
     "titre": "579e Rapide Fide du Canal",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71905",
     "cadence": "Rapide",
@@ -12841,6 +12809,14 @@
   },
   {
     "date": "2026-06-10",
+    "titre": "419è Rapide FIDE Interchess -2000 (réservé aux débutants adultes jeunes et enfants)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72373",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-06-10",
     "titre": "Challenge scolaire 2026 - Ecole",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72202",
     "cadence": "Lente",
@@ -12886,6 +12862,14 @@
     "cadence": "Lente",
     "lieu": "74 - ANNEMASSE",
     "arbitre": "SYLVESTRE-BARON Mich"
+  },
+  {
+    "date": "2026-06-11",
+    "titre": "420è Rapide FIDE Interchess",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72374",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
   },
   {
     "date": "2026-06-11",
@@ -12993,11 +12977,35 @@
   },
   {
     "date": "2026-06-13",
+    "titre": "109è Blitz FIDE Interchess",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72377",
+    "cadence": "Blitz",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-06-13",
     "titre": "1er GrandPrix des Territoires Thionville-Fensch et Val d'Alzette Jeunes",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72075",
     "cadence": "Lente",
     "lieu": "57 - TRESSANGE",
     "arbitre": "LECLERC Bernard"
+  },
+  {
+    "date": "2026-06-13",
+    "titre": "261è Open FIDE Interchess de 3 Rondes (réservé elo fide 1700 à 2200)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72375",
+    "cadence": "Lente",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-06-13",
+    "titre": "262è Open FIDE Interchess de 3 Rondes -1800",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72376",
+    "cadence": "Lente",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
   },
   {
     "date": "2026-06-13",
@@ -13153,6 +13161,14 @@
   },
   {
     "date": "2026-06-13",
+    "titre": "Tournoi interne Verrières 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72381",
+    "cadence": "Lente",
+    "lieu": "10 - VERRIERES",
+    "arbitre": "CHANTIER Pierre"
+  },
+  {
+    "date": "2026-06-13",
     "titre": "tournoi Annuel du CABE 2025-26 r8-9",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=68069",
     "cadence": "Lente",
@@ -13206,6 +13222,14 @@
     "cadence": "Rapide",
     "lieu": "92 - SURESNES",
     "arbitre": "BASTIEN Andre"
+  },
+  {
+    "date": "2026-06-14",
+    "titre": "18è Marathon de Blitz FIDE Interchess",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72380",
+    "cadence": "Blitz",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
   },
   {
     "date": "2026-06-14",
@@ -13286,6 +13310,14 @@
     "cadence": "Rapide",
     "lieu": "02 - BERNOT",
     "arbitre": "BRACQ Gregory"
+  },
+  {
+    "date": "2026-06-14",
+    "titre": "263è Open FIDE Interchess de 3 Rondes -1800",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72378",
+    "cadence": "Lente",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
   },
   {
     "date": "2026-06-14",
@@ -13406,6 +13438,14 @@
     "cadence": "Lente",
     "lieu": "74 - SALLANCHES",
     "arbitre": "MANUEL Marc"
+  },
+  {
+    "date": "2026-06-14",
+    "titre": "421è Rapide FIDE Interchess",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72379",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
   },
   {
     "date": "2026-06-14",
@@ -13814,6 +13854,14 @@
     "cadence": "Rapide",
     "lieu": "93 - MONTREUIL",
     "arbitre": "MAUFFREY Hugues"
+  },
+  {
+    "date": "2026-06-19",
+    "titre": "3ème rapide interne 2026 Chateaubriant -2400",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72371",
+    "cadence": "Rapide",
+    "lieu": "44 - CHATEAUBRIANT",
+    "arbitre": "NOEL Nicolas"
   },
   {
     "date": "2026-06-19",
@@ -14310,6 +14358,22 @@
     "cadence": "Rapide",
     "lieu": "75 - PARIS",
     "arbitre": "BOGDANOVSKY Sonia"
+  },
+  {
+    "date": "2026-06-21",
+    "titre": "Tournoi de blitz du club d'Albi juin 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72370",
+    "cadence": "Blitz",
+    "lieu": "81 - ALBI",
+    "arbitre": "AUREJAC Pierre"
+  },
+  {
+    "date": "2026-06-21",
+    "titre": "Tournoi interne du JEEN 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72369",
+    "cadence": "Lente",
+    "lieu": "92 - BOULOGNE BILLANCOURT",
+    "arbitre": "FOURNIER Nicolas"
   },
   {
     "date": "2026-06-21",
@@ -22233,6 +22297,14 @@
   },
   {
     "date": "2026-08-29",
+    "titre": "Rapide de Saint Dié des Vosges 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72372",
+    "cadence": "Rapide",
+    "lieu": "88 - SAINT DIE DES VOSGES",
+    "arbitre": "ANTOINE Jean-Luc"
+  },
+  {
+    "date": "2026-08-29",
     "titre": "Second d'été de Fontenilles A (-2400)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72187",
     "cadence": "Lente",
@@ -23502,6 +23574,14 @@
     "cadence": "Lente",
     "lieu": "87 - PANAZOL",
     "arbitre": "LUCAZEAU Alain"
+  },
+  {
+    "date": "2026-11-14",
+    "titre": "1er Open rapide -2200 Jean Claude Sérié",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72382",
+    "cadence": "Rapide",
+    "lieu": "11 - COURSAN",
+    "arbitre": "CAPITANIO Patrice"
   },
   {
     "date": "2026-12-20",
