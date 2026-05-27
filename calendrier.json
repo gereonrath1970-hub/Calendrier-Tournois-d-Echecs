@@ -9633,14 +9633,6 @@
   },
   {
     "date": "2026-05-23",
-    "titre": "4ème Open Fide E.L.S.A. - Tournoi E (-2400)",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=69846",
-    "cadence": "Lente",
-    "lieu": "56 - SAINTE ANNE D'AURAY",
-    "arbitre": "MALRY Celia"
-  },
-  {
-    "date": "2026-05-23",
     "titre": "4ème Open d'Echecs de Vaureal (-2100)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72078",
     "cadence": "Lente",
@@ -10043,14 +10035,6 @@
     "date": "2026-05-24",
     "titre": "4ème Open Fide E.L.S.A. - Tournoi D (-2400)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=69845",
-    "cadence": "Lente",
-    "lieu": "56 - SAINTE ANNE D'AURAY",
-    "arbitre": "MALRY Celia"
-  },
-  {
-    "date": "2026-05-24",
-    "titre": "4ème Open Fide E.L.S.A. - Tournoi E (-2400)",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=69846",
     "cadence": "Lente",
     "lieu": "56 - SAINTE ANNE D'AURAY",
     "arbitre": "MALRY Celia"
@@ -12101,7 +12085,7 @@
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=69386",
     "cadence": "Lente",
     "lieu": "34 - MONTPELLIER",
-    "arbitre": "MOURET Erick"
+    "arbitre": "LE QUERE Alexandre"
   },
   {
     "date": "2026-06-06",
@@ -12557,7 +12541,7 @@
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=69386",
     "cadence": "Lente",
     "lieu": "34 - MONTPELLIER",
-    "arbitre": "MOURET Erick"
+    "arbitre": "LE QUERE Alexandre"
   },
   {
     "date": "2026-06-07",
@@ -13397,7 +13381,7 @@
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=68990",
     "cadence": "Rapide",
     "lieu": "87 - PANAZOL",
-    "arbitre": "GEY Marc-Emile"
+    "arbitre": "FRANCOIS Ginaud"
   },
   {
     "date": "2026-06-14",
