@@ -12737,14 +12737,6 @@
   },
   {
     "date": "2026-06-07",
-    "titre": "Rapide Feminin Haute-Garonne 2026 ANNULE",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72363",
-    "cadence": "Rapide",
-    "lieu": "31 - NAILLOUX",
-    "arbitre": "SANCHEZ Nicolas"
-  },
-  {
-    "date": "2026-06-07",
     "titre": "Rapide de Villereal 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72232",
     "cadence": "Rapide",
@@ -15222,6 +15214,14 @@
     "cadence": "Blitz",
     "lieu": "77 - MEAUX",
     "arbitre": "COUSIN Fabien"
+  },
+  {
+    "date": "2026-06-26",
+    "titre": "2nd Tournoi de La Providence",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72633",
+    "cadence": "Lente",
+    "lieu": "11 - BRAM",
+    "arbitre": "PRIE Eric"
   },
   {
     "date": "2026-06-26",
@@ -18201,6 +18201,14 @@
   },
   {
     "date": "2026-07-08",
+    "titre": "437è Rapide FIDE Interchess -2000 (conseillé aux débutants adultes et jeunes)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72621",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-07-08",
     "titre": "6e Festival International de La Plagne - Tournoi Accession",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70512",
     "cadence": "Lente",
@@ -18393,6 +18401,14 @@
   },
   {
     "date": "2026-07-09",
+    "titre": "438è Rapide FIDE Interchess",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72622",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-07-09",
     "titre": "6e Festival International de La Plagne - Tournoi Accession",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70512",
     "cadence": "Lente",
@@ -18486,6 +18502,14 @@
     "cadence": "Lente",
     "lieu": "86 - BEAUMONT",
     "arbitre": "PICARD Joel"
+  },
+  {
+    "date": "2026-07-10",
+    "titre": "12è Marathon Rapide FFE Interchess -2000 (conseillé aux débutants adultes et jeunes)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72623",
+    "cadence": "Rapide",
+    "lieu": "75 - PAISSY",
+    "arbitre": "PHAM Hieu Tuong"
   },
   {
     "date": "2026-07-10",
@@ -18670,6 +18694,14 @@
     "cadence": "Lente",
     "lieu": "54 - NANCY",
     "arbitre": "FROMHERZ Audrey"
+  },
+  {
+    "date": "2026-07-10",
+    "titre": "Rencontre Jeune Juin 2026 Tour Blanche JEEN",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72618",
+    "cadence": "Lente",
+    "lieu": "75 - PARIS",
+    "arbitre": "FOURNIER Nicolas"
   },
   {
     "date": "2026-07-10",
@@ -19833,6 +19865,14 @@
   },
   {
     "date": "2026-07-18",
+    "titre": "113è Blitz FIDE Interchess",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72624",
+    "cadence": "Blitz",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-07-18",
     "titre": "1er Open International d’Échecs des Menuires - Tournoi Accession",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=69036",
     "cadence": "Lente",
@@ -19862,6 +19902,22 @@
     "cadence": "Rapide",
     "lieu": "14 - DEAUVILLE",
     "arbitre": "DECAEN Melvyn"
+  },
+  {
+    "date": "2026-07-18",
+    "titre": "267è Open FIDE Interchess de 3 Rondes (elo fide de 1700 à 2200)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72626",
+    "cadence": "Lente",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-07-18",
+    "titre": "268è Open FIDE Interchess de 3 Rondes -1800",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72625",
+    "cadence": "Lente",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
   },
   {
     "date": "2026-07-18",
@@ -19961,6 +20017,14 @@
   },
   {
     "date": "2026-07-19",
+    "titre": "114è Blitz FIDE Interchess",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72627",
+    "cadence": "Blitz",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-07-19",
     "titre": "19ème Rapide Club 608 - Paris 15ème",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72597",
     "cadence": "Rapide",
@@ -19993,6 +20057,14 @@
   },
   {
     "date": "2026-07-19",
+    "titre": "269è Open FIDE Interchess de 3 Rondes -1800",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72629",
+    "cadence": "Lente",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-07-19",
     "titre": "3ème Open de Brassy - Trophée du Morvan - Championnat de Rapide de la Nièvre",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71201",
     "cadence": "Rapide",
@@ -20006,6 +20078,14 @@
     "cadence": "Lente",
     "lieu": "37 - AVOINE",
     "arbitre": "SALLY Paul-Adrien"
+  },
+  {
+    "date": "2026-07-19",
+    "titre": "439è Rapide FIDE Interchess",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72628",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
   },
   {
     "date": "2026-07-19",
@@ -23513,6 +23593,22 @@
   },
   {
     "date": "2026-08-22",
+    "titre": "13ème rapide FIDE de la Saint-Louis - Sète",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72620",
+    "cadence": "Rapide",
+    "lieu": "34 - SETE",
+    "arbitre": "TUR Fabrice"
+  },
+  {
+    "date": "2026-08-22",
+    "titre": "13ème rapide FIDE de la Saint-Louis - Sète (Elo < 1500)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72619",
+    "cadence": "Rapide",
+    "lieu": "34 - SETE",
+    "arbitre": "TUR Fabrice"
+  },
+  {
+    "date": "2026-08-22",
     "titre": "22ème Festival International de Dieppe - Open des Rois",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70915",
     "cadence": "Lente",
@@ -24838,6 +24934,30 @@
     "cadence": "Rapide",
     "lieu": "75 - PARIS",
     "arbitre": "VIGNA Patrick"
+  },
+  {
+    "date": "2026-09-27",
+    "titre": "25ème Rapide de Rentrée ECV - Tournoi A (ouvert à toutes et à tous)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72631",
+    "cadence": "Rapide",
+    "lieu": "84 - MORIERES LES AVIGNON",
+    "arbitre": "DIMITROV Christo"
+  },
+  {
+    "date": "2026-09-27",
+    "titre": "25ème Rapide de Rentrée ECV - Tournoi B (-1700 Elo rapide)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72632",
+    "cadence": "Rapide",
+    "lieu": "84 - MORIERES LES AVIGNON",
+    "arbitre": "DIMITROV Christo"
+  },
+  {
+    "date": "2026-09-27",
+    "titre": "25ème Rapide de Rentrée ECV - Tournoi Jeunes (-1200elo et jusqu'à U12 pupilles)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72630",
+    "cadence": "Rapide",
+    "lieu": "84 - MORIERES LES AVIGNON",
+    "arbitre": "DIMITROV Christo"
   },
   {
     "date": "2026-09-27",
