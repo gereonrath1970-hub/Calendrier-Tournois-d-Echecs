@@ -20233,6 +20233,14 @@
   },
   {
     "date": "2026-07-23",
+    "titre": "4e Tournoi Interne Échiquier bisontin",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72694",
+    "cadence": "Lente",
+    "lieu": "25 - BESANCON",
+    "arbitre": "LAUFERON Patrick"
+  },
+  {
+    "date": "2026-07-23",
     "titre": "4ème Festival d'été de Saint-Max - Tournoi A +1800",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71672",
     "cadence": "Lente",
@@ -20414,6 +20422,14 @@
     "cadence": "Lente",
     "lieu": "37 - AVOINE",
     "arbitre": "SALLY Paul-Adrien"
+  },
+  {
+    "date": "2026-07-24",
+    "titre": "4e Tournoi Interne Échiquier bisontin",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72694",
+    "cadence": "Lente",
+    "lieu": "25 - BESANCON",
+    "arbitre": "LAUFERON Patrick"
   },
   {
     "date": "2026-07-24",
@@ -20601,11 +20617,35 @@
   },
   {
     "date": "2026-07-25",
+    "titre": "271è Open FIDE Interchess de 3 Rondes -1700",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72684",
+    "cadence": "Lente",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-07-25",
     "titre": "40ème Open International d'Echecs d'Avoine",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71087",
     "cadence": "Lente",
     "lieu": "37 - AVOINE",
     "arbitre": "SALLY Paul-Adrien"
+  },
+  {
+    "date": "2026-07-25",
+    "titre": "442è Rapide FIDE Interchess -2000 (conseillé aux débutants adultes jeunes et enfants)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72685",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-07-25",
+    "titre": "4e Tournoi Interne Échiquier bisontin",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72694",
+    "cadence": "Lente",
+    "lieu": "25 - BESANCON",
+    "arbitre": "LAUFERON Patrick"
   },
   {
     "date": "2026-07-25",
@@ -20777,11 +20817,27 @@
   },
   {
     "date": "2026-07-26",
+    "titre": "115è Blitz FIDE Interchess",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72688",
+    "cadence": "Blitz",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-07-26",
     "titre": "1er Triathlon des Echecs de Chambéry - Tournoi Blitz",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72081",
     "cadence": "Blitz",
     "lieu": "73 - CHAMBERY",
     "arbitre": "BILLOTTI Romain"
+  },
+  {
+    "date": "2026-07-26",
+    "titre": "272è Open FIDE Interchess de 3 Rondes -1800",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72686",
+    "cadence": "Lente",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
   },
   {
     "date": "2026-07-26",
@@ -20798,6 +20854,22 @@
     "cadence": "Lente",
     "lieu": "37 - AVOINE",
     "arbitre": "SALLY Paul-Adrien"
+  },
+  {
+    "date": "2026-07-26",
+    "titre": "443è Rapide FIDE Interchess",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72687",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-07-26",
+    "titre": "4e Tournoi Interne Échiquier bisontin",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72694",
+    "cadence": "Lente",
+    "lieu": "25 - BESANCON",
+    "arbitre": "LAUFERON Patrick"
   },
   {
     "date": "2026-07-26",
@@ -20854,6 +20926,14 @@
     "cadence": "Lente",
     "lieu": "13 - AIX EN PROVENCE",
     "arbitre": "DIMITROV Christo"
+  },
+  {
+    "date": "2026-07-26",
+    "titre": "Rapide Blitz Society du 26-07-2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72695",
+    "cadence": "Blitz",
+    "lieu": "75 - PARIS",
+    "arbitre": "FOURNIER Nicolas"
   },
   {
     "date": "2026-07-26",
@@ -21814,6 +21894,14 @@
     "cadence": "Lente",
     "lieu": "64 - ARETTE",
     "arbitre": "CWIEK NGUYEN Francoi"
+  },
+  {
+    "date": "2026-08-05",
+    "titre": "Blitz des Primeurs de Soueix août 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72693",
+    "cadence": "Blitz",
+    "lieu": "09 - SOUEIX ROGALLE",
+    "arbitre": "GALLORINI Jean-Chris"
   },
   {
     "date": "2026-08-05",
@@ -23593,6 +23681,14 @@
   },
   {
     "date": "2026-08-26",
+    "titre": "Open de Rentrée de Vandoeuvre 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72689",
+    "cadence": "Lente",
+    "lieu": "54 - VANDOEUVRE LES NANCY",
+    "arbitre": "SAVINA Anastasia"
+  },
+  {
+    "date": "2026-08-26",
     "titre": "Rapide de la côte d'Albâtre 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70980",
     "cadence": "Rapide",
@@ -23686,6 +23782,14 @@
     "cadence": "Lente",
     "lieu": "67 - BISCHWILLER",
     "arbitre": "REEB Roland"
+  },
+  {
+    "date": "2026-08-27",
+    "titre": "Open de Rentrée de Vandoeuvre 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72689",
+    "cadence": "Lente",
+    "lieu": "54 - VANDOEUVRE LES NANCY",
+    "arbitre": "SAVINA Anastasia"
   },
   {
     "date": "2026-08-28",
@@ -23798,6 +23902,14 @@
     "cadence": "Lente",
     "lieu": "67 - BISCHWILLER",
     "arbitre": "REEB Roland"
+  },
+  {
+    "date": "2026-08-28",
+    "titre": "Open de Rentrée de Vandoeuvre 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72689",
+    "cadence": "Lente",
+    "lieu": "54 - VANDOEUVRE LES NANCY",
+    "arbitre": "SAVINA Anastasia"
   },
   {
     "date": "2026-08-29",
@@ -24521,6 +24633,22 @@
   },
   {
     "date": "2026-09-20",
+    "titre": "Tournoi A de rentrée Erstein 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72690",
+    "cadence": "Lente",
+    "lieu": "67 - ERSTEIN",
+    "arbitre": "SCHLOTTER Cecile"
+  },
+  {
+    "date": "2026-09-20",
+    "titre": "Tournoi B de rentrée Erstein 2026 (pour -1700 Elos)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72691",
+    "cadence": "Lente",
+    "lieu": "67 - ERSTEIN",
+    "arbitre": "SCHLOTTER Cecile"
+  },
+  {
+    "date": "2026-09-20",
     "titre": "Tournoi C de rentrée Erstein 2026 (pour jeunes de -1100 Elos)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72679",
     "cadence": "Lente",
@@ -24659,6 +24787,14 @@
     "date": "2026-09-27",
     "titre": "19ème Tournoi B de Gétigné",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72676",
+    "cadence": "Lente",
+    "lieu": "44 - GETIGNE",
+    "arbitre": "BOUSSEFFA Sadok"
+  },
+  {
+    "date": "2026-09-27",
+    "titre": "19ème grand prix A de Gétigné",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72692",
     "cadence": "Lente",
     "lieu": "44 - GETIGNE",
     "arbitre": "BOUSSEFFA Sadok"
