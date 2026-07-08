@@ -17076,8 +17076,8 @@
     "titre": "16e open de Salon de Provence Tournoi principal",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71822",
     "cadence": "Lente",
-    "lieu": "13 - SALON DE PROVENCE",
-    "arbitre": "CHAZEAU Laineur-Loth"
+    "lieu": "Information indisponible",
+    "arbitre": "Information indisponible"
   },
   {
     "date": "2026-07-05",
@@ -17220,8 +17220,8 @@
     "titre": "6e Festival International de La Plagne - Tournoi Maitres",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70513",
     "cadence": "Lente",
-    "lieu": "73 - LA PLAGNE TARENTAISE",
-    "arbitre": "WLASSEWITCH Sylvain"
+    "lieu": "Information indisponible",
+    "arbitre": "Information indisponible"
   },
   {
     "date": "2026-07-05",
@@ -19593,6 +19593,14 @@
   },
   {
     "date": "2026-07-18",
+    "titre": "Tournoi des Aventuriers Courtois 18 juillet 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72699",
+    "cadence": "Lente",
+    "lieu": "69 - LYON",
+    "arbitre": "BUDACI Lionel"
+  },
+  {
+    "date": "2026-07-18",
     "titre": "Tournoi fermé ARTIX YZ 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72483",
     "cadence": "Lente",
@@ -19942,6 +19950,14 @@
     "cadence": "Lente",
     "lieu": "13 - AIX EN PROVENCE",
     "arbitre": "DIMITROV Christo"
+  },
+  {
+    "date": "2026-07-21",
+    "titre": "Rapide du lac de Saint-Cyr Juillet 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72702",
+    "cadence": "Rapide",
+    "lieu": "86 - BEAUMONT",
+    "arbitre": "PICARD Joel"
   },
   {
     "date": "2026-07-21",
@@ -20729,6 +20745,14 @@
   },
   {
     "date": "2026-07-25",
+    "titre": "Tournoi des aventuriers Courtois 25 juillet 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72700",
+    "cadence": "Lente",
+    "lieu": "69 - LYON",
+    "arbitre": "MATHIEU Christophe"
+  },
+  {
+    "date": "2026-07-25",
     "titre": "Trophée Dole 2026 - Tournoi Accession (-2200 elo)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70948",
     "cadence": "Lente",
@@ -21321,6 +21345,14 @@
   },
   {
     "date": "2026-07-31",
+    "titre": "337e Blitz Fide du Canal (18e MGM)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72703",
+    "cadence": "Blitz",
+    "lieu": "75 - PARIS",
+    "arbitre": "RUBINI Xavier"
+  },
+  {
+    "date": "2026-07-31",
     "titre": "4ème Open International de Perros-Guirec A (-2400)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71165",
     "cadence": "Lente",
@@ -21694,6 +21726,14 @@
     "cadence": "Rapide",
     "lieu": "66 - CANOHES",
     "arbitre": "LUNATY Jean-Pierre"
+  },
+  {
+    "date": "2026-08-02",
+    "titre": "Tournois des Aventuriers Courtois 2 Août 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72701",
+    "cadence": "Lente",
+    "lieu": "69 - LYON",
+    "arbitre": "BUDACI Lionel"
   },
   {
     "date": "2026-08-03",
@@ -24777,19 +24817,19 @@
   },
   {
     "date": "2026-09-27",
+    "titre": "19ème Open de Gétigné Jeune",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72676",
+    "cadence": "Lente",
+    "lieu": "44 - GETIGNE",
+    "arbitre": "BOUSSEFFA Sadok"
+  },
+  {
+    "date": "2026-09-27",
     "titre": "19ème Open de Rentrée de Bordeaux",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72603",
     "cadence": "Lente",
     "lieu": "33 - BORDEAUX",
     "arbitre": "DUVERDIER Serge"
-  },
-  {
-    "date": "2026-09-27",
-    "titre": "19ème Tournoi B de Gétigné",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72676",
-    "cadence": "Lente",
-    "lieu": "44 - GETIGNE",
-    "arbitre": "BOUSSEFFA Sadok"
   },
   {
     "date": "2026-09-27",
