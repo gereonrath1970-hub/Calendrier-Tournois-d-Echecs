@@ -15708,8 +15708,8 @@
     "titre": "Championnat de Guyane Parties Rapides 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72575",
     "cadence": "Rapide",
-    "lieu": "Information indisponible",
-    "arbitre": "Information indisponible"
+    "lieu": "9B - CAYENNE",
+    "arbitre": "ERIPRET Nicolas"
   },
   {
     "date": "2026-06-28",
@@ -15836,8 +15836,8 @@
     "titre": "Rapide de la Marne 2026 Reims",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72349",
     "cadence": "Rapide",
-    "lieu": "Information indisponible",
-    "arbitre": "Information indisponible"
+    "lieu": "51 - REIMS",
+    "arbitre": "BUREAU Francis"
   },
   {
     "date": "2026-06-28",
@@ -15868,8 +15868,8 @@
     "titre": "Tournoi des Bisons 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72563",
     "cadence": "Lente",
-    "lieu": "Information indisponible",
-    "arbitre": "Information indisponible"
+    "lieu": "67 - BOUXWILLER",
+    "arbitre": "MENETRIER Manuel"
   },
   {
     "date": "2026-06-28",
@@ -18385,14 +18385,6 @@
   },
   {
     "date": "2026-07-11",
-    "titre": "3ème Open d'été de L'Échiquier du Bocage",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71340",
-    "cadence": "Lente",
-    "lieu": "61 - BRIOUZE",
-    "arbitre": "LE FOURNIER Pascal"
-  },
-  {
-    "date": "2026-07-11",
     "titre": "4ème tournoi rapide de l'échiquier du Pouliguen",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72046",
     "cadence": "Rapide",
@@ -18593,14 +18585,6 @@
   },
   {
     "date": "2026-07-12",
-    "titre": "3ème Open d'été de L'Échiquier du Bocage",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71340",
-    "cadence": "Lente",
-    "lieu": "61 - BRIOUZE",
-    "arbitre": "LE FOURNIER Pascal"
-  },
-  {
-    "date": "2026-07-12",
     "titre": "Championnat de Paris 2026 Masters",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71859",
     "cadence": "Lente",
@@ -18785,14 +18769,6 @@
   },
   {
     "date": "2026-07-13",
-    "titre": "3ème Open d'été de L'Échiquier du Bocage",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71340",
-    "cadence": "Lente",
-    "lieu": "61 - BRIOUZE",
-    "arbitre": "LE FOURNIER Pascal"
-  },
-  {
-    "date": "2026-07-13",
     "titre": "Championnat de Paris 2026 Masters",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71859",
     "cadence": "Lente",
@@ -18953,14 +18929,6 @@
   },
   {
     "date": "2026-07-14",
-    "titre": "3ème Open d'été de L'Échiquier du Bocage",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71340",
-    "cadence": "Lente",
-    "lieu": "61 - BRIOUZE",
-    "arbitre": "LE FOURNIER Pascal"
-  },
-  {
-    "date": "2026-07-14",
     "titre": "Championnat de Paris 2026 Masters",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71859",
     "cadence": "Lente",
@@ -19102,14 +19070,6 @@
     "cadence": "Lente",
     "lieu": "30 - NIMES",
     "arbitre": "KIM Jisu"
-  },
-  {
-    "date": "2026-07-15",
-    "titre": "3ème Open d'été de L'Échiquier du Bocage",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71340",
-    "cadence": "Lente",
-    "lieu": "61 - BRIOUZE",
-    "arbitre": "LE FOURNIER Pascal"
   },
   {
     "date": "2026-07-15",
@@ -19261,7 +19221,7 @@
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72606",
     "cadence": "Rapide",
     "lieu": "86 - LATHUS SAINT REMY",
-    "arbitre": "FOURNIER Nicolas"
+    "arbitre": "SALLY Paul-Adrien"
   },
   {
     "date": "2026-07-16",
