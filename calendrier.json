@@ -21081,6 +21081,14 @@
   },
   {
     "date": "2026-07-29",
+    "titre": "118è Rapide FFE Interchess d'entrainement -2000 Elo (réservé aux elo de 1500 à 2000)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72724",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "PHAM Hieu Tuong"
+  },
+  {
+    "date": "2026-07-29",
     "titre": "19ème Festival International d'Echecs de Marseille - Accession",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71976",
     "cadence": "Lente",
@@ -21134,6 +21142,14 @@
     "cadence": "Lente",
     "lieu": "33 - CREON",
     "arbitre": "MARIMON Frederic"
+  },
+  {
+    "date": "2026-07-29",
+    "titre": "444è Rapide FIDE Interchess -2000 (conseillé aux débutants adultes jeunes et enfants)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72723",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
   },
   {
     "date": "2026-07-29",
@@ -21225,11 +21241,27 @@
   },
   {
     "date": "2026-07-30",
+    "titre": "445è Rapide FIDE Interchess",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72725",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-07-30",
     "titre": "Open Plaza Futuroscope de Poitiers-Migné Echecs 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72143",
     "cadence": "Lente",
     "lieu": "86 - CHASSENEUIL DU POITOU",
     "arbitre": "AZZEGAG Jocelyn"
+  },
+  {
+    "date": "2026-07-31",
+    "titre": "13è Marathon Rapide FIDE Interchess",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72726",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
   },
   {
     "date": "2026-07-31",
@@ -21377,6 +21409,22 @@
   },
   {
     "date": "2026-08-01",
+    "titre": "273è Open FIDE Interchess de 3 Rondes (réservé elo fide de 1600 à 1799)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72727",
+    "cadence": "Lente",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-08-01",
+    "titre": "274è Open FIDE Interchess de 3 Rondes -1700",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72728",
+    "cadence": "Lente",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-08-01",
     "titre": "28ème Open International de Wasselonne - Tournoi A (plus de 1800)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71494",
     "cadence": "Lente",
@@ -21430,6 +21478,14 @@
     "cadence": "Lente",
     "lieu": "33 - CREON",
     "arbitre": "MARIMON Frederic"
+  },
+  {
+    "date": "2026-08-01",
+    "titre": "446è Rapide FIDE Interchess -2000 (réservé aux débutants adultes jeunes et enfants)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72729",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
   },
   {
     "date": "2026-08-01",
@@ -21497,11 +21553,27 @@
   },
   {
     "date": "2026-08-01",
+    "titre": "Rapide d'été Interne et invités Meyreuil 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72713",
+    "cadence": "Rapide",
+    "lieu": "13 - MEYREUIL",
+    "arbitre": "CHAUVET Jean-Marc"
+  },
+  {
+    "date": "2026-08-01",
     "titre": "Tournoi Eté Echiquier Azur 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72707",
     "cadence": "Lente",
     "lieu": "83 - SAINT RAPHAEL",
     "arbitre": "AIDAOUI Brice"
+  },
+  {
+    "date": "2026-08-02",
+    "titre": "19è Marathon de Blitz FIDE Interchess",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72732",
+    "cadence": "Blitz",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
   },
   {
     "date": "2026-08-02",
@@ -21553,6 +21625,14 @@
   },
   {
     "date": "2026-08-02",
+    "titre": "275è Open FIDE Interchess de 3 Rondes -1800",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72730",
+    "cadence": "Lente",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-08-02",
     "titre": "28ème Open International de Wasselonne - Tournoi A (plus de 1800)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71494",
     "cadence": "Lente",
@@ -21598,6 +21678,14 @@
     "cadence": "Lente",
     "lieu": "33 - CREON",
     "arbitre": "MARIMON Frederic"
+  },
+  {
+    "date": "2026-08-02",
+    "titre": "447è Rapide FIDE Interchess",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72731",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
   },
   {
     "date": "2026-08-02",
@@ -24136,6 +24224,14 @@
     "arbitre": "RAMAZZOTTI Bernard"
   },
   {
+    "date": "2026-08-29",
+    "titre": "Tournoi Open International de rentree 2026 de Hyeres - Tournoi B (-1600)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72709",
+    "cadence": "Lente",
+    "lieu": "83 - HYERES",
+    "arbitre": "RAMAZZOTTI Bernard"
+  },
+  {
     "date": "2026-08-30",
     "titre": "1er Open d'été de Limersheim-Hindisheim (-1700)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71802",
@@ -24272,6 +24368,14 @@
     "arbitre": "RAMAZZOTTI Bernard"
   },
   {
+    "date": "2026-08-30",
+    "titre": "Tournoi Open International de rentree 2026 de Hyeres - Tournoi B (-1600)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72709",
+    "cadence": "Lente",
+    "lieu": "83 - HYERES",
+    "arbitre": "RAMAZZOTTI Bernard"
+  },
+  {
     "date": "2026-09-02",
     "titre": "Tournoi Jeunes de rentrée de Saint-Raphaël 2026-2027",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72222",
@@ -24286,6 +24390,14 @@
     "cadence": "Rapide",
     "lieu": "75 - PARIS",
     "arbitre": "RUBINI Xavier"
+  },
+  {
+    "date": "2026-09-06",
+    "titre": "Blitz de la Foire de Chalons - Spécial 80 ans",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72716",
+    "cadence": "Blitz",
+    "lieu": "51 - CHALONS EN CHAMPAGNE",
+    "arbitre": "AKREMANN Jordan"
   },
   {
     "date": "2026-09-11",
@@ -24873,6 +24985,22 @@
   },
   {
     "date": "2026-09-27",
+    "titre": "2ième Open d'échecs Didier Pera (-2400 elo)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72714",
+    "cadence": "Lente",
+    "lieu": "06 - GRASSE",
+    "arbitre": "CANET Gerard"
+  },
+  {
+    "date": "2026-09-27",
+    "titre": "2ième Open d'échecs Didier Pera B (-1500 elo)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72715",
+    "cadence": "Lente",
+    "lieu": "06 - GRASSE",
+    "arbitre": "CANET Gerard"
+  },
+  {
+    "date": "2026-09-27",
     "titre": "2ème Open d'échecs de Fontenay le Comte (-2400)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72045",
     "cadence": "Lente",
@@ -25032,6 +25160,22 @@
     "arbitre": "AIT CHAOUCHE Samy"
   },
   {
+    "date": "2026-09-28",
+    "titre": "2ième Open d'échecs Didier Pera (-2400 elo)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72714",
+    "cadence": "Lente",
+    "lieu": "06 - GRASSE",
+    "arbitre": "CANET Gerard"
+  },
+  {
+    "date": "2026-09-28",
+    "titre": "2ième Open d'échecs Didier Pera B (-1500 elo)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72715",
+    "cadence": "Lente",
+    "lieu": "06 - GRASSE",
+    "arbitre": "CANET Gerard"
+  },
+  {
     "date": "2026-10-02",
     "titre": "591e Rapide Fide du Canal",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72643",
@@ -25105,6 +25249,14 @@
   },
   {
     "date": "2026-10-04",
+    "titre": "Rapide de Rédéné 2026 - Tous en rose - Tournoi jeunes",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72712",
+    "cadence": "Rapide",
+    "lieu": "29 - REDENE",
+    "arbitre": "LOPEZ Charles"
+  },
+  {
+    "date": "2026-10-04",
     "titre": "Rapide de Rédéné 2026 Tous en rose",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72608",
     "cadence": "Rapide",
@@ -25150,6 +25302,14 @@
     "cadence": "Lente",
     "lieu": "9A - SAINT DENIS",
     "arbitre": "DEURVILLIER Martial"
+  },
+  {
+    "date": "2026-10-11",
+    "titre": "Parties de Champagne Octobre 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72717",
+    "cadence": "Lente",
+    "lieu": "51 - CHALONS EN CHAMPAGNE",
+    "arbitre": "CHAVET Antoine"
   },
   {
     "date": "2026-10-12",
@@ -26424,6 +26584,14 @@
     "arbitre": "CAPITANIO Patrice"
   },
   {
+    "date": "2026-11-15",
+    "titre": "Open Rapide - Mémorial Antoine Favarel 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72722",
+    "cadence": "Rapide",
+    "lieu": "51 - CHALONS EN CHAMPAGNE",
+    "arbitre": "AKREMANN Jordan"
+  },
+  {
     "date": "2026-11-20",
     "titre": "596e Rapide Fide du Canal",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72648",
@@ -26470,6 +26638,14 @@
     "cadence": "Rapide",
     "lieu": "75 - PARIS",
     "arbitre": "RUBINI Xavier"
+  },
+  {
+    "date": "2026-12-13",
+    "titre": "Parties de Champagne Décembre 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72719",
+    "cadence": "Lente",
+    "lieu": "51 - CHALONS EN CHAMPAGNE",
+    "arbitre": "CHAVET Antoine"
   },
   {
     "date": "2026-12-18",
