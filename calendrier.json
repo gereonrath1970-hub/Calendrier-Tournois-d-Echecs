@@ -18361,6 +18361,14 @@
   },
   {
     "date": "2026-07-11",
+    "titre": "2ème Tournoi Open de Juillet 2026 de Hyeres (-2400)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70770",
+    "cadence": "Lente",
+    "lieu": "83 - HYERES",
+    "arbitre": "RAMAZZOTTI Bernard"
+  },
+  {
+    "date": "2026-07-11",
     "titre": "30e Festival International Jean-Claude Loubatière Open A (+2100 Elo)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70578",
     "cadence": "Lente",
@@ -18382,14 +18390,6 @@
     "cadence": "Lente",
     "lieu": "34 - MONTPELLIER",
     "arbitre": "MOURET Erick"
-  },
-  {
-    "date": "2026-07-11",
-    "titre": "4ème tournoi rapide de l'échiquier du Pouliguen",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72046",
-    "cadence": "Rapide",
-    "lieu": "44 - LE POULIGUEN",
-    "arbitre": "POTIRON Nicolas"
   },
   {
     "date": "2026-07-11",
@@ -18558,6 +18558,14 @@
     "cadence": "Lente",
     "lieu": "73 - SAINT MARTIN DE BELLEVILLE",
     "arbitre": "BISSIERES Matthieu"
+  },
+  {
+    "date": "2026-07-12",
+    "titre": "2ème Tournoi Open de Juillet 2026 de Hyeres (-2400)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70770",
+    "cadence": "Lente",
+    "lieu": "83 - HYERES",
+    "arbitre": "RAMAZZOTTI Bernard"
   },
   {
     "date": "2026-07-12",
@@ -19929,6 +19937,14 @@
   },
   {
     "date": "2026-07-21",
+    "titre": "Tournoi d'Eté 2026 de Boisco",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72738",
+    "cadence": "Lente",
+    "lieu": "92 - BOIS COLOMBES",
+    "arbitre": "MOURGUES Joelle"
+  },
+  {
+    "date": "2026-07-21",
     "titre": "Trophée Dole 2026 - Tournoi Accession (-2200 elo)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70948",
     "cadence": "Lente",
@@ -20094,6 +20110,14 @@
     "cadence": "Lente",
     "lieu": "13 - AIX EN PROVENCE",
     "arbitre": "DIMITROV Christo"
+  },
+  {
+    "date": "2026-07-22",
+    "titre": "Tournoi d'Eté 2026 de Boisco",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72738",
+    "cadence": "Lente",
+    "lieu": "92 - BOIS COLOMBES",
+    "arbitre": "MOURGUES Joelle"
   },
   {
     "date": "2026-07-22",
@@ -20286,6 +20310,14 @@
     "cadence": "Lente",
     "lieu": "13 - AIX EN PROVENCE",
     "arbitre": "DIMITROV Christo"
+  },
+  {
+    "date": "2026-07-23",
+    "titre": "Tournoi d'Eté 2026 de Boisco",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72738",
+    "cadence": "Lente",
+    "lieu": "92 - BOIS COLOMBES",
+    "arbitre": "MOURGUES Joelle"
   },
   {
     "date": "2026-07-23",
@@ -22353,6 +22385,14 @@
   },
   {
     "date": "2026-08-09",
+    "titre": "4éme Tournoi Rapide FIDE BDEV Saint Martin 2026 (-2400)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72736",
+    "cadence": "Rapide",
+    "lieu": "9C - SAINT MARTIN",
+    "arbitre": "MAROT Philippe"
+  },
+  {
+    "date": "2026-08-09",
     "titre": "Blitz de l'été de Haguenau 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72126",
     "cadence": "Blitz",
@@ -24169,6 +24209,14 @@
   },
   {
     "date": "2026-08-29",
+    "titre": "Marathon des 30 ans de Vandoeuvre Echecs",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72733",
+    "cadence": "Lente",
+    "lieu": "54 - VANDOEUVRE LES NANCY",
+    "arbitre": "SAVINA Anastasia"
+  },
+  {
+    "date": "2026-08-29",
     "titre": "Open A Bischwiller 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71752",
     "cadence": "Lente",
@@ -24318,6 +24366,14 @@
     "cadence": "Rapide",
     "lieu": "9A - SAINT DENIS",
     "arbitre": "LAPEYRE Pierre"
+  },
+  {
+    "date": "2026-08-30",
+    "titre": "Marathon des 30 ans de Vandoeuvre Echecs",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72733",
+    "cadence": "Lente",
+    "lieu": "54 - VANDOEUVRE LES NANCY",
+    "arbitre": "SAVINA Anastasia"
   },
   {
     "date": "2026-08-30",
@@ -24720,12 +24776,28 @@
     "arbitre": "RUBINI Xavier"
   },
   {
+    "date": "2026-09-18",
+    "titre": "Tournoi FIDE de rentrée du Philidor 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72734",
+    "cadence": "Lente",
+    "lieu": "68 - MULHOUSE",
+    "arbitre": "GOETTELMANN Guillaum"
+  },
+  {
     "date": "2026-09-19",
     "titre": "Les Internationaux de France Rapide 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72140",
     "cadence": "Rapide",
     "lieu": "51 - CHALONS EN CHAMPAGNE",
     "arbitre": "DELMOTTE Eric"
+  },
+  {
+    "date": "2026-09-19",
+    "titre": "Tournoi FIDE de rentrée du Philidor 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72734",
+    "cadence": "Lente",
+    "lieu": "68 - MULHOUSE",
+    "arbitre": "GOETTELMANN Guillaum"
   },
   {
     "date": "2026-09-20",
@@ -24790,6 +24862,14 @@
     "cadence": "Lente",
     "lieu": "67 - ERSTEIN",
     "arbitre": "SCHLOTTER Cecile"
+  },
+  {
+    "date": "2026-09-20",
+    "titre": "Tournoi FIDE de rentrée du Philidor 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72734",
+    "cadence": "Lente",
+    "lieu": "68 - MULHOUSE",
+    "arbitre": "GOETTELMANN Guillaum"
   },
   {
     "date": "2026-09-20",
@@ -25249,6 +25329,14 @@
   },
   {
     "date": "2026-10-04",
+    "titre": "8ème open rapide Geneston - Le Bignon",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72737",
+    "cadence": "Rapide",
+    "lieu": "44 - LE BIGNON",
+    "arbitre": "LEBRET Loriane"
+  },
+  {
+    "date": "2026-10-04",
     "titre": "Rapide de Rédéné 2026 - Tous en rose - Tournoi jeunes",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72712",
     "cadence": "Rapide",
@@ -25441,6 +25529,14 @@
   },
   {
     "date": "2026-10-17",
+    "titre": "Open du Club ELO-Strasbourg (Oberhausbergen) 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72735",
+    "cadence": "Lente",
+    "lieu": "67 - OBERHAUSBERGEN",
+    "arbitre": "LEFEBVRE Pierre"
+  },
+  {
+    "date": "2026-10-17",
     "titre": "Open international de Liffré 2026 - A",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72036",
     "cadence": "Lente",
@@ -25550,6 +25646,14 @@
     "cadence": "Rapide",
     "lieu": "66 - PERPIGNAN",
     "arbitre": "LABORDE Stephane"
+  },
+  {
+    "date": "2026-10-18",
+    "titre": "Open du Club ELO-Strasbourg (Oberhausbergen) 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72735",
+    "cadence": "Lente",
+    "lieu": "67 - OBERHAUSBERGEN",
+    "arbitre": "LEFEBVRE Pierre"
   },
   {
     "date": "2026-10-18",
