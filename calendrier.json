@@ -22041,6 +22041,14 @@
   },
   {
     "date": "2026-08-05",
+    "titre": "448è Rapide FIDE Interchess -2000 (conseillé aux débutants adultes jeunes et enfants)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72746",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-08-05",
     "titre": "Blitz des Primeurs de Soueix août 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72693",
     "cadence": "Blitz",
@@ -23249,6 +23257,30 @@
   },
   {
     "date": "2026-08-16",
+    "titre": "116è Blitz FIDE Interchess",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72749",
+    "cadence": "Blitz",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-08-16",
+    "titre": "449è Rapide FIDE Interchess -2000 (conseillé aux débutants adultes jeunes et enfants)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72747",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-08-16",
+    "titre": "450è Rapide FIDE Interchess",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72748",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-08-16",
     "titre": "Championnat de France 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=68166",
     "cadence": "Lente",
@@ -24153,6 +24185,14 @@
   },
   {
     "date": "2026-08-29",
+    "titre": "5e Bois-Colombes Rapide Chess Master",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72742",
+    "cadence": "Rapide",
+    "lieu": "92 - BOIS COLOMBES",
+    "arbitre": "AZZEGAG Jocelyn"
+  },
+  {
+    "date": "2026-08-29",
     "titre": "5eme Open rapide d'Orsay",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72446",
     "cadence": "Rapide",
@@ -24345,6 +24385,14 @@
   },
   {
     "date": "2026-08-30",
+    "titre": "Challenge Jeunes IdF 2026-27 - Etape 1 Bois-Colombes",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72744",
+    "cadence": "Lente",
+    "lieu": "92 - BOIS COLOMBES",
+    "arbitre": "AZZEGAG Jocelyn"
+  },
+  {
+    "date": "2026-08-30",
     "titre": "Festival International de l'Apogee - Nimes-Caissargues-Pont du Gard - Tournoi A (+1900 elo)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72180",
     "cadence": "Lente",
@@ -24358,6 +24406,14 @@
     "cadence": "Lente",
     "lieu": "30 - CAISSARGUES",
     "arbitre": "DIMITROV Christo"
+  },
+  {
+    "date": "2026-08-30",
+    "titre": "Festival Jeunes IdF 2026-27 - Etape 1 Bois-Colombes",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72743",
+    "cadence": "Lente",
+    "lieu": "92 - BOIS COLOMBES",
+    "arbitre": "AZZEGAG Jocelyn"
   },
   {
     "date": "2026-08-30",
@@ -24430,6 +24486,14 @@
     "cadence": "Lente",
     "lieu": "31 - FONTENILLES",
     "arbitre": "AIT CHAOUCHE Samy"
+  },
+  {
+    "date": "2026-08-30",
+    "titre": "Tournoi Accompagnateurs IdF 2026-27 - Etape 1 Bois-Colombes",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72745",
+    "cadence": "Lente",
+    "lieu": "92 - BOIS COLOMBES",
+    "arbitre": "AZZEGAG Jocelyn"
   },
   {
     "date": "2026-08-30",
@@ -24937,6 +25001,22 @@
   },
   {
     "date": "2026-09-26",
+    "titre": "2ième Open d'échecs Didier Pera (-2400 elo)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72714",
+    "cadence": "Lente",
+    "lieu": "06 - GRASSE",
+    "arbitre": "CANET Gerard"
+  },
+  {
+    "date": "2026-09-26",
+    "titre": "2ième Open d'échecs Didier Pera B (-1500 elo)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72715",
+    "cadence": "Lente",
+    "lieu": "06 - GRASSE",
+    "arbitre": "CANET Gerard"
+  },
+  {
+    "date": "2026-09-26",
     "titre": "2ème Open d'échecs de Fontenay le Comte (-2400)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72045",
     "cadence": "Lente",
@@ -25256,22 +25336,6 @@
     "arbitre": "AIT CHAOUCHE Samy"
   },
   {
-    "date": "2026-09-28",
-    "titre": "2ième Open d'échecs Didier Pera (-2400 elo)",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72714",
-    "cadence": "Lente",
-    "lieu": "06 - GRASSE",
-    "arbitre": "CANET Gerard"
-  },
-  {
-    "date": "2026-09-28",
-    "titre": "2ième Open d'échecs Didier Pera B (-1500 elo)",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72715",
-    "cadence": "Lente",
-    "lieu": "06 - GRASSE",
-    "arbitre": "CANET Gerard"
-  },
-  {
     "date": "2026-10-02",
     "titre": "591e Rapide Fide du Canal",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72643",
@@ -25342,6 +25406,14 @@
     "cadence": "Rapide",
     "lieu": "37 - TOURS",
     "arbitre": "GRATEAU Jean-Noel"
+  },
+  {
+    "date": "2026-10-04",
+    "titre": "4e Rapide du bocage",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72741",
+    "cadence": "Rapide",
+    "lieu": "85 - CHAMBRETAUD",
+    "arbitre": "GUICHETEAU Dany"
   },
   {
     "date": "2026-10-04",
