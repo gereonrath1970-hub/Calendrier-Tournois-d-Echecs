@@ -1,5 +1,53 @@
 [
   {
+    "date": "2026-04-01",
+    "titre": "103è Rapide FFE Interchess -1400 Elo et -14 Aans",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71618",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-04-01",
+    "titre": "377è Rapide FIDE Interchess -2000 (conseillé aux adultes jeunes et enfants)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71644",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-04-01",
+    "titre": "Blitz mensuel d'Aubagne - Avril 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71676",
+    "cadence": "Blitz",
+    "lieu": "13 - AUBAGNE",
+    "arbitre": "ROMAN Sylvian"
+  },
+  {
+    "date": "2026-04-01",
+    "titre": "Tournoi Interne de Seichamps Echecs 2025-2026 r4",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=68938",
+    "cadence": "Lente",
+    "lieu": "54 - SEICHAMPS",
+    "arbitre": "SCHMITT Nicolas"
+  },
+  {
+    "date": "2026-04-01",
+    "titre": "Tournoi d 'Echecs Scolaire Lyon 1 1er avril 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71703",
+    "cadence": "Lente",
+    "lieu": "69 - LYON",
+    "arbitre": "MATHIEU Christophe"
+  },
+  {
+    "date": "2026-04-01",
+    "titre": "Tournois de FROMELLES M4 25-26",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71346",
+    "cadence": "Lente",
+    "lieu": "59 - FROMELLES",
+    "arbitre": "DUPONT Daniel-Noel"
+  },
+  {
     "date": "2026-04-02",
     "titre": "378è Rapide FIDE Interchess",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71645",
@@ -16737,7 +16785,7 @@
   },
   {
     "date": "2026-07-04",
-    "titre": "116è Rapide FFE Interchess -2000 Elo (conseillé aux débutants adultes jeunes et enfants)",
+    "titre": "116è Rapide FFE Interchess -2000 ANNULE",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72577",
     "cadence": "Rapide",
     "lieu": "75 - PARIS",
@@ -16745,7 +16793,7 @@
   },
   {
     "date": "2026-07-04",
-    "titre": "117è Rapide FFE Interchess -2000 Elo (conseillé aux débutants adultes jeunes et enfants)",
+    "titre": "117è Rapide FFE Interchess -2000 Elo ANNULE",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72578",
     "cadence": "Rapide",
     "lieu": "75 - PARIS",
