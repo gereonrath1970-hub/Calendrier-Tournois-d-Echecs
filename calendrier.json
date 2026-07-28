@@ -16553,6 +16553,14 @@
   },
   {
     "date": "2026-07-02",
+    "titre": "433è Rapide FIDE Interchess -2000",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72580",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-07-02",
     "titre": "Les Bêtises de Cambrai IM 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=68454",
     "cadence": "Lente",
@@ -18984,6 +18992,14 @@
     "arbitre": "ORSONI Jean-Philippe"
   },
   {
+    "date": "2026-07-15",
+    "titre": "Rapide d'été de Nîmes 2026-07-15",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71655",
+    "cadence": "Rapide",
+    "lieu": "30 - NIMES",
+    "arbitre": "KIM Jisu"
+  },
+  {
     "date": "2026-07-16",
     "titre": "17e Festival international de Vaujany Tournoi Accession",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=69090",
@@ -19096,6 +19112,14 @@
     "arbitre": "ORSONI Jean-Philippe"
   },
   {
+    "date": "2026-07-16",
+    "titre": "Rapide d'été de Nîmes 2026-07-15",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71655",
+    "cadence": "Rapide",
+    "lieu": "30 - NIMES",
+    "arbitre": "KIM Jisu"
+  },
+  {
     "date": "2026-07-17",
     "titre": "17e Festival international de Vaujany Tournoi Accession",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=69090",
@@ -19198,6 +19222,14 @@
     "cadence": "Lente",
     "lieu": "82 - MONTAUBAN",
     "arbitre": "LAPEYRE Pierre"
+  },
+  {
+    "date": "2026-07-17",
+    "titre": "Rapide d'été de Nîmes 2026-07-15",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71655",
+    "cadence": "Rapide",
+    "lieu": "30 - NIMES",
+    "arbitre": "KIM Jisu"
   },
   {
     "date": "2026-07-17",
@@ -21377,14 +21409,6 @@
   },
   {
     "date": "2026-08-01",
-    "titre": "Rapide de la Tour Saint Pierroise Aout 2026 la prochaine fois rapide interne en retard sera refusé",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72815",
-    "cadence": "Rapide",
-    "lieu": "9A - SAINT PIERRE",
-    "arbitre": "NASSAU Bertrand"
-  },
-  {
-    "date": "2026-08-01",
     "titre": "Tournoi Eté Echiquier Azur 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72707",
     "cadence": "Lente",
@@ -22585,6 +22609,14 @@
   },
   {
     "date": "2026-08-12",
+    "titre": "338e Blitz Fide du Canal (7e Grand Malabar)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72816",
+    "cadence": "Blitz",
+    "lieu": "75 - PARIS",
+    "arbitre": "RUBINI Xavier"
+  },
+  {
+    "date": "2026-08-12",
     "titre": "Blitz de l'Arize août 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72760",
     "cadence": "Blitz",
@@ -22838,6 +22870,14 @@
     "cadence": "Lente",
     "lieu": "03 - VICHY",
     "arbitre": "LORENZO Alfredo"
+  },
+  {
+    "date": "2026-08-14",
+    "titre": "339e Blitz Fide du Canal (19e MGM)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72817",
+    "cadence": "Blitz",
+    "lieu": "75 - PARIS",
+    "arbitre": "RUBINI Xavier"
   },
   {
     "date": "2026-08-14",
