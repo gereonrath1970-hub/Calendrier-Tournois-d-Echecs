@@ -20929,7 +20929,7 @@
   },
   {
     "date": "2026-07-29",
-    "titre": "118è Rapide FFE Interchess d'entrainement -2000 Elo (réservé aux elo de 1500 à 2000)",
+    "titre": "118è Rapide FFE Interchess d'entrainement -2000 Elo ANNULE",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72724",
     "cadence": "Rapide",
     "lieu": "75 - PARIS",
@@ -21254,6 +21254,14 @@
     "cadence": "Lente",
     "lieu": "13 - MARSEILLE",
     "arbitre": "ESCAFRE Stephane"
+  },
+  {
+    "date": "2026-08-01",
+    "titre": "1er Rapide interne LTSP 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72822",
+    "cadence": "Rapide",
+    "lieu": "9A - SAINT PIERRE",
+    "arbitre": "NASSAU Bertrand"
   },
   {
     "date": "2026-08-01",
@@ -24428,8 +24436,8 @@
     "titre": "Open B Bischwiller 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71753",
     "cadence": "Lente",
-    "lieu": "67 - BISCHWILLER",
-    "arbitre": "REEB Roland"
+    "lieu": "Information indisponible",
+    "arbitre": "Information indisponible"
   },
   {
     "date": "2026-08-30",
@@ -24478,6 +24486,14 @@
     "cadence": "Lente",
     "lieu": "83 - HYERES",
     "arbitre": "RAMAZZOTTI Bernard"
+  },
+  {
+    "date": "2026-08-30",
+    "titre": "Tournoi rapide jeunes Riviera Chess academy 30 août 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72824",
+    "cadence": "Rapide",
+    "lieu": "06 - NICE",
+    "arbitre": "RIBREAU Herve"
   },
   {
     "date": "2026-09-02",
