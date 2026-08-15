@@ -24993,11 +24993,27 @@
   },
   {
     "date": "2026-09-02",
+    "titre": "459è Rapide FIDE Interchess -2000 (conseillé aux débutants adultes jeunes et enfants)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72959",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-09-02",
     "titre": "Tournoi Jeunes de rentrée de Saint-Raphaël 2026-2027",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72222",
     "cadence": "Lente",
     "lieu": "83 - SAINT RAPHAEL",
     "arbitre": "AIDAOUI Brice"
+  },
+  {
+    "date": "2026-09-03",
+    "titre": "460è Rapide FIDE Interchess",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72960",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
   },
   {
     "date": "2026-09-04",
@@ -25006,6 +25022,62 @@
     "cadence": "Rapide",
     "lieu": "75 - PARIS",
     "arbitre": "RUBINI Xavier"
+  },
+  {
+    "date": "2026-09-05",
+    "titre": "280è Open FIDE Interchess de 3 rondes (réservé aux elo fide de 1600 à 1799)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72961",
+    "cadence": "Lente",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-09-05",
+    "titre": "281è Open FIDE Interchess de 3 rondes -1700",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72962",
+    "cadence": "Lente",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-09-05",
+    "titre": "461è Rapide FIDE Interchess -2000 (conseillé aux débutants adultes jeunes et enfants)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72963",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-09-05",
+    "titre": "RAPIDASPOM 05-09-2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72955",
+    "cadence": "Lente",
+    "lieu": "33 - BORDEAUX",
+    "arbitre": "SALLETTE Alain"
+  },
+  {
+    "date": "2026-09-06",
+    "titre": "21è Marathon de Blitz FIDE Interchess",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72966",
+    "cadence": "Blitz",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-09-06",
+    "titre": "282è Open FIDE Interchess de 3 rondes -1800",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72964",
+    "cadence": "Lente",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-09-06",
+    "titre": "462è Rapide FIDE Interchess",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72965",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
   },
   {
     "date": "2026-09-06",
@@ -25254,6 +25326,14 @@
     "cadence": "Lente",
     "lieu": "95 - L'ISLE ADAM",
     "arbitre": "BORNHOFEN Stefan"
+  },
+  {
+    "date": "2026-09-12",
+    "titre": "RAPIDASPOM 12-09-2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72956",
+    "cadence": "Lente",
+    "lieu": "33 - BORDEAUX",
+    "arbitre": "SALLETTE Alain"
   },
   {
     "date": "2026-09-12",
@@ -25598,6 +25678,14 @@
     "cadence": "Rapide",
     "lieu": "51 - CHALONS EN CHAMPAGNE",
     "arbitre": "DELMOTTE Eric"
+  },
+  {
+    "date": "2026-09-19",
+    "titre": "RAPIDASPOM 19-09-2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72957",
+    "cadence": "Lente",
+    "lieu": "33 - BORDEAUX",
+    "arbitre": "SALLETTE Alain"
   },
   {
     "date": "2026-09-19",
@@ -25953,6 +26041,14 @@
   },
   {
     "date": "2026-09-26",
+    "titre": "1er Open Dominique Quetel",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72954",
+    "cadence": "Lente",
+    "lieu": "59 - GRANDE SYNTHE",
+    "arbitre": "LE ROL Eric"
+  },
+  {
+    "date": "2026-09-26",
     "titre": "1er Rapide interne de Dijon CUBE",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72779",
     "cadence": "Rapide",
@@ -26113,6 +26209,14 @@
   },
   {
     "date": "2026-09-26",
+    "titre": "RAPIDASPOM 26-09-2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72958",
+    "cadence": "Lente",
+    "lieu": "33 - BORDEAUX",
+    "arbitre": "SALLETTE Alain"
+  },
+  {
+    "date": "2026-09-26",
     "titre": "Tournoi Interne de Pont à Mousson 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72814",
     "cadence": "Lente",
@@ -26158,6 +26262,14 @@
     "cadence": "Lente",
     "lieu": "44 - GETIGNE",
     "arbitre": "BOUSSEFFA Sadok"
+  },
+  {
+    "date": "2026-09-27",
+    "titre": "1er Open Dominique Quetel",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72954",
+    "cadence": "Lente",
+    "lieu": "59 - GRANDE SYNTHE",
+    "arbitre": "LE ROL Eric"
   },
   {
     "date": "2026-09-27",
