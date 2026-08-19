@@ -24937,6 +24937,14 @@
   },
   {
     "date": "2026-08-30",
+    "titre": "Rapide Blitz Society du 30-08-2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72977",
+    "cadence": "Blitz",
+    "lieu": "75 - PARIS",
+    "arbitre": "COLIN Julie"
+  },
+  {
+    "date": "2026-08-30",
     "titre": "Second d'été de Fontenilles A (-2400)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72187",
     "cadence": "Lente",
@@ -24998,6 +25006,14 @@
     "cadence": "Rapide",
     "lieu": "75 - PARIS",
     "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-09-02",
+    "titre": "Blitz des Primeurs septembre 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72970",
+    "cadence": "Blitz",
+    "lieu": "09 - SOUEIX ROGALLE",
+    "arbitre": "GALLORINI Jean-Chris"
   },
   {
     "date": "2026-09-02",
@@ -25286,6 +25302,14 @@
     "cadence": "Lente",
     "lieu": "11 - LA PALME",
     "arbitre": "CAPITANIO Patrice"
+  },
+  {
+    "date": "2026-09-12",
+    "titre": "Blitz'échecs International d'été32 GrandPrix Grande Région",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72980",
+    "cadence": "Blitz",
+    "lieu": "57 - TRESSANGE",
+    "arbitre": "LECLERC Bernard"
   },
   {
     "date": "2026-09-12",
@@ -25801,6 +25825,22 @@
   },
   {
     "date": "2026-09-20",
+    "titre": "Rapide Masters de Bras-Panon 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72978",
+    "cadence": "Rapide",
+    "lieu": "9A - BRAS PANON",
+    "arbitre": "LUTARD Florian"
+  },
+  {
+    "date": "2026-09-20",
+    "titre": "Rapide Ti Bout'Chou de Bras-Panon 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72979",
+    "cadence": "Rapide",
+    "lieu": "9A - BRAS PANON",
+    "arbitre": "LUTARD Florian"
+  },
+  {
+    "date": "2026-09-20",
     "titre": "Rapide de Louhans-Chateaurenaud 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72758",
     "cadence": "Rapide",
@@ -25878,6 +25918,14 @@
     "cadence": "Rapide",
     "lieu": "24 - PERIGUEUX",
     "arbitre": "LAPEYRE Pierre"
+  },
+  {
+    "date": "2026-09-20",
+    "titre": "Trophée Caïssa 2026 Villandry 37",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72983",
+    "cadence": "Lente",
+    "lieu": "37 - VILLANDRY",
+    "arbitre": "COLIN Julie"
   },
   {
     "date": "2026-09-20",
@@ -26481,6 +26529,14 @@
   },
   {
     "date": "2026-09-27",
+    "titre": "Les 14émes Rapides de Gouesnou",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72982",
+    "cadence": "Rapide",
+    "lieu": "29 - GOUESNOU",
+    "arbitre": "LECORNU Laurent"
+  },
+  {
+    "date": "2026-09-27",
     "titre": "Rapide FIDE Perpignan 27 Septembre 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72668",
     "cadence": "Rapide",
@@ -26590,6 +26646,14 @@
     "cadence": "Lente",
     "lieu": "64 - MEILLON",
     "arbitre": "AIT CHAOUCHE Samy"
+  },
+  {
+    "date": "2026-09-27",
+    "titre": "rapide de rentrée jeunes 2026 Reims",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72981",
+    "cadence": "Rapide",
+    "lieu": "51 - REIMS",
+    "arbitre": "BUREAU Francis"
   },
   {
     "date": "2026-09-28",
@@ -26782,6 +26846,14 @@
     "cadence": "Rapide",
     "lieu": "60 - SAINT JUST EN CHAUSSEE",
     "arbitre": "VARINIAC Emmanuel"
+  },
+  {
+    "date": "2026-10-04",
+    "titre": "19ème Tournoi rapide d’Orcher La Tour",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72968",
+    "cadence": "Rapide",
+    "lieu": "76 - GONFREVILLE L'ORCHER",
+    "arbitre": "VAUGEOIS Stephane"
   },
   {
     "date": "2026-10-04",
