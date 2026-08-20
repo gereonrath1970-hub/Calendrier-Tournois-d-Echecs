@@ -24633,14 +24633,6 @@
   },
   {
     "date": "2026-08-29",
-    "titre": "Marathon des 30 ans de Vandoeuvre Echecs",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72733",
-    "cadence": "Lente",
-    "lieu": "54 - VANDOEUVRE LES NANCY",
-    "arbitre": "SAVINA Anastasia"
-  },
-  {
-    "date": "2026-08-29",
     "titre": "Open A Bischwiller 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71752",
     "cadence": "Lente",
@@ -24902,14 +24894,6 @@
     "cadence": "Rapide",
     "lieu": "9A - SAINT DENIS",
     "arbitre": "LAPEYRE Pierre"
-  },
-  {
-    "date": "2026-08-30",
-    "titre": "Marathon des 30 ans de Vandoeuvre Echecs",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72733",
-    "cadence": "Lente",
-    "lieu": "54 - VANDOEUVRE LES NANCY",
-    "arbitre": "SAVINA Anastasia"
   },
   {
     "date": "2026-08-30",
@@ -27006,6 +26990,14 @@
     "cadence": "Lente",
     "lieu": "38 - GRENOBLE",
     "arbitre": "SALINAS Pierre"
+  },
+  {
+    "date": "2026-10-04",
+    "titre": "Tournoi rapide de Juillan 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72971",
+    "cadence": "Rapide",
+    "lieu": "65 - JUILLAN",
+    "arbitre": "GOSSELIN Vincent"
   },
   {
     "date": "2026-10-05",
