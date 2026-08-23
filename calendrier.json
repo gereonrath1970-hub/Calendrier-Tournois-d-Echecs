@@ -24077,7 +24077,7 @@
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70981",
     "cadence": "Blitz",
     "lieu": "76 - DIEPPE",
-    "arbitre": "DELABARRE Olivier"
+    "arbitre": "BENADDOU Khaled"
   },
   {
     "date": "2026-08-26",
@@ -28758,6 +28758,14 @@
     "cadence": "Lente",
     "lieu": "79 - NIORT",
     "arbitre": "DENIS Stephane"
+  },
+  {
+    "date": "2026-10-30",
+    "titre": "Tournoi de fin de stage 2026 Reims",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73000",
+    "cadence": "Lente",
+    "lieu": "51 - REIMS",
+    "arbitre": "BUREAU Francis"
   },
   {
     "date": "2026-10-31",
