@@ -24921,6 +24921,14 @@
   },
   {
     "date": "2026-08-30",
+    "titre": "Open de pré rentrée 2026 de Créon",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72991",
+    "cadence": "Lente",
+    "lieu": "33 - CREON",
+    "arbitre": "ABOUD Tony"
+  },
+  {
+    "date": "2026-08-30",
     "titre": "Rapide Blitz Society du 30-08-2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72977",
     "cadence": "Blitz",
@@ -24984,6 +24992,14 @@
     "arbitre": "RIBREAU Herve"
   },
   {
+    "date": "2026-08-31",
+    "titre": "Open de pré rentrée 2026 de Créon",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72991",
+    "cadence": "Lente",
+    "lieu": "33 - CREON",
+    "arbitre": "ABOUD Tony"
+  },
+  {
     "date": "2026-09-02",
     "titre": "459è Rapide FIDE Interchess -2000 (conseillé aux débutants adultes jeunes et enfants)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72959",
@@ -25022,6 +25038,14 @@
     "cadence": "Rapide",
     "lieu": "75 - PARIS",
     "arbitre": "RUBINI Xavier"
+  },
+  {
+    "date": "2026-09-04",
+    "titre": "Blitz mensuel du CEIT septembre 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72990",
+    "cadence": "Blitz",
+    "lieu": "31 - TOULOUSE",
+    "arbitre": "VAN ELST Andreas"
   },
   {
     "date": "2026-09-05",
@@ -25745,6 +25769,14 @@
   },
   {
     "date": "2026-09-20",
+    "titre": "1er Open rapide d'echecs de Saint-Girons",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72984",
+    "cadence": "Rapide",
+    "lieu": "09 - SAINT GIRONS",
+    "arbitre": "FONT Marc"
+  },
+  {
+    "date": "2026-09-20",
     "titre": "33e Open Rapide Fide de Sèvres",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72513",
     "cadence": "Rapide",
@@ -26393,6 +26425,14 @@
   },
   {
     "date": "2026-09-27",
+    "titre": "37e Open Rapide de Franconville (-2400)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72986",
+    "cadence": "Rapide",
+    "lieu": "95 - FRANCONVILLE",
+    "arbitre": "LAUER Alban"
+  },
+  {
+    "date": "2026-09-27",
     "titre": "39eme rapide amateurs d'Eybens",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72170",
     "cadence": "Rapide",
@@ -26662,6 +26702,14 @@
     "cadence": "Lente",
     "lieu": "78 - MONTIGNY LE BRETONNEUX",
     "arbitre": "RIVIER Sylvain"
+  },
+  {
+    "date": "2026-09-29",
+    "titre": "26e Open Rapide de Gif-sur-Yvette",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72985",
+    "cadence": "Rapide",
+    "lieu": "91 - GIF SUR YVETTE",
+    "arbitre": "CROUZET Nicolas"
   },
   {
     "date": "2026-09-29",
@@ -27233,14 +27281,6 @@
   },
   {
     "date": "2026-10-14",
-    "titre": "Circuit des calanques - 39ème blitz des calanques - La Ciotat",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72889",
-    "cadence": "Blitz",
-    "lieu": "13 - CASSIS",
-    "arbitre": "MASSARDO Quentin"
-  },
-  {
-    "date": "2026-10-14",
     "titre": "Tournoi du mercredi Grenoble – Automne 2026 r4-6 (-2400)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72935",
     "cadence": "Lente",
@@ -27598,6 +27638,30 @@
     "cadence": "Lente",
     "lieu": "74 - ANNEMASSE",
     "arbitre": "WLASSEWITCH Sylvain"
+  },
+  {
+    "date": "2026-10-18",
+    "titre": "5ème Rapide de Cotignac - Tournoi A",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72987",
+    "cadence": "Rapide",
+    "lieu": "83 - COTIGNAC",
+    "arbitre": "MONTELLA Laurent"
+  },
+  {
+    "date": "2026-10-18",
+    "titre": "5ème Rapide de Cotignac - Tournoi B",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72988",
+    "cadence": "Rapide",
+    "lieu": "83 - COTIGNAC",
+    "arbitre": "MONTELLA Laurent"
+  },
+  {
+    "date": "2026-10-18",
+    "titre": "5ème Rapide de Cotignac - Tournoi C",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72989",
+    "cadence": "Rapide",
+    "lieu": "83 - COTIGNAC",
+    "arbitre": "MONTELLA Laurent"
   },
   {
     "date": "2026-10-18",
@@ -29104,6 +29168,14 @@
     "arbitre": "DE FAVERI Gabriel"
   },
   {
+    "date": "2026-11-14",
+    "titre": "Circuit des calanques - 39ème blitz des calanques - La Ciotat",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72889",
+    "cadence": "Blitz",
+    "lieu": "13 - CASSIS",
+    "arbitre": "MASSARDO Quentin"
+  },
+  {
     "date": "2026-11-15",
     "titre": "Championnat Interne de Kingersheim 2026 r5-6",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72896",
@@ -29126,6 +29198,38 @@
     "cadence": "Lente",
     "lieu": "26 - ROMANS SUR ISERE",
     "arbitre": "GIULIANI Corado"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Championnat de la Drôme Jeunes 2026 U12",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72992",
+    "cadence": "Lente",
+    "lieu": "26 - ROMANS SUR ISERE",
+    "arbitre": "ARMES Timothy"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Championnat de la Drôme Jeunes 2026 U14",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72993",
+    "cadence": "Lente",
+    "lieu": "26 - ROMANS SUR ISERE",
+    "arbitre": "ARMES Timothy"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Championnat de la Drôme Jeunes 2026 U16",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72994",
+    "cadence": "Lente",
+    "lieu": "26 - ROMANS SUR ISERE",
+    "arbitre": "ARMES Timothy"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Championnat de la Drôme Jeunes 2026 U18-U20",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72995",
+    "cadence": "Lente",
+    "lieu": "26 - ROMANS SUR ISERE",
+    "arbitre": "ARMES Timothy"
   },
   {
     "date": "2026-11-15",
