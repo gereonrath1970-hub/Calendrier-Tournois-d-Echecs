@@ -25080,6 +25080,14 @@
     "arbitre": "SALLETTE Alain"
   },
   {
+    "date": "2026-09-05",
+    "titre": "Rapide Variantes 05-09-2026 -1700",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73018",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "AUDER Benjamin"
+  },
+  {
     "date": "2026-09-06",
     "titre": "21è Marathon de Blitz FIDE Interchess",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72966",
@@ -25113,6 +25121,14 @@
   },
   {
     "date": "2026-09-09",
+    "titre": "463è Rapide FIDE Interchess -2000 (conseillé aux débutants adultes jeunes et enfants)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73010",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-09-09",
     "titre": "Tournoi de Blitz Echiquier Bordelais - 09-09-26",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72918",
     "cadence": "Blitz",
@@ -25126,6 +25142,14 @@
     "cadence": "Lente",
     "lieu": "38 - GRENOBLE",
     "arbitre": "SALINAS Pierre"
+  },
+  {
+    "date": "2026-09-10",
+    "titre": "464è Rapide FIDE Interchess",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73011",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
   },
   {
     "date": "2026-09-10",
@@ -25217,6 +25241,14 @@
   },
   {
     "date": "2026-09-12",
+    "titre": "119è Blitz FIDE Interchess",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73014",
+    "cadence": "Blitz",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-09-12",
     "titre": "25e Open de Bourgoin-Jallieu - Accession (-1650)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72756",
     "cadence": "Lente",
@@ -25230,6 +25262,22 @@
     "cadence": "Lente",
     "lieu": "38 - BOURGOIN JALLIEU",
     "arbitre": "LOUISTISSERAND Patri"
+  },
+  {
+    "date": "2026-09-12",
+    "titre": "283è Open FIDE Interchess de 3 Rondes (réservé aux élo fide de 1700 à 2250)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73012",
+    "cadence": "Lente",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-09-12",
+    "titre": "284è Open FIDE Interchess de 3 Rondes -1800",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73013",
+    "cadence": "Lente",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
   },
   {
     "date": "2026-09-12",
@@ -25393,6 +25441,14 @@
   },
   {
     "date": "2026-09-13",
+    "titre": "120è Blitz FIDE Interchess",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73017",
+    "cadence": "Blitz",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-09-13",
     "titre": "16è rapide Isle Echecs Jeunes",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72867",
     "cadence": "Rapide",
@@ -25430,6 +25486,14 @@
     "cadence": "Lente",
     "lieu": "38 - BOURGOIN JALLIEU",
     "arbitre": "LOUISTISSERAND Patri"
+  },
+  {
+    "date": "2026-09-13",
+    "titre": "285è Open FIDE Interchess de 3 Rondes -1800",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73015",
+    "cadence": "Lente",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
   },
   {
     "date": "2026-09-13",
@@ -25518,6 +25582,14 @@
     "cadence": "Lente",
     "lieu": "84 - ORANGE",
     "arbitre": "CHERON Stephane"
+  },
+  {
+    "date": "2026-09-13",
+    "titre": "465è Rapide FIDE Interchess",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73016",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
   },
   {
     "date": "2026-09-13",
@@ -25854,6 +25926,14 @@
     "cadence": "Blitz",
     "lieu": "51 - CHALONS EN CHAMPAGNE",
     "arbitre": "DELMOTTE Eric"
+  },
+  {
+    "date": "2026-09-20",
+    "titre": "Rapide Blitz Society du 20-09-2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73019",
+    "cadence": "Blitz",
+    "lieu": "75 - PARIS",
+    "arbitre": "AUDER Benjamin"
   },
   {
     "date": "2026-09-20",
@@ -26312,6 +26392,14 @@
     "arbitre": "PIERROT Philippe"
   },
   {
+    "date": "2026-09-26",
+    "titre": "Tournoi de Rentrée 2027 de Saint-Raphaël",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73021",
+    "cadence": "Lente",
+    "lieu": "83 - SAINT RAPHAEL",
+    "arbitre": "AIDAOUI Brice"
+  },
+  {
     "date": "2026-09-27",
     "titre": "12eme Rapide Alès - Festival des jeux de l'esprit - Tournoi Jeunes (Minimes et moins, -16 ans)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72821",
@@ -26705,6 +26793,14 @@
   },
   {
     "date": "2026-09-27",
+    "titre": "Tournoi de Rentrée 2027 de Saint-Raphaël",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73021",
+    "cadence": "Lente",
+    "lieu": "83 - SAINT RAPHAEL",
+    "arbitre": "AIDAOUI Brice"
+  },
+  {
+    "date": "2026-09-27",
     "titre": "rapide de rentrée jeunes 2026 Reims",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72981",
     "cadence": "Rapide",
@@ -26902,6 +26998,14 @@
     "cadence": "Lente",
     "lieu": "78 - MONTIGNY LE BRETONNEUX",
     "arbitre": "RIVIER Sylvain"
+  },
+  {
+    "date": "2026-10-03",
+    "titre": "7e Tournoi de parties rapide de Vanves -2200",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73020",
+    "cadence": "Rapide",
+    "lieu": "92 - VANVES",
+    "arbitre": "BOGDANOVSKY Sonia"
   },
   {
     "date": "2026-10-03",
