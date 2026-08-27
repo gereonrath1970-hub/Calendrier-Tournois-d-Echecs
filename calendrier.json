@@ -23369,7 +23369,7 @@
   },
   {
     "date": "2026-08-19",
-    "titre": "119è Rapide FFE Interchess d'entrainement -2000 Elo (réservé aux élo de 1500 à 2000)",
+    "titre": "119è Rapide FFE Interchess d'entrainement -2000 Elo ANNULE",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72764",
     "cadence": "Rapide",
     "lieu": "75 - PARIS",
@@ -25129,6 +25129,14 @@
   },
   {
     "date": "2026-09-09",
+    "titre": "4eme Open Diago lent Eybens r1-3",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73029",
+    "cadence": "Lente",
+    "lieu": "38 - EYBENS",
+    "arbitre": "CALIN Miguel"
+  },
+  {
+    "date": "2026-09-09",
     "titre": "Tournoi de Blitz Echiquier Bordelais - 09-09-26",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72918",
     "cadence": "Blitz",
@@ -25150,6 +25158,14 @@
     "cadence": "Rapide",
     "lieu": "75 - PARIS",
     "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-09-10",
+    "titre": "4eme Open Diago lent Eybens r1-3",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73029",
+    "cadence": "Lente",
+    "lieu": "38 - EYBENS",
+    "arbitre": "CALIN Miguel"
   },
   {
     "date": "2026-09-10",
@@ -25214,6 +25230,14 @@
     "cadence": "Lente",
     "lieu": "63 - ENNEZAT",
     "arbitre": "BOYADJIS Philippe"
+  },
+  {
+    "date": "2026-09-11",
+    "titre": "4eme Open Diago lent Eybens r1-3",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73029",
+    "cadence": "Lente",
+    "lieu": "38 - EYBENS",
+    "arbitre": "CALIN Miguel"
   },
   {
     "date": "2026-09-11",
@@ -25345,6 +25369,14 @@
   },
   {
     "date": "2026-09-12",
+    "titre": "4eme Open Diago lent Eybens r1-3",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73029",
+    "cadence": "Lente",
+    "lieu": "38 - EYBENS",
+    "arbitre": "CALIN Miguel"
+  },
+  {
+    "date": "2026-09-12",
     "titre": "6e Open de La Palme (-1600)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71445",
     "cadence": "Lente",
@@ -25366,6 +25398,14 @@
     "cadence": "Rapide",
     "lieu": "54 - NANCY",
     "arbitre": "SAVINA Anastasia"
+  },
+  {
+    "date": "2026-09-12",
+    "titre": "Blitz de rentrée du CEHR 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73022",
+    "cadence": "Blitz",
+    "lieu": "68 - GUEBWILLER",
+    "arbitre": "LENGERT Rene"
   },
   {
     "date": "2026-09-12",
@@ -25593,6 +25633,14 @@
   },
   {
     "date": "2026-09-13",
+    "titre": "4eme Open Diago lent Eybens r1-3",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73029",
+    "cadence": "Lente",
+    "lieu": "38 - EYBENS",
+    "arbitre": "CALIN Miguel"
+  },
+  {
+    "date": "2026-09-13",
     "titre": "6e Open de La Palme (-1600)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71445",
     "cadence": "Lente",
@@ -25633,6 +25681,14 @@
   },
   {
     "date": "2026-09-13",
+    "titre": "Memorial Jacques Negro 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73023",
+    "cadence": "Lente",
+    "lieu": "06 - GRASSE",
+    "arbitre": "CANET Gerard"
+  },
+  {
+    "date": "2026-09-13",
     "titre": "Open de la Vallée de l'Oise 2026 - Open A (1800-2400)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71021",
     "cadence": "Lente",
@@ -25665,6 +25721,14 @@
   },
   {
     "date": "2026-09-14",
+    "titre": "4eme Open Diago lent Eybens r1-3",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73029",
+    "cadence": "Lente",
+    "lieu": "38 - EYBENS",
+    "arbitre": "CALIN Miguel"
+  },
+  {
+    "date": "2026-09-14",
     "titre": "Championnat Interne de Kingersheim 2026 r1-2",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72894",
     "cadence": "Lente",
@@ -25681,6 +25745,14 @@
   },
   {
     "date": "2026-09-15",
+    "titre": "4eme Open Diago lent Eybens r1-3",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73029",
+    "cadence": "Lente",
+    "lieu": "38 - EYBENS",
+    "arbitre": "CALIN Miguel"
+  },
+  {
+    "date": "2026-09-15",
     "titre": "Championnat Interne de Kingersheim 2026 r1-2",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72894",
     "cadence": "Lente",
@@ -25694,6 +25766,14 @@
     "cadence": "Lente",
     "lieu": "38 - GRENOBLE",
     "arbitre": "SALINAS Pierre"
+  },
+  {
+    "date": "2026-09-16",
+    "titre": "4eme Open Diago lent Eybens r1-3",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73029",
+    "cadence": "Lente",
+    "lieu": "38 - EYBENS",
+    "arbitre": "CALIN Miguel"
   },
   {
     "date": "2026-09-16",
@@ -25721,6 +25801,14 @@
   },
   {
     "date": "2026-09-17",
+    "titre": "4eme Open Diago lent Eybens r1-3",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73029",
+    "cadence": "Lente",
+    "lieu": "38 - EYBENS",
+    "arbitre": "CALIN Miguel"
+  },
+  {
+    "date": "2026-09-17",
     "titre": "Championnat Interne de Kingersheim 2026 r1-2",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72894",
     "cadence": "Lente",
@@ -25734,6 +25822,14 @@
     "cadence": "Lente",
     "lieu": "38 - GRENOBLE",
     "arbitre": "SALINAS Pierre"
+  },
+  {
+    "date": "2026-09-18",
+    "titre": "4eme Open Diago lent Eybens r1-3",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73029",
+    "cadence": "Lente",
+    "lieu": "38 - EYBENS",
+    "arbitre": "CALIN Miguel"
   },
   {
     "date": "2026-09-18",
@@ -25774,6 +25870,14 @@
     "cadence": "Lente",
     "lieu": "38 - GRENOBLE",
     "arbitre": "SALINAS Pierre"
+  },
+  {
+    "date": "2026-09-19",
+    "titre": "4eme Open Diago lent Eybens r1-3",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73029",
+    "cadence": "Lente",
+    "lieu": "38 - EYBENS",
+    "arbitre": "CALIN Miguel"
   },
   {
     "date": "2026-09-19",
@@ -25878,6 +25982,14 @@
     "cadence": "Lente",
     "lieu": "91 - ARPAJON",
     "arbitre": "SIMON Benoit"
+  },
+  {
+    "date": "2026-09-20",
+    "titre": "4eme Open Diago lent Eybens r1-3",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73029",
+    "cadence": "Lente",
+    "lieu": "38 - EYBENS",
+    "arbitre": "CALIN Miguel"
   },
   {
     "date": "2026-09-20",
@@ -26049,6 +26161,14 @@
   },
   {
     "date": "2026-09-21",
+    "titre": "4eme Open Diago lent Eybens r1-3",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73029",
+    "cadence": "Lente",
+    "lieu": "38 - EYBENS",
+    "arbitre": "CALIN Miguel"
+  },
+  {
+    "date": "2026-09-21",
     "titre": "Championnat Interne de Kingersheim 2026 r1-2",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72894",
     "cadence": "Lente",
@@ -26073,6 +26193,14 @@
   },
   {
     "date": "2026-09-22",
+    "titre": "4eme Open Diago lent Eybens r1-3",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73029",
+    "cadence": "Lente",
+    "lieu": "38 - EYBENS",
+    "arbitre": "CALIN Miguel"
+  },
+  {
+    "date": "2026-09-22",
     "titre": "Championnat Interne de Kingersheim 2026 r1-2",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72894",
     "cadence": "Lente",
@@ -26094,6 +26222,14 @@
     "cadence": "Lente",
     "lieu": "38 - GRENOBLE",
     "arbitre": "SALINAS Pierre"
+  },
+  {
+    "date": "2026-09-23",
+    "titre": "4eme Open Diago lent Eybens r1-3",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73029",
+    "cadence": "Lente",
+    "lieu": "38 - EYBENS",
+    "arbitre": "CALIN Miguel"
   },
   {
     "date": "2026-09-23",
@@ -26198,6 +26334,14 @@
     "cadence": "Blitz",
     "lieu": "33 - BORDEAUX",
     "arbitre": "LAPEYRE Pierre"
+  },
+  {
+    "date": "2026-09-26",
+    "titre": "11ème Open de la Tour Saint Pierroise (-1800)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73025",
+    "cadence": "Lente",
+    "lieu": "9A - SAINT PIERRE",
+    "arbitre": "DEURVILLIER Martial"
   },
   {
     "date": "2026-09-26",
@@ -26369,6 +26513,14 @@
   },
   {
     "date": "2026-09-26",
+    "titre": "Finale des circuits rapides jeunes 2026 de la ligue ARA",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73024",
+    "cadence": "Rapide",
+    "lieu": "42 - SAINT ETIENNE",
+    "arbitre": "MONEMVASSITIS Athina"
+  },
+  {
+    "date": "2026-09-26",
     "titre": "Open 13 2026-27 r1-2",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72996",
     "cadence": "Lente",
@@ -26398,6 +26550,14 @@
     "cadence": "Lente",
     "lieu": "83 - SAINT RAPHAEL",
     "arbitre": "AIDAOUI Brice"
+  },
+  {
+    "date": "2026-09-27",
+    "titre": "11ème Open de la Tour Saint Pierroise (-1800)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73025",
+    "cadence": "Lente",
+    "lieu": "9A - SAINT PIERRE",
+    "arbitre": "DEURVILLIER Martial"
   },
   {
     "date": "2026-09-27",
@@ -27017,6 +27177,30 @@
   },
   {
     "date": "2026-10-03",
+    "titre": "Championnat du Haut-Rhin 2026 - U12",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73028",
+    "cadence": "Lente",
+    "lieu": "68 - BENNWIHR",
+    "arbitre": "GERANDI Guillaume"
+  },
+  {
+    "date": "2026-10-03",
+    "titre": "Championnat du Haut-Rhin 2026 - U14",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73027",
+    "cadence": "Lente",
+    "lieu": "68 - BENNWIHR",
+    "arbitre": "GERANDI Guillaume"
+  },
+  {
+    "date": "2026-10-03",
+    "titre": "Championnat du Haut-Rhin 2026 - U16",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73026",
+    "cadence": "Lente",
+    "lieu": "68 - BENNWIHR",
+    "arbitre": "GERANDI Guillaume"
+  },
+  {
+    "date": "2026-10-03",
     "titre": "Open 13 2026-27 r1-2",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72996",
     "cadence": "Lente",
@@ -27166,6 +27350,30 @@
     "cadence": "Rapide",
     "lieu": "44 - LE BIGNON",
     "arbitre": "LEBRET Loriane"
+  },
+  {
+    "date": "2026-10-04",
+    "titre": "Championnat du Haut-Rhin 2026 - U12",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73028",
+    "cadence": "Lente",
+    "lieu": "68 - BENNWIHR",
+    "arbitre": "GERANDI Guillaume"
+  },
+  {
+    "date": "2026-10-04",
+    "titre": "Championnat du Haut-Rhin 2026 - U14",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73027",
+    "cadence": "Lente",
+    "lieu": "68 - BENNWIHR",
+    "arbitre": "GERANDI Guillaume"
+  },
+  {
+    "date": "2026-10-04",
+    "titre": "Championnat du Haut-Rhin 2026 - U16",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73026",
+    "cadence": "Lente",
+    "lieu": "68 - BENNWIHR",
+    "arbitre": "GERANDI Guillaume"
   },
   {
     "date": "2026-10-04",
@@ -27454,6 +27662,14 @@
     "cadence": "Lente",
     "lieu": "9A - SAINT DENIS",
     "arbitre": "DEURVILLIER Martial"
+  },
+  {
+    "date": "2026-10-14",
+    "titre": "4eme Open Diago lent Eybens r4-6",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73030",
+    "cadence": "Lente",
+    "lieu": "38 - EYBENS",
+    "arbitre": "CALIN Miguel"
   },
   {
     "date": "2026-10-14",
@@ -29616,6 +29832,22 @@
     "arbitre": "DE FAVERI Gabriel"
   },
   {
+    "date": "2026-11-11",
+    "titre": "Championnat du Haut-Rhin 2026 - U08",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73037",
+    "cadence": "Lente",
+    "lieu": "68 - MULHOUSE",
+    "arbitre": "GOETTELMANN Guillaum"
+  },
+  {
+    "date": "2026-11-11",
+    "titre": "Championnat du Haut-Rhin 2026 - U10",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73038",
+    "cadence": "Lente",
+    "lieu": "68 - MULHOUSE",
+    "arbitre": "GOETTELMANN Guillaum"
+  },
+  {
     "date": "2026-11-12",
     "titre": "Championnat Interne de Kingersheim 2026 r5-6",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72896",
@@ -30169,6 +30401,38 @@
   },
   {
     "date": "2026-12-19",
+    "titre": "9ème Open FIDE de Sucé-sur-Erdre - Open A",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73031",
+    "cadence": "Lente",
+    "lieu": "44 - SUCE SUR ERDRE",
+    "arbitre": "HUTOIS Mickael"
+  },
+  {
+    "date": "2026-12-19",
+    "titre": "9ème Open FIDE de Sucé-sur-Erdre - Open B",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73032",
+    "cadence": "Lente",
+    "lieu": "44 - SUCE SUR ERDRE",
+    "arbitre": "HUTOIS Mickael"
+  },
+  {
+    "date": "2026-12-19",
+    "titre": "9ème Open FIDE de Sucé-sur-Erdre - Open C",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73033",
+    "cadence": "Lente",
+    "lieu": "44 - SUCE SUR ERDRE",
+    "arbitre": "HUTOIS Mickael"
+  },
+  {
+    "date": "2026-12-19",
+    "titre": "9ème Open FIDE de Sucé-sur-Erdre - Open Jeunes",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73034",
+    "cadence": "Lente",
+    "lieu": "44 - SUCE SUR ERDRE",
+    "arbitre": "HUTOIS Mickael"
+  },
+  {
+    "date": "2026-12-19",
     "titre": "Championnat de la Loire 2026-2027 r3",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72870",
     "cadence": "Lente",
@@ -30230,6 +30494,38 @@
     "cadence": "Rapide",
     "lieu": "77 - NOISIEL",
     "arbitre": "AZZEGAG Jocelyn"
+  },
+  {
+    "date": "2026-12-20",
+    "titre": "9ème Open FIDE de Sucé-sur-Erdre - Open A",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73031",
+    "cadence": "Lente",
+    "lieu": "44 - SUCE SUR ERDRE",
+    "arbitre": "HUTOIS Mickael"
+  },
+  {
+    "date": "2026-12-20",
+    "titre": "9ème Open FIDE de Sucé-sur-Erdre - Open B",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73032",
+    "cadence": "Lente",
+    "lieu": "44 - SUCE SUR ERDRE",
+    "arbitre": "HUTOIS Mickael"
+  },
+  {
+    "date": "2026-12-20",
+    "titre": "9ème Open FIDE de Sucé-sur-Erdre - Open C",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73033",
+    "cadence": "Lente",
+    "lieu": "44 - SUCE SUR ERDRE",
+    "arbitre": "HUTOIS Mickael"
+  },
+  {
+    "date": "2026-12-20",
+    "titre": "9ème Open FIDE de Sucé-sur-Erdre - Open Jeunes",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73034",
+    "cadence": "Lente",
+    "lieu": "44 - SUCE SUR ERDRE",
+    "arbitre": "HUTOIS Mickael"
   },
   {
     "date": "2026-12-20",
