@@ -25088,6 +25088,14 @@
     "arbitre": "AUDER Benjamin"
   },
   {
+    "date": "2026-09-05",
+    "titre": "Tournoi des Aventuriers Courtois du 5 septembre 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73039",
+    "cadence": "Lente",
+    "lieu": "69 - LYON",
+    "arbitre": "BUDACI Lionel"
+  },
+  {
     "date": "2026-09-06",
     "titre": "21è Marathon de Blitz FIDE Interchess",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72966",
@@ -25401,6 +25409,14 @@
   },
   {
     "date": "2026-09-12",
+    "titre": "Blitz Society rapide du samedi 12 septembre -1700",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73041",
+    "cadence": "Blitz",
+    "lieu": "75 - PARIS",
+    "arbitre": "GOBERT Simon"
+  },
+  {
+    "date": "2026-09-12",
     "titre": "Blitz de rentrée du CEHR 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73022",
     "cadence": "Blitz",
@@ -25470,6 +25486,14 @@
     "cadence": "Rapide",
     "lieu": "83 - HYERES",
     "arbitre": "RAMAZZOTTI Bernard"
+  },
+  {
+    "date": "2026-09-12",
+    "titre": "Tournoi des Aventuriers Courtois 12 septembre 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73040",
+    "cadence": "Lente",
+    "lieu": "69 - LYON",
+    "arbitre": "BUDACI Lionel"
   },
   {
     "date": "2026-09-12",
@@ -26673,6 +26697,14 @@
   },
   {
     "date": "2026-09-27",
+    "titre": "26e Open Rapide de Gif-sur-Yvette",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72985",
+    "cadence": "Rapide",
+    "lieu": "91 - GIF SUR YVETTE",
+    "arbitre": "CROUZET Nicolas"
+  },
+  {
+    "date": "2026-09-27",
     "titre": "2ième Open d'échecs Didier Pera (-2400 elo)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72714",
     "cadence": "Lente",
@@ -26998,14 +27030,6 @@
     "cadence": "Lente",
     "lieu": "78 - MONTIGNY LE BRETONNEUX",
     "arbitre": "RIVIER Sylvain"
-  },
-  {
-    "date": "2026-09-29",
-    "titre": "26e Open Rapide de Gif-sur-Yvette",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72985",
-    "cadence": "Rapide",
-    "lieu": "91 - GIF SUR YVETTE",
-    "arbitre": "CROUZET Nicolas"
   },
   {
     "date": "2026-09-29",
