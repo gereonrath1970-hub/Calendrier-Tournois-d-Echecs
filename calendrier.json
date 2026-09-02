@@ -25841,6 +25841,14 @@
   },
   {
     "date": "2026-09-16",
+    "titre": "Blitz de l'Arize septembre 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73063",
+    "cadence": "Blitz",
+    "lieu": "09 - LE MAS D'AZIL",
+    "arbitre": "GALLORINI Jean-Chris"
+  },
+  {
+    "date": "2026-09-16",
     "titre": "Championnat Interne de Kingersheim 2026 r1-2",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72894",
     "cadence": "Lente",
@@ -26062,6 +26070,14 @@
     "cadence": "Rapide",
     "lieu": "09 - SAINT GIRONS",
     "arbitre": "FONT Marc"
+  },
+  {
+    "date": "2026-09-20",
+    "titre": "1er Tournoi Rapide FIDE Saison 2026-27 SXM Chess Club (-2400)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73053",
+    "cadence": "Rapide",
+    "lieu": "9C - SAINT MARTIN",
+    "arbitre": "MAROT Philippe"
   },
   {
     "date": "2026-09-20",
@@ -26449,6 +26465,14 @@
   },
   {
     "date": "2026-09-25",
+    "titre": "Blitz de la Rentrée de l'Échiquier Nîmois 2026-09-25",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73068",
+    "cadence": "Blitz",
+    "lieu": "30 - NIMES",
+    "arbitre": "FOSSELLA Manuel"
+  },
+  {
+    "date": "2026-09-25",
     "titre": "Championnat Interne de Kingersheim 2026 r1-2",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72894",
     "cadence": "Lente",
@@ -26625,6 +26649,14 @@
   },
   {
     "date": "2026-09-26",
+    "titre": "Blitz Society rapide du samedi 26 septembre -1700",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73051",
+    "cadence": "Blitz",
+    "lieu": "75 - PARIS",
+    "arbitre": "GOBERT Simon"
+  },
+  {
+    "date": "2026-09-26",
     "titre": "Championnat d'automne Annecy 2026 r1-3",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73042",
     "cadence": "Lente",
@@ -26686,6 +26718,14 @@
     "cadence": "Lente",
     "lieu": "33 - BORDEAUX",
     "arbitre": "SALLETTE Alain"
+  },
+  {
+    "date": "2026-09-26",
+    "titre": "Rapide de rentrée 2026 CD71",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73062",
+    "cadence": "Rapide",
+    "lieu": "71 - MACON",
+    "arbitre": "MANGONE Pierre"
   },
   {
     "date": "2026-09-26",
@@ -27097,6 +27137,14 @@
   },
   {
     "date": "2026-09-27",
+    "titre": "TIP des Bouches-du-Rhône 2026-27",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73059",
+    "cadence": "Lente",
+    "lieu": "13 - ALLAUCH",
+    "arbitre": "CHAUVET Jean-Marc"
+  },
+  {
+    "date": "2026-09-27",
     "titre": "Tournoi Interne de Pont à Mousson 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72814",
     "cadence": "Lente",
@@ -27321,6 +27369,14 @@
   },
   {
     "date": "2026-10-03",
+    "titre": "9e Open Rapide du Grau du Roi",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73052",
+    "cadence": "Rapide",
+    "lieu": "30 - LE GRAU DU ROI",
+    "arbitre": "FOSSELLA Manuel"
+  },
+  {
+    "date": "2026-10-03",
     "titre": "Championnat de la Loire 2026-2027 r1",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72868",
     "cadence": "Lente",
@@ -27382,6 +27438,14 @@
     "cadence": "Lente",
     "lieu": "94 - VINCENNES",
     "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-10-03",
+    "titre": "Tournoi des Fous - Caissargues 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73060",
+    "cadence": "Lente",
+    "lieu": "30 - CAISSARGUES",
+    "arbitre": "DIMITROV Christo"
   },
   {
     "date": "2026-10-03",
@@ -27526,6 +27590,30 @@
     "cadence": "Lente",
     "lieu": "68 - BENNWIHR",
     "arbitre": "GERANDI Guillaume"
+  },
+  {
+    "date": "2026-10-04",
+    "titre": "Rapide Cote bleue - Martigues 4 Octobre 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73048",
+    "cadence": "Rapide",
+    "lieu": "13 - MARTIGUES",
+    "arbitre": "CHAZEAU Laineur-Loth"
+  },
+  {
+    "date": "2026-10-04",
+    "titre": "Rapide Cote bleue - Martigues 4 Octobre 2026 Tournoi B -1700 Elo",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73049",
+    "cadence": "Rapide",
+    "lieu": "13 - MARTIGUES",
+    "arbitre": "CHAZEAU Laineur-Loth"
+  },
+  {
+    "date": "2026-10-04",
+    "titre": "Rapide Cote bleue - Martigues 4 Octobre 2026 Tournoi Jeunes -1500 Elo jusqu'a Benjamin",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73050",
+    "cadence": "Rapide",
+    "lieu": "13 - MARTIGUES",
+    "arbitre": "CHAZEAU Laineur-Loth"
   },
   {
     "date": "2026-10-04",
@@ -28657,6 +28745,14 @@
   },
   {
     "date": "2026-10-21",
+    "titre": "Blitz de l'Arize octobre 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73064",
+    "cadence": "Blitz",
+    "lieu": "09 - LE MAS D'AZIL",
+    "arbitre": "GALLORINI Jean-Chris"
+  },
+  {
+    "date": "2026-10-21",
     "titre": "Championnat Interne de Kingersheim 2026 r3-4",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72895",
     "cadence": "Lente",
@@ -28756,6 +28852,14 @@
     "titre": "4e Festival International d'Annemasse - Tournoi Maitre",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72213",
     "cadence": "Lente",
+    "lieu": "74 - ANNEMASSE",
+    "arbitre": "WLASSEWITCH Sylvain"
+  },
+  {
+    "date": "2026-10-22",
+    "titre": "4eme Festival international d'Annemasse - Blitz",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73046",
+    "cadence": "Blitz",
     "lieu": "74 - ANNEMASSE",
     "arbitre": "WLASSEWITCH Sylvain"
   },
@@ -29006,6 +29110,14 @@
     "cadence": "Lente",
     "lieu": "67 - ALTORF",
     "arbitre": "SCHLOTTER Cecile"
+  },
+  {
+    "date": "2026-10-24",
+    "titre": "7éme open Maurice David d'Annemasse",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73047",
+    "cadence": "Lente",
+    "lieu": "74 - ANNEMASSE",
+    "arbitre": "WLASSEWITCH Sylvain"
   },
   {
     "date": "2026-10-24",
@@ -30206,6 +30318,46 @@
     "cadence": "Rapide",
     "lieu": "71 - GUEUGNON",
     "arbitre": "LAUFERON Patrick"
+  },
+  {
+    "date": "2026-11-22",
+    "titre": "Championnat du Loiret Jeunes 2026-U08 Mixte",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73054",
+    "cadence": "Lente",
+    "lieu": "45 - OLIVET",
+    "arbitre": "BERNARDIN Thierry"
+  },
+  {
+    "date": "2026-11-22",
+    "titre": "Championnat du Loiret Jeunes 2026-U10 Mixte",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73055",
+    "cadence": "Lente",
+    "lieu": "45 - OLIVET",
+    "arbitre": "BERNARDIN Thierry"
+  },
+  {
+    "date": "2026-11-22",
+    "titre": "Championnat du Loiret Jeunes 2026-U12 Mixte",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73056",
+    "cadence": "Lente",
+    "lieu": "45 - OLIVET",
+    "arbitre": "BERNARDIN Thierry"
+  },
+  {
+    "date": "2026-11-22",
+    "titre": "Championnat du Loiret Jeunes 2026-U14 Mixte",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73057",
+    "cadence": "Lente",
+    "lieu": "45 - OLIVET",
+    "arbitre": "BERNARDIN Thierry"
+  },
+  {
+    "date": "2026-11-22",
+    "titre": "Championnat du Loiret Jeunes 2026-U16 Mixte",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73058",
+    "cadence": "Lente",
+    "lieu": "45 - OLIVET",
+    "arbitre": "BERNARDIN Thierry"
   },
   {
     "date": "2026-11-22",
