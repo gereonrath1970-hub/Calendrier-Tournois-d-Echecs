@@ -25761,6 +25761,14 @@
   },
   {
     "date": "2026-09-13",
+    "titre": "Rapide Blitz Society du 13-09-2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73105",
+    "cadence": "Blitz",
+    "lieu": "75 - PARIS",
+    "arbitre": "FOURNIER Nicolas"
+  },
+  {
+    "date": "2026-09-13",
     "titre": "Tournoi du mercredi Grenoble – Automne 2026 r1-3 (-2400)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72934",
     "cadence": "Lente",
@@ -25830,6 +25838,14 @@
     "cadence": "Lente",
     "lieu": "38 - GRENOBLE",
     "arbitre": "SALINAS Pierre"
+  },
+  {
+    "date": "2026-09-16",
+    "titre": "466è Rapide FIDE Interchess -2000 (conseillé aux débutants adultes jeunes et enfants)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73069",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
   },
   {
     "date": "2026-09-16",
@@ -25881,6 +25897,14 @@
   },
   {
     "date": "2026-09-17",
+    "titre": "467è Rapide Fide Interchess",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73070",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-09-17",
     "titre": "4eme Open Diago lent Eybens r1-3",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73029",
     "cadence": "Lente",
@@ -25910,6 +25934,14 @@
     "cadence": "Lente",
     "lieu": "38 - GRENOBLE",
     "arbitre": "SALINAS Pierre"
+  },
+  {
+    "date": "2026-09-18",
+    "titre": "146ème Open Rapide de Montreuil",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73095",
+    "cadence": "Rapide",
+    "lieu": "93 - MONTREUIL",
+    "arbitre": "MAUFFREY Hugues"
   },
   {
     "date": "2026-09-18",
@@ -25969,6 +26001,30 @@
   },
   {
     "date": "2026-09-19",
+    "titre": "15è Marathon Rapide FIDE Interchess",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73073",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-09-19",
+    "titre": "468è Rapide FIDE Interchess -1700 (conseillé aux débutants adultes jeunes et enfants)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73071",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-09-19",
+    "titre": "469è Rapide FIDE Interchess -2000 (conseillé aux débutants adultes jeunes et enfants)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73072",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-09-19",
     "titre": "4eme Open Diago lent Eybens r1-3",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73029",
     "cadence": "Lente",
@@ -26001,6 +26057,30 @@
   },
   {
     "date": "2026-09-19",
+    "titre": "Grand Prix Rapide de Seine-Saint-Denis 2026 Etape 4A",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73106",
+    "cadence": "Rapide",
+    "lieu": "93 - LE BLANC MESNIL",
+    "arbitre": "LEMOINE Thomas"
+  },
+  {
+    "date": "2026-09-19",
+    "titre": "Grand Prix Rapide de Seine-Saint-Denis 2026 Etape 4B",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73107",
+    "cadence": "Rapide",
+    "lieu": "93 - LE BLANC MESNIL",
+    "arbitre": "LEMOINE Thomas"
+  },
+  {
+    "date": "2026-09-19",
+    "titre": "Grand Prix Rapide de Seine-Saint-Denis 2026 Etape 4C",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73108",
+    "cadence": "Rapide",
+    "lieu": "93 - LE BLANC MESNIL",
+    "arbitre": "LEMOINE Thomas"
+  },
+  {
+    "date": "2026-09-19",
     "titre": "Les Internationaux de France Rapide 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72140",
     "cadence": "Rapide",
@@ -26017,11 +26097,27 @@
   },
   {
     "date": "2026-09-19",
+    "titre": "Rapide de rentrée 2026 de Cannes Echecs",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73092",
+    "cadence": "Rapide",
+    "lieu": "06 - CANNES",
+    "arbitre": "VERHULST Jens"
+  },
+  {
+    "date": "2026-09-19",
     "titre": "Tournoi FIDE de rentrée du Philidor 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72734",
     "cadence": "Lente",
     "lieu": "68 - MULHOUSE",
     "arbitre": "GOETTELMANN Guillaum"
+  },
+  {
+    "date": "2026-09-19",
+    "titre": "Tournoi des aventuriers Courtois 19 septembre 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73093",
+    "cadence": "Lente",
+    "lieu": "69 - LYON",
+    "arbitre": "BUDACI Lionel"
   },
   {
     "date": "2026-09-19",
@@ -26065,6 +26161,14 @@
   },
   {
     "date": "2026-09-20",
+    "titre": "121è Blitz FIDE Interchess",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73076",
+    "cadence": "Blitz",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-09-20",
     "titre": "1er Open rapide d'echecs de Saint-Girons",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72984",
     "cadence": "Rapide",
@@ -26081,6 +26185,14 @@
   },
   {
     "date": "2026-09-20",
+    "titre": "286è Open FIDE Interchess de 3 Rondes -1800",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73074",
+    "cadence": "Lente",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-09-20",
     "titre": "33e Open Rapide Fide de Sèvres",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72513",
     "cadence": "Rapide",
@@ -26094,6 +26206,14 @@
     "cadence": "Lente",
     "lieu": "91 - ARPAJON",
     "arbitre": "SIMON Benoit"
+  },
+  {
+    "date": "2026-09-20",
+    "titre": "470è Rapide FIDE Interchess",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73075",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
   },
   {
     "date": "2026-09-20",
@@ -26744,6 +26864,30 @@
     "arbitre": "AIDAOUI Brice"
   },
   {
+    "date": "2026-09-26",
+    "titre": "Tournoi des Aventuriers Courtois 26 septembre 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73094",
+    "cadence": "Lente",
+    "lieu": "69 - LYON",
+    "arbitre": "BUDACI Lionel"
+  },
+  {
+    "date": "2026-09-27",
+    "titre": "10ème Open Fide de Montreuil (-1800)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73097",
+    "cadence": "Lente",
+    "lieu": "93 - MONTREUIL",
+    "arbitre": "MAUFFREY Hugues"
+  },
+  {
+    "date": "2026-09-27",
+    "titre": "10ème Open Fide de Montreuil (-2400)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73098",
+    "cadence": "Lente",
+    "lieu": "93 - MONTREUIL",
+    "arbitre": "MAUFFREY Hugues"
+  },
+  {
     "date": "2026-09-27",
     "titre": "11ème Open de la Tour Saint Pierroise (-1800)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73025",
@@ -26766,6 +26910,30 @@
     "cadence": "Rapide",
     "lieu": "30 - ALES",
     "arbitre": "SERRET Philippe"
+  },
+  {
+    "date": "2026-09-27",
+    "titre": "17e Rapide Henri Bonjour",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73091",
+    "cadence": "Rapide",
+    "lieu": "90 - BELFORT",
+    "arbitre": "RAMBELOSON Zo"
+  },
+  {
+    "date": "2026-09-27",
+    "titre": "18e open rapide de Domloup",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73080",
+    "cadence": "Rapide",
+    "lieu": "35 - DOMLOUP",
+    "arbitre": "AUBRY Pascal"
+  },
+  {
+    "date": "2026-09-27",
+    "titre": "18e open rapide de Domloup - Tournoi B",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73081",
+    "cadence": "Rapide",
+    "lieu": "35 - DOMLOUP",
+    "arbitre": "AUBRY Pascal"
   },
   {
     "date": "2026-09-27",
@@ -27017,6 +27185,14 @@
   },
   {
     "date": "2026-09-27",
+    "titre": "Circuit du Couserans 2027 - 1ère étape",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73089",
+    "cadence": "Lente",
+    "lieu": "09 - MASSAT",
+    "arbitre": "GALLORINI Jean-Chris"
+  },
+  {
+    "date": "2026-09-27",
     "titre": "Les 14èmes Rapides Jeunes de Gouesnou",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72976",
     "cadence": "Rapide",
@@ -27126,6 +27302,14 @@
     "cadence": "Rapide",
     "lieu": "69 - VILLEURBANNE",
     "arbitre": "PARIS Thierry"
+  },
+  {
+    "date": "2026-09-27",
+    "titre": "Rapide de la Métropole de Nancy 11ème édition",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73082",
+    "cadence": "Rapide",
+    "lieu": "54 - NANCY",
+    "arbitre": "FROMHERZ Audrey"
   },
   {
     "date": "2026-09-27",
@@ -27417,6 +27601,14 @@
   },
   {
     "date": "2026-10-03",
+    "titre": "Open de Bischwiller Octobre 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73109",
+    "cadence": "Lente",
+    "lieu": "67 - BISCHWILLER",
+    "arbitre": "REEB Roland"
+  },
+  {
+    "date": "2026-10-03",
     "titre": "Tournoi de Vincennes 3-4 octobre 2026 - Open A (1800-2399)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72752",
     "cadence": "Lente",
@@ -27590,6 +27782,14 @@
     "cadence": "Lente",
     "lieu": "68 - BENNWIHR",
     "arbitre": "GERANDI Guillaume"
+  },
+  {
+    "date": "2026-10-04",
+    "titre": "Open de Bischwiller Octobre 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73109",
+    "cadence": "Lente",
+    "lieu": "67 - BISCHWILLER",
+    "arbitre": "REEB Roland"
   },
   {
     "date": "2026-10-04",
@@ -27953,6 +28153,14 @@
   },
   {
     "date": "2026-10-16",
+    "titre": "147ème Open Rapide de Montreuil",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73096",
+    "cadence": "Rapide",
+    "lieu": "93 - MONTREUIL",
+    "arbitre": "MAUFFREY Hugues"
+  },
+  {
+    "date": "2026-10-16",
     "titre": "22ème Blitz FIDE de Noisiel",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72588",
     "cadence": "Blitz",
@@ -28065,6 +28273,30 @@
   },
   {
     "date": "2026-10-17",
+    "titre": "20ème Open d'Automne de Briouze Tournoi A (-2400)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73102",
+    "cadence": "Lente",
+    "lieu": "61 - BRIOUZE",
+    "arbitre": "LE FOURNIER Pascal"
+  },
+  {
+    "date": "2026-10-17",
+    "titre": "20ème Open d'Automne de Briouze Tournoi B (-2400)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73103",
+    "cadence": "Lente",
+    "lieu": "61 - BRIOUZE",
+    "arbitre": "LE FOURNIER Pascal"
+  },
+  {
+    "date": "2026-10-17",
+    "titre": "20ème Open d'Automne de Briouze Tournoi C (-2400)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73104",
+    "cadence": "Lente",
+    "lieu": "61 - BRIOUZE",
+    "arbitre": "LE FOURNIER Pascal"
+  },
+  {
+    "date": "2026-10-17",
     "titre": "24e tournoi d'automne de Montigny",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72510",
     "cadence": "Lente",
@@ -28134,6 +28366,46 @@
     "cadence": "Lente",
     "lieu": "68 - KINGERSHEIM",
     "arbitre": "DE FAVERI Gabriel"
+  },
+  {
+    "date": "2026-10-17",
+    "titre": "Championnat des Jeunes de l'Isère 2027 - U10",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73084",
+    "cadence": "Lente",
+    "lieu": "38 - BOURGOIN JALLIEU",
+    "arbitre": "RINGOT Francoise"
+  },
+  {
+    "date": "2026-10-17",
+    "titre": "Championnat des Jeunes de l'Isère 2027 - U12",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73085",
+    "cadence": "Lente",
+    "lieu": "38 - BOURGOIN JALLIEU",
+    "arbitre": "RINGOT Francoise"
+  },
+  {
+    "date": "2026-10-17",
+    "titre": "Championnat des Jeunes de l'Isère 2027 - U14",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73086",
+    "cadence": "Lente",
+    "lieu": "38 - BOURGOIN JALLIEU",
+    "arbitre": "RINGOT Francoise"
+  },
+  {
+    "date": "2026-10-17",
+    "titre": "Championnat des Jeunes de l'Isère 2027 - U16",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73087",
+    "cadence": "Lente",
+    "lieu": "38 - BOURGOIN JALLIEU",
+    "arbitre": "RINGOT Francoise"
+  },
+  {
+    "date": "2026-10-17",
+    "titre": "Championnat des Jeunes de l'Isère 2027 - U18-U20",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73088",
+    "cadence": "Lente",
+    "lieu": "38 - BOURGOIN JALLIEU",
+    "arbitre": "RINGOT Francoise"
   },
   {
     "date": "2026-10-17",
@@ -28230,6 +28502,30 @@
     "cadence": "Lente",
     "lieu": "83 - HYERES",
     "arbitre": "RAMAZZOTTI Bernard"
+  },
+  {
+    "date": "2026-10-18",
+    "titre": "20ème Open d'Automne de Briouze Tournoi A (-2400)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73102",
+    "cadence": "Lente",
+    "lieu": "61 - BRIOUZE",
+    "arbitre": "LE FOURNIER Pascal"
+  },
+  {
+    "date": "2026-10-18",
+    "titre": "20ème Open d'Automne de Briouze Tournoi B (-2400)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73103",
+    "cadence": "Lente",
+    "lieu": "61 - BRIOUZE",
+    "arbitre": "LE FOURNIER Pascal"
+  },
+  {
+    "date": "2026-10-18",
+    "titre": "20ème Open d'Automne de Briouze Tournoi C (-2400)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73104",
+    "cadence": "Lente",
+    "lieu": "61 - BRIOUZE",
+    "arbitre": "LE FOURNIER Pascal"
   },
   {
     "date": "2026-10-18",
@@ -28350,6 +28646,54 @@
     "cadence": "Lente",
     "lieu": "68 - KINGERSHEIM",
     "arbitre": "DE FAVERI Gabriel"
+  },
+  {
+    "date": "2026-10-18",
+    "titre": "Championnat des Jeunes de l'Isère 2027 - U10",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73084",
+    "cadence": "Lente",
+    "lieu": "38 - BOURGOIN JALLIEU",
+    "arbitre": "RINGOT Francoise"
+  },
+  {
+    "date": "2026-10-18",
+    "titre": "Championnat des Jeunes de l'Isère 2027 - U12",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73085",
+    "cadence": "Lente",
+    "lieu": "38 - BOURGOIN JALLIEU",
+    "arbitre": "RINGOT Francoise"
+  },
+  {
+    "date": "2026-10-18",
+    "titre": "Championnat des Jeunes de l'Isère 2027 - U14",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73086",
+    "cadence": "Lente",
+    "lieu": "38 - BOURGOIN JALLIEU",
+    "arbitre": "RINGOT Francoise"
+  },
+  {
+    "date": "2026-10-18",
+    "titre": "Championnat des Jeunes de l'Isère 2027 - U16",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73087",
+    "cadence": "Lente",
+    "lieu": "38 - BOURGOIN JALLIEU",
+    "arbitre": "RINGOT Francoise"
+  },
+  {
+    "date": "2026-10-18",
+    "titre": "Championnat des Jeunes de l'Isère 2027 - U18-U20",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73088",
+    "cadence": "Lente",
+    "lieu": "38 - BOURGOIN JALLIEU",
+    "arbitre": "RINGOT Francoise"
+  },
+  {
+    "date": "2026-10-18",
+    "titre": "Championnat des Jeunes de l'Isère 2027 - U8",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73083",
+    "cadence": "Lente",
+    "lieu": "38 - BOURGOIN JALLIEU",
+    "arbitre": "RINGOT Francoise"
   },
   {
     "date": "2026-10-18",
@@ -30182,6 +30526,30 @@
     "cadence": "Lente",
     "lieu": "68 - KINGERSHEIM",
     "arbitre": "DE FAVERI Gabriel"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Championnat Jeunes U12 Mixte CDJE37 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73077",
+    "cadence": "Lente",
+    "lieu": "37 - LOCHES",
+    "arbitre": "TEMPLEUR Jean-Claude"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Championnat Jeunes U14 Mixte CDJE37 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73078",
+    "cadence": "Lente",
+    "lieu": "37 - LOCHES",
+    "arbitre": "TEMPLEUR Jean-Claude"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Championnat Jeunes U16 Mixte CDJE37 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73079",
+    "cadence": "Lente",
+    "lieu": "37 - LOCHES",
+    "arbitre": "TEMPLEUR Jean-Claude"
   },
   {
     "date": "2026-11-15",
