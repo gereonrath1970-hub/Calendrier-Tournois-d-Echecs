@@ -27553,14 +27553,6 @@
   },
   {
     "date": "2026-10-03",
-    "titre": "9e Open Rapide du Grau du Roi",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73052",
-    "cadence": "Rapide",
-    "lieu": "30 - LE GRAU DU ROI",
-    "arbitre": "FOSSELLA Manuel"
-  },
-  {
-    "date": "2026-10-03",
     "titre": "Championnat de la Loire 2026-2027 r1",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72868",
     "cadence": "Lente",
@@ -27982,6 +27974,14 @@
     "cadence": "Lente",
     "lieu": "9A - SAINT DENIS",
     "arbitre": "DEURVILLIER Martial"
+  },
+  {
+    "date": "2026-10-10",
+    "titre": "9e Open Rapide du Grau du Roi",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73052",
+    "cadence": "Rapide",
+    "lieu": "30 - LE GRAU DU ROI",
+    "arbitre": "FOSSELLA Manuel"
   },
   {
     "date": "2026-10-10",
