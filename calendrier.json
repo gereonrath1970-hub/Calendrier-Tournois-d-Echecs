@@ -25769,6 +25769,14 @@
   },
   {
     "date": "2026-09-13",
+    "titre": "Rapide Riviera Chess Club 13-09-2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73121",
+    "cadence": "Rapide",
+    "lieu": "06 - NICE",
+    "arbitre": "BIANCALANA Marc"
+  },
+  {
+    "date": "2026-09-13",
     "titre": "Tournoi du mercredi Grenoble – Automne 2026 r1-3 (-2400)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72934",
     "cadence": "Lente",
@@ -26097,6 +26105,22 @@
   },
   {
     "date": "2026-09-19",
+    "titre": "Rapide Riviera Chess Club 19-09-2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73122",
+    "cadence": "Rapide",
+    "lieu": "06 - NICE",
+    "arbitre": "RIBREAU Herve"
+  },
+  {
+    "date": "2026-09-19",
+    "titre": "Rapide de Rentrée de l'Echiquier Brignolais septembre 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73120",
+    "cadence": "Rapide",
+    "lieu": "83 - BRIGNOLES",
+    "arbitre": "MONTELLA Laurent"
+  },
+  {
+    "date": "2026-09-19",
     "titre": "Rapide de rentrée 2026 de Cannes Echecs",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73092",
     "cadence": "Rapide",
@@ -26342,6 +26366,14 @@
     "cadence": "Lente",
     "lieu": "68 - MULHOUSE",
     "arbitre": "GOETTELMANN Guillaum"
+  },
+  {
+    "date": "2026-09-20",
+    "titre": "Tournoi Rapide Riviera Chess Academy 20 septembre 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73137",
+    "cadence": "Rapide",
+    "lieu": "06 - NICE",
+    "arbitre": "RIBREAU Herve"
   },
   {
     "date": "2026-09-20",
@@ -27193,6 +27225,14 @@
   },
   {
     "date": "2026-09-27",
+    "titre": "Grand Prix de la Flèche 2026 Promotion",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73116",
+    "cadence": "Lente",
+    "lieu": "72 - LA FLECHE",
+    "arbitre": "FLAMENT Sebastien"
+  },
+  {
+    "date": "2026-09-27",
     "titre": "Les 14èmes Rapides Jeunes de Gouesnou",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72976",
     "cadence": "Rapide",
@@ -27998,6 +28038,14 @@
     "cadence": "Lente",
     "lieu": "74 - ANNECY",
     "arbitre": "TRAVAILLOUX Dimitri"
+  },
+  {
+    "date": "2026-10-10",
+    "titre": "Les Petits Bolides - Saison 20 - Tournoi 1",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73113",
+    "cadence": "Lente",
+    "lieu": "35 - RENNES",
+    "arbitre": "BLEUZEN Christian"
   },
   {
     "date": "2026-10-10",
@@ -30401,11 +30449,43 @@
   },
   {
     "date": "2026-11-07",
+    "titre": "97e Open Rapide Schlak A - Petits Poussins",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73117",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "LORENZO Alfredo"
+  },
+  {
+    "date": "2026-11-07",
+    "titre": "97e Open Rapide Schlak B - Poussins",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73118",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "LORENZO Alfredo"
+  },
+  {
+    "date": "2026-11-07",
+    "titre": "97e Open Rapide Schlak C - Pupilles Benjamins Minimes",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73119",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "LORENZO Alfredo"
+  },
+  {
+    "date": "2026-11-07",
     "titre": "Championnat Interne de Kingersheim 2026 r5-6",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72896",
     "cadence": "Lente",
     "lieu": "68 - KINGERSHEIM",
     "arbitre": "DE FAVERI Gabriel"
+  },
+  {
+    "date": "2026-11-07",
+    "titre": "Les Petits Bolides - Saison 20 - Tournoi 2",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73114",
+    "cadence": "Lente",
+    "lieu": "35 - RENNES",
+    "arbitre": "BLEUZEN Christian"
   },
   {
     "date": "2026-11-08",
@@ -30798,6 +30878,14 @@
     "cadence": "Lente",
     "lieu": "74 - ANNECY",
     "arbitre": "TRAVAILLOUX Dimitri"
+  },
+  {
+    "date": "2026-11-28",
+    "titre": "Les Petits Bolides - Saison 20 - Tournoi 3",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73115",
+    "cadence": "Lente",
+    "lieu": "35 - RENNES",
+    "arbitre": "BLEUZEN Christian"
   },
   {
     "date": "2026-11-28",
