@@ -27073,6 +27073,14 @@
   },
   {
     "date": "2026-09-26",
+    "titre": "Rapide mensuel du CEIT septembre 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73199",
+    "cadence": "Rapide",
+    "lieu": "31 - TOULOUSE",
+    "arbitre": "VAN ELST Andreas"
+  },
+  {
+    "date": "2026-09-26",
     "titre": "Tournoi Interne de Belpech 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73126",
     "cadence": "Lente",
@@ -27518,6 +27526,14 @@
     "cadence": "Lente",
     "lieu": "13 - AUBAGNE",
     "arbitre": "ROMAN Sylvian"
+  },
+  {
+    "date": "2026-09-27",
+    "titre": "Rapide Arsenal Echecs - Septembre 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73198",
+    "cadence": "Rapide",
+    "lieu": "9D - LE LAMENTIN",
+    "arbitre": "SUEZ-PANAMA Gilles"
   },
   {
     "date": "2026-09-27",
@@ -28528,6 +28544,14 @@
     "arbitre": "LECLERC Louis"
   },
   {
+    "date": "2026-10-10",
+    "titre": "tournoi interne Marcesque 2026-2027 r1",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73201",
+    "cadence": "Lente",
+    "lieu": "78 - TRIEL SUR SEINE",
+    "arbitre": "PLANTET Marc"
+  },
+  {
     "date": "2026-10-11",
     "titre": "26e Open International d'Echecs de la Réunion",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72310",
@@ -28870,6 +28894,14 @@
     "cadence": "Lente",
     "lieu": "68 - KINGERSHEIM",
     "arbitre": "DE FAVERI Gabriel"
+  },
+  {
+    "date": "2026-10-17",
+    "titre": "Championnat de Haute-Marne rapide jeunes 2026-27",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73200",
+    "cadence": "Rapide",
+    "lieu": "52 - JOINVILLE",
+    "arbitre": "PICARD Serge"
   },
   {
     "date": "2026-10-17",
@@ -31185,6 +31217,14 @@
   },
   {
     "date": "2026-11-14",
+    "titre": "Championnat interne rapide de Saint-Dizier novembre 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73196",
+    "cadence": "Rapide",
+    "lieu": "52 - SAINT DIZIER",
+    "arbitre": "LAURAIN Hery-Dominic"
+  },
+  {
+    "date": "2026-11-14",
     "titre": "Circuit des calanques - 39ème blitz des calanques - La Ciotat",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72889",
     "cadence": "Blitz",
@@ -32182,6 +32222,14 @@
     "cadence": "Lente",
     "lieu": "38 - GRENOBLE",
     "arbitre": "SALINAS Pierre"
+  },
+  {
+    "date": "2026-12-12",
+    "titre": "Tournoi interne blitz se Saint-Dizier Décembre 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73197",
+    "cadence": "Blitz",
+    "lieu": "52 - SAINT DIZIER",
+    "arbitre": "BRIAKLI Adam"
   },
   {
     "date": "2026-12-13",
