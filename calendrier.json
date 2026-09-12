@@ -24665,22 +24665,6 @@
   },
   {
     "date": "2026-08-29",
-    "titre": "Second d'été de Fontenilles A (-2400)",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72187",
-    "cadence": "Lente",
-    "lieu": "31 - FONTENILLES",
-    "arbitre": "AIT CHAOUCHE Samy"
-  },
-  {
-    "date": "2026-08-29",
-    "titre": "Second d'été de Fontenilles B (-1700)",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72188",
-    "cadence": "Lente",
-    "lieu": "31 - FONTENILLES",
-    "arbitre": "AIT CHAOUCHE Samy"
-  },
-  {
-    "date": "2026-08-29",
     "titre": "Tournoi Open International de rentree 2026 de Hyeres (-2400)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70771",
     "cadence": "Lente",
@@ -24934,22 +24918,6 @@
     "cadence": "Blitz",
     "lieu": "75 - PARIS",
     "arbitre": "COLIN Julie"
-  },
-  {
-    "date": "2026-08-30",
-    "titre": "Second d'été de Fontenilles A (-2400)",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72187",
-    "cadence": "Lente",
-    "lieu": "31 - FONTENILLES",
-    "arbitre": "AIT CHAOUCHE Samy"
-  },
-  {
-    "date": "2026-08-30",
-    "titre": "Second d'été de Fontenilles B (-1700)",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72188",
-    "cadence": "Lente",
-    "lieu": "31 - FONTENILLES",
-    "arbitre": "AIT CHAOUCHE Samy"
   },
   {
     "date": "2026-08-30",
@@ -28401,6 +28369,14 @@
   },
   {
     "date": "2026-10-07",
+    "titre": "Blitz Aubagne 2026-10",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73207",
+    "cadence": "Blitz",
+    "lieu": "13 - AUBAGNE",
+    "arbitre": "ROMAN Sylvian"
+  },
+  {
+    "date": "2026-10-07",
     "titre": "Tournoi du mercredi Grenoble – Automne 2026 r4-6 (-2400)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72935",
     "cadence": "Lente",
@@ -28961,6 +28937,14 @@
   },
   {
     "date": "2026-10-17",
+    "titre": "Grand prix jeunes 45 2027 - étape 1",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73216",
+    "cadence": "Lente",
+    "lieu": "45 - CHECY",
+    "arbitre": "VIGNELLES Eric"
+  },
+  {
+    "date": "2026-10-17",
     "titre": "Open FIDE de parties longues au café L'échiquier Nancy (-1800)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73008",
     "cadence": "Lente",
@@ -29262,6 +29246,14 @@
     "cadence": "Lente",
     "lieu": "35 - LIFFRE",
     "arbitre": "RUHLMANN Dominique"
+  },
+  {
+    "date": "2026-10-18",
+    "titre": "Rapide d'Automne 2026 du Passage",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73209",
+    "cadence": "Rapide",
+    "lieu": "47 - LE PASSAGE",
+    "arbitre": "PRIE Eric"
   },
   {
     "date": "2026-10-19",
@@ -30960,6 +30952,22 @@
     "arbitre": "BLEUZEN Christian"
   },
   {
+    "date": "2026-11-01",
+    "titre": "Rapide Masters de Saint-Philippe 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73217",
+    "cadence": "Rapide",
+    "lieu": "9A - SAINT PHILIPPE",
+    "arbitre": "DEURVILLIER Martial"
+  },
+  {
+    "date": "2026-11-01",
+    "titre": "Rapide Ti Bout'chou de Saint-Philippe 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73240",
+    "cadence": "Rapide",
+    "lieu": "9A - SAINT PHILIPPE",
+    "arbitre": "DEURVILLIER Martial"
+  },
+  {
     "date": "2026-11-06",
     "titre": "22ème Rapide FIDE de Noisiel",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72587",
@@ -30982,6 +30990,14 @@
     "cadence": "Lente",
     "lieu": "68 - KINGERSHEIM",
     "arbitre": "DE FAVERI Gabriel"
+  },
+  {
+    "date": "2026-11-06",
+    "titre": "Tournoi Interne Lavérune 2026 (-2400) r3",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73211",
+    "cadence": "Lente",
+    "lieu": "34 - LAVERUNE",
+    "arbitre": "TUR Fabrice"
   },
   {
     "date": "2026-11-07",
@@ -31702,6 +31718,14 @@
     "cadence": "Lente",
     "lieu": "13 - MARSEILLE",
     "arbitre": "BEDHOUCHE Sadek"
+  },
+  {
+    "date": "2026-11-28",
+    "titre": "6ème Blitz de Veigy",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73208",
+    "cadence": "Blitz",
+    "lieu": "74 - VEIGY FONCENEX",
+    "arbitre": "HORN Gilles"
   },
   {
     "date": "2026-11-28",
