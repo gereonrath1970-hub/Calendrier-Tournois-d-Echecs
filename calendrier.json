@@ -25201,22 +25201,6 @@
   },
   {
     "date": "2026-09-11",
-    "titre": "2e tournoi fermé d'Ennezat - tournoi F",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72560",
-    "cadence": "Lente",
-    "lieu": "63 - ENNEZAT",
-    "arbitre": "BOYADJIS Philippe"
-  },
-  {
-    "date": "2026-09-11",
-    "titre": "2e tournoi fermé d'Ennezat - tournoi G",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72561",
-    "cadence": "Lente",
-    "lieu": "63 - ENNEZAT",
-    "arbitre": "BOYADJIS Philippe"
-  },
-  {
-    "date": "2026-09-11",
     "titre": "4eme Open Diago lent Eybens r1-3",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73029",
     "cadence": "Lente",
@@ -25323,22 +25307,6 @@
     "date": "2026-09-12",
     "titre": "2e tournoi fermé d'Ennezat - tournoi E",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72559",
-    "cadence": "Lente",
-    "lieu": "63 - ENNEZAT",
-    "arbitre": "BOYADJIS Philippe"
-  },
-  {
-    "date": "2026-09-12",
-    "titre": "2e tournoi fermé d'Ennezat - tournoi F",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72560",
-    "cadence": "Lente",
-    "lieu": "63 - ENNEZAT",
-    "arbitre": "BOYADJIS Philippe"
-  },
-  {
-    "date": "2026-09-12",
-    "titre": "2e tournoi fermé d'Ennezat - tournoi G",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72561",
     "cadence": "Lente",
     "lieu": "63 - ENNEZAT",
     "arbitre": "BOYADJIS Philippe"
@@ -25595,22 +25563,6 @@
     "date": "2026-09-13",
     "titre": "2e tournoi fermé d'Ennezat - tournoi E",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72559",
-    "cadence": "Lente",
-    "lieu": "63 - ENNEZAT",
-    "arbitre": "BOYADJIS Philippe"
-  },
-  {
-    "date": "2026-09-13",
-    "titre": "2e tournoi fermé d'Ennezat - tournoi F",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72560",
-    "cadence": "Lente",
-    "lieu": "63 - ENNEZAT",
-    "arbitre": "BOYADJIS Philippe"
-  },
-  {
-    "date": "2026-09-13",
-    "titre": "2e tournoi fermé d'Ennezat - tournoi G",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72561",
     "cadence": "Lente",
     "lieu": "63 - ENNEZAT",
     "arbitre": "BOYADJIS Philippe"
@@ -26753,6 +26705,14 @@
   },
   {
     "date": "2026-09-25",
+    "titre": "Tournoi Interne de Cambrai Septembre 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73219",
+    "cadence": "Lente",
+    "lieu": "59 - CAMBRAI",
+    "arbitre": "SAUVE Philippe"
+  },
+  {
+    "date": "2026-09-25",
     "titre": "Tournoi de Blitz Echiquier Bordelais - 25-09-26",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72922",
     "cadence": "Blitz",
@@ -26774,6 +26734,14 @@
     "cadence": "Blitz",
     "lieu": "75 - PARIS",
     "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-09-26",
+    "titre": "15e Challenge du Pion Bordelais",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73233",
+    "cadence": "Lente",
+    "lieu": "33 - BORDEAUX",
+    "arbitre": "MULLON Jean-Baptiste"
   },
   {
     "date": "2026-09-26",
@@ -27054,6 +27022,14 @@
     "cadence": "Lente",
     "lieu": "11 - BELPECH",
     "arbitre": "PRIE Eric"
+  },
+  {
+    "date": "2026-09-26",
+    "titre": "Tournoi Interne de Cambrai Septembre 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73219",
+    "cadence": "Lente",
+    "lieu": "59 - CAMBRAI",
+    "arbitre": "SAUVE Philippe"
   },
   {
     "date": "2026-09-26",
@@ -27617,6 +27593,14 @@
   },
   {
     "date": "2026-09-27",
+    "titre": "Tournoi Interne de Cambrai Septembre 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73219",
+    "cadence": "Lente",
+    "lieu": "59 - CAMBRAI",
+    "arbitre": "SAUVE Philippe"
+  },
+  {
+    "date": "2026-09-27",
     "titre": "Tournoi Interne de Pont à Mousson 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72814",
     "cadence": "Lente",
@@ -27710,6 +27694,14 @@
     "cadence": "Lente",
     "lieu": "13 - MARSEILLE",
     "arbitre": "BEDHOUCHE Sadek"
+  },
+  {
+    "date": "2026-09-29",
+    "titre": "47eme échecs et malt",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73230",
+    "cadence": "Lente",
+    "lieu": "93 - PANTIN",
+    "arbitre": "DORVAL Olivier"
   },
   {
     "date": "2026-09-29",
@@ -27889,6 +27881,14 @@
   },
   {
     "date": "2026-10-02",
+    "titre": "7ème Trophée Barbosa",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73218",
+    "cadence": "Lente",
+    "lieu": "63 - CLERMONT FERRAND",
+    "arbitre": "FLOUZAT Jean-Marc"
+  },
+  {
+    "date": "2026-10-02",
     "titre": "Championnat interne La Dame Noire 2027 r1-2",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72849",
     "cadence": "Lente",
@@ -27918,6 +27918,14 @@
     "cadence": "Lente",
     "lieu": "13 - AUBAGNE",
     "arbitre": "ROMAN Sylvian"
+  },
+  {
+    "date": "2026-10-02",
+    "titre": "Rapide octobre 2026 Bourgoin-Jallieu",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73232",
+    "cadence": "Rapide",
+    "lieu": "38 - BOURGOIN JALLIEU",
+    "arbitre": "LOUISTISSERAND Patri"
   },
   {
     "date": "2026-10-02",
@@ -27958,6 +27966,14 @@
     "cadence": "Rapide",
     "lieu": "92 - VANVES",
     "arbitre": "BOGDANOVSKY Sonia"
+  },
+  {
+    "date": "2026-10-03",
+    "titre": "7ème Trophée Barbosa",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73218",
+    "cadence": "Lente",
+    "lieu": "63 - CLERMONT FERRAND",
+    "arbitre": "FLOUZAT Jean-Marc"
   },
   {
     "date": "2026-10-03",
@@ -28080,6 +28096,14 @@
     "arbitre": "LAZNOVSKY Jean-Yves"
   },
   {
+    "date": "2026-10-03",
+    "titre": "Trophée Jeunes de Vandoeuvre 2026-2027 étape 1 - 3 octobre 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73245",
+    "cadence": "Lente",
+    "lieu": "54 - VANDOEUVRE LES NANCY",
+    "arbitre": "SAVINA Anastasia"
+  },
+  {
     "date": "2026-10-04",
     "titre": "16e Tournoi Rapide de Saint Just en Chaussée",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72426",
@@ -28182,6 +28206,14 @@
     "cadence": "Rapide",
     "lieu": "85 - CHAMBRETAUD",
     "arbitre": "GUICHETEAU Dany"
+  },
+  {
+    "date": "2026-10-04",
+    "titre": "7ème Trophée Barbosa",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73218",
+    "cadence": "Lente",
+    "lieu": "63 - CLERMONT FERRAND",
+    "arbitre": "FLOUZAT Jean-Marc"
   },
   {
     "date": "2026-10-04",
@@ -28393,6 +28425,14 @@
   },
   {
     "date": "2026-10-08",
+    "titre": "Tournoi Interne Isle sur la sorgue 2026-2027 r1",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73226",
+    "cadence": "Lente",
+    "lieu": "84 - L'ISLE SUR LA SORGUE",
+    "arbitre": "BACON Bruno"
+  },
+  {
+    "date": "2026-10-08",
     "titre": "Tournoi du mercredi Grenoble – Automne 2026 r4-6 (-2400)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72935",
     "cadence": "Lente",
@@ -28406,6 +28446,14 @@
     "cadence": "Blitz",
     "lieu": "69 - CORBAS",
     "arbitre": "BISSIERES Matthieu"
+  },
+  {
+    "date": "2026-10-09",
+    "titre": "1er Rapide Interne de Chateaubriand saison 2026-2027 -2400",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73228",
+    "cadence": "Rapide",
+    "lieu": "44 - CHATEAUBRIANT",
+    "arbitre": "NOEL Nicolas"
   },
   {
     "date": "2026-10-09",
@@ -28433,6 +28481,14 @@
   },
   {
     "date": "2026-10-09",
+    "titre": "Tournoi Interne Isle sur la sorgue 2026-2027 r1",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73226",
+    "cadence": "Lente",
+    "lieu": "84 - L'ISLE SUR LA SORGUE",
+    "arbitre": "BACON Bruno"
+  },
+  {
+    "date": "2026-10-09",
     "titre": "Tournoi du mercredi Grenoble – Automne 2026 r4-6 (-2400)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72935",
     "cadence": "Lente",
@@ -28454,6 +28510,14 @@
     "cadence": "Rapide",
     "lieu": "30 - LE GRAU DU ROI",
     "arbitre": "FOSSELLA Manuel"
+  },
+  {
+    "date": "2026-10-10",
+    "titre": "9ème tournoi jeunes de Châtenoy-le-Royal",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73227",
+    "cadence": "Lente",
+    "lieu": "71 - CHATENOY LE ROYAL",
+    "arbitre": "FARGERE Jacky"
   },
   {
     "date": "2026-10-10",
@@ -28640,6 +28704,14 @@
     "arbitre": "SALINAS Pierre"
   },
   {
+    "date": "2026-10-14",
+    "titre": "USCF 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73231",
+    "cadence": "Lente",
+    "lieu": "80 - MONTDIDIER",
+    "arbitre": "SALLETTE Alain"
+  },
+  {
     "date": "2026-10-15",
     "titre": "26e Open International d'Echecs de la Réunion",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72310",
@@ -28654,6 +28726,14 @@
     "cadence": "Lente",
     "lieu": "68 - KINGERSHEIM",
     "arbitre": "DE FAVERI Gabriel"
+  },
+  {
+    "date": "2026-10-15",
+    "titre": "USCF 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73231",
+    "cadence": "Lente",
+    "lieu": "80 - MONTDIDIER",
+    "arbitre": "SALLETTE Alain"
   },
   {
     "date": "2026-10-16",
@@ -28729,6 +28809,14 @@
   },
   {
     "date": "2026-10-17",
+    "titre": "16e Challenge du Pion Bordelais",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73234",
+    "cadence": "Lente",
+    "lieu": "33 - BORDEAUX",
+    "arbitre": "MULLON Jean-Baptiste"
+  },
+  {
+    "date": "2026-10-17",
     "titre": "16e Rapide (-1400 Elo) Meaux",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72839",
     "cadence": "Rapide",
@@ -28763,6 +28851,14 @@
     "date": "2026-10-17",
     "titre": "17ème Open de Lattes (- 2400)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72880",
+    "cadence": "Lente",
+    "lieu": "34 - LATTES",
+    "arbitre": "TUR Fabrice"
+  },
+  {
+    "date": "2026-10-17",
+    "titre": "1er Open Jeune de Lattes (-1500)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73229",
     "cadence": "Lente",
     "lieu": "34 - LATTES",
     "arbitre": "TUR Fabrice"
@@ -29017,6 +29113,14 @@
   },
   {
     "date": "2026-10-18",
+    "titre": "1er Open Jeune de Lattes (-1500)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73229",
+    "cadence": "Lente",
+    "lieu": "34 - LATTES",
+    "arbitre": "TUR Fabrice"
+  },
+  {
+    "date": "2026-10-18",
     "titre": "1er Tournoi Open de Toussaint 2026 de Hyères",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72790",
     "cadence": "Lente",
@@ -29161,6 +29265,14 @@
   },
   {
     "date": "2026-10-18",
+    "titre": "Challenge Jeunes IdF 2026-27 - Etape 3 Montreuil",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73243",
+    "cadence": "Lente",
+    "lieu": "93 - MONTREUIL",
+    "arbitre": "MAUFFREY Hugues"
+  },
+  {
+    "date": "2026-10-18",
     "titre": "Championnat Interne de Kingersheim 2026 r3-4",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72895",
     "cadence": "Lente",
@@ -29217,6 +29329,14 @@
   },
   {
     "date": "2026-10-18",
+    "titre": "Festival Jeunes IdF 2026-27 - Etape 3 Montreuil",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73241",
+    "cadence": "Lente",
+    "lieu": "93 - MONTREUIL",
+    "arbitre": "MAUFFREY Hugues"
+  },
+  {
+    "date": "2026-10-18",
     "titre": "Open FIDE de parties longues au café L'échiquier Nancy (-1800)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73008",
     "cadence": "Lente",
@@ -29254,6 +29374,14 @@
     "cadence": "Rapide",
     "lieu": "47 - LE PASSAGE",
     "arbitre": "PRIE Eric"
+  },
+  {
+    "date": "2026-10-18",
+    "titre": "Tournoi Accompagnateurs IdF 2026-27 - Etape 3 Montreuil",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73242",
+    "cadence": "Lente",
+    "lieu": "93 - MONTREUIL",
+    "arbitre": "MAUFFREY Hugues"
   },
   {
     "date": "2026-10-19",
@@ -31001,6 +31129,14 @@
   },
   {
     "date": "2026-11-07",
+    "titre": "23eme Rapide du Samedi de l'ECCM",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73244",
+    "cadence": "Rapide",
+    "lieu": "69 - CORBAS",
+    "arbitre": "ACIKGOZ Tuncay"
+  },
+  {
+    "date": "2026-11-07",
     "titre": "97e Open Rapide Schlak A - Petits Poussins",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73117",
     "cadence": "Rapide",
@@ -32070,6 +32206,14 @@
     "cadence": "Lente",
     "lieu": "38 - GRENOBLE",
     "arbitre": "SALINAS Pierre"
+  },
+  {
+    "date": "2026-12-05",
+    "titre": "17e Challenge du Pion Bordelais",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73235",
+    "cadence": "Lente",
+    "lieu": "33 - BORDEAUX",
+    "arbitre": "MULLON Jean-Baptiste"
   },
   {
     "date": "2026-12-05",
