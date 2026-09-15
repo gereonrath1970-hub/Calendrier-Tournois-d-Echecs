@@ -26081,6 +26081,14 @@
   },
   {
     "date": "2026-09-19",
+    "titre": "Tournoi de rentrée 2026 de Toulouse Lardenne",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73262",
+    "cadence": "Lente",
+    "lieu": "31 - TOULOUSE",
+    "arbitre": "SANCHEZ Nicolas"
+  },
+  {
+    "date": "2026-09-19",
     "titre": "Tournoi des aventuriers Courtois 19 septembre 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73093",
     "cadence": "Lente",
@@ -26929,11 +26937,27 @@
   },
   {
     "date": "2026-09-26",
+    "titre": "Championnat du plateau de Gex 09-26 (-2400)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73246",
+    "cadence": "Lente",
+    "lieu": "01 - GEX",
+    "arbitre": "LALIEU Charles"
+  },
+  {
+    "date": "2026-09-26",
     "titre": "Championnat interne La Dame Noire 2027 r1-2",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72849",
     "cadence": "Lente",
     "lieu": "78 - MONTIGNY LE BRETONNEUX",
     "arbitre": "RIVIER Sylvain"
+  },
+  {
+    "date": "2026-09-26",
+    "titre": "Championnat rapide Féminin de Haute Garonne 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73263",
+    "cadence": "Rapide",
+    "lieu": "31 - TOULOUSE",
+    "arbitre": "CWIEK NGUYEN Francoi"
   },
   {
     "date": "2026-09-26",
@@ -27398,6 +27422,14 @@
     "cadence": "Lente",
     "lieu": "81 - ALBI",
     "arbitre": "AUREJAC Pierre"
+  },
+  {
+    "date": "2026-09-27",
+    "titre": "Championnat du plateau de Gex 09-26 (-2400)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73246",
+    "cadence": "Lente",
+    "lieu": "01 - GEX",
+    "arbitre": "LALIEU Charles"
   },
   {
     "date": "2026-09-27",
@@ -28449,7 +28481,7 @@
   },
   {
     "date": "2026-10-09",
-    "titre": "1er Rapide Interne de Chateaubriand saison 2026-2027 -2400",
+    "titre": "1er Rapide Interne de Chateaubriant saison 2026-2027 -2400",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73228",
     "cadence": "Rapide",
     "lieu": "44 - CHATEAUBRIANT",
@@ -28582,6 +28614,14 @@
     "cadence": "Lente",
     "lieu": "77 - FONTAINEBLEAU",
     "arbitre": "LECLERC Louis"
+  },
+  {
+    "date": "2026-10-10",
+    "titre": "Tournoi interne la Dame Noire 2026-27 jeunes r1",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73248",
+    "cadence": "Lente",
+    "lieu": "78 - MONTIGNY LE BRETONNEUX",
+    "arbitre": "PLANTET Marc"
   },
   {
     "date": "2026-10-10",
@@ -30585,6 +30625,14 @@
   },
   {
     "date": "2026-10-28",
+    "titre": "Festival du Mans 2026 (-2400)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73252",
+    "cadence": "Lente",
+    "lieu": "72 - LE MANS",
+    "arbitre": "GAO Youping"
+  },
+  {
+    "date": "2026-10-28",
     "titre": "Open A du Pays Fouesnantais 2026 à cadence lente (plus de 1500)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72663",
     "cadence": "Lente",
@@ -30670,6 +30718,14 @@
     "cadence": "Lente",
     "lieu": "35 - RENNES",
     "arbitre": "BLEUZEN Christian"
+  },
+  {
+    "date": "2026-10-29",
+    "titre": "Festival du Mans 2026 (-2400)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73252",
+    "cadence": "Lente",
+    "lieu": "72 - LE MANS",
+    "arbitre": "GAO Youping"
   },
   {
     "date": "2026-10-29",
@@ -30798,6 +30854,14 @@
     "cadence": "Lente",
     "lieu": "35 - RENNES",
     "arbitre": "BLEUZEN Christian"
+  },
+  {
+    "date": "2026-10-30",
+    "titre": "Festival du Mans 2026 (-2400)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73252",
+    "cadence": "Lente",
+    "lieu": "72 - LE MANS",
+    "arbitre": "GAO Youping"
   },
   {
     "date": "2026-10-30",
@@ -32662,6 +32726,14 @@
     "cadence": "Lente",
     "lieu": "59 - CAMBRAI",
     "arbitre": "SAUVE Philippe"
+  },
+  {
+    "date": "2026-12-20",
+    "titre": "Tournoi interne la Dame Noire 2026-27 jeunes r2-3",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73249",
+    "cadence": "Lente",
+    "lieu": "78 - MONTIGNY LE BRETONNEUX",
+    "arbitre": "PLANTET Marc"
   },
   {
     "date": "2026-12-21",
