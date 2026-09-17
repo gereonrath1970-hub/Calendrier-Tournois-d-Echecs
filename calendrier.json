@@ -26665,6 +26665,14 @@
   },
   {
     "date": "2026-09-25",
+    "titre": "6e Tournoi de Blitz Mensuel de Cergy-Pontoise interne",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73283",
+    "cadence": "Blitz",
+    "lieu": "95 - PONTOISE",
+    "arbitre": "DAUPHIN Thomas"
+  },
+  {
+    "date": "2026-09-25",
     "titre": "Blitz de la Rentrée de l'Échiquier Nîmois 2026-09-25",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73068",
     "cadence": "Blitz",
@@ -27918,6 +27926,22 @@
     "cadence": "Blitz",
     "lieu": "75 - PARIS",
     "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-10-02",
+    "titre": "28e Rapide FIDE du Vendredi de Franconville (+1600)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73278",
+    "cadence": "Rapide",
+    "lieu": "95 - FRANCONVILLE",
+    "arbitre": "MAREC Yann"
+  },
+  {
+    "date": "2026-10-02",
+    "titre": "28e Rapide FIDE du Vendredi de Franconville (-1600)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73277",
+    "cadence": "Rapide",
+    "lieu": "95 - FRANCONVILLE",
+    "arbitre": "MAREC Yann"
   },
   {
     "date": "2026-10-02",
@@ -31265,6 +31289,22 @@
   },
   {
     "date": "2026-11-06",
+    "titre": "29e Rapide FIDE du Vendredi de Franconville (+1600)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73280",
+    "cadence": "Rapide",
+    "lieu": "95 - FRANCONVILLE",
+    "arbitre": "MAREC Yann"
+  },
+  {
+    "date": "2026-11-06",
+    "titre": "29e Rapide FIDE du Vendredi de Franconville (-1600)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73279",
+    "cadence": "Rapide",
+    "lieu": "95 - FRANCONVILLE",
+    "arbitre": "MAREC Yann"
+  },
+  {
+    "date": "2026-11-06",
     "titre": "594e Rapide Fide du Canal",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72646",
     "cadence": "Rapide",
@@ -31625,6 +31665,54 @@
   },
   {
     "date": "2026-11-14",
+    "titre": "Championnat des Pyrénées Orientales 2026 U08",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73286",
+    "cadence": "Lente",
+    "lieu": "66 - PERPIGNAN",
+    "arbitre": "GARCIA Richard"
+  },
+  {
+    "date": "2026-11-14",
+    "titre": "Championnat des Pyrénées Orientales 2026 U10",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73287",
+    "cadence": "Lente",
+    "lieu": "66 - PERPIGNAN",
+    "arbitre": "GARCIA Richard"
+  },
+  {
+    "date": "2026-11-14",
+    "titre": "Championnat des Pyrénées Orientales 2026 U12",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73288",
+    "cadence": "Lente",
+    "lieu": "66 - PERPIGNAN",
+    "arbitre": "LABORDE Stephane"
+  },
+  {
+    "date": "2026-11-14",
+    "titre": "Championnat des Pyrénées Orientales 2026 U14",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73289",
+    "cadence": "Lente",
+    "lieu": "66 - PERPIGNAN",
+    "arbitre": "LABORDE Stephane"
+  },
+  {
+    "date": "2026-11-14",
+    "titre": "Championnat des Pyrénées Orientales 2026 U16",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73290",
+    "cadence": "Lente",
+    "lieu": "66 - PERPIGNAN",
+    "arbitre": "LABORDE Stephane"
+  },
+  {
+    "date": "2026-11-14",
+    "titre": "Championnat des Pyrénées Orientales 2026 U18 U20",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73291",
+    "cadence": "Lente",
+    "lieu": "66 - PERPIGNAN",
+    "arbitre": "LABORDE Stephane"
+  },
+  {
+    "date": "2026-11-14",
     "titre": "Championnat interne rapide de Saint-Dizier novembre 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73196",
     "cadence": "Rapide",
@@ -31766,6 +31854,22 @@
     "cadence": "Lente",
     "lieu": "26 - ROMANS SUR ISERE",
     "arbitre": "ARMES Timothy"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Championnat des Pyrénées Orientales 2026 U14",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73289",
+    "cadence": "Lente",
+    "lieu": "66 - PERPIGNAN",
+    "arbitre": "LABORDE Stephane"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Championnat des Pyrénées Orientales 2026 U16",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73290",
+    "cadence": "Lente",
+    "lieu": "66 - PERPIGNAN",
+    "arbitre": "LABORDE Stephane"
   },
   {
     "date": "2026-11-15",
@@ -32489,6 +32593,22 @@
   },
   {
     "date": "2026-12-04",
+    "titre": "30e Rapide FIDE du Vendredi de Franconville (+1600)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73282",
+    "cadence": "Rapide",
+    "lieu": "95 - FRANCONVILLE",
+    "arbitre": "MAREC Yann"
+  },
+  {
+    "date": "2026-12-04",
+    "titre": "30e Rapide FIDE du Vendredi de Franconville (-1600)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73281",
+    "cadence": "Rapide",
+    "lieu": "95 - FRANCONVILLE",
+    "arbitre": "MAREC Yann"
+  },
+  {
+    "date": "2026-12-04",
     "titre": "598e Rapide Fide du Canal",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72650",
     "cadence": "Rapide",
@@ -32665,6 +32785,14 @@
   },
   {
     "date": "2026-12-10",
+    "titre": "Tournoi Interne de Naucelle 2026-27 r1-3",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73284",
+    "cadence": "Lente",
+    "lieu": "12 - NAUCELLE",
+    "arbitre": "HARY Serge"
+  },
+  {
+    "date": "2026-12-10",
     "titre": "Tournoi du mercredi Grenoble – Hiver 2027 r1-3 (-2400)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72937",
     "cadence": "Lente",
@@ -32697,6 +32825,14 @@
   },
   {
     "date": "2026-12-11",
+    "titre": "Tournoi Interne de Naucelle 2026-27 r1-3",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73284",
+    "cadence": "Lente",
+    "lieu": "12 - NAUCELLE",
+    "arbitre": "HARY Serge"
+  },
+  {
+    "date": "2026-12-11",
     "titre": "Tournoi du mercredi Grenoble – Hiver 2027 r1-3 (-2400)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72937",
     "cadence": "Lente",
@@ -32726,6 +32862,14 @@
     "cadence": "Lente",
     "lieu": "35 - RENNES",
     "arbitre": "BLEUZEN Christian"
+  },
+  {
+    "date": "2026-12-12",
+    "titre": "Tournoi Interne de Naucelle 2026-27 r1-3",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73284",
+    "cadence": "Lente",
+    "lieu": "12 - NAUCELLE",
+    "arbitre": "HARY Serge"
   },
   {
     "date": "2026-12-12",
