@@ -27257,7 +27257,7 @@
   },
   {
     "date": "2026-09-27",
-    "titre": "25ème Rapide de Rentrée ECV - Tournoi Jeunes (-1200elo et jusqu'à U12 pupilles)",
+    "titre": "25ème Rapide de Rentrée ECV - Tournoi Jeunes (jusqu'à U12 pupilles et moins)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72630",
     "cadence": "Rapide",
     "lieu": "84 - MORIERES LES AVIGNON",
@@ -28825,6 +28825,14 @@
   },
   {
     "date": "2026-10-14",
+    "titre": "Tournoi de Fromelles 1 M 26-27",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73321",
+    "cadence": "Lente",
+    "lieu": "59 - FROMELLES",
+    "arbitre": "DUPONT Daniel-Noel"
+  },
+  {
+    "date": "2026-10-14",
     "titre": "Tournoi du mercredi Grenoble – Automne 2026 r4-6 (-2400)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72935",
     "cadence": "Lente",
@@ -29465,6 +29473,14 @@
   },
   {
     "date": "2026-10-18",
+    "titre": "Championnat jeunes CRMLE 2026 U8",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73311",
+    "cadence": "Lente",
+    "lieu": "69 - CHARBONNIERES LES BAINS",
+    "arbitre": "DARCET Bruno"
+  },
+  {
+    "date": "2026-10-18",
     "titre": "Checkmate Cancer : 21ème Rapide Club 608 - Paris 15ème",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73264",
     "cadence": "Rapide",
@@ -29638,6 +29654,14 @@
     "cadence": "Lente",
     "lieu": "68 - KINGERSHEIM",
     "arbitre": "DE FAVERI Gabriel"
+  },
+  {
+    "date": "2026-10-19",
+    "titre": "Championnat jeunes CRMLE 2026 U8",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73311",
+    "cadence": "Lente",
+    "lieu": "69 - CHARBONNIERES LES BAINS",
+    "arbitre": "DARCET Bruno"
   },
   {
     "date": "2026-10-19",
