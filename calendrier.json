@@ -27913,6 +27913,14 @@
   },
   {
     "date": "2026-10-02",
+    "titre": "1er Rapide de Cannes 2026-2027",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73319",
+    "cadence": "Rapide",
+    "lieu": "06 - CANNES",
+    "arbitre": "VERHULST Jens"
+  },
+  {
+    "date": "2026-10-02",
     "titre": "1hKO interne La Dame Noire 2027 r1-2",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72855",
     "cadence": "Lente",
@@ -28065,6 +28073,14 @@
   },
   {
     "date": "2026-10-03",
+    "titre": "2e Rapide d'Aix-Les-Bains",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73323",
+    "cadence": "Rapide",
+    "lieu": "73 - AIX LES BAINS",
+    "arbitre": "OBERFALCER Nathan"
+  },
+  {
+    "date": "2026-10-03",
     "titre": "7e Tournoi de parties rapide de Vanves -2200",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73020",
     "cadence": "Rapide",
@@ -28110,6 +28126,14 @@
     "cadence": "Lente",
     "lieu": "68 - BENNWIHR",
     "arbitre": "GERANDI Guillaume"
+  },
+  {
+    "date": "2026-10-03",
+    "titre": "Expresso du Roi So' 32 - 10-2026 - Tournoi A",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73308",
+    "cadence": "Lente",
+    "lieu": "78 - LE CHESNAY",
+    "arbitre": "CLAISSE Patrick"
   },
   {
     "date": "2026-10-03",
@@ -28265,6 +28289,14 @@
   },
   {
     "date": "2026-10-04",
+    "titre": "2 ème Open Rapide les pions de Natacha (-2100)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73375",
+    "cadence": "Rapide",
+    "lieu": "95 - VAUREAL",
+    "arbitre": "ESTIN-CHARBONNEL Lau"
+  },
+  {
+    "date": "2026-10-04",
     "titre": "2e Mémorial Alberto Zurano (-1400 Elo) Meaux",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72838",
     "cadence": "Lente",
@@ -28361,6 +28393,14 @@
   },
   {
     "date": "2026-10-04",
+    "titre": "Open Juillan 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73304",
+    "cadence": "Lente",
+    "lieu": "65 - JUILLAN",
+    "arbitre": "GOSSELIN Vincent"
+  },
+  {
+    "date": "2026-10-04",
     "titre": "Open de Bischwiller Octobre 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73109",
     "cadence": "Lente",
@@ -28425,6 +28465,14 @@
   },
   {
     "date": "2026-10-04",
+    "titre": "Tournoi Rapide Riviera Chess Academy 04 octobre 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73317",
+    "cadence": "Rapide",
+    "lieu": "06 - NICE",
+    "arbitre": "RIBREAU Herve"
+  },
+  {
+    "date": "2026-10-04",
     "titre": "Tournoi Roger Pelat 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72231",
     "cadence": "Lente",
@@ -28462,6 +28510,14 @@
     "cadence": "Lente",
     "lieu": "38 - GRENOBLE",
     "arbitre": "SALINAS Pierre"
+  },
+  {
+    "date": "2026-10-04",
+    "titre": "Tournoi interne US Villejuif Echecs nr1 (-1800)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73310",
+    "cadence": "Lente",
+    "lieu": "94 - VILLEJUIF",
+    "arbitre": "MARKS Edwin"
   },
   {
     "date": "2026-10-04",
@@ -28518,6 +28574,22 @@
     "cadence": "Blitz",
     "lieu": "13 - AUBAGNE",
     "arbitre": "ROMAN Sylvian"
+  },
+  {
+    "date": "2026-10-07",
+    "titre": "Blitz BS du mercredi 07-10-2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73324",
+    "cadence": "Blitz",
+    "lieu": "75 - PARIS",
+    "arbitre": "AUDER Benjamin"
+  },
+  {
+    "date": "2026-10-07",
+    "titre": "Blitz des Primeurs octobre 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73306",
+    "cadence": "Blitz",
+    "lieu": "09 - SOUEIX ROGALLE",
+    "arbitre": "GALLORINI Jean-Chris"
   },
   {
     "date": "2026-10-07",
@@ -28585,6 +28657,14 @@
   },
   {
     "date": "2026-10-09",
+    "titre": "Blitz octobre 2026 de Vandoeuvre-Echecs",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73329",
+    "cadence": "Blitz",
+    "lieu": "54 - VANDOEUVRE LES NANCY",
+    "arbitre": "BAABOUZ Moussa"
+  },
+  {
+    "date": "2026-10-09",
     "titre": "Championnat Interne de Kingersheim 2026 r3-4",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72895",
     "cadence": "Lente",
@@ -28646,6 +28726,14 @@
     "cadence": "Lente",
     "lieu": "74 - ANNECY",
     "arbitre": "TRAVAILLOUX Dimitri"
+  },
+  {
+    "date": "2026-10-10",
+    "titre": "Championnat de Savoie 2026-27 r1-2",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73292",
+    "cadence": "Lente",
+    "lieu": "73 - AIX LES BAINS",
+    "arbitre": "FRION Sandrine"
   },
   {
     "date": "2026-10-10",
@@ -28737,6 +28825,14 @@
   },
   {
     "date": "2026-10-11",
+    "titre": "Championnat de Savoie 2026-27 r1-2",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73292",
+    "cadence": "Lente",
+    "lieu": "73 - AIX LES BAINS",
+    "arbitre": "FRION Sandrine"
+  },
+  {
+    "date": "2026-10-11",
     "titre": "Parties de Champagne Octobre 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72717",
     "cadence": "Lente",
@@ -28769,6 +28865,14 @@
   },
   {
     "date": "2026-10-12",
+    "titre": "Championnat de Savoie 2026-27 r1-2",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73292",
+    "cadence": "Lente",
+    "lieu": "73 - AIX LES BAINS",
+    "arbitre": "FRION Sandrine"
+  },
+  {
+    "date": "2026-10-12",
     "titre": "Tournoi du mercredi Grenoble – Automne 2026 r4-6 (-2400)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72935",
     "cadence": "Lente",
@@ -28790,6 +28894,14 @@
     "cadence": "Lente",
     "lieu": "68 - KINGERSHEIM",
     "arbitre": "DE FAVERI Gabriel"
+  },
+  {
+    "date": "2026-10-13",
+    "titre": "Championnat de Savoie 2026-27 r1-2",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73292",
+    "cadence": "Lente",
+    "lieu": "73 - AIX LES BAINS",
+    "arbitre": "FRION Sandrine"
   },
   {
     "date": "2026-10-13",
@@ -28817,11 +28929,27 @@
   },
   {
     "date": "2026-10-14",
+    "titre": "Blitz BS du mercredi 14-10-2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73325",
+    "cadence": "Blitz",
+    "lieu": "75 - PARIS",
+    "arbitre": "AUDER Benjamin"
+  },
+  {
+    "date": "2026-10-14",
     "titre": "Championnat Interne de Kingersheim 2026 r3-4",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72895",
     "cadence": "Lente",
     "lieu": "68 - KINGERSHEIM",
     "arbitre": "DE FAVERI Gabriel"
+  },
+  {
+    "date": "2026-10-14",
+    "titre": "Championnat de Savoie 2026-27 r1-2",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73292",
+    "cadence": "Lente",
+    "lieu": "73 - AIX LES BAINS",
+    "arbitre": "FRION Sandrine"
   },
   {
     "date": "2026-10-14",
@@ -28862,6 +28990,14 @@
     "cadence": "Lente",
     "lieu": "68 - KINGERSHEIM",
     "arbitre": "DE FAVERI Gabriel"
+  },
+  {
+    "date": "2026-10-15",
+    "titre": "Championnat de Savoie 2026-27 r1-2",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73292",
+    "cadence": "Lente",
+    "lieu": "73 - AIX LES BAINS",
+    "arbitre": "FRION Sandrine"
   },
   {
     "date": "2026-10-15",
@@ -28926,6 +29062,14 @@
     "cadence": "Lente",
     "lieu": "68 - KINGERSHEIM",
     "arbitre": "DE FAVERI Gabriel"
+  },
+  {
+    "date": "2026-10-16",
+    "titre": "Championnat de Savoie 2026-27 r1-2",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73292",
+    "cadence": "Lente",
+    "lieu": "73 - AIX LES BAINS",
+    "arbitre": "FRION Sandrine"
   },
   {
     "date": "2026-10-16",
@@ -29113,6 +29257,14 @@
   },
   {
     "date": "2026-10-17",
+    "titre": "Championnat de Savoie 2026-27 r1-2",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73292",
+    "cadence": "Lente",
+    "lieu": "73 - AIX LES BAINS",
+    "arbitre": "FRION Sandrine"
+  },
+  {
+    "date": "2026-10-17",
     "titre": "Championnat des Jeunes de l'Isère 2027 - U10",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73084",
     "cadence": "Lente",
@@ -29150,6 +29302,46 @@
     "cadence": "Lente",
     "lieu": "38 - BOURGOIN JALLIEU",
     "arbitre": "RINGOT Francoise"
+  },
+  {
+    "date": "2026-10-17",
+    "titre": "Championnat jeunes CRMLE 2026 U10",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73312",
+    "cadence": "Lente",
+    "lieu": "69 - CHARBONNIERES LES BAINS",
+    "arbitre": "DARCET Bruno"
+  },
+  {
+    "date": "2026-10-17",
+    "titre": "Championnat jeunes CRMLE 2026 U12",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73313",
+    "cadence": "Lente",
+    "lieu": "69 - CHARBONNIERES LES BAINS",
+    "arbitre": "DARCET Bruno"
+  },
+  {
+    "date": "2026-10-17",
+    "titre": "Championnat jeunes CRMLE 2026 U14",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73314",
+    "cadence": "Lente",
+    "lieu": "69 - CHARBONNIERES LES BAINS",
+    "arbitre": "DARCET Bruno"
+  },
+  {
+    "date": "2026-10-17",
+    "titre": "Championnat jeunes CRMLE 2026 U16",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73315",
+    "cadence": "Lente",
+    "lieu": "69 - CHARBONNIERES LES BAINS",
+    "arbitre": "DARCET Bruno"
+  },
+  {
+    "date": "2026-10-17",
+    "titre": "Championnat jeunes CRMLE 2026 U18-U20",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73316",
+    "cadence": "Lente",
+    "lieu": "69 - CHARBONNIERES LES BAINS",
+    "arbitre": "DARCET Bruno"
   },
   {
     "date": "2026-10-17",
@@ -29206,6 +29398,46 @@
     "cadence": "Lente",
     "lieu": "35 - LIFFRE",
     "arbitre": "RUHLMANN Dominique"
+  },
+  {
+    "date": "2026-10-17",
+    "titre": "Phase Nord du Championnat de France Jeunes 2026 U12 (-1800)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73299",
+    "cadence": "Lente",
+    "lieu": "59 - CAPPELLE LA GRANDE",
+    "arbitre": "FERYN Alexandre"
+  },
+  {
+    "date": "2026-10-17",
+    "titre": "Phase Nord du Championnat de France Jeunes 2026 U14 (-1800)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73300",
+    "cadence": "Lente",
+    "lieu": "59 - CAPPELLE LA GRANDE",
+    "arbitre": "FERYN Alexandre"
+  },
+  {
+    "date": "2026-10-17",
+    "titre": "Phase Nord du Championnat de France Jeunes 2026 U16 (-1800)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73301",
+    "cadence": "Lente",
+    "lieu": "59 - CAPPELLE LA GRANDE",
+    "arbitre": "FERYN Alexandre"
+  },
+  {
+    "date": "2026-10-17",
+    "titre": "Phase Nord du Championnat de France Jeunes 2026 U18 (-1800)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73302",
+    "cadence": "Lente",
+    "lieu": "59 - CAPPELLE LA GRANDE",
+    "arbitre": "FERYN Alexandre"
+  },
+  {
+    "date": "2026-10-17",
+    "titre": "Phase Nord du Championnat de France Jeunes 2026 U20 (-1800)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73303",
+    "cadence": "Lente",
+    "lieu": "59 - CAPPELLE LA GRANDE",
+    "arbitre": "FERYN Alexandre"
   },
   {
     "date": "2026-10-17",
@@ -29473,6 +29705,46 @@
   },
   {
     "date": "2026-10-18",
+    "titre": "Championnat jeunes CRMLE 2026 U10",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73312",
+    "cadence": "Lente",
+    "lieu": "69 - CHARBONNIERES LES BAINS",
+    "arbitre": "DARCET Bruno"
+  },
+  {
+    "date": "2026-10-18",
+    "titre": "Championnat jeunes CRMLE 2026 U12",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73313",
+    "cadence": "Lente",
+    "lieu": "69 - CHARBONNIERES LES BAINS",
+    "arbitre": "DARCET Bruno"
+  },
+  {
+    "date": "2026-10-18",
+    "titre": "Championnat jeunes CRMLE 2026 U14",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73314",
+    "cadence": "Lente",
+    "lieu": "69 - CHARBONNIERES LES BAINS",
+    "arbitre": "DARCET Bruno"
+  },
+  {
+    "date": "2026-10-18",
+    "titre": "Championnat jeunes CRMLE 2026 U16",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73315",
+    "cadence": "Lente",
+    "lieu": "69 - CHARBONNIERES LES BAINS",
+    "arbitre": "DARCET Bruno"
+  },
+  {
+    "date": "2026-10-18",
+    "titre": "Championnat jeunes CRMLE 2026 U18-U20",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73316",
+    "cadence": "Lente",
+    "lieu": "69 - CHARBONNIERES LES BAINS",
+    "arbitre": "DARCET Bruno"
+  },
+  {
+    "date": "2026-10-18",
     "titre": "Championnat jeunes CRMLE 2026 U8",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73311",
     "cadence": "Lente",
@@ -29529,11 +29801,75 @@
   },
   {
     "date": "2026-10-18",
+    "titre": "Phase Nord du Championnat de France Jeunes 2026 U08",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73297",
+    "cadence": "Lente",
+    "lieu": "59 - CAPPELLE LA GRANDE",
+    "arbitre": "FERYN Alexandre"
+  },
+  {
+    "date": "2026-10-18",
+    "titre": "Phase Nord du Championnat de France Jeunes 2026 U10",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73298",
+    "cadence": "Lente",
+    "lieu": "59 - CAPPELLE LA GRANDE",
+    "arbitre": "FERYN Alexandre"
+  },
+  {
+    "date": "2026-10-18",
+    "titre": "Phase Nord du Championnat de France Jeunes 2026 U12 (-1800)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73299",
+    "cadence": "Lente",
+    "lieu": "59 - CAPPELLE LA GRANDE",
+    "arbitre": "FERYN Alexandre"
+  },
+  {
+    "date": "2026-10-18",
+    "titre": "Phase Nord du Championnat de France Jeunes 2026 U14 (-1800)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73300",
+    "cadence": "Lente",
+    "lieu": "59 - CAPPELLE LA GRANDE",
+    "arbitre": "FERYN Alexandre"
+  },
+  {
+    "date": "2026-10-18",
+    "titre": "Phase Nord du Championnat de France Jeunes 2026 U16 (-1800)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73301",
+    "cadence": "Lente",
+    "lieu": "59 - CAPPELLE LA GRANDE",
+    "arbitre": "FERYN Alexandre"
+  },
+  {
+    "date": "2026-10-18",
+    "titre": "Phase Nord du Championnat de France Jeunes 2026 U18 (-1800)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73302",
+    "cadence": "Lente",
+    "lieu": "59 - CAPPELLE LA GRANDE",
+    "arbitre": "FERYN Alexandre"
+  },
+  {
+    "date": "2026-10-18",
+    "titre": "Phase Nord du Championnat de France Jeunes 2026 U20 (-1800)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73303",
+    "cadence": "Lente",
+    "lieu": "59 - CAPPELLE LA GRANDE",
+    "arbitre": "FERYN Alexandre"
+  },
+  {
+    "date": "2026-10-18",
     "titre": "Rapide d'Automne 2026 du Passage",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73209",
     "cadence": "Rapide",
     "lieu": "47 - LE PASSAGE",
     "arbitre": "PRIE Eric"
+  },
+  {
+    "date": "2026-10-18",
+    "titre": "Rapide de Triel sur Seine \"Octobre Rose\" 10-2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73309",
+    "cadence": "Rapide",
+    "lieu": "78 - TRIEL SUR SEINE",
+    "arbitre": "CLAISSE Patrick"
   },
   {
     "date": "2026-10-18",
@@ -29657,6 +29993,46 @@
   },
   {
     "date": "2026-10-19",
+    "titre": "Championnat jeunes CRMLE 2026 U10",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73312",
+    "cadence": "Lente",
+    "lieu": "69 - CHARBONNIERES LES BAINS",
+    "arbitre": "DARCET Bruno"
+  },
+  {
+    "date": "2026-10-19",
+    "titre": "Championnat jeunes CRMLE 2026 U12",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73313",
+    "cadence": "Lente",
+    "lieu": "69 - CHARBONNIERES LES BAINS",
+    "arbitre": "DARCET Bruno"
+  },
+  {
+    "date": "2026-10-19",
+    "titre": "Championnat jeunes CRMLE 2026 U14",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73314",
+    "cadence": "Lente",
+    "lieu": "69 - CHARBONNIERES LES BAINS",
+    "arbitre": "DARCET Bruno"
+  },
+  {
+    "date": "2026-10-19",
+    "titre": "Championnat jeunes CRMLE 2026 U16",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73315",
+    "cadence": "Lente",
+    "lieu": "69 - CHARBONNIERES LES BAINS",
+    "arbitre": "DARCET Bruno"
+  },
+  {
+    "date": "2026-10-19",
+    "titre": "Championnat jeunes CRMLE 2026 U18-U20",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73316",
+    "cadence": "Lente",
+    "lieu": "69 - CHARBONNIERES LES BAINS",
+    "arbitre": "DARCET Bruno"
+  },
+  {
+    "date": "2026-10-19",
     "titre": "Championnat jeunes CRMLE 2026 U8",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73311",
     "cadence": "Lente",
@@ -29678,6 +30054,62 @@
     "cadence": "Lente",
     "lieu": "35 - LIFFRE",
     "arbitre": "RUHLMANN Dominique"
+  },
+  {
+    "date": "2026-10-19",
+    "titre": "Phase Nord du Championnat de France Jeunes 2026 U08",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73297",
+    "cadence": "Lente",
+    "lieu": "59 - CAPPELLE LA GRANDE",
+    "arbitre": "FERYN Alexandre"
+  },
+  {
+    "date": "2026-10-19",
+    "titre": "Phase Nord du Championnat de France Jeunes 2026 U10",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73298",
+    "cadence": "Lente",
+    "lieu": "59 - CAPPELLE LA GRANDE",
+    "arbitre": "FERYN Alexandre"
+  },
+  {
+    "date": "2026-10-19",
+    "titre": "Phase Nord du Championnat de France Jeunes 2026 U12 (-1800)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73299",
+    "cadence": "Lente",
+    "lieu": "59 - CAPPELLE LA GRANDE",
+    "arbitre": "FERYN Alexandre"
+  },
+  {
+    "date": "2026-10-19",
+    "titre": "Phase Nord du Championnat de France Jeunes 2026 U14 (-1800)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73300",
+    "cadence": "Lente",
+    "lieu": "59 - CAPPELLE LA GRANDE",
+    "arbitre": "FERYN Alexandre"
+  },
+  {
+    "date": "2026-10-19",
+    "titre": "Phase Nord du Championnat de France Jeunes 2026 U16 (-1800)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73301",
+    "cadence": "Lente",
+    "lieu": "59 - CAPPELLE LA GRANDE",
+    "arbitre": "FERYN Alexandre"
+  },
+  {
+    "date": "2026-10-19",
+    "titre": "Phase Nord du Championnat de France Jeunes 2026 U18 (-1800)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73302",
+    "cadence": "Lente",
+    "lieu": "59 - CAPPELLE LA GRANDE",
+    "arbitre": "FERYN Alexandre"
+  },
+  {
+    "date": "2026-10-19",
+    "titre": "Phase Nord du Championnat de France Jeunes 2026 U20 (-1800)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73303",
+    "cadence": "Lente",
+    "lieu": "59 - CAPPELLE LA GRANDE",
+    "arbitre": "FERYN Alexandre"
   },
   {
     "date": "2026-10-20",
@@ -29809,6 +30241,14 @@
   },
   {
     "date": "2026-10-21",
+    "titre": "1er Blitz by Night - Lille Métropole Chess",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73330",
+    "cadence": "Blitz",
+    "lieu": "59 - LILLE",
+    "arbitre": "SOUBIROU Oriane"
+  },
+  {
+    "date": "2026-10-21",
     "titre": "1er Open International du Lille Métropole Chess",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72496",
     "cadence": "Lente",
@@ -29910,6 +30350,14 @@
     "cadence": "Lente",
     "lieu": "66 - PERPIGNAN",
     "arbitre": "LABORDE Stephane"
+  },
+  {
+    "date": "2026-10-21",
+    "titre": "Blitz BS du mercredi 21-10-2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73326",
+    "cadence": "Blitz",
+    "lieu": "75 - PARIS",
+    "arbitre": "AUDER Benjamin"
   },
   {
     "date": "2026-10-21",
@@ -30169,6 +30617,14 @@
   },
   {
     "date": "2026-10-23",
+    "titre": "Blitz du Breizh Chess Legends octobre 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73320",
+    "cadence": "Blitz",
+    "lieu": "35 - RENNES",
+    "arbitre": "BLEUZEN Christian"
+  },
+  {
+    "date": "2026-10-23",
     "titre": "Championnat Interne de Kingersheim 2026 r3-4",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72895",
     "cadence": "Lente",
@@ -30278,6 +30734,14 @@
     "cadence": "Lente",
     "lieu": "83 - HYERES",
     "arbitre": "RAMAZZOTTI Bernard"
+  },
+  {
+    "date": "2026-10-24",
+    "titre": "3éme Open d'automne Saint Erasme",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73328",
+    "cadence": "Lente",
+    "lieu": "2B - CALVI",
+    "arbitre": "MURCIA Gerald"
   },
   {
     "date": "2026-10-24",
@@ -30446,6 +30910,14 @@
     "cadence": "Rapide",
     "lieu": "03 - HURIEL",
     "arbitre": "BONNICHON Arnaud"
+  },
+  {
+    "date": "2026-10-25",
+    "titre": "3éme Open d'automne Saint Erasme",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73328",
+    "cadence": "Lente",
+    "lieu": "2B - CALVI",
+    "arbitre": "MURCIA Gerald"
   },
   {
     "date": "2026-10-25",
@@ -30742,6 +31214,14 @@
     "cadence": "Lente",
     "lieu": "83 - HYERES",
     "arbitre": "RAMAZZOTTI Bernard"
+  },
+  {
+    "date": "2026-10-28",
+    "titre": "Blitz BS du mercredi 28-10-2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73327",
+    "cadence": "Blitz",
+    "lieu": "75 - PARIS",
+    "arbitre": "AUDER Benjamin"
   },
   {
     "date": "2026-10-28",
@@ -31046,6 +31526,14 @@
     "cadence": "Lente",
     "lieu": "58 - SAINT BRISSON",
     "arbitre": "BESNARD Eric"
+  },
+  {
+    "date": "2026-10-31",
+    "titre": "1er tournoi d'Halloween d'Albertville",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73296",
+    "cadence": "Lente",
+    "lieu": "73 - ALBERTVILLE",
+    "arbitre": "LECLERC Rodolphe"
   },
   {
     "date": "2026-10-31",
@@ -31440,12 +31928,28 @@
     "arbitre": "BLEUZEN Christian"
   },
   {
+    "date": "2026-11-07",
+    "titre": "championnat de Savoie 2026-27 r3-4",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73293",
+    "cadence": "Lente",
+    "lieu": "73 - AIX LES BAINS",
+    "arbitre": "FRION Sandrine"
+  },
+  {
     "date": "2026-11-08",
     "titre": "Championnat Interne de Kingersheim 2026 r5-6",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72896",
     "cadence": "Lente",
     "lieu": "68 - KINGERSHEIM",
     "arbitre": "DE FAVERI Gabriel"
+  },
+  {
+    "date": "2026-11-08",
+    "titre": "championnat de Savoie 2026-27 r3-4",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73293",
+    "cadence": "Lente",
+    "lieu": "73 - AIX LES BAINS",
+    "arbitre": "FRION Sandrine"
   },
   {
     "date": "2026-11-09",
@@ -31456,12 +31960,28 @@
     "arbitre": "DE FAVERI Gabriel"
   },
   {
+    "date": "2026-11-09",
+    "titre": "championnat de Savoie 2026-27 r3-4",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73293",
+    "cadence": "Lente",
+    "lieu": "73 - AIX LES BAINS",
+    "arbitre": "FRION Sandrine"
+  },
+  {
     "date": "2026-11-10",
     "titre": "Championnat Interne de Kingersheim 2026 r5-6",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72896",
     "cadence": "Lente",
     "lieu": "68 - KINGERSHEIM",
     "arbitre": "DE FAVERI Gabriel"
+  },
+  {
+    "date": "2026-11-10",
+    "titre": "championnat de Savoie 2026-27 r3-4",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73293",
+    "cadence": "Lente",
+    "lieu": "73 - AIX LES BAINS",
+    "arbitre": "FRION Sandrine"
   },
   {
     "date": "2026-11-11",
@@ -31478,6 +31998,14 @@
     "cadence": "Rapide",
     "lieu": "59 - GRANDE SYNTHE",
     "arbitre": "BLOT Philippe"
+  },
+  {
+    "date": "2026-11-11",
+    "titre": "9ème Tournoi Rapide du 11 Novembre de l'Echiquier Clermontois Arverne",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73305",
+    "cadence": "Rapide",
+    "lieu": "63 - CLERMONT FERRAND",
+    "arbitre": "FLOUZAT Jean-Marc"
   },
   {
     "date": "2026-11-11",
@@ -31584,6 +32112,14 @@
     "arbitre": "AKREMANN Jordan"
   },
   {
+    "date": "2026-11-11",
+    "titre": "championnat de Savoie 2026-27 r3-4",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73293",
+    "cadence": "Lente",
+    "lieu": "73 - AIX LES BAINS",
+    "arbitre": "FRION Sandrine"
+  },
+  {
     "date": "2026-11-12",
     "titre": "Championnat Interne de Kingersheim 2026 r5-6",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72896",
@@ -31614,6 +32150,14 @@
     "cadence": "Lente",
     "lieu": "9A - SAINT PAUL",
     "arbitre": "LUTARD Florian"
+  },
+  {
+    "date": "2026-11-12",
+    "titre": "championnat de Savoie 2026-27 r3-4",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73293",
+    "cadence": "Lente",
+    "lieu": "73 - AIX LES BAINS",
+    "arbitre": "FRION Sandrine"
   },
   {
     "date": "2026-11-13",
@@ -31662,6 +32206,14 @@
     "cadence": "Lente",
     "lieu": "9A - SAINT PAUL",
     "arbitre": "LUTARD Florian"
+  },
+  {
+    "date": "2026-11-13",
+    "titre": "championnat de Savoie 2026-27 r3-4",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73293",
+    "cadence": "Lente",
+    "lieu": "73 - AIX LES BAINS",
+    "arbitre": "FRION Sandrine"
   },
   {
     "date": "2026-11-14",
@@ -31792,12 +32344,28 @@
     "arbitre": "LUTARD Florian"
   },
   {
+    "date": "2026-11-14",
+    "titre": "championnat de Savoie 2026-27 r3-4",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73293",
+    "cadence": "Lente",
+    "lieu": "73 - AIX LES BAINS",
+    "arbitre": "FRION Sandrine"
+  },
+  {
     "date": "2026-11-15",
     "titre": "2ème Open lent de Plaimpied-Givaudins (-2400)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73123",
     "cadence": "Lente",
     "lieu": "18 - PLAIMPIED GIVAUDINS",
     "arbitre": "GUINEFOLLEAU Marc"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Championnat 74 jeunes 2026-2027 catégorie U8",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73322",
+    "cadence": "Lente",
+    "lieu": "74 - LE GRAND BORNAND",
+    "arbitre": "LURVOIS Jean-Luc"
   },
   {
     "date": "2026-11-15",
@@ -32728,6 +33296,14 @@
     "arbitre": "SALINAS Pierre"
   },
   {
+    "date": "2026-12-05",
+    "titre": "championnat de Savoie 2026-27 r5-6",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73294",
+    "cadence": "Lente",
+    "lieu": "73 - AIX LES BAINS",
+    "arbitre": "FRION Sandrine"
+  },
+  {
     "date": "2026-12-06",
     "titre": "Championnat d'automne Annecy 2026 r5-7",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73044",
@@ -32752,6 +33328,14 @@
     "arbitre": "SALINAS Pierre"
   },
   {
+    "date": "2026-12-06",
+    "titre": "championnat de Savoie 2026-27 r5-6",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73294",
+    "cadence": "Lente",
+    "lieu": "73 - AIX LES BAINS",
+    "arbitre": "FRION Sandrine"
+  },
+  {
     "date": "2026-12-07",
     "titre": "Championnat d'automne Annecy 2026 r5-7",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73044",
@@ -32766,6 +33350,14 @@
     "cadence": "Lente",
     "lieu": "38 - GRENOBLE",
     "arbitre": "SALINAS Pierre"
+  },
+  {
+    "date": "2026-12-07",
+    "titre": "championnat de Savoie 2026-27 r5-6",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73294",
+    "cadence": "Lente",
+    "lieu": "73 - AIX LES BAINS",
+    "arbitre": "FRION Sandrine"
   },
   {
     "date": "2026-12-08",
@@ -32784,6 +33376,14 @@
     "arbitre": "SALINAS Pierre"
   },
   {
+    "date": "2026-12-08",
+    "titre": "championnat de Savoie 2026-27 r5-6",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73294",
+    "cadence": "Lente",
+    "lieu": "73 - AIX LES BAINS",
+    "arbitre": "FRION Sandrine"
+  },
+  {
     "date": "2026-12-09",
     "titre": "Championnat d'automne Annecy 2026 r5-7",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73044",
@@ -32798,6 +33398,14 @@
     "cadence": "Lente",
     "lieu": "38 - GRENOBLE",
     "arbitre": "SALINAS Pierre"
+  },
+  {
+    "date": "2026-12-09",
+    "titre": "championnat de Savoie 2026-27 r5-6",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73294",
+    "cadence": "Lente",
+    "lieu": "73 - AIX LES BAINS",
+    "arbitre": "FRION Sandrine"
   },
   {
     "date": "2026-12-10",
@@ -32822,6 +33430,14 @@
     "cadence": "Lente",
     "lieu": "38 - GRENOBLE",
     "arbitre": "SALINAS Pierre"
+  },
+  {
+    "date": "2026-12-10",
+    "titre": "championnat de Savoie 2026-27 r5-6",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73294",
+    "cadence": "Lente",
+    "lieu": "73 - AIX LES BAINS",
+    "arbitre": "FRION Sandrine"
   },
   {
     "date": "2026-12-11",
@@ -32862,6 +33478,14 @@
     "cadence": "Lente",
     "lieu": "38 - GRENOBLE",
     "arbitre": "SALINAS Pierre"
+  },
+  {
+    "date": "2026-12-11",
+    "titre": "championnat de Savoie 2026-27 r5-6",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73294",
+    "cadence": "Lente",
+    "lieu": "73 - AIX LES BAINS",
+    "arbitre": "FRION Sandrine"
   },
   {
     "date": "2026-12-12",
@@ -32910,6 +33534,14 @@
     "cadence": "Blitz",
     "lieu": "52 - SAINT DIZIER",
     "arbitre": "BRIAKLI Adam"
+  },
+  {
+    "date": "2026-12-12",
+    "titre": "championnat de Savoie 2026-27 r5-6",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73294",
+    "cadence": "Lente",
+    "lieu": "73 - AIX LES BAINS",
+    "arbitre": "FRION Sandrine"
   },
   {
     "date": "2026-12-13",
