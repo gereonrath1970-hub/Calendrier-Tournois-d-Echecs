@@ -27777,6 +27777,14 @@
   },
   {
     "date": "2026-09-30",
+    "titre": "1er tournoi rapide interne EDN",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73413",
+    "cadence": "Rapide",
+    "lieu": "9A - SAINT DENIS",
+    "arbitre": "TRAVERS Christophe"
+  },
+  {
+    "date": "2026-09-30",
     "titre": "1hKO interne La Dame Noire 2027 r1-2",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72855",
     "cadence": "Lente",
@@ -28102,6 +28110,14 @@
     "cadence": "Lente",
     "lieu": "63 - CLERMONT FERRAND",
     "arbitre": "FLOUZAT Jean-Marc"
+  },
+  {
+    "date": "2026-10-03",
+    "titre": "Blitz Society rapide du samedi 3 Octobre -1700",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73401",
+    "cadence": "Blitz",
+    "lieu": "75 - PARIS",
+    "arbitre": "GOBERT Simon"
   },
   {
     "date": "2026-10-03",
@@ -28633,6 +28649,14 @@
   },
   {
     "date": "2026-10-07",
+    "titre": "Tournoi de Blitz Echiquier Bordelais - 07-10-26",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73388",
+    "cadence": "Blitz",
+    "lieu": "33 - BORDEAUX",
+    "arbitre": "LAPEYRE Pierre"
+  },
+  {
+    "date": "2026-10-07",
     "titre": "Tournoi du mercredi Grenoble – Automne 2026 r4-6 (-2400)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72935",
     "cadence": "Lente",
@@ -28729,6 +28753,14 @@
   },
   {
     "date": "2026-10-09",
+    "titre": "Tournoi de blitz d'Octobre 2026 de l'Echecs Club Ajaccien",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73399",
+    "cadence": "Blitz",
+    "lieu": "2A - AJACCIO",
+    "arbitre": "ORSONI Jean-Philippe"
+  },
+  {
+    "date": "2026-10-09",
     "titre": "Tournoi du mercredi Grenoble – Automne 2026 r4-6 (-2400)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72935",
     "cadence": "Lente",
@@ -28758,6 +28790,14 @@
     "cadence": "Lente",
     "lieu": "71 - CHATENOY LE ROYAL",
     "arbitre": "FARGERE Jacky"
+  },
+  {
+    "date": "2026-10-10",
+    "titre": "Blitz Society rapide du samedi 10 Octobre -1700",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73402",
+    "cadence": "Blitz",
+    "lieu": "75 - PARIS",
+    "arbitre": "GOBERT Simon"
   },
   {
     "date": "2026-10-10",
@@ -29017,6 +29057,14 @@
   },
   {
     "date": "2026-10-14",
+    "titre": "Tournoi de Blitz Echiquier Bordelais - 14-10-26",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73389",
+    "cadence": "Blitz",
+    "lieu": "33 - BORDEAUX",
+    "arbitre": "LAPEYRE Pierre"
+  },
+  {
+    "date": "2026-10-14",
     "titre": "Tournoi de Fromelles 1 M 26-27",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73321",
     "cadence": "Lente",
@@ -29142,6 +29190,14 @@
     "cadence": "Lente",
     "lieu": "73 - AIX LES BAINS",
     "arbitre": "FRION Sandrine"
+  },
+  {
+    "date": "2026-10-16",
+    "titre": "Grand Prix Blitz de Mulhouse 2026-2027 - Tournoi 1",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73416",
+    "cadence": "Blitz",
+    "lieu": "68 - MULHOUSE",
+    "arbitre": "GOETTELMANN Guillaum"
   },
   {
     "date": "2026-10-16",
@@ -29318,6 +29374,14 @@
     "cadence": "Lente",
     "lieu": "30 - NIMES",
     "arbitre": "PIERRE Timothee"
+  },
+  {
+    "date": "2026-10-17",
+    "titre": "5e Open d'Automne 2026 d'Ajaccio",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73391",
+    "cadence": "Lente",
+    "lieu": "2A - AJACCIO",
+    "arbitre": "GERANDI Guillaume"
   },
   {
     "date": "2026-10-17",
@@ -29681,6 +29745,14 @@
   },
   {
     "date": "2026-10-18",
+    "titre": "1er Open Jeunes du Pion Forgeron de Commentry",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73415",
+    "cadence": "Lente",
+    "lieu": "03 - COMMENTRY",
+    "arbitre": "BONNICHON Arnaud"
+  },
+  {
+    "date": "2026-10-18",
     "titre": "1er Tournoi Open de Toussaint 2026 de Hyères",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72790",
     "cadence": "Lente",
@@ -29798,6 +29870,14 @@
     "cadence": "Lente",
     "lieu": "30 - NIMES",
     "arbitre": "PIERRE Timothee"
+  },
+  {
+    "date": "2026-10-18",
+    "titre": "5e Open d'Automne 2026 d'Ajaccio",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73391",
+    "cadence": "Lente",
+    "lieu": "2A - AJACCIO",
+    "arbitre": "GERANDI Guillaume"
   },
   {
     "date": "2026-10-18",
@@ -30254,6 +30334,14 @@
     "cadence": "Lente",
     "lieu": "74 - ANNEMASSE",
     "arbitre": "WLASSEWITCH Sylvain"
+  },
+  {
+    "date": "2026-10-19",
+    "titre": "5e Open d'Automne 2026 d'Ajaccio",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73391",
+    "cadence": "Lente",
+    "lieu": "2A - AJACCIO",
+    "arbitre": "GERANDI Guillaume"
   },
   {
     "date": "2026-10-19",
@@ -30777,6 +30865,14 @@
   },
   {
     "date": "2026-10-22",
+    "titre": "8ème trophée Jan Jonker r1",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73404",
+    "cadence": "Lente",
+    "lieu": "24 - BERGERAC",
+    "arbitre": "GOGUELY Pierre"
+  },
+  {
+    "date": "2026-10-22",
     "titre": "9ème Festival International de Perpignan Classique Open B -1600 Elo",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72675",
     "cadence": "Lente",
@@ -31065,6 +31161,14 @@
   },
   {
     "date": "2026-10-24",
+    "titre": "Blitz Society rapide du samedi 24 Octobre -1700",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73403",
+    "cadence": "Blitz",
+    "lieu": "75 - PARIS",
+    "arbitre": "GOBERT Simon"
+  },
+  {
+    "date": "2026-10-24",
     "titre": "Breizh Chess Challenger 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72847",
     "cadence": "Lente",
@@ -31078,6 +31182,14 @@
     "cadence": "Lente",
     "lieu": "35 - RENNES",
     "arbitre": "BLEUZEN Christian"
+  },
+  {
+    "date": "2026-10-24",
+    "titre": "Championnat de l'Oise de parties longues 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73400",
+    "cadence": "Lente",
+    "lieu": "60 - PRECY SUR OISE",
+    "arbitre": "VARINIAC Emmanuel"
   },
   {
     "date": "2026-10-24",
@@ -31246,6 +31358,14 @@
     "cadence": "Lente",
     "lieu": "35 - RENNES",
     "arbitre": "BLEUZEN Christian"
+  },
+  {
+    "date": "2026-10-25",
+    "titre": "Championnat de l'Oise de parties longues 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73400",
+    "cadence": "Lente",
+    "lieu": "60 - PRECY SUR OISE",
+    "arbitre": "VARINIAC Emmanuel"
   },
   {
     "date": "2026-10-25",
@@ -32240,6 +32360,14 @@
     "arbitre": "TUR Fabrice"
   },
   {
+    "date": "2026-11-06",
+    "titre": "Tournoi de blitz de novembre 2026 de l'Echecs Club Ajaccien",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73397",
+    "cadence": "Blitz",
+    "lieu": "2A - AJACCIO",
+    "arbitre": "ORSONI Jean-Philippe"
+  },
+  {
     "date": "2026-11-07",
     "titre": "23eme Rapide du Samedi de l'ECCM",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73244",
@@ -33089,6 +33217,14 @@
   },
   {
     "date": "2026-11-21",
+    "titre": "8ème trophée Jan Jonker r2",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73405",
+    "cadence": "Lente",
+    "lieu": "24 - BERGERAC",
+    "arbitre": "GOGUELY Pierre"
+  },
+  {
+    "date": "2026-11-21",
     "titre": "Championnat de la Loire 2026-2027 r2",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72869",
     "cadence": "Lente",
@@ -33769,6 +33905,14 @@
   },
   {
     "date": "2026-12-04",
+    "titre": "Tournoi de blitz de décembre 2026 de l'Echecs Club Ajaccien",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73398",
+    "cadence": "Blitz",
+    "lieu": "2A - AJACCIO",
+    "arbitre": "ORSONI Jean-Philippe"
+  },
+  {
+    "date": "2026-12-04",
     "titre": "Tournoi du mercredi Grenoble – Hiver 2027 r1-3 (-2400)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72937",
     "cadence": "Lente",
@@ -34190,6 +34334,14 @@
     "cadence": "Lente",
     "lieu": "67 - HINDISHEIM",
     "arbitre": "HEDDACHE Rachid"
+  },
+  {
+    "date": "2026-12-19",
+    "titre": "8ème trophée Jan Jonker r3",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73406",
+    "cadence": "Lente",
+    "lieu": "24 - BERGERAC",
+    "arbitre": "GOGUELY Pierre"
   },
   {
     "date": "2026-12-19",
