@@ -10364,8 +10364,8 @@
     "titre": "26ème Open de Narbonne Jeunes",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71098",
     "cadence": "Lente",
-    "lieu": "11 - NARBONNE",
-    "arbitre": "PASCAL-MOUSSELARD Ph"
+    "lieu": "Non précisé",
+    "arbitre": "Non précisé"
   },
   {
     "date": "2026-05-25",
@@ -10420,8 +10420,8 @@
     "titre": "3ème Open International des Weppes (-2200)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71075",
     "cadence": "Lente",
-    "lieu": "59 - FROMELLES",
-    "arbitre": "DUPONT Daniel-Noel"
+    "lieu": "Non précisé",
+    "arbitre": "Non précisé"
   },
   {
     "date": "2026-05-25",
@@ -10556,32 +10556,32 @@
     "titre": "Tournoi A Toutes Rondes (-2400) de Cahors 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71302",
     "cadence": "Lente",
-    "lieu": "46 - CAHORS",
-    "arbitre": "PRIE Eric"
+    "lieu": "Non précisé",
+    "arbitre": "Non précisé"
   },
   {
     "date": "2026-05-25",
     "titre": "Tournoi B Toutes Rondes (-2400) de Cahors 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71303",
     "cadence": "Lente",
-    "lieu": "46 - CAHORS",
-    "arbitre": "PRIE Eric"
+    "lieu": "Non précisé",
+    "arbitre": "Non précisé"
   },
   {
     "date": "2026-05-25",
     "titre": "Tournoi C Toutes Rondes (-2400) de Cahors 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71304",
     "cadence": "Lente",
-    "lieu": "46 - CAHORS",
-    "arbitre": "PRIE Eric"
+    "lieu": "Non précisé",
+    "arbitre": "Non précisé"
   },
   {
     "date": "2026-05-25",
     "titre": "Tournoi D Toutes Rondes (-2400) de Cahors 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71305",
     "cadence": "Lente",
-    "lieu": "46 - CAHORS",
-    "arbitre": "PRIE Eric"
+    "lieu": "Non précisé",
+    "arbitre": "Non précisé"
   },
   {
     "date": "2026-05-25",
@@ -28177,6 +28177,14 @@
   },
   {
     "date": "2026-10-03",
+    "titre": "Open Rétif (championnat de la Loire Atlantique 2026) r1",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73419",
+    "cadence": "Lente",
+    "lieu": "44 - CARQUEFOU",
+    "arbitre": "BOUSSEFFA Sadok"
+  },
+  {
+    "date": "2026-10-03",
     "titre": "Open de Bischwiller Octobre 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73109",
     "cadence": "Lente",
@@ -28430,6 +28438,14 @@
     "cadence": "Lente",
     "lieu": "67 - BISCHWILLER",
     "arbitre": "REEB Roland"
+  },
+  {
+    "date": "2026-10-04",
+    "titre": "Rapide Blitz Society du 04-10-2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73418",
+    "cadence": "Blitz",
+    "lieu": "75 - PARIS",
+    "arbitre": "GOBERT Alexis"
   },
   {
     "date": "2026-10-04",
@@ -31177,6 +31193,14 @@
   },
   {
     "date": "2026-10-24",
+    "titre": "Circuit Rapide Jeunes 74 - Annemasse - Accession (-1100)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73454",
+    "cadence": "Rapide",
+    "lieu": "74 - ANNEMASSE",
+    "arbitre": "WLASSEWITCH Sylvain"
+  },
+  {
+    "date": "2026-10-24",
     "titre": "Open A du Pays Fouesnantais 2026 à cadence lente (plus de 1500)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72663",
     "cadence": "Lente",
@@ -31230,6 +31254,14 @@
     "cadence": "Blitz",
     "lieu": "77 - ROZAY EN BRIE",
     "arbitre": "BELEY Francis"
+  },
+  {
+    "date": "2026-10-25",
+    "titre": "1er Open d'Octobre Rose du LECEL",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73417",
+    "cadence": "Lente",
+    "lieu": "87 - LIMOGES",
+    "arbitre": "TCHEFRANOFF Stephane"
   },
   {
     "date": "2026-10-25",
