@@ -26241,6 +26241,14 @@
   },
   {
     "date": "2026-09-20",
+    "titre": "Open FIDE de Magny en Vexin 2026 (-1900 elo)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72923",
+    "cadence": "Lente",
+    "lieu": "95 - MAGNY EN VEXIN",
+    "arbitre": "COZIC Vincent"
+  },
+  {
+    "date": "2026-09-20",
     "titre": "Rapide Blitz Society du 20-09-2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73019",
     "cadence": "Blitz",
@@ -27069,7 +27077,7 @@
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73094",
     "cadence": "Lente",
     "lieu": "69 - LYON",
-    "arbitre": "BUDACI Lionel"
+    "arbitre": "MATHIEU Christophe"
   },
   {
     "date": "2026-09-27",
@@ -27102,6 +27110,14 @@
     "cadence": "Lente",
     "lieu": "9A - SAINT PIERRE",
     "arbitre": "DEURVILLIER Martial"
+  },
+  {
+    "date": "2026-09-27",
+    "titre": "123è Blitz FIDE Interchess",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73188",
+    "cadence": "Blitz",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
   },
   {
     "date": "2026-09-27",
@@ -27581,7 +27597,7 @@
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72665",
     "cadence": "Rapide",
     "lieu": "69 - VILLEURBANNE",
-    "arbitre": "PARIS Thierry"
+    "arbitre": "MOURET Erick"
   },
   {
     "date": "2026-09-27",
@@ -31980,8 +31996,8 @@
     "titre": "Open A du Pays Fouesnantais 2026 à cadence lente (plus de 1500)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72663",
     "cadence": "Lente",
-    "lieu": "Information indisponible",
-    "arbitre": "Information indisponible"
+    "lieu": "29 - FOUESNANT",
+    "arbitre": "LECORNU Laurent"
   },
   {
     "date": "2026-10-27",
