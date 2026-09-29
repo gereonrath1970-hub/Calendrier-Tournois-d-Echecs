@@ -26969,7 +26969,7 @@
   },
   {
     "date": "2026-09-26",
-    "titre": "Express Gérômois (B) - 2026",
+    "titre": "Express Gérômois (B) - 2026- ANNULE",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72952",
     "cadence": "Lente",
     "lieu": "88 - GERARDMER",
@@ -27557,22 +27557,6 @@
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72044",
     "cadence": "Rapide",
     "lieu": "57 - LHOPITAL",
-    "arbitre": "MARCHAL Roger"
-  },
-  {
-    "date": "2026-09-27",
-    "titre": "Rapide de L'Echiquier Mosellan 2026 C",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72071",
-    "cadence": "Rapide",
-    "lieu": "57 - L'HOPITAL",
-    "arbitre": "MARCHAL Roger"
-  },
-  {
-    "date": "2026-09-27",
-    "titre": "Rapide de L'Echiquier Mosellan 2026 D",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72084",
-    "cadence": "Rapide",
-    "lieu": "57 - L'HOPITAL",
     "arbitre": "MARCHAL Roger"
   },
   {
@@ -28593,14 +28577,6 @@
   },
   {
     "date": "2026-10-04",
-    "titre": "Tournoi interne US Villejuif Echecs nr1 (-1800)",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73310",
-    "cadence": "Lente",
-    "lieu": "94 - VILLEJUIF",
-    "arbitre": "MARKS Edwin"
-  },
-  {
-    "date": "2026-10-04",
     "titre": "Tournoi rapide de Juillan 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72971",
     "cadence": "Rapide",
@@ -28889,6 +28865,14 @@
   },
   {
     "date": "2026-10-10",
+    "titre": "Championnat du Morbihan toutes catégories 2026-27 (-2200) r1",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73481",
+    "cadence": "Lente",
+    "lieu": "56 - SAINTE ANNE D'AURAY",
+    "arbitre": "MARECHAL Daniel"
+  },
+  {
+    "date": "2026-10-10",
     "titre": "Grand Prix de Vendée - Montaigu 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73352",
     "cadence": "Lente",
@@ -28942,6 +28926,14 @@
     "cadence": "Rapide",
     "lieu": "92 - LEVALLOIS PERRET",
     "arbitre": "LEDUC Bruno"
+  },
+  {
+    "date": "2026-10-10",
+    "titre": "Tournoi Scolaire Echiquier Niçois 10 octobre 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73507",
+    "cadence": "Lente",
+    "lieu": "06 - NICE",
+    "arbitre": "VILLEGAS Pierre"
   },
   {
     "date": "2026-10-10",
@@ -29017,6 +29009,14 @@
   },
   {
     "date": "2026-10-11",
+    "titre": "Championnat de Martinique Blitz 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73477",
+    "cadence": "Blitz",
+    "lieu": "9D - LE LAMENTIN",
+    "arbitre": "SORRENTE Layana"
+  },
+  {
+    "date": "2026-10-11",
     "titre": "Championnat de Savoie 2026-27 r1-2",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73292",
     "cadence": "Lente",
@@ -29078,6 +29078,14 @@
     "cadence": "Lente",
     "lieu": "9A - SAINT DENIS",
     "arbitre": "DEURVILLIER Martial"
+  },
+  {
+    "date": "2026-10-13",
+    "titre": "48eme échecs et malt",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73480",
+    "cadence": "Lente",
+    "lieu": "93 - PANTIN",
+    "arbitre": "AZZEGAG Jocelyn"
   },
   {
     "date": "2026-10-13",
@@ -29286,6 +29294,14 @@
     "cadence": "Blitz",
     "lieu": "68 - MULHOUSE",
     "arbitre": "GOETTELMANN Guillaum"
+  },
+  {
+    "date": "2026-10-16",
+    "titre": "Le blitz de Foix d 'Octobre 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73489",
+    "cadence": "Blitz",
+    "lieu": "09 - FOIX",
+    "arbitre": "FONT Marc"
   },
   {
     "date": "2026-10-16",
@@ -30030,6 +30046,14 @@
     "cadence": "Lente",
     "lieu": "33 - SAINT MACAIRE",
     "arbitre": "MARIMON Frederic"
+  },
+  {
+    "date": "2026-10-18",
+    "titre": "3e Rapide d'Octobre de l'Echiquier Toulousain",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73478",
+    "cadence": "Rapide",
+    "lieu": "31 - TOULOUSE",
+    "arbitre": "BENAMAR Rayan"
   },
   {
     "date": "2026-10-18",
@@ -32569,6 +32593,14 @@
   },
   {
     "date": "2026-10-31",
+    "titre": "Les samedis de Colomiers - Open Octobre 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73485",
+    "cadence": "Lente",
+    "lieu": "31 - COLOMIERS",
+    "arbitre": "CARPENTIER Jean-Chri"
+  },
+  {
+    "date": "2026-10-31",
     "titre": "Open International de Niort Master 2026 (+1850 elo)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72424",
     "cadence": "Lente",
@@ -32726,6 +32758,14 @@
     "cadence": "Lente",
     "lieu": "35 - RENNES",
     "arbitre": "BLEUZEN Christian"
+  },
+  {
+    "date": "2026-11-01",
+    "titre": "Les rapides de la Toussaint - Esbly 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73479",
+    "cadence": "Rapide",
+    "lieu": "77 - ESBLY",
+    "arbitre": "BELEY Huong"
   },
   {
     "date": "2026-11-01",
