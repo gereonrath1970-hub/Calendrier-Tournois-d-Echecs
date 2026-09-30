@@ -26561,14 +26561,6 @@
   },
   {
     "date": "2026-09-23",
-    "titre": "Tournoi de Blitz Echiquier Bordelais - 23-09-26",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72920",
-    "cadence": "Blitz",
-    "lieu": "33 - BORDEAUX",
-    "arbitre": "LAPEYRE Pierre"
-  },
-  {
-    "date": "2026-09-23",
     "titre": "Tournoi du mercredi Grenoble – Automne 2026 r1-3 (-2400)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72934",
     "cadence": "Lente",
@@ -27014,14 +27006,6 @@
     "cadence": "Lente",
     "lieu": "13 - AUBAGNE",
     "arbitre": "ROMAN Sylvian"
-  },
-  {
-    "date": "2026-09-26",
-    "titre": "RAPIDASPOM 26-09-2026",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72958",
-    "cadence": "Lente",
-    "lieu": "33 - BORDEAUX",
-    "arbitre": "SALLETTE Alain"
   },
   {
     "date": "2026-09-26",
@@ -27589,7 +27573,7 @@
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72666",
     "cadence": "Rapide",
     "lieu": "69 - VILLEURBANNE",
-    "arbitre": "PARIS Thierry"
+    "arbitre": "MOURET Erick"
   },
   {
     "date": "2026-09-27",
@@ -28377,14 +28361,6 @@
   },
   {
     "date": "2026-10-04",
-    "titre": "3eme Open Rapide du Jura du circuit Jurassien",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73465",
-    "cadence": "Rapide",
-    "lieu": "39 - LONS LE SAUNIER",
-    "arbitre": "MINAUD Olivier"
-  },
-  {
-    "date": "2026-10-04",
     "titre": "4e Rapide du bocage",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72741",
     "cadence": "Rapide",
@@ -28785,6 +28761,14 @@
   },
   {
     "date": "2026-10-10",
+    "titre": "1er Rapide 21 Jeunes 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73514",
+    "cadence": "Rapide",
+    "lieu": "21 - ESBARRES",
+    "arbitre": "BOILEAU Mickael"
+  },
+  {
+    "date": "2026-10-10",
     "titre": "26e Open International d'Echecs de la Réunion",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72310",
     "cadence": "Lente",
@@ -29033,6 +29017,14 @@
   },
   {
     "date": "2026-10-11",
+    "titre": "Rapide Blitz Society du 11-10-2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73490",
+    "cadence": "Blitz",
+    "lieu": "75 - PARIS",
+    "arbitre": "GOBERT Alexis"
+  },
+  {
+    "date": "2026-10-11",
     "titre": "Tournoi du mercredi Grenoble – Automne 2026 r4-6 (-2400)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72935",
     "cadence": "Lente",
@@ -29070,6 +29062,14 @@
     "cadence": "Lente",
     "lieu": "38 - GRENOBLE",
     "arbitre": "SALINAS Pierre"
+  },
+  {
+    "date": "2026-10-13",
+    "titre": "1er Blitz Édouard Lévy-Grünwald",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73531",
+    "cadence": "Blitz",
+    "lieu": "90 - BELFORT",
+    "arbitre": "RICHARD Steve"
   },
   {
     "date": "2026-10-13",
@@ -29110,6 +29110,14 @@
     "cadence": "Lente",
     "lieu": "38 - GRENOBLE",
     "arbitre": "SALINAS Pierre"
+  },
+  {
+    "date": "2026-10-14",
+    "titre": "1er Tournoi Blitz FIDE 2026 de l'école d'échecs de Hyères",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73529",
+    "cadence": "Blitz",
+    "lieu": "83 - HYERES",
+    "arbitre": "RAMAZZOTTI Bernard"
   },
   {
     "date": "2026-10-14",
@@ -29254,6 +29262,14 @@
     "cadence": "Rapide",
     "lieu": "75 - PARIS",
     "arbitre": "RUBINI Xavier"
+  },
+  {
+    "date": "2026-10-16",
+    "titre": "Blitz \"Octobre Rose\" de l'Echiquier Nîmois 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73540",
+    "cadence": "Blitz",
+    "lieu": "30 - NIMES",
+    "arbitre": "PIERRE Timothee"
   },
   {
     "date": "2026-10-16",
@@ -29486,6 +29502,14 @@
     "cadence": "Lente",
     "lieu": "2A - AJACCIO",
     "arbitre": "GERANDI Guillaume"
+  },
+  {
+    "date": "2026-10-17",
+    "titre": "8ème tournoi interne de l'échiquier Lédonien",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73510",
+    "cadence": "Lente",
+    "lieu": "39 - LONS LE SAUNIER",
+    "arbitre": "MINAUD Olivier"
   },
   {
     "date": "2026-10-17",
@@ -30600,6 +30624,14 @@
     "arbitre": "MAUFFREY Hugues"
   },
   {
+    "date": "2026-10-18",
+    "titre": "Tournoi Jeunes Toussaint 2026 de Saint-Raphaël",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73548",
+    "cadence": "Lente",
+    "lieu": "83 - SAINT RAPHAEL",
+    "arbitre": "AIDAOUI Brice"
+  },
+  {
     "date": "2026-10-19",
     "titre": "1er Open International du Lille Métropole Chess",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72496",
@@ -31673,6 +31705,14 @@
   },
   {
     "date": "2026-10-24",
+    "titre": "Tournoi Rapide interne d'Antibes octobre 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73500",
+    "cadence": "Rapide",
+    "lieu": "06 - ANTIBES",
+    "arbitre": "HAVARD Jean-Michel"
+  },
+  {
+    "date": "2026-10-24",
     "titre": "Tournoi de blitz associé au ChessRunning de Rozay-en-Brie 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72535",
     "cadence": "Blitz",
@@ -31942,6 +31982,14 @@
     "cadence": "Lente",
     "lieu": "29 - FOUESNANT",
     "arbitre": "LECORNU Laurent"
+  },
+  {
+    "date": "2026-10-26",
+    "titre": "Tournoi Interne Alès 2026-2027 r1",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73541",
+    "cadence": "Lente",
+    "lieu": "30 - ALES",
+    "arbitre": "PIERRE Timothee"
   },
   {
     "date": "2026-10-27",
@@ -32569,6 +32617,54 @@
   },
   {
     "date": "2026-10-31",
+    "titre": "44e open Fide de Domloup - Tournoi A",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73501",
+    "cadence": "Lente",
+    "lieu": "35 - DOMLOUP",
+    "arbitre": "AUBRY Pascal"
+  },
+  {
+    "date": "2026-10-31",
+    "titre": "44e open Fide de Domloup - Tournoi B",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73502",
+    "cadence": "Lente",
+    "lieu": "35 - DOMLOUP",
+    "arbitre": "AUBRY Pascal"
+  },
+  {
+    "date": "2026-10-31",
+    "titre": "44e open Fide de Domloup - Tournoi C",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73503",
+    "cadence": "Lente",
+    "lieu": "35 - DOMLOUP",
+    "arbitre": "AUBRY Pascal"
+  },
+  {
+    "date": "2026-10-31",
+    "titre": "44e open Fide de Domloup - Tournoi D",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73504",
+    "cadence": "Lente",
+    "lieu": "35 - DOMLOUP",
+    "arbitre": "AUBRY Pascal"
+  },
+  {
+    "date": "2026-10-31",
+    "titre": "44e open Fide de Domloup - Tournoi E",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73505",
+    "cadence": "Lente",
+    "lieu": "35 - DOMLOUP",
+    "arbitre": "AUBRY Pascal"
+  },
+  {
+    "date": "2026-10-31",
+    "titre": "44e open Fide de Domloup - Tournoi F",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73506",
+    "cadence": "Lente",
+    "lieu": "35 - DOMLOUP",
+    "arbitre": "AUBRY Pascal"
+  },
+  {
+    "date": "2026-10-31",
     "titre": "Breizh Chess Challenger 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72847",
     "cadence": "Lente",
@@ -32742,6 +32838,54 @@
     "cadence": "Rapide",
     "lieu": "21 - DIJON",
     "arbitre": "BOILEAU Mickael"
+  },
+  {
+    "date": "2026-11-01",
+    "titre": "44e open Fide de Domloup - Tournoi A",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73501",
+    "cadence": "Lente",
+    "lieu": "35 - DOMLOUP",
+    "arbitre": "AUBRY Pascal"
+  },
+  {
+    "date": "2026-11-01",
+    "titre": "44e open Fide de Domloup - Tournoi B",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73502",
+    "cadence": "Lente",
+    "lieu": "35 - DOMLOUP",
+    "arbitre": "AUBRY Pascal"
+  },
+  {
+    "date": "2026-11-01",
+    "titre": "44e open Fide de Domloup - Tournoi C",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73503",
+    "cadence": "Lente",
+    "lieu": "35 - DOMLOUP",
+    "arbitre": "AUBRY Pascal"
+  },
+  {
+    "date": "2026-11-01",
+    "titre": "44e open Fide de Domloup - Tournoi D",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73504",
+    "cadence": "Lente",
+    "lieu": "35 - DOMLOUP",
+    "arbitre": "AUBRY Pascal"
+  },
+  {
+    "date": "2026-11-01",
+    "titre": "44e open Fide de Domloup - Tournoi E",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73505",
+    "cadence": "Lente",
+    "lieu": "35 - DOMLOUP",
+    "arbitre": "AUBRY Pascal"
+  },
+  {
+    "date": "2026-11-01",
+    "titre": "44e open Fide de Domloup - Tournoi F",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73506",
+    "cadence": "Lente",
+    "lieu": "35 - DOMLOUP",
+    "arbitre": "AUBRY Pascal"
   },
   {
     "date": "2026-11-01",
@@ -33041,6 +33185,62 @@
   },
   {
     "date": "2026-11-11",
+    "titre": "Master A 2026 Varois",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73532",
+    "cadence": "Lente",
+    "lieu": "83 - FREJUS",
+    "arbitre": "AIDAOUI Brice"
+  },
+  {
+    "date": "2026-11-11",
+    "titre": "Master B 2026 Varois",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73533",
+    "cadence": "Lente",
+    "lieu": "83 - FREJUS",
+    "arbitre": "AIDAOUI Brice"
+  },
+  {
+    "date": "2026-11-11",
+    "titre": "Master C 2026 Varois",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73534",
+    "cadence": "Lente",
+    "lieu": "83 - FREJUS",
+    "arbitre": "AIDAOUI Brice"
+  },
+  {
+    "date": "2026-11-11",
+    "titre": "Master D 2026 Varois",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73535",
+    "cadence": "Lente",
+    "lieu": "83 - FREJUS",
+    "arbitre": "AIDAOUI Brice"
+  },
+  {
+    "date": "2026-11-11",
+    "titre": "Master E 2026 Varois",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73536",
+    "cadence": "Lente",
+    "lieu": "83 - FREJUS",
+    "arbitre": "AIDAOUI Brice"
+  },
+  {
+    "date": "2026-11-11",
+    "titre": "Master F 2026 Varois",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73537",
+    "cadence": "Lente",
+    "lieu": "83 - FREJUS",
+    "arbitre": "AIDAOUI Brice"
+  },
+  {
+    "date": "2026-11-11",
+    "titre": "Master G 2026 Varois",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73538",
+    "cadence": "Lente",
+    "lieu": "83 - FREJUS",
+    "arbitre": "AIDAOUI Brice"
+  },
+  {
+    "date": "2026-11-11",
     "titre": "Qualification Reunion CDF 2027 U12",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73256",
     "cadence": "Lente",
@@ -33153,6 +33353,62 @@
   },
   {
     "date": "2026-11-12",
+    "titre": "Master A 2026 Varois",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73532",
+    "cadence": "Lente",
+    "lieu": "83 - FREJUS",
+    "arbitre": "AIDAOUI Brice"
+  },
+  {
+    "date": "2026-11-12",
+    "titre": "Master B 2026 Varois",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73533",
+    "cadence": "Lente",
+    "lieu": "83 - FREJUS",
+    "arbitre": "AIDAOUI Brice"
+  },
+  {
+    "date": "2026-11-12",
+    "titre": "Master C 2026 Varois",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73534",
+    "cadence": "Lente",
+    "lieu": "83 - FREJUS",
+    "arbitre": "AIDAOUI Brice"
+  },
+  {
+    "date": "2026-11-12",
+    "titre": "Master D 2026 Varois",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73535",
+    "cadence": "Lente",
+    "lieu": "83 - FREJUS",
+    "arbitre": "AIDAOUI Brice"
+  },
+  {
+    "date": "2026-11-12",
+    "titre": "Master E 2026 Varois",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73536",
+    "cadence": "Lente",
+    "lieu": "83 - FREJUS",
+    "arbitre": "AIDAOUI Brice"
+  },
+  {
+    "date": "2026-11-12",
+    "titre": "Master F 2026 Varois",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73537",
+    "cadence": "Lente",
+    "lieu": "83 - FREJUS",
+    "arbitre": "AIDAOUI Brice"
+  },
+  {
+    "date": "2026-11-12",
+    "titre": "Master G 2026 Varois",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73538",
+    "cadence": "Lente",
+    "lieu": "83 - FREJUS",
+    "arbitre": "AIDAOUI Brice"
+  },
+  {
+    "date": "2026-11-12",
     "titre": "Qualification Reunion CDF 2027 U12",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73256",
     "cadence": "Lente",
@@ -33206,6 +33462,62 @@
     "cadence": "Lente",
     "lieu": "68 - KINGERSHEIM",
     "arbitre": "DE FAVERI Gabriel"
+  },
+  {
+    "date": "2026-11-13",
+    "titre": "Master A 2026 Varois",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73532",
+    "cadence": "Lente",
+    "lieu": "83 - FREJUS",
+    "arbitre": "AIDAOUI Brice"
+  },
+  {
+    "date": "2026-11-13",
+    "titre": "Master B 2026 Varois",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73533",
+    "cadence": "Lente",
+    "lieu": "83 - FREJUS",
+    "arbitre": "AIDAOUI Brice"
+  },
+  {
+    "date": "2026-11-13",
+    "titre": "Master C 2026 Varois",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73534",
+    "cadence": "Lente",
+    "lieu": "83 - FREJUS",
+    "arbitre": "AIDAOUI Brice"
+  },
+  {
+    "date": "2026-11-13",
+    "titre": "Master D 2026 Varois",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73535",
+    "cadence": "Lente",
+    "lieu": "83 - FREJUS",
+    "arbitre": "AIDAOUI Brice"
+  },
+  {
+    "date": "2026-11-13",
+    "titre": "Master E 2026 Varois",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73536",
+    "cadence": "Lente",
+    "lieu": "83 - FREJUS",
+    "arbitre": "AIDAOUI Brice"
+  },
+  {
+    "date": "2026-11-13",
+    "titre": "Master F 2026 Varois",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73537",
+    "cadence": "Lente",
+    "lieu": "83 - FREJUS",
+    "arbitre": "AIDAOUI Brice"
+  },
+  {
+    "date": "2026-11-13",
+    "titre": "Master G 2026 Varois",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73538",
+    "cadence": "Lente",
+    "lieu": "83 - FREJUS",
+    "arbitre": "AIDAOUI Brice"
   },
   {
     "date": "2026-11-13",
@@ -33297,6 +33609,14 @@
   },
   {
     "date": "2026-11-14",
+    "titre": "Championnat Seine Maritime 2026 U08",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73516",
+    "cadence": "Lente",
+    "lieu": "76 - GONFREVILLE L'ORCHER",
+    "arbitre": "VAUGEOIS Stephane"
+  },
+  {
+    "date": "2026-11-14",
     "titre": "Championnat des Pyrénées Orientales 2026 U08",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73286",
     "cadence": "Lente",
@@ -33361,6 +33681,62 @@
   },
   {
     "date": "2026-11-14",
+    "titre": "Master A 2026 Varois",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73532",
+    "cadence": "Lente",
+    "lieu": "83 - FREJUS",
+    "arbitre": "AIDAOUI Brice"
+  },
+  {
+    "date": "2026-11-14",
+    "titre": "Master B 2026 Varois",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73533",
+    "cadence": "Lente",
+    "lieu": "83 - FREJUS",
+    "arbitre": "AIDAOUI Brice"
+  },
+  {
+    "date": "2026-11-14",
+    "titre": "Master C 2026 Varois",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73534",
+    "cadence": "Lente",
+    "lieu": "83 - FREJUS",
+    "arbitre": "AIDAOUI Brice"
+  },
+  {
+    "date": "2026-11-14",
+    "titre": "Master D 2026 Varois",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73535",
+    "cadence": "Lente",
+    "lieu": "83 - FREJUS",
+    "arbitre": "AIDAOUI Brice"
+  },
+  {
+    "date": "2026-11-14",
+    "titre": "Master E 2026 Varois",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73536",
+    "cadence": "Lente",
+    "lieu": "83 - FREJUS",
+    "arbitre": "AIDAOUI Brice"
+  },
+  {
+    "date": "2026-11-14",
+    "titre": "Master F 2026 Varois",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73537",
+    "cadence": "Lente",
+    "lieu": "83 - FREJUS",
+    "arbitre": "AIDAOUI Brice"
+  },
+  {
+    "date": "2026-11-14",
+    "titre": "Master G 2026 Varois",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73538",
+    "cadence": "Lente",
+    "lieu": "83 - FREJUS",
+    "arbitre": "AIDAOUI Brice"
+  },
+  {
+    "date": "2026-11-14",
     "titre": "Qualification Reunion CDF 2027 U10",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73255",
     "cadence": "Lente",
@@ -33398,6 +33774,14 @@
     "cadence": "Lente",
     "lieu": "9A - SAINT PAUL",
     "arbitre": "LUTARD Florian"
+  },
+  {
+    "date": "2026-11-14",
+    "titre": "Tournoi d'Echecs d’automne des Petits Cavaliers de Saint-Nabord 2026 - U18",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73499",
+    "cadence": "Lente",
+    "lieu": "88 - SAINT NABORD",
+    "arbitre": "SKOTAREK Julien"
   },
   {
     "date": "2026-11-14",
@@ -33497,6 +33881,38 @@
   },
   {
     "date": "2026-11-15",
+    "titre": "Championnat Seine Maritime 2026 U12",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73518",
+    "cadence": "Lente",
+    "lieu": "76 - GONFREVILLE L'ORCHER",
+    "arbitre": "VAUGEOIS Stephane"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Championnat Seine Maritime 2026 U14",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73519",
+    "cadence": "Lente",
+    "lieu": "76 - GONFREVILLE L'ORCHER",
+    "arbitre": "VAUGEOIS Stephane"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Championnat Seine Maritime 2026 U16",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73520",
+    "cadence": "Lente",
+    "lieu": "76 - GONFREVILLE L'ORCHER",
+    "arbitre": "VAUGEOIS Stephane"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Championnat Seine Maritime 2026 U18 - U20",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73521",
+    "cadence": "Lente",
+    "lieu": "76 - GONFREVILLE L'ORCHER",
+    "arbitre": "VAUGEOIS Stephane"
+  },
+  {
+    "date": "2026-11-15",
     "titre": "Championnat de la Drôme Jeunes 2026 - U10",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72887",
     "cadence": "Lente",
@@ -33558,6 +33974,62 @@
     "cadence": "Lente",
     "lieu": "66 - PERPIGNAN",
     "arbitre": "LABORDE Stephane"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Master A 2026 Varois",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73532",
+    "cadence": "Lente",
+    "lieu": "83 - FREJUS",
+    "arbitre": "AIDAOUI Brice"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Master B 2026 Varois",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73533",
+    "cadence": "Lente",
+    "lieu": "83 - FREJUS",
+    "arbitre": "AIDAOUI Brice"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Master C 2026 Varois",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73534",
+    "cadence": "Lente",
+    "lieu": "83 - FREJUS",
+    "arbitre": "AIDAOUI Brice"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Master D 2026 Varois",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73535",
+    "cadence": "Lente",
+    "lieu": "83 - FREJUS",
+    "arbitre": "AIDAOUI Brice"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Master E 2026 Varois",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73536",
+    "cadence": "Lente",
+    "lieu": "83 - FREJUS",
+    "arbitre": "AIDAOUI Brice"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Master F 2026 Varois",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73537",
+    "cadence": "Lente",
+    "lieu": "83 - FREJUS",
+    "arbitre": "AIDAOUI Brice"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Master G 2026 Varois",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73538",
+    "cadence": "Lente",
+    "lieu": "83 - FREJUS",
+    "arbitre": "AIDAOUI Brice"
   },
   {
     "date": "2026-11-15",
@@ -33673,6 +34145,14 @@
   },
   {
     "date": "2026-11-20",
+    "titre": "8eme Tournoi des Senechaux",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73509",
+    "cadence": "Lente",
+    "lieu": "58 - LA CHARITE SUR LOIRE",
+    "arbitre": "LORENZO Alfredo"
+  },
+  {
+    "date": "2026-11-20",
     "titre": "Championnat Interne de Kingersheim 2026 r5-6",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72896",
     "cadence": "Lente",
@@ -33697,6 +34177,14 @@
   },
   {
     "date": "2026-11-21",
+    "titre": "2ème Rapide 21 Jeunes 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73515",
+    "cadence": "Rapide",
+    "lieu": "21 - QUETIGNY",
+    "arbitre": "BOILEAU Mickael"
+  },
+  {
+    "date": "2026-11-21",
     "titre": "2ème open annuel Echecs Academy Marseille Passion r3-4",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73159",
     "cadence": "Lente",
@@ -33710,6 +34198,14 @@
     "cadence": "Lente",
     "lieu": "30 - NIMES",
     "arbitre": "PIERRE Timothee"
+  },
+  {
+    "date": "2026-11-21",
+    "titre": "8eme Tournoi des Senechaux",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73509",
+    "cadence": "Lente",
+    "lieu": "58 - LA CHARITE SUR LOIRE",
+    "arbitre": "LORENZO Alfredo"
   },
   {
     "date": "2026-11-21",
@@ -33785,6 +34281,14 @@
   },
   {
     "date": "2026-11-22",
+    "titre": "8eme Tournoi des Senechaux",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73509",
+    "cadence": "Lente",
+    "lieu": "58 - LA CHARITE SUR LOIRE",
+    "arbitre": "LORENZO Alfredo"
+  },
+  {
+    "date": "2026-11-22",
     "titre": "Championnat du Loiret Jeunes 2026-U08 Mixte",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73054",
     "cadence": "Lente",
@@ -33822,6 +34326,14 @@
     "cadence": "Lente",
     "lieu": "45 - OLIVET",
     "arbitre": "BERNARDIN Thierry"
+  },
+  {
+    "date": "2026-11-22",
+    "titre": "Circuit du Couserans 2027 - 2ème étape",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73508",
+    "cadence": "Lente",
+    "lieu": "09 - LE MAS D'AZIL",
+    "arbitre": "GALLORINI Jean-Chris"
   },
   {
     "date": "2026-11-22",
@@ -33918,6 +34430,14 @@
     "cadence": "Lente",
     "lieu": "57 - METZ",
     "arbitre": "PIERROT Philippe"
+  },
+  {
+    "date": "2026-11-25",
+    "titre": "2ème Tournoi Blitz FIDE 2026 de l'école d'échecs de Hyères",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73530",
+    "cadence": "Blitz",
+    "lieu": "83 - HYERES",
+    "arbitre": "RAMAZZOTTI Bernard"
   },
   {
     "date": "2026-11-25",
@@ -34289,6 +34809,14 @@
   },
   {
     "date": "2026-12-03",
+    "titre": "Championnat des Yvelines 2026 Séniors Plus et Vétérans r5-7",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73498",
+    "cadence": "Lente",
+    "lieu": "78 - FONTENAY LE FLEURY",
+    "arbitre": "CLAISSE Patrick"
+  },
+  {
+    "date": "2026-12-03",
     "titre": "Open 13 - Marseille 2026-27 (-2200) r3-4",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73155",
     "cadence": "Lente",
@@ -34377,6 +34905,14 @@
   },
   {
     "date": "2026-12-04",
+    "titre": "Championnat des Yvelines 2026 Séniors Plus et Vétérans r5-7",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73498",
+    "cadence": "Lente",
+    "lieu": "78 - FONTENAY LE FLEURY",
+    "arbitre": "CLAISSE Patrick"
+  },
+  {
+    "date": "2026-12-04",
     "titre": "Open 13 - Marseille 2026-27 (-2200) r3-4",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73155",
     "cadence": "Lente",
@@ -34433,6 +34969,14 @@
   },
   {
     "date": "2026-12-05",
+    "titre": "Championnat des Yvelines 2026 Séniors Plus et Vétérans r5-7",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73498",
+    "cadence": "Lente",
+    "lieu": "78 - FONTENAY LE FLEURY",
+    "arbitre": "CLAISSE Patrick"
+  },
+  {
+    "date": "2026-12-05",
     "titre": "Open 13 2026-27 r3-4",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72997",
     "cadence": "Lente",
@@ -34473,6 +35017,14 @@
   },
   {
     "date": "2026-12-06",
+    "titre": "Championnat des Yvelines 2026 Séniors Plus et Vétérans r5-7",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73498",
+    "cadence": "Lente",
+    "lieu": "78 - FONTENAY LE FLEURY",
+    "arbitre": "CLAISSE Patrick"
+  },
+  {
+    "date": "2026-12-06",
     "titre": "Rapide Du Lagon Saint Leu Masters 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73261",
     "cadence": "Rapide",
@@ -34505,6 +35057,14 @@
   },
   {
     "date": "2026-12-07",
+    "titre": "Championnat des Yvelines 2026 Séniors Plus et Vétérans r5-7",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73498",
+    "cadence": "Lente",
+    "lieu": "78 - FONTENAY LE FLEURY",
+    "arbitre": "CLAISSE Patrick"
+  },
+  {
+    "date": "2026-12-07",
     "titre": "Tournoi du mercredi Grenoble – Hiver 2027 r1-3 (-2400)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72937",
     "cadence": "Lente",
@@ -34529,6 +35089,14 @@
   },
   {
     "date": "2026-12-08",
+    "titre": "Championnat des Yvelines 2026 Séniors Plus et Vétérans r5-7",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73498",
+    "cadence": "Lente",
+    "lieu": "78 - FONTENAY LE FLEURY",
+    "arbitre": "CLAISSE Patrick"
+  },
+  {
+    "date": "2026-12-08",
     "titre": "Tournoi du mercredi Grenoble – Hiver 2027 r1-3 (-2400)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72937",
     "cadence": "Lente",
@@ -34553,6 +35121,22 @@
   },
   {
     "date": "2026-12-09",
+    "titre": "Championnat des Yvelines 2026 Séniors Plus et Vétérans r5-7",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73498",
+    "cadence": "Lente",
+    "lieu": "78 - FONTENAY LE FLEURY",
+    "arbitre": "CLAISSE Patrick"
+  },
+  {
+    "date": "2026-12-09",
+    "titre": "Championnat départemental des collèges de Vendée 2026-27",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73539",
+    "cadence": "Lente",
+    "lieu": "85 - LA ROCHE SUR YON",
+    "arbitre": "FANCELLI Luc"
+  },
+  {
+    "date": "2026-12-09",
     "titre": "Tournoi du mercredi Grenoble – Hiver 2027 r1-3 (-2400)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72937",
     "cadence": "Lente",
@@ -34574,6 +35158,14 @@
     "cadence": "Lente",
     "lieu": "74 - ANNECY",
     "arbitre": "TRAVAILLOUX Dimitri"
+  },
+  {
+    "date": "2026-12-10",
+    "titre": "Championnat des Yvelines 2026 Séniors Plus et Vétérans r5-7",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73498",
+    "cadence": "Lente",
+    "lieu": "78 - FONTENAY LE FLEURY",
+    "arbitre": "CLAISSE Patrick"
   },
   {
     "date": "2026-12-10",
@@ -34633,6 +35225,14 @@
   },
   {
     "date": "2026-12-11",
+    "titre": "Championnat des Yvelines 2026 Séniors Plus et Vétérans r5-7",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73498",
+    "cadence": "Lente",
+    "lieu": "78 - FONTENAY LE FLEURY",
+    "arbitre": "CLAISSE Patrick"
+  },
+  {
+    "date": "2026-12-11",
     "titre": "Tournoi Interne de Naucelle 2026-27 r1-3",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73284",
     "cadence": "Lente",
@@ -34662,6 +35262,14 @@
     "cadence": "Lente",
     "lieu": "74 - ANNECY",
     "arbitre": "TRAVAILLOUX Dimitri"
+  },
+  {
+    "date": "2026-12-12",
+    "titre": "Championnat des Yvelines 2026 Séniors Plus et Vétérans r5-7",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73498",
+    "cadence": "Lente",
+    "lieu": "78 - FONTENAY LE FLEURY",
+    "arbitre": "CLAISSE Patrick"
   },
   {
     "date": "2026-12-12",
@@ -34713,6 +35321,14 @@
   },
   {
     "date": "2026-12-13",
+    "titre": "Championnat des Yvelines 2026 Séniors Plus et Vétérans r5-7",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73498",
+    "cadence": "Lente",
+    "lieu": "78 - FONTENAY LE FLEURY",
+    "arbitre": "CLAISSE Patrick"
+  },
+  {
+    "date": "2026-12-13",
     "titre": "Parties de Champagne Décembre 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72719",
     "cadence": "Lente",
@@ -34729,11 +35345,27 @@
   },
   {
     "date": "2026-12-14",
+    "titre": "Championnat des Yvelines 2026 Séniors Plus et Vétérans r5-7",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73498",
+    "cadence": "Lente",
+    "lieu": "78 - FONTENAY LE FLEURY",
+    "arbitre": "CLAISSE Patrick"
+  },
+  {
+    "date": "2026-12-14",
     "titre": "Tournoi du mercredi Grenoble – Hiver 2027 r1-3 (-2400)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72937",
     "cadence": "Lente",
     "lieu": "38 - GRENOBLE",
     "arbitre": "SALINAS Pierre"
+  },
+  {
+    "date": "2026-12-15",
+    "titre": "Championnat des Yvelines 2026 Séniors Plus et Vétérans r5-7",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73498",
+    "cadence": "Lente",
+    "lieu": "78 - FONTENAY LE FLEURY",
+    "arbitre": "CLAISSE Patrick"
   },
   {
     "date": "2026-12-15",
@@ -34745,11 +35377,27 @@
   },
   {
     "date": "2026-12-16",
+    "titre": "Championnat des Yvelines 2026 Séniors Plus et Vétérans r5-7",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73498",
+    "cadence": "Lente",
+    "lieu": "78 - FONTENAY LE FLEURY",
+    "arbitre": "CLAISSE Patrick"
+  },
+  {
+    "date": "2026-12-16",
     "titre": "Tournoi du mercredi Grenoble – Hiver 2027 r1-3 (-2400)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72937",
     "cadence": "Lente",
     "lieu": "38 - GRENOBLE",
     "arbitre": "SALINAS Pierre"
+  },
+  {
+    "date": "2026-12-17",
+    "titre": "Championnat des Yvelines 2026 Séniors Plus et Vétérans r5-7",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73498",
+    "cadence": "Lente",
+    "lieu": "78 - FONTENAY LE FLEURY",
+    "arbitre": "CLAISSE Patrick"
   },
   {
     "date": "2026-12-18",
@@ -34825,6 +35473,14 @@
   },
   {
     "date": "2026-12-19",
+    "titre": "23e Open de Vandoeuvre 2026 - Tournoi A (2000 et plus)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73522",
+    "cadence": "Lente",
+    "lieu": "54 - VANDOEUVRE LES NANCY",
+    "arbitre": "SAVINA Anastasia"
+  },
+  {
+    "date": "2026-12-19",
     "titre": "2ème Open de Hindisheim (-1700 Elo)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72600",
     "cadence": "Lente",
@@ -34870,6 +35526,14 @@
     "cadence": "Lente",
     "lieu": "44 - SUCE SUR ERDRE",
     "arbitre": "HUTOIS Mickael"
+  },
+  {
+    "date": "2026-12-19",
+    "titre": "9ème tournoi interne de l'échiquier Lédonien",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73511",
+    "cadence": "Lente",
+    "lieu": "39 - LONS LE SAUNIER",
+    "arbitre": "MINAUD Olivier"
   },
   {
     "date": "2026-12-19",
@@ -34942,6 +35606,14 @@
     "cadence": "Lente",
     "lieu": "76 - ROUEN",
     "arbitre": "CHELLILI Bachir"
+  },
+  {
+    "date": "2026-12-20",
+    "titre": "23e Open de Vandoeuvre 2026 - Tournoi A (2000 et plus)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73522",
+    "cadence": "Lente",
+    "lieu": "54 - VANDOEUVRE LES NANCY",
+    "arbitre": "SAVINA Anastasia"
   },
   {
     "date": "2026-12-20",
@@ -35057,11 +35729,35 @@
   },
   {
     "date": "2026-12-21",
+    "titre": "23e Open de Vandoeuvre 2026 - Tournoi A (2000 et plus)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73522",
+    "cadence": "Lente",
+    "lieu": "54 - VANDOEUVRE LES NANCY",
+    "arbitre": "SAVINA Anastasia"
+  },
+  {
+    "date": "2026-12-21",
+    "titre": "23e Open de Vandoeuvre 2026 - Tournoi C (1650 et moins)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73524",
+    "cadence": "Lente",
+    "lieu": "54 - VANDOEUVRE LES NANCY",
+    "arbitre": "SAVINA Anastasia"
+  },
+  {
+    "date": "2026-12-21",
     "titre": "2ème Open de Hindisheim (-1700 Elo)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72600",
     "cadence": "Lente",
     "lieu": "67 - HINDISHEIM",
     "arbitre": "HEDDACHE Rachid"
+  },
+  {
+    "date": "2026-12-21",
+    "titre": "Tournoi Interne Alès 2026-2027 r2",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73542",
+    "cadence": "Lente",
+    "lieu": "30 - ALES",
+    "arbitre": "PIERRE Timothee"
   },
   {
     "date": "2026-12-22",
@@ -35094,6 +35790,22 @@
     "cadence": "Lente",
     "lieu": "76 - ROUEN",
     "arbitre": "CHELLILI Bachir"
+  },
+  {
+    "date": "2026-12-22",
+    "titre": "23e Open de Vandoeuvre 2026 - Tournoi A (2000 et plus)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73522",
+    "cadence": "Lente",
+    "lieu": "54 - VANDOEUVRE LES NANCY",
+    "arbitre": "SAVINA Anastasia"
+  },
+  {
+    "date": "2026-12-22",
+    "titre": "23e Open de Vandoeuvre 2026 - Tournoi C (1650 et moins)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73524",
+    "cadence": "Lente",
+    "lieu": "54 - VANDOEUVRE LES NANCY",
+    "arbitre": "SAVINA Anastasia"
   },
   {
     "date": "2026-12-22",
@@ -35134,6 +35846,22 @@
     "cadence": "Lente",
     "lieu": "76 - ROUEN",
     "arbitre": "CHELLILI Bachir"
+  },
+  {
+    "date": "2026-12-23",
+    "titre": "23e Open de Vandoeuvre 2026 - Tournoi A (2000 et plus)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73522",
+    "cadence": "Lente",
+    "lieu": "54 - VANDOEUVRE LES NANCY",
+    "arbitre": "SAVINA Anastasia"
+  },
+  {
+    "date": "2026-12-23",
+    "titre": "23e Open de Vandoeuvre 2026 - Tournoi C (1650 et moins)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73524",
+    "cadence": "Lente",
+    "lieu": "54 - VANDOEUVRE LES NANCY",
+    "arbitre": "SAVINA Anastasia"
   },
   {
     "date": "2026-12-26",
