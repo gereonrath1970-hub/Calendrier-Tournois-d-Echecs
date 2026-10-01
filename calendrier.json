@@ -28233,6 +28233,14 @@
   },
   {
     "date": "2026-10-03",
+    "titre": "Tournoi des aventuriers Courtois 3 octobre 2025",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73567",
+    "cadence": "Lente",
+    "lieu": "69 - LYON",
+    "arbitre": "MATHIEU Christophe"
+  },
+  {
+    "date": "2026-10-03",
     "titre": "Tournoi du mercredi Grenoble – Automne 2026 r4-6 (-2400)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72935",
     "cadence": "Lente",
@@ -28921,6 +28929,14 @@
   },
   {
     "date": "2026-10-10",
+    "titre": "Tournoi des Aventuriers Courtois du samedi 10 octobre 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73566",
+    "cadence": "Lente",
+    "lieu": "69 - LYON",
+    "arbitre": "MATHIEU Christophe"
+  },
+  {
+    "date": "2026-10-10",
     "titre": "Tournoi du mercredi Grenoble – Automne 2026 r4-6 (-2400)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72935",
     "cadence": "Lente",
@@ -29129,6 +29145,14 @@
   },
   {
     "date": "2026-10-14",
+    "titre": "481è Rapide FIDE Interchess -2000",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73549",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-10-14",
     "titre": "4eme Open Diago lent Eybens r4-6",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73030",
     "cadence": "Lente",
@@ -29193,11 +29217,27 @@
   },
   {
     "date": "2026-10-15",
+    "titre": "120è Rapide FFE Interchess d'entrainement 1500-2000 Elo",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73551",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "PHAM Hieu Tuong"
+  },
+  {
+    "date": "2026-10-15",
     "titre": "26e Open International d'Echecs de la Réunion",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72310",
     "cadence": "Lente",
     "lieu": "9A - SAINT DENIS",
     "arbitre": "DEURVILLIER Martial"
+  },
+  {
+    "date": "2026-10-15",
+    "titre": "482è Rapide FIDE Interchess",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73550",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
   },
   {
     "date": "2026-10-15",
@@ -29265,6 +29305,14 @@
   },
   {
     "date": "2026-10-16",
+    "titre": "7e Tournoi de Blitz Mensuel de Cergy-Pontoise interne",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73571",
+    "cadence": "Blitz",
+    "lieu": "95 - PONTOISE",
+    "arbitre": "DAUPHIN Thomas"
+  },
+  {
+    "date": "2026-10-16",
     "titre": "Blitz \"Octobre Rose\" de l'Echiquier Nîmois 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73540",
     "cadence": "Blitz",
@@ -29328,6 +29376,22 @@
     "arbitre": "SAVINA Anastasia"
   },
   {
+    "date": "2026-10-16",
+    "titre": "Tournoi de Blitz Echiquier Bordelais - 16-10-26",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73560",
+    "cadence": "Blitz",
+    "lieu": "33 - BORDEAUX",
+    "arbitre": "LAPEYRE Pierre"
+  },
+  {
+    "date": "2026-10-17",
+    "titre": "125è Blitz FIDE Interchess -2000 (conseillé aux débutants adultes jeunes et enfants)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73552",
+    "cadence": "Blitz",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
     "date": "2026-10-17",
     "titre": "12e Rapide des Calanques",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72890",
@@ -29358,6 +29422,14 @@
     "cadence": "Rapide",
     "lieu": "77 - MEAUX",
     "arbitre": "COUSIN Fabien"
+  },
+  {
+    "date": "2026-10-17",
+    "titre": "16è Marathon Rapide FIDE Interchess",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73554",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
   },
   {
     "date": "2026-10-17",
@@ -29465,6 +29537,14 @@
   },
   {
     "date": "2026-10-17",
+    "titre": "483è Rapide FIDE Interchess -2000 (conseillé aux débutants adultes jeunes et enfants)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73553",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-10-17",
     "titre": "4e Festival International d'Annemasse - Tournoi Accession",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72214",
     "cadence": "Lente",
@@ -29518,6 +29598,14 @@
     "cadence": "Blitz",
     "lieu": "66 - PERPIGNAN",
     "arbitre": "LABORDE Stephane"
+  },
+  {
+    "date": "2026-10-17",
+    "titre": "Blitz 49 2026-27",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73558",
+    "cadence": "Blitz",
+    "lieu": "49 - MONTJEAN SUR LOIRE",
+    "arbitre": "VERNEREY Laurent"
   },
   {
     "date": "2026-10-17",
@@ -29929,6 +30017,14 @@
   },
   {
     "date": "2026-10-17",
+    "titre": "Tournoi des Aventuriers Courtois du samedi 17 octobre 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73568",
+    "cadence": "Lente",
+    "lieu": "69 - LYON",
+    "arbitre": "BUDACI Lionel"
+  },
+  {
+    "date": "2026-10-17",
     "titre": "Tournoi interne Philidor Fismes 2026 - Espoirs",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72924",
     "cadence": "Lente",
@@ -29950,6 +30046,22 @@
     "cadence": "Rapide",
     "lieu": "06 - NICE",
     "arbitre": "BIANCALANA Marc"
+  },
+  {
+    "date": "2026-10-18",
+    "titre": "126è Blitz FIDE Interchess",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73557",
+    "cadence": "Blitz",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-10-18",
+    "titre": "16eme tournoi Pédagogique",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73590",
+    "cadence": "Lente",
+    "lieu": "78 - MAGNY LES HAMEAUX",
+    "arbitre": "PLANTET Marc"
   },
   {
     "date": "2026-10-18",
@@ -30065,6 +30177,14 @@
   },
   {
     "date": "2026-10-18",
+    "titre": "292è Open FIDE Interchess de 3 Rondes -1800",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73555",
+    "cadence": "Lente",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-10-18",
     "titre": "2ème Open International de Saint-Macaire",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71990",
     "cadence": "Lente",
@@ -30094,6 +30214,14 @@
     "cadence": "Rapide",
     "lieu": "76 - GOURNAY EN BRAY",
     "arbitre": "SOUBIROU Philippe"
+  },
+  {
+    "date": "2026-10-18",
+    "titre": "484è Rapide FIDE Interchess",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73556",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
   },
   {
     "date": "2026-10-18",
@@ -31720,6 +31848,14 @@
     "arbitre": "BELEY Francis"
   },
   {
+    "date": "2026-10-24",
+    "titre": "Tournoi des Aventuriers Courtois du samedi 24 octobre 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73569",
+    "cadence": "Lente",
+    "lieu": "69 - LYON",
+    "arbitre": "MATHIEU Christophe"
+  },
+  {
     "date": "2026-10-25",
     "titre": "1er Open d'Octobre Rose du LECEL",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73417",
@@ -32729,11 +32865,27 @@
   },
   {
     "date": "2026-10-31",
+    "titre": "Rapide d'Halloween 2026 du LMC",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73559",
+    "cadence": "Rapide",
+    "lieu": "59 - LILLE",
+    "arbitre": "SOUBIROU Oriane"
+  },
+  {
+    "date": "2026-10-31",
     "titre": "Rapide mensuel du CEIT octobre 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73379",
     "cadence": "Rapide",
     "lieu": "31 - TOULOUSE",
     "arbitre": "VAN ELST Andreas"
+  },
+  {
+    "date": "2026-10-31",
+    "titre": "Tournoi des Aventuriers Courtois du samedi 31 octobre 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73570",
+    "cadence": "Lente",
+    "lieu": "69 - LYON",
+    "arbitre": "MATHIEU Christophe"
   },
   {
     "date": "2026-11-01",
@@ -32982,6 +33134,14 @@
     "cadence": "Lente",
     "lieu": "34 - LAVERUNE",
     "arbitre": "TUR Fabrice"
+  },
+  {
+    "date": "2026-11-06",
+    "titre": "Tournoi Interne de Seichamps Echecs 2026-2027 r1",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73581",
+    "cadence": "Lente",
+    "lieu": "54 - SEICHAMPS",
+    "arbitre": "SCHMITT Nicolas"
   },
   {
     "date": "2026-11-06",
@@ -34193,6 +34353,14 @@
   },
   {
     "date": "2026-11-21",
+    "titre": "34e Rapide Fide de l'Echecs Club Montpellier",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73575",
+    "cadence": "Rapide",
+    "lieu": "34 - MONTPELLIER",
+    "arbitre": "LONG Raphael"
+  },
+  {
+    "date": "2026-11-21",
     "titre": "3ème Open Vétéran et Senior Plus du Gard",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73346",
     "cadence": "Lente",
@@ -34937,6 +35105,14 @@
   },
   {
     "date": "2026-12-04",
+    "titre": "Tournoi Interne de Seichamps Echecs 2026-2027 r2",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73582",
+    "cadence": "Lente",
+    "lieu": "54 - SEICHAMPS",
+    "arbitre": "SCHMITT Nicolas"
+  },
+  {
+    "date": "2026-12-04",
     "titre": "Tournoi de blitz de décembre 2026 de l'Echecs Club Ajaccien",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73398",
     "cadence": "Blitz",
@@ -35254,6 +35430,14 @@
     "cadence": "Lente",
     "lieu": "73 - AIX LES BAINS",
     "arbitre": "FRION Sandrine"
+  },
+  {
+    "date": "2026-12-12",
+    "titre": "8ème Blitz Fide de l'Echecs Club Montpellier",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73579",
+    "cadence": "Blitz",
+    "lieu": "34 - MONTPELLIER",
+    "arbitre": "LONG Raphael"
   },
   {
     "date": "2026-12-12",
