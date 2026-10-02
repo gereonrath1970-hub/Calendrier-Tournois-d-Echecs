@@ -28689,6 +28689,14 @@
   },
   {
     "date": "2026-10-08",
+    "titre": "Tournoi de Blitz FIDE Grenoble octobre 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73612",
+    "cadence": "Blitz",
+    "lieu": "38 - GRENOBLE",
+    "arbitre": "SAINT-ARROMAN Alain"
+  },
+  {
+    "date": "2026-10-08",
     "titre": "Tournoi du mercredi Grenoble – Automne 2026 r4-6 (-2400)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72935",
     "cadence": "Lente",
@@ -29334,6 +29342,14 @@
     "cadence": "Blitz",
     "lieu": "77 - FONTAINEBLEAU",
     "arbitre": "LECLERC Louis"
+  },
+  {
+    "date": "2026-10-16",
+    "titre": "Blitz-pizza des vacances d'Halloween 2026 de Loures Barousse",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73611",
+    "cadence": "Blitz",
+    "lieu": "65 - LOURES BAROUSSE",
+    "arbitre": "GOSSELIN Vincent"
   },
   {
     "date": "2026-10-16",
@@ -33758,6 +33774,22 @@
     "cadence": "Lente",
     "lieu": "74 - LE GRAND BORNAND",
     "arbitre": "LURVOIS Jean-Luc"
+  },
+  {
+    "date": "2026-11-14",
+    "titre": "Championnat EURE Jeunes 2026 - U08",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73591",
+    "cadence": "Lente",
+    "lieu": "27 - LOUVIERS",
+    "arbitre": "ADELINE Bruno"
+  },
+  {
+    "date": "2026-11-14",
+    "titre": "Championnat EURE Jeunes 2026 - U10",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73592",
+    "cadence": "Lente",
+    "lieu": "27 - LOUVIERS",
+    "arbitre": "ADELINE Bruno"
   },
   {
     "date": "2026-11-14",
