@@ -30033,6 +30033,14 @@
   },
   {
     "date": "2026-10-17",
+    "titre": "Tournoi Interne METL 2026-27 r1",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73486",
+    "cadence": "Lente",
+    "lieu": "31 - TOULOUSE",
+    "arbitre": "SANCHEZ Nicolas"
+  },
+  {
+    "date": "2026-10-17",
     "titre": "Tournoi des Aventuriers Courtois du samedi 17 octobre 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73568",
     "cadence": "Lente",
@@ -33801,6 +33809,54 @@
   },
   {
     "date": "2026-11-14",
+    "titre": "Championnat Jeunes Haute-Garonne 2026 - U10",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73595",
+    "cadence": "Lente",
+    "lieu": "31 - PLAISANCE DU TOUCH",
+    "arbitre": "JACQUEMONT Olivier"
+  },
+  {
+    "date": "2026-11-14",
+    "titre": "Championnat Jeunes Haute-Garonne 2026 - U12",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73596",
+    "cadence": "Lente",
+    "lieu": "31 - PLAISANCE DU TOUCH",
+    "arbitre": "JACQUEMONT Olivier"
+  },
+  {
+    "date": "2026-11-14",
+    "titre": "Championnat Jeunes Haute-Garonne 2026 - U14",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73597",
+    "cadence": "Lente",
+    "lieu": "31 - PLAISANCE DU TOUCH",
+    "arbitre": "JACQUEMONT Olivier"
+  },
+  {
+    "date": "2026-11-14",
+    "titre": "Championnat Jeunes Haute-Garonne 2026 - U16",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73598",
+    "cadence": "Lente",
+    "lieu": "31 - PLAISANCE DU TOUCH",
+    "arbitre": "JACQUEMONT Olivier"
+  },
+  {
+    "date": "2026-11-14",
+    "titre": "Championnat Jeunes Haute-Garonne 2026 - U18 et U20",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73599",
+    "cadence": "Lente",
+    "lieu": "31 - PLAISANCE DU TOUCH",
+    "arbitre": "JACQUEMONT Olivier"
+  },
+  {
+    "date": "2026-11-14",
+    "titre": "Championnat Jeunes Haute-Garonne 2026 - U8",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73594",
+    "cadence": "Lente",
+    "lieu": "31 - PLAISANCE DU TOUCH",
+    "arbitre": "JACQUEMONT Olivier"
+  },
+  {
+    "date": "2026-11-14",
     "titre": "Championnat Seine Maritime 2026 U08",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73516",
     "cadence": "Lente",
@@ -34041,11 +34097,91 @@
   },
   {
     "date": "2026-11-15",
+    "titre": "Championnat EURE Jeunes 2026 - U12",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73606",
+    "cadence": "Lente",
+    "lieu": "27 - LOUVIERS",
+    "arbitre": "ADELINE Bruno"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Championnat EURE Jeunes 2026 - U14",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73607",
+    "cadence": "Lente",
+    "lieu": "27 - LOUVIERS",
+    "arbitre": "ADELINE Bruno"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Championnat EURE Jeunes 2026 - U16",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73608",
+    "cadence": "Lente",
+    "lieu": "27 - LOUVIERS",
+    "arbitre": "ADELINE Bruno"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Championnat EURE Jeunes 2026 - U18 U20",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73609",
+    "cadence": "Lente",
+    "lieu": "27 - LOUVIERS",
+    "arbitre": "ADELINE Bruno"
+  },
+  {
+    "date": "2026-11-15",
     "titre": "Championnat Interne de Kingersheim 2026 r5-6",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72896",
     "cadence": "Lente",
     "lieu": "68 - KINGERSHEIM",
     "arbitre": "DE FAVERI Gabriel"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Championnat Jeunes Haute-Garonne 2026 - U10",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73595",
+    "cadence": "Lente",
+    "lieu": "31 - PLAISANCE DU TOUCH",
+    "arbitre": "JACQUEMONT Olivier"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Championnat Jeunes Haute-Garonne 2026 - U12",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73596",
+    "cadence": "Lente",
+    "lieu": "31 - PLAISANCE DU TOUCH",
+    "arbitre": "JACQUEMONT Olivier"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Championnat Jeunes Haute-Garonne 2026 - U14",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73597",
+    "cadence": "Lente",
+    "lieu": "31 - PLAISANCE DU TOUCH",
+    "arbitre": "JACQUEMONT Olivier"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Championnat Jeunes Haute-Garonne 2026 - U16",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73598",
+    "cadence": "Lente",
+    "lieu": "31 - PLAISANCE DU TOUCH",
+    "arbitre": "JACQUEMONT Olivier"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Championnat Jeunes Haute-Garonne 2026 - U18 et U20",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73599",
+    "cadence": "Lente",
+    "lieu": "31 - PLAISANCE DU TOUCH",
+    "arbitre": "JACQUEMONT Olivier"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Championnat Jeunes Haute-Garonne 2026 - U8",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73594",
+    "cadence": "Lente",
+    "lieu": "31 - PLAISANCE DU TOUCH",
+    "arbitre": "JACQUEMONT Olivier"
   },
   {
     "date": "2026-11-15",
@@ -34425,6 +34561,30 @@
   },
   {
     "date": "2026-11-21",
+    "titre": "Championnat individuel jeune de Vendée - U12 mixte",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73602",
+    "cadence": "Lente",
+    "lieu": "85 - MONTAIGU",
+    "arbitre": "GUICHETEAU Dany"
+  },
+  {
+    "date": "2026-11-21",
+    "titre": "Championnat individuel jeune de Vendée - U14 mixte",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73603",
+    "cadence": "Lente",
+    "lieu": "85 - MONTAIGU",
+    "arbitre": "GUICHETEAU Dany"
+  },
+  {
+    "date": "2026-11-21",
+    "titre": "Championnat individuel jeune de Vendée - U16 mixte",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73604",
+    "cadence": "Lente",
+    "lieu": "85 - MONTAIGU",
+    "arbitre": "GUICHETEAU Dany"
+  },
+  {
+    "date": "2026-11-21",
     "titre": "Open 13 - Marseille 2026-27 (-2200) r3-4",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73155",
     "cadence": "Lente",
@@ -34446,6 +34606,22 @@
     "cadence": "Lente",
     "lieu": "13 - AUBAGNE",
     "arbitre": "ROMAN Sylvian"
+  },
+  {
+    "date": "2026-11-21",
+    "titre": "Open Cadet-Junior mixte de Vendée 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73605",
+    "cadence": "Lente",
+    "lieu": "85 - MONTAIGU",
+    "arbitre": "GUICHETEAU Dany"
+  },
+  {
+    "date": "2026-11-21",
+    "titre": "Tournoi Interne METL 2026-27 r2",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73487",
+    "cadence": "Lente",
+    "lieu": "31 - TOULOUSE",
+    "arbitre": "SANCHEZ Nicolas"
   },
   {
     "date": "2026-11-21",
@@ -34529,6 +34705,30 @@
   },
   {
     "date": "2026-11-22",
+    "titre": "Championnat individuel jeune de Vendée - U12 mixte",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73602",
+    "cadence": "Lente",
+    "lieu": "85 - MONTAIGU",
+    "arbitre": "GUICHETEAU Dany"
+  },
+  {
+    "date": "2026-11-22",
+    "titre": "Championnat individuel jeune de Vendée - U14 mixte",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73603",
+    "cadence": "Lente",
+    "lieu": "85 - MONTAIGU",
+    "arbitre": "GUICHETEAU Dany"
+  },
+  {
+    "date": "2026-11-22",
+    "titre": "Championnat individuel jeune de Vendée - U16 mixte",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73604",
+    "cadence": "Lente",
+    "lieu": "85 - MONTAIGU",
+    "arbitre": "GUICHETEAU Dany"
+  },
+  {
+    "date": "2026-11-22",
     "titre": "Circuit du Couserans 2027 - 2ème étape",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73508",
     "cadence": "Lente",
@@ -34558,6 +34758,14 @@
     "cadence": "Lente",
     "lieu": "13 - AUBAGNE",
     "arbitre": "ROMAN Sylvian"
+  },
+  {
+    "date": "2026-11-22",
+    "titre": "Open Cadet-Junior mixte de Vendée 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73605",
+    "cadence": "Lente",
+    "lieu": "85 - MONTAIGU",
+    "arbitre": "GUICHETEAU Dany"
   },
   {
     "date": "2026-11-23",
@@ -34822,6 +35030,14 @@
     "cadence": "Lente",
     "lieu": "13 - AUBAGNE",
     "arbitre": "ROMAN Sylvian"
+  },
+  {
+    "date": "2026-11-28",
+    "titre": "Tournoi interne FOAV 2026-27 2bis",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73610",
+    "cadence": "Lente",
+    "lieu": "77 - FONTAINEBLEAU",
+    "arbitre": "LECLERC Louis"
   },
   {
     "date": "2026-11-29",
@@ -35198,6 +35414,14 @@
     "cadence": "Lente",
     "lieu": "13 - AUBAGNE",
     "arbitre": "ROMAN Sylvian"
+  },
+  {
+    "date": "2026-12-05",
+    "titre": "Tournoi Interne METL 2026-27 r3",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73488",
+    "cadence": "Lente",
+    "lieu": "31 - TOULOUSE",
+    "arbitre": "SANCHEZ Nicolas"
   },
   {
     "date": "2026-12-05",
