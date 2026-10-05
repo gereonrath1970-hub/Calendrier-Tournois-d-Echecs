@@ -29489,6 +29489,14 @@
   },
   {
     "date": "2026-10-17",
+    "titre": "1er Tournoi de l'IFAS",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73650",
+    "cadence": "Lente",
+    "lieu": "9B - CAYENNE",
+    "arbitre": "ERIPRET Nicolas"
+  },
+  {
+    "date": "2026-10-17",
     "titre": "20ème Open d'Automne de Briouze Tournoi A (-2400)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73102",
     "cadence": "Lente",
@@ -31217,6 +31225,14 @@
   },
   {
     "date": "2026-10-21",
+    "titre": "121è Rapide FFE Interchess -1700 Elo (conseillé aux débutants adultes jeunes et enfants)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73640",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "PHAM Hieu Tuong"
+  },
+  {
+    "date": "2026-10-21",
     "titre": "1er Blitz by Night - Lille Métropole Chess",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73330",
     "cadence": "Blitz",
@@ -31374,6 +31390,14 @@
     "cadence": "Blitz",
     "lieu": "35 - LIFFRE",
     "arbitre": "RUHLMANN Dominique"
+  },
+  {
+    "date": "2026-10-22",
+    "titre": "122è Rapide d'entrainement FFE Interchess -2000",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73642",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "PHAM Hieu Tuong"
   },
   {
     "date": "2026-10-22",
