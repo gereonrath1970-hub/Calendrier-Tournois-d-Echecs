@@ -29017,14 +29017,6 @@
   },
   {
     "date": "2026-10-11",
-    "titre": "Championnat de Martinique Blitz 2026",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73477",
-    "cadence": "Blitz",
-    "lieu": "9D - LE LAMENTIN",
-    "arbitre": "SORRENTE Layana"
-  },
-  {
-    "date": "2026-10-11",
     "titre": "Championnat de Savoie 2026-27 r1-2",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73292",
     "cadence": "Lente",
@@ -29285,7 +29277,7 @@
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72588",
     "cadence": "Blitz",
     "lieu": "77 - NOISIEL",
-    "arbitre": "BELEY Huong"
+    "arbitre": "BOGDANOVSKY Sonia"
   },
   {
     "date": "2026-10-16",
@@ -29550,6 +29542,14 @@
     "cadence": "Lente",
     "lieu": "33 - SAINT MACAIRE",
     "arbitre": "MARIMON Frederic"
+  },
+  {
+    "date": "2026-10-17",
+    "titre": "3e Tournoi Rapide d'Echecs de Saint Chamond",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73639",
+    "cadence": "Rapide",
+    "lieu": "42 - SAINT CHAMOND",
+    "arbitre": "MARTINEZ Romain"
   },
   {
     "date": "2026-10-17",
@@ -31329,6 +31329,14 @@
   },
   {
     "date": "2026-10-21",
+    "titre": "485è Rapide FIDE Interchess -2000 (conseillé aux débutants adultes jeunes et enfants)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73641",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-10-21",
     "titre": "4e Festival International d'Annemasse - Tournoi Accession",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72214",
     "cadence": "Lente",
@@ -31481,6 +31489,14 @@
   },
   {
     "date": "2026-10-22",
+    "titre": "486è Rapide FIDE Interchess",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73643",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-10-22",
     "titre": "4e Festival International d'Annemasse - Tournoi Accession",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72214",
     "cadence": "Lente",
@@ -31601,6 +31617,14 @@
   },
   {
     "date": "2026-10-23",
+    "titre": "341e Blitz Fide du Canal (9e Grand Malabar)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73662",
+    "cadence": "Blitz",
+    "lieu": "75 - PARIS",
+    "arbitre": "RUBINI Xavier"
+  },
+  {
+    "date": "2026-10-23",
     "titre": "4e Festival International d'Annemasse - Tournoi Accession",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72214",
     "cadence": "Lente",
@@ -31688,6 +31712,22 @@
     "arbitre": "RUHLMANN Dominique"
   },
   {
+    "date": "2026-10-23",
+    "titre": "Tournoi blitz du Vésinet - nr 1 du 23-10-2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73637",
+    "cadence": "Blitz",
+    "lieu": "78 - LE VESINET",
+    "arbitre": "IMBERT Christophe"
+  },
+  {
+    "date": "2026-10-23",
+    "titre": "Tournoi interne Saint-Max 2026-2027 r1",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73651",
+    "cadence": "Lente",
+    "lieu": "54 - SAINT MAX",
+    "arbitre": "SCHMITT Nicolas"
+  },
+  {
     "date": "2026-10-24",
     "titre": "10e Blitz de Chambéry",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73173",
@@ -31697,11 +31737,35 @@
   },
   {
     "date": "2026-10-24",
+    "titre": "127è Blitz FIDE Interchess -2000 Elo",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73644",
+    "cadence": "Blitz",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-10-24",
+    "titre": "17è Marathon Rapide FIDE Interchess",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73646",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-10-24",
     "titre": "1er Open Blitz de la Tour Noire Huriel",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73192",
     "cadence": "Blitz",
     "lieu": "03 - HURIEL",
     "arbitre": "BONNICHON Arnaud"
+  },
+  {
+    "date": "2026-10-24",
+    "titre": "1er Open FIDE du Val Parisis (-2000)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73686",
+    "cadence": "Lente",
+    "lieu": "95 - FRANCONVILLE",
+    "arbitre": "MAREC Yann"
   },
   {
     "date": "2026-10-24",
@@ -31782,6 +31846,14 @@
     "cadence": "Lente",
     "lieu": "2B - CALVI",
     "arbitre": "MURCIA Gerald"
+  },
+  {
+    "date": "2026-10-24",
+    "titre": "487è Rapide FIDE Interchess -2000 (conseillé aux débutants adultes jeunes et enfants)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73645",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
   },
   {
     "date": "2026-10-24",
@@ -31937,11 +32009,27 @@
   },
   {
     "date": "2026-10-25",
+    "titre": "1er Open FIDE du Val Parisis (-2000)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73686",
+    "cadence": "Lente",
+    "lieu": "95 - FRANCONVILLE",
+    "arbitre": "MAREC Yann"
+  },
+  {
+    "date": "2026-10-25",
     "titre": "1er Open d'Octobre Rose du LECEL",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73417",
     "cadence": "Lente",
     "lieu": "87 - LIMOGES",
     "arbitre": "TCHEFRANOFF Stephane"
+  },
+  {
+    "date": "2026-10-25",
+    "titre": "23è Marathon de Blitz FIDE Interchess",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73649",
+    "cadence": "Blitz",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
   },
   {
     "date": "2026-10-25",
@@ -32001,6 +32089,14 @@
   },
   {
     "date": "2026-10-25",
+    "titre": "293è Open FIDE Interchess de 3 Rondes -1800",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73647",
+    "cadence": "Lente",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-10-25",
     "titre": "2eme Open International de Calais",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72077",
     "cadence": "Lente",
@@ -32030,6 +32126,14 @@
     "cadence": "Lente",
     "lieu": "2B - CALVI",
     "arbitre": "MURCIA Gerald"
+  },
+  {
+    "date": "2026-10-25",
+    "titre": "488è Rapide FIDE Interchess -2000",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73648",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
   },
   {
     "date": "2026-10-25",
@@ -32078,6 +32182,14 @@
     "cadence": "Lente",
     "lieu": "29 - FOUESNANT",
     "arbitre": "LECORNU Laurent"
+  },
+  {
+    "date": "2026-10-25",
+    "titre": "Open FiDE rapide de l'échquier Moulien - 2ème édition",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73699",
+    "cadence": "Rapide",
+    "lieu": "9C - LE MOULE",
+    "arbitre": "MAROT Philippe"
   },
   {
     "date": "2026-10-25",
@@ -32206,6 +32318,14 @@
     "cadence": "Lente",
     "lieu": "30 - ALES",
     "arbitre": "PIERRE Timothee"
+  },
+  {
+    "date": "2026-10-26",
+    "titre": "Tournoi Interne Cercle Airbus Toulouse Echecs 2026-27 r1",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73689",
+    "cadence": "Lente",
+    "lieu": "31 - TOULOUSE",
+    "arbitre": "VIDALENC Dimitri"
   },
   {
     "date": "2026-10-27",
@@ -32665,6 +32785,14 @@
   },
   {
     "date": "2026-10-30",
+    "titre": "342e Blitz Fide du Canal (9e Grand Malabar)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73663",
+    "cadence": "Blitz",
+    "lieu": "75 - PARIS",
+    "arbitre": "RUBINI Xavier"
+  },
+  {
+    "date": "2026-10-30",
     "titre": "Breizh Chess Challenger 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72847",
     "cadence": "Lente",
@@ -32838,6 +32966,22 @@
     "cadence": "Lente",
     "lieu": "87 - PANAZOL",
     "arbitre": "LUCAZEAU Alain"
+  },
+  {
+    "date": "2026-10-31",
+    "titre": "2éme Tournoi rapide d'automne de Noisiel -10 ans",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73683",
+    "cadence": "Rapide",
+    "lieu": "77 - NOISIEL",
+    "arbitre": "AUBRY Benjamin"
+  },
+  {
+    "date": "2026-10-31",
+    "titre": "2éme Tournoi rapide d'automne de Noisiel -16 ans",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73684",
+    "cadence": "Rapide",
+    "lieu": "77 - NOISIEL",
+    "arbitre": "AUBRY Benjamin"
   },
   {
     "date": "2026-10-31",
@@ -33417,6 +33561,14 @@
   },
   {
     "date": "2026-11-11",
+    "titre": "18ème Tournoi Rapide de Montbron",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73671",
+    "cadence": "Rapide",
+    "lieu": "16 - MONTBRON",
+    "arbitre": "CYRILLE Dominique"
+  },
+  {
+    "date": "2026-11-11",
     "titre": "22ème Rapide de Besançon",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73176",
     "cadence": "Rapide",
@@ -33598,6 +33750,30 @@
     "cadence": "Rapide",
     "lieu": "08 - NEUFLIZE",
     "arbitre": "AKREMANN Jordan"
+  },
+  {
+    "date": "2026-11-11",
+    "titre": "Salon de Provence 11e 11 novembre 26 A",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73674",
+    "cadence": "Lente",
+    "lieu": "13 - SALON DE PROVENCE",
+    "arbitre": "REGAUD Denis"
+  },
+  {
+    "date": "2026-11-11",
+    "titre": "Salon de Provence 11e 11 novembre 26 B (-1700)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73675",
+    "cadence": "Lente",
+    "lieu": "13 - SALON DE PROVENCE",
+    "arbitre": "REGAUD Denis"
+  },
+  {
+    "date": "2026-11-11",
+    "titre": "Salon de Provence 11e 11 novembre 26 J (U14 -1500)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73676",
+    "cadence": "Lente",
+    "lieu": "13 - SALON DE PROVENCE",
+    "arbitre": "REGAUD Denis"
   },
   {
     "date": "2026-11-11",
@@ -33841,6 +34017,22 @@
   },
   {
     "date": "2026-11-14",
+    "titre": "1er Tournoi Challenge de rentrée de l'Echiquier de Saint Julien",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73688",
+    "cadence": "Lente",
+    "lieu": "83 - SAINT JULIEN",
+    "arbitre": "PELLICANO Marc"
+  },
+  {
+    "date": "2026-11-14",
+    "titre": "1er Tournoi Espérance de l'Echiquier de Saint Julien",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73702",
+    "cadence": "Lente",
+    "lieu": "83 - SAINT JULIEN",
+    "arbitre": "PELLICANO Marc"
+  },
+  {
+    "date": "2026-11-14",
     "titre": "2ème Open lent de Plaimpied-Givaudins (-2400)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73123",
     "cadence": "Lente",
@@ -33950,6 +34142,38 @@
     "cadence": "Lente",
     "lieu": "31 - PLAISANCE DU TOUCH",
     "arbitre": "JACQUEMONT Olivier"
+  },
+  {
+    "date": "2026-11-14",
+    "titre": "Championnat Jeunes de Sarthe 2026 U12",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73679",
+    "cadence": "Lente",
+    "lieu": "72 - LA FERTE BERNARD",
+    "arbitre": "FLAMENT Sebastien"
+  },
+  {
+    "date": "2026-11-14",
+    "titre": "Championnat Jeunes de Sarthe 2026 U14",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73680",
+    "cadence": "Lente",
+    "lieu": "72 - LA FERTE BERNARD",
+    "arbitre": "FLAMENT Sebastien"
+  },
+  {
+    "date": "2026-11-14",
+    "titre": "Championnat Jeunes de Sarthe 2026 U16",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73681",
+    "cadence": "Lente",
+    "lieu": "72 - LA FERTE BERNARD",
+    "arbitre": "FLAMENT Sebastien"
+  },
+  {
+    "date": "2026-11-14",
+    "titre": "Championnat Jeunes de Sarthe 2026 U18 U20",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73682",
+    "cadence": "Lente",
+    "lieu": "72 - LA FERTE BERNARD",
+    "arbitre": "FLAMENT Sebastien"
   },
   {
     "date": "2026-11-14",
@@ -34129,11 +34353,67 @@
   },
   {
     "date": "2026-11-14",
+    "titre": "Trophée Jeunes de Vandoeuvre 2026-2027 étape 2 - 14 novembre 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73703",
+    "cadence": "Lente",
+    "lieu": "54 - VANDOEUVRE LES NANCY",
+    "arbitre": "SAVINA Anastasia"
+  },
+  {
+    "date": "2026-11-14",
     "titre": "championnat de Savoie 2026-27 r3-4",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73293",
     "cadence": "Lente",
     "lieu": "73 - AIX LES BAINS",
     "arbitre": "FRION Sandrine"
+  },
+  {
+    "date": "2026-11-14",
+    "titre": "cht départemental jeunes des A.M. 2026 U10 Mixte",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73666",
+    "cadence": "Lente",
+    "lieu": "06 - GRASSE",
+    "arbitre": "CANET Gerard"
+  },
+  {
+    "date": "2026-11-14",
+    "titre": "cht départemental jeunes des A.M. 2026 U12 Mixte",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73667",
+    "cadence": "Lente",
+    "lieu": "06 - GRASSE",
+    "arbitre": "CANET Gerard"
+  },
+  {
+    "date": "2026-11-14",
+    "titre": "cht départemental jeunes des A.M. 2026 U14 mixte",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73668",
+    "cadence": "Lente",
+    "lieu": "06 - GRASSE",
+    "arbitre": "CANET Gerard"
+  },
+  {
+    "date": "2026-11-14",
+    "titre": "cht départemental jeunes des A.M. 2026 U16 mixte",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73669",
+    "cadence": "Lente",
+    "lieu": "06 - GRASSE",
+    "arbitre": "CANET Gerard"
+  },
+  {
+    "date": "2026-11-14",
+    "titre": "cht départemental jeunes des A.M. 2026 U18-U20 Mixte",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73670",
+    "cadence": "Lente",
+    "lieu": "06 - GRASSE",
+    "arbitre": "CANET Gerard"
+  },
+  {
+    "date": "2026-11-14",
+    "titre": "cht départemental jeunes des A.M. 2026 U8 Mixte",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73665",
+    "cadence": "Lente",
+    "lieu": "06 - GRASSE",
+    "arbitre": "CANET Gerard"
   },
   {
     "date": "2026-11-15",
@@ -34315,6 +34595,38 @@
     "date": "2026-11-15",
     "titre": "Championnat Jeunes de Sarthe 2026 U10",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73678",
+    "cadence": "Lente",
+    "lieu": "72 - LA FERTE BERNARD",
+    "arbitre": "FLAMENT Sebastien"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Championnat Jeunes de Sarthe 2026 U12",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73679",
+    "cadence": "Lente",
+    "lieu": "72 - LA FERTE BERNARD",
+    "arbitre": "FLAMENT Sebastien"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Championnat Jeunes de Sarthe 2026 U14",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73680",
+    "cadence": "Lente",
+    "lieu": "72 - LA FERTE BERNARD",
+    "arbitre": "FLAMENT Sebastien"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Championnat Jeunes de Sarthe 2026 U16",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73681",
+    "cadence": "Lente",
+    "lieu": "72 - LA FERTE BERNARD",
+    "arbitre": "FLAMENT Sebastien"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Championnat Jeunes de Sarthe 2026 U18 U20",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73682",
     "cadence": "Lente",
     "lieu": "72 - LA FERTE BERNARD",
     "arbitre": "FLAMENT Sebastien"
@@ -34584,6 +34896,54 @@
     "arbitre": "LUTARD Florian"
   },
   {
+    "date": "2026-11-15",
+    "titre": "cht départemental jeunes des A.M. 2026 U10 Mixte",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73666",
+    "cadence": "Lente",
+    "lieu": "06 - GRASSE",
+    "arbitre": "CANET Gerard"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "cht départemental jeunes des A.M. 2026 U12 Mixte",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73667",
+    "cadence": "Lente",
+    "lieu": "06 - GRASSE",
+    "arbitre": "CANET Gerard"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "cht départemental jeunes des A.M. 2026 U14 mixte",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73668",
+    "cadence": "Lente",
+    "lieu": "06 - GRASSE",
+    "arbitre": "CANET Gerard"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "cht départemental jeunes des A.M. 2026 U16 mixte",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73669",
+    "cadence": "Lente",
+    "lieu": "06 - GRASSE",
+    "arbitre": "CANET Gerard"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "cht départemental jeunes des A.M. 2026 U18-U20 Mixte",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73670",
+    "cadence": "Lente",
+    "lieu": "06 - GRASSE",
+    "arbitre": "CANET Gerard"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "cht départemental jeunes des A.M. 2026 U8 Mixte",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73665",
+    "cadence": "Lente",
+    "lieu": "06 - GRASSE",
+    "arbitre": "CANET Gerard"
+  },
+  {
     "date": "2026-11-16",
     "titre": "Championnat Interne de Kingersheim 2026 r5-6",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72896",
@@ -34601,6 +34961,14 @@
   },
   {
     "date": "2026-11-18",
+    "titre": "1er Tournoi fermé MI LYON",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73695",
+    "cadence": "Lente",
+    "lieu": "69 - LYON",
+    "arbitre": "PARIS Thierry"
+  },
+  {
+    "date": "2026-11-18",
     "titre": "Championnat Interne de Kingersheim 2026 r5-6",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72896",
     "cadence": "Lente",
@@ -34609,11 +34977,27 @@
   },
   {
     "date": "2026-11-19",
+    "titre": "1er Tournoi fermé MI LYON",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73695",
+    "cadence": "Lente",
+    "lieu": "69 - LYON",
+    "arbitre": "PARIS Thierry"
+  },
+  {
+    "date": "2026-11-19",
     "titre": "Championnat Interne de Kingersheim 2026 r5-6",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72896",
     "cadence": "Lente",
     "lieu": "68 - KINGERSHEIM",
     "arbitre": "DE FAVERI Gabriel"
+  },
+  {
+    "date": "2026-11-20",
+    "titre": "1er Tournoi fermé MI LYON",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73695",
+    "cadence": "Lente",
+    "lieu": "69 - LYON",
+    "arbitre": "PARIS Thierry"
   },
   {
     "date": "2026-11-20",
@@ -34649,6 +35033,14 @@
   },
   {
     "date": "2026-11-20",
+    "titre": "5ème Tournoi Blitz Pizza de Sanary 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73664",
+    "cadence": "Blitz",
+    "lieu": "83 - SANARY SUR MER",
+    "arbitre": "BRONGERS Claudine"
+  },
+  {
+    "date": "2026-11-20",
     "titre": "8eme Tournoi des Senechaux",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73509",
     "cadence": "Lente",
@@ -34678,6 +35070,22 @@
     "cadence": "Lente",
     "lieu": "13 - MARSEILLE",
     "arbitre": "CHAZEAU Laineur-Loth"
+  },
+  {
+    "date": "2026-11-20",
+    "titre": "Tournoi interne Saint-Max 2026-2027 r2",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73652",
+    "cadence": "Lente",
+    "lieu": "54 - SAINT MAX",
+    "arbitre": "SCHMITT Nicolas"
+  },
+  {
+    "date": "2026-11-21",
+    "titre": "1er Tournoi fermé MI LYON",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73695",
+    "cadence": "Lente",
+    "lieu": "69 - LYON",
+    "arbitre": "PARIS Thierry"
   },
   {
     "date": "2026-11-21",
@@ -34726,6 +35134,14 @@
     "cadence": "Lente",
     "lieu": "24 - BERGERAC",
     "arbitre": "GOGUELY Pierre"
+  },
+  {
+    "date": "2026-11-21",
+    "titre": "Championnat 35 toutes catégories 2027 r1-2",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73696",
+    "cadence": "Lente",
+    "lieu": "35 - RENNES",
+    "arbitre": "AUBRY Pascal"
   },
   {
     "date": "2026-11-21",
@@ -34809,6 +35225,14 @@
   },
   {
     "date": "2026-11-22",
+    "titre": "1er Tournoi fermé MI LYON",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73695",
+    "cadence": "Lente",
+    "lieu": "69 - LYON",
+    "arbitre": "PARIS Thierry"
+  },
+  {
+    "date": "2026-11-22",
     "titre": "25ème rapide de Gueugnon",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72866",
     "cadence": "Rapide",
@@ -34838,6 +35262,14 @@
     "cadence": "Lente",
     "lieu": "58 - LA CHARITE SUR LOIRE",
     "arbitre": "LORENZO Alfredo"
+  },
+  {
+    "date": "2026-11-22",
+    "titre": "Championnat 35 toutes catégories 2027 r1-2",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73696",
+    "cadence": "Lente",
+    "lieu": "35 - RENNES",
+    "arbitre": "AUBRY Pascal"
   },
   {
     "date": "2026-11-22",
@@ -34969,6 +35401,14 @@
   },
   {
     "date": "2026-11-23",
+    "titre": "Championnat 35 toutes catégories 2027 r1-2",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73696",
+    "cadence": "Lente",
+    "lieu": "35 - RENNES",
+    "arbitre": "AUBRY Pascal"
+  },
+  {
+    "date": "2026-11-23",
     "titre": "Open 13 - Marseille 2026-27 (-2200) r3-4",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73155",
     "cadence": "Lente",
@@ -34998,6 +35438,14 @@
     "cadence": "Lente",
     "lieu": "13 - MARSEILLE",
     "arbitre": "BEDHOUCHE Sadek"
+  },
+  {
+    "date": "2026-11-24",
+    "titre": "Championnat 35 toutes catégories 2027 r1-2",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73696",
+    "cadence": "Lente",
+    "lieu": "35 - RENNES",
+    "arbitre": "AUBRY Pascal"
   },
   {
     "date": "2026-11-24",
@@ -35049,6 +35497,14 @@
   },
   {
     "date": "2026-11-25",
+    "titre": "Championnat 35 toutes catégories 2027 r1-2",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73696",
+    "cadence": "Lente",
+    "lieu": "35 - RENNES",
+    "arbitre": "AUBRY Pascal"
+  },
+  {
+    "date": "2026-11-25",
     "titre": "Open 13 - Marseille 2026-27 (-2200) r3-4",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73155",
     "cadence": "Lente",
@@ -35081,6 +35537,14 @@
   },
   {
     "date": "2026-11-26",
+    "titre": "Championnat 35 toutes catégories 2027 r1-2",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73696",
+    "cadence": "Lente",
+    "lieu": "35 - RENNES",
+    "arbitre": "AUBRY Pascal"
+  },
+  {
+    "date": "2026-11-26",
     "titre": "Open 13 - Marseille 2026-27 (-2200) r3-4",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73155",
     "cadence": "Lente",
@@ -35102,6 +35566,22 @@
     "cadence": "Lente",
     "lieu": "13 - AUBAGNE",
     "arbitre": "ROMAN Sylvian"
+  },
+  {
+    "date": "2026-11-26",
+    "titre": "Tournoi Interne Cercle Airbus Toulouse Echecs 2026-27 r2",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73690",
+    "cadence": "Lente",
+    "lieu": "31 - TOULOUSE",
+    "arbitre": "VIDALENC Dimitri"
+  },
+  {
+    "date": "2026-11-26",
+    "titre": "Trophée François Reynaud 2027",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73685",
+    "cadence": "Lente",
+    "lieu": "84 - ORANGE",
+    "arbitre": "BACON Bruno"
   },
   {
     "date": "2026-11-27",
@@ -35121,6 +35601,14 @@
   },
   {
     "date": "2026-11-27",
+    "titre": "Championnat 35 toutes catégories 2027 r1-2",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73696",
+    "cadence": "Lente",
+    "lieu": "35 - RENNES",
+    "arbitre": "AUBRY Pascal"
+  },
+  {
+    "date": "2026-11-27",
     "titre": "Open 13 - Marseille 2026-27 (-2200) r3-4",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73155",
     "cadence": "Lente",
@@ -35142,6 +35630,14 @@
     "cadence": "Lente",
     "lieu": "13 - AUBAGNE",
     "arbitre": "ROMAN Sylvian"
+  },
+  {
+    "date": "2026-11-27",
+    "titre": "Trophée François Reynaud 2027",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73685",
+    "cadence": "Lente",
+    "lieu": "84 - ORANGE",
+    "arbitre": "BACON Bruno"
   },
   {
     "date": "2026-11-28",
@@ -35166,6 +35662,14 @@
     "cadence": "Blitz",
     "lieu": "74 - VEIGY FONCENEX",
     "arbitre": "HORN Gilles"
+  },
+  {
+    "date": "2026-11-28",
+    "titre": "Championnat 35 toutes catégories 2027 r1-2",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73696",
+    "cadence": "Lente",
+    "lieu": "35 - RENNES",
+    "arbitre": "AUBRY Pascal"
   },
   {
     "date": "2026-11-28",
@@ -35240,12 +35744,28 @@
     "arbitre": "LECLERC Louis"
   },
   {
+    "date": "2026-11-28",
+    "titre": "Trophée François Reynaud 2027",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73685",
+    "cadence": "Lente",
+    "lieu": "84 - ORANGE",
+    "arbitre": "BACON Bruno"
+  },
+  {
     "date": "2026-11-29",
     "titre": "2ème open annuel Echecs Academy Marseille Passion r3-4",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73159",
     "cadence": "Lente",
     "lieu": "13 - MARSEILLE",
     "arbitre": "BEDHOUCHE Sadek"
+  },
+  {
+    "date": "2026-11-29",
+    "titre": "Championnat 35 toutes catégories 2027 r1-2",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73696",
+    "cadence": "Lente",
+    "lieu": "35 - RENNES",
+    "arbitre": "AUBRY Pascal"
   },
   {
     "date": "2026-11-29",
@@ -35280,12 +35800,28 @@
     "arbitre": "ROMAN Sylvian"
   },
   {
+    "date": "2026-11-29",
+    "titre": "Trophée François Reynaud 2027",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73685",
+    "cadence": "Lente",
+    "lieu": "84 - ORANGE",
+    "arbitre": "BACON Bruno"
+  },
+  {
     "date": "2026-11-30",
     "titre": "2ème open annuel Echecs Academy Marseille Passion r3-4",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73159",
     "cadence": "Lente",
     "lieu": "13 - MARSEILLE",
     "arbitre": "BEDHOUCHE Sadek"
+  },
+  {
+    "date": "2026-11-30",
+    "titre": "Championnat 35 toutes catégories 2027 r1-2",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73696",
+    "cadence": "Lente",
+    "lieu": "35 - RENNES",
+    "arbitre": "AUBRY Pascal"
   },
   {
     "date": "2026-11-30",
@@ -35320,12 +35856,28 @@
     "arbitre": "ROMAN Sylvian"
   },
   {
+    "date": "2026-11-30",
+    "titre": "Trophée François Reynaud 2027",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73685",
+    "cadence": "Lente",
+    "lieu": "84 - ORANGE",
+    "arbitre": "BACON Bruno"
+  },
+  {
     "date": "2026-12-01",
     "titre": "2ème open annuel Echecs Academy Marseille Passion r3-4",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73159",
     "cadence": "Lente",
     "lieu": "13 - MARSEILLE",
     "arbitre": "BEDHOUCHE Sadek"
+  },
+  {
+    "date": "2026-12-01",
+    "titre": "Championnat 35 toutes catégories 2027 r1-2",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73696",
+    "cadence": "Lente",
+    "lieu": "35 - RENNES",
+    "arbitre": "AUBRY Pascal"
   },
   {
     "date": "2026-12-01",
@@ -35358,6 +35910,14 @@
     "cadence": "Lente",
     "lieu": "13 - AUBAGNE",
     "arbitre": "ROMAN Sylvian"
+  },
+  {
+    "date": "2026-12-01",
+    "titre": "Trophée François Reynaud 2027",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73685",
+    "cadence": "Lente",
+    "lieu": "84 - ORANGE",
+    "arbitre": "BACON Bruno"
   },
   {
     "date": "2026-12-02",
@@ -35366,6 +35926,14 @@
     "cadence": "Lente",
     "lieu": "13 - MARSEILLE",
     "arbitre": "BEDHOUCHE Sadek"
+  },
+  {
+    "date": "2026-12-02",
+    "titre": "Championnat 35 toutes catégories 2027 r1-2",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73696",
+    "cadence": "Lente",
+    "lieu": "35 - RENNES",
+    "arbitre": "AUBRY Pascal"
   },
   {
     "date": "2026-12-02",
@@ -35408,12 +35976,28 @@
     "arbitre": "SALINAS Pierre"
   },
   {
+    "date": "2026-12-02",
+    "titre": "Trophée François Reynaud 2027",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73685",
+    "cadence": "Lente",
+    "lieu": "84 - ORANGE",
+    "arbitre": "BACON Bruno"
+  },
+  {
     "date": "2026-12-03",
     "titre": "2ème open annuel Echecs Academy Marseille Passion r3-4",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73159",
     "cadence": "Lente",
     "lieu": "13 - MARSEILLE",
     "arbitre": "BEDHOUCHE Sadek"
+  },
+  {
+    "date": "2026-12-03",
+    "titre": "Championnat 35 toutes catégories 2027 r1-2",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73696",
+    "cadence": "Lente",
+    "lieu": "35 - RENNES",
+    "arbitre": "AUBRY Pascal"
   },
   {
     "date": "2026-12-03",
@@ -35464,6 +36048,14 @@
     "arbitre": "SALINAS Pierre"
   },
   {
+    "date": "2026-12-03",
+    "titre": "Trophée François Reynaud 2027",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73685",
+    "cadence": "Lente",
+    "lieu": "84 - ORANGE",
+    "arbitre": "BACON Bruno"
+  },
+  {
     "date": "2026-12-04",
     "titre": "23ème Blitz FIDE Téléthon de Noisiel",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72589",
@@ -35502,6 +36094,14 @@
     "cadence": "Rapide",
     "lieu": "75 - PARIS",
     "arbitre": "RUBINI Xavier"
+  },
+  {
+    "date": "2026-12-04",
+    "titre": "Championnat 35 toutes catégories 2027 r1-2",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73696",
+    "cadence": "Lente",
+    "lieu": "35 - RENNES",
+    "arbitre": "AUBRY Pascal"
   },
   {
     "date": "2026-12-04",
@@ -35576,12 +36176,36 @@
     "arbitre": "SALINAS Pierre"
   },
   {
+    "date": "2026-12-04",
+    "titre": "Tournoi interne Saint-Max 2026-2027 r3",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73653",
+    "cadence": "Lente",
+    "lieu": "54 - SAINT MAX",
+    "arbitre": "SCHMITT Nicolas"
+  },
+  {
+    "date": "2026-12-04",
+    "titre": "Trophée François Reynaud 2027",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73685",
+    "cadence": "Lente",
+    "lieu": "84 - ORANGE",
+    "arbitre": "BACON Bruno"
+  },
+  {
     "date": "2026-12-05",
     "titre": "17e Challenge du Pion Bordelais",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73235",
     "cadence": "Lente",
     "lieu": "33 - BORDEAUX",
     "arbitre": "MULLON Jean-Baptiste"
+  },
+  {
+    "date": "2026-12-05",
+    "titre": "Championnat 35 toutes catégories 2027 r1-2",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73696",
+    "cadence": "Lente",
+    "lieu": "35 - RENNES",
+    "arbitre": "AUBRY Pascal"
   },
   {
     "date": "2026-12-05",
@@ -35633,11 +36257,35 @@
   },
   {
     "date": "2026-12-05",
+    "titre": "Trophée François Reynaud 2027",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73685",
+    "cadence": "Lente",
+    "lieu": "84 - ORANGE",
+    "arbitre": "BACON Bruno"
+  },
+  {
+    "date": "2026-12-05",
+    "titre": "Trophée Jeunes de Vandoeuvre 2026-2027 étape 3 - 5 décembre 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73704",
+    "cadence": "Lente",
+    "lieu": "54 - VANDOEUVRE LES NANCY",
+    "arbitre": "SAVINA Anastasia"
+  },
+  {
+    "date": "2026-12-05",
     "titre": "championnat de Savoie 2026-27 r5-6",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73294",
     "cadence": "Lente",
     "lieu": "73 - AIX LES BAINS",
     "arbitre": "FRION Sandrine"
+  },
+  {
+    "date": "2026-12-06",
+    "titre": "23e Rapide de Dieppe",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73661",
+    "cadence": "Rapide",
+    "lieu": "76 - DIEPPE",
+    "arbitre": "DELABARRE Olivier"
   },
   {
     "date": "2026-12-06",
@@ -35673,6 +36321,14 @@
   },
   {
     "date": "2026-12-06",
+    "titre": "Trophée François Reynaud 2027",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73685",
+    "cadence": "Lente",
+    "lieu": "84 - ORANGE",
+    "arbitre": "BACON Bruno"
+  },
+  {
+    "date": "2026-12-06",
     "titre": "championnat de Savoie 2026-27 r5-6",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73294",
     "cadence": "Lente",
@@ -35705,6 +36361,14 @@
   },
   {
     "date": "2026-12-07",
+    "titre": "Trophée François Reynaud 2027",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73685",
+    "cadence": "Lente",
+    "lieu": "84 - ORANGE",
+    "arbitre": "BACON Bruno"
+  },
+  {
+    "date": "2026-12-07",
     "titre": "championnat de Savoie 2026-27 r5-6",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73294",
     "cadence": "Lente",
@@ -35734,6 +36398,14 @@
     "cadence": "Lente",
     "lieu": "38 - GRENOBLE",
     "arbitre": "SALINAS Pierre"
+  },
+  {
+    "date": "2026-12-08",
+    "titre": "Trophée François Reynaud 2027",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73685",
+    "cadence": "Lente",
+    "lieu": "84 - ORANGE",
+    "arbitre": "BACON Bruno"
   },
   {
     "date": "2026-12-08",
@@ -35777,6 +36449,14 @@
   },
   {
     "date": "2026-12-09",
+    "titre": "Trophée François Reynaud 2027",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73685",
+    "cadence": "Lente",
+    "lieu": "84 - ORANGE",
+    "arbitre": "BACON Bruno"
+  },
+  {
+    "date": "2026-12-09",
     "titre": "championnat de Savoie 2026-27 r5-6",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73294",
     "cadence": "Lente",
@@ -35814,6 +36494,14 @@
     "cadence": "Lente",
     "lieu": "38 - GRENOBLE",
     "arbitre": "SALINAS Pierre"
+  },
+  {
+    "date": "2026-12-10",
+    "titre": "Trophée François Reynaud 2027",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73685",
+    "cadence": "Lente",
+    "lieu": "84 - ORANGE",
+    "arbitre": "BACON Bruno"
   },
   {
     "date": "2026-12-10",
@@ -36249,6 +36937,14 @@
   },
   {
     "date": "2026-12-20",
+    "titre": "1er Open de Noel de Rueil Malmaison -2200",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73638",
+    "cadence": "Lente",
+    "lieu": "92 - RUEIL MALMAISON",
+    "arbitre": "BOGDANOVSKY Sonia"
+  },
+  {
+    "date": "2026-12-20",
     "titre": "23e Open de Vandoeuvre 2026 - Tournoi A (2000 et plus)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73522",
     "cadence": "Lente",
@@ -36369,6 +37065,14 @@
   },
   {
     "date": "2026-12-21",
+    "titre": "1er Open de Noel de Rueil Malmaison -2200",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73638",
+    "cadence": "Lente",
+    "lieu": "92 - RUEIL MALMAISON",
+    "arbitre": "BOGDANOVSKY Sonia"
+  },
+  {
+    "date": "2026-12-21",
     "titre": "23e Open de Vandoeuvre 2026 - Tournoi A (2000 et plus)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73522",
     "cadence": "Lente",
@@ -36433,6 +37137,14 @@
   },
   {
     "date": "2026-12-22",
+    "titre": "1er Open de Noel de Rueil Malmaison -2200",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73638",
+    "cadence": "Lente",
+    "lieu": "92 - RUEIL MALMAISON",
+    "arbitre": "BOGDANOVSKY Sonia"
+  },
+  {
+    "date": "2026-12-22",
     "titre": "23e Open de Vandoeuvre 2026 - Tournoi A (2000 et plus)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73522",
     "cadence": "Lente",
@@ -36486,6 +37198,14 @@
     "cadence": "Lente",
     "lieu": "76 - ROUEN",
     "arbitre": "CHELLILI Bachir"
+  },
+  {
+    "date": "2026-12-23",
+    "titre": "1er Open de Noel de Rueil Malmaison -2200",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73638",
+    "cadence": "Lente",
+    "lieu": "92 - RUEIL MALMAISON",
+    "arbitre": "BOGDANOVSKY Sonia"
   },
   {
     "date": "2026-12-23",
