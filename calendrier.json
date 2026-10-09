@@ -29889,6 +29889,14 @@
   },
   {
     "date": "2026-10-17",
+    "titre": "Compétition du Centre Alsace 2026-27 U8 - 1ère journée",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73780",
+    "cadence": "Lente",
+    "lieu": "67 - BARR",
+    "arbitre": "LEFEBVRE Pierre"
+  },
+  {
+    "date": "2026-10-17",
     "titre": "Grand Prix Rapides du Val de Marne Saison 2026-27 Etape 1A",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73428",
     "cadence": "Rapide",
@@ -29918,6 +29926,14 @@
     "cadence": "Rapide",
     "lieu": "94 - BONNEUIL SUR MARNE",
     "arbitre": "BENADDOU Khaled"
+  },
+  {
+    "date": "2026-10-17",
+    "titre": "Grand prix de Stan Espoirs 2026-27 étape 1",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73773",
+    "cadence": "Lente",
+    "lieu": "54 - NANCY",
+    "arbitre": "FROMHERZ Audrey"
   },
   {
     "date": "2026-10-17",
@@ -31120,6 +31136,14 @@
     "arbitre": "TAHAR-CHAOUCH Fouzia"
   },
   {
+    "date": "2026-10-19",
+    "titre": "Tournoi des séniors du LOE du lundi 19 octobre 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73761",
+    "cadence": "Lente",
+    "lieu": "69 - LYON",
+    "arbitre": "MATHIEU Christophe"
+  },
+  {
     "date": "2026-10-20",
     "titre": "1er Open International du Lille Métropole Chess",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72496",
@@ -32281,6 +32305,14 @@
   },
   {
     "date": "2026-10-26",
+    "titre": "6ème tournoi fermé interne de Poissy",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73722",
+    "cadence": "Lente",
+    "lieu": "78 - POISSY",
+    "arbitre": "PLANTET Marc"
+  },
+  {
+    "date": "2026-10-26",
     "titre": "Breizh Chess Challenger 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72847",
     "cadence": "Lente",
@@ -32385,6 +32417,14 @@
   },
   {
     "date": "2026-10-27",
+    "titre": "6ème tournoi fermé interne de Poissy",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73722",
+    "cadence": "Lente",
+    "lieu": "78 - POISSY",
+    "arbitre": "PLANTET Marc"
+  },
+  {
+    "date": "2026-10-27",
     "titre": "Breizh Chess Challenger 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72847",
     "cadence": "Lente",
@@ -32478,6 +32518,14 @@
     "cadence": "Lente",
     "lieu": "83 - HYERES",
     "arbitre": "RAMAZZOTTI Bernard"
+  },
+  {
+    "date": "2026-10-28",
+    "titre": "6ème tournoi fermé interne de Poissy",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73722",
+    "cadence": "Lente",
+    "lieu": "78 - POISSY",
+    "arbitre": "PLANTET Marc"
   },
   {
     "date": "2026-10-28",
@@ -33617,6 +33665,46 @@
   },
   {
     "date": "2026-11-11",
+    "titre": "Championnat qualificatif de Paris aux IDF jeunes 2026 - Benjamins (U14)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73709",
+    "cadence": "Lente",
+    "lieu": "75 - PARIS",
+    "arbitre": "GOBERT Claire"
+  },
+  {
+    "date": "2026-11-11",
+    "titre": "Championnat qualificatif de Paris aux IDF jeunes 2026 - Minimes (U16)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73710",
+    "cadence": "Lente",
+    "lieu": "75 - PARIS",
+    "arbitre": "GOBERT Claire"
+  },
+  {
+    "date": "2026-11-11",
+    "titre": "Championnat qualificatif de Paris aux IDF jeunes 2026 - Petits Poussins (U8)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73706",
+    "cadence": "Lente",
+    "lieu": "75 - PARIS",
+    "arbitre": "GOBERT Claire"
+  },
+  {
+    "date": "2026-11-11",
+    "titre": "Championnat qualificatif de Paris aux IDF jeunes 2026 - Poussins (U10)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73707",
+    "cadence": "Lente",
+    "lieu": "75 - PARIS",
+    "arbitre": "GOBERT Claire"
+  },
+  {
+    "date": "2026-11-11",
+    "titre": "Championnat qualificatif de Paris aux IDF jeunes 2026 - Pupilles (U12)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73708",
+    "cadence": "Lente",
+    "lieu": "75 - PARIS",
+    "arbitre": "GOBERT Claire"
+  },
+  {
+    "date": "2026-11-11",
     "titre": "Master A 2026 Varois",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73532",
     "cadence": "Lente",
@@ -33734,6 +33822,14 @@
     "cadence": "Lente",
     "lieu": "57 - THIONVILLE",
     "arbitre": "LEFEBVRE Lucas"
+  },
+  {
+    "date": "2026-11-11",
+    "titre": "Rapide Féminin Trophée Caïssa Saint-Tropez 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73711",
+    "cadence": "Rapide",
+    "lieu": "83 - SAINT TROPEZ",
+    "arbitre": "HENNEQUIN Chantal"
   },
   {
     "date": "2026-11-11",
@@ -34185,6 +34281,46 @@
   },
   {
     "date": "2026-11-14",
+    "titre": "Championnat de l'Orne des jeunes 2026 U10",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73760",
+    "cadence": "Lente",
+    "lieu": "61 - CHANU",
+    "arbitre": "LE FOURNIER Pascal"
+  },
+  {
+    "date": "2026-11-14",
+    "titre": "Championnat de l'Orne des jeunes 2026 U12",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73758",
+    "cadence": "Lente",
+    "lieu": "61 - CHANU",
+    "arbitre": "LE FOURNIER Pascal"
+  },
+  {
+    "date": "2026-11-14",
+    "titre": "Championnat de l'Orne des jeunes 2026 U14",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73757",
+    "cadence": "Lente",
+    "lieu": "61 - CHANU",
+    "arbitre": "LE FOURNIER Pascal"
+  },
+  {
+    "date": "2026-11-14",
+    "titre": "Championnat de l'Orne des jeunes 2026 U18-U20",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73755",
+    "cadence": "Lente",
+    "lieu": "61 - CHANU",
+    "arbitre": "LE FOURNIER Pascal"
+  },
+  {
+    "date": "2026-11-14",
+    "titre": "Championnat de l'Orne des jeunes2026 U16",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73756",
+    "cadence": "Lente",
+    "lieu": "61 - CHANU",
+    "arbitre": "LE FOURNIER Pascal"
+  },
+  {
+    "date": "2026-11-14",
     "titre": "Championnat des Pyrénées Orientales 2026 U08",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73286",
     "cadence": "Lente",
@@ -34230,6 +34366,38 @@
     "cadence": "Lente",
     "lieu": "66 - PERPIGNAN",
     "arbitre": "LABORDE Stephane"
+  },
+  {
+    "date": "2026-11-14",
+    "titre": "Championnat du Gard Jeunes 2026 - U12",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73714",
+    "cadence": "Lente",
+    "lieu": "30 - CAISSARGUES",
+    "arbitre": "PIERRE Timothee"
+  },
+  {
+    "date": "2026-11-14",
+    "titre": "Championnat du Gard Jeunes 2026 - U14",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73715",
+    "cadence": "Lente",
+    "lieu": "30 - CAISSARGUES",
+    "arbitre": "PIERRE Timothee"
+  },
+  {
+    "date": "2026-11-14",
+    "titre": "Championnat du Gard Jeunes 2026 - U16",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73716",
+    "cadence": "Lente",
+    "lieu": "30 - CAISSARGUES",
+    "arbitre": "PIERRE Timothee"
+  },
+  {
+    "date": "2026-11-14",
+    "titre": "Championnat du Gard Jeunes 2026 - U18-U20",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73754",
+    "cadence": "Lente",
+    "lieu": "30 - CAISSARGUES",
+    "arbitre": "PIERRE Timothee"
   },
   {
     "date": "2026-11-14",
@@ -34633,6 +34801,22 @@
   },
   {
     "date": "2026-11-15",
+    "titre": "Championnat Jeunes des Yvelines 2026 - U14",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73725",
+    "cadence": "Lente",
+    "lieu": "78 - MAISONS LAFFITTE",
+    "arbitre": "SONDERMEIJER Antoine"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Championnat Jeunes des Yvelines 2026 - U16",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73724",
+    "cadence": "Lente",
+    "lieu": "78 - MAISONS LAFFITTE",
+    "arbitre": "MOURGUES Joelle"
+  },
+  {
+    "date": "2026-11-15",
     "titre": "Championnat Seine Maritime 2026 U12",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73518",
     "cadence": "Lente",
@@ -34713,6 +34897,54 @@
   },
   {
     "date": "2026-11-15",
+    "titre": "Championnat de l'Orne des jeunes 2026 U08",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73770",
+    "cadence": "Lente",
+    "lieu": "61 - CHANU",
+    "arbitre": "LE FOURNIER Pascal"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Championnat de l'Orne des jeunes 2026 U10",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73760",
+    "cadence": "Lente",
+    "lieu": "61 - CHANU",
+    "arbitre": "LE FOURNIER Pascal"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Championnat de l'Orne des jeunes 2026 U12",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73758",
+    "cadence": "Lente",
+    "lieu": "61 - CHANU",
+    "arbitre": "LE FOURNIER Pascal"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Championnat de l'Orne des jeunes 2026 U14",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73757",
+    "cadence": "Lente",
+    "lieu": "61 - CHANU",
+    "arbitre": "LE FOURNIER Pascal"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Championnat de l'Orne des jeunes 2026 U18-U20",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73755",
+    "cadence": "Lente",
+    "lieu": "61 - CHANU",
+    "arbitre": "LE FOURNIER Pascal"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Championnat de l'Orne des jeunes2026 U16",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73756",
+    "cadence": "Lente",
+    "lieu": "61 - CHANU",
+    "arbitre": "LE FOURNIER Pascal"
+  },
+  {
+    "date": "2026-11-15",
     "titre": "Championnat de la Drôme Jeunes 2026 - U10",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72887",
     "cadence": "Lente",
@@ -34790,6 +35022,46 @@
     "cadence": "Lente",
     "lieu": "66 - PERPIGNAN",
     "arbitre": "LABORDE Stephane"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Championnat des Yvelines Jeunes 2026 - U12",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73723",
+    "cadence": "Lente",
+    "lieu": "78 - MAISONS LAFFITTE",
+    "arbitre": "CLAISSE Patrick"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Championnat du Gard Jeunes 2026 - U12",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73714",
+    "cadence": "Lente",
+    "lieu": "30 - CAISSARGUES",
+    "arbitre": "PIERRE Timothee"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Championnat du Gard Jeunes 2026 - U14",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73715",
+    "cadence": "Lente",
+    "lieu": "30 - CAISSARGUES",
+    "arbitre": "PIERRE Timothee"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Championnat du Gard Jeunes 2026 - U16",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73716",
+    "cadence": "Lente",
+    "lieu": "30 - CAISSARGUES",
+    "arbitre": "PIERRE Timothee"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Championnat du Gard Jeunes 2026 - U18-U20",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73754",
+    "cadence": "Lente",
+    "lieu": "30 - CAISSARGUES",
+    "arbitre": "PIERRE Timothee"
   },
   {
     "date": "2026-11-15",
@@ -35057,6 +35329,14 @@
   },
   {
     "date": "2026-11-20",
+    "titre": "GP Blitz Academie FIDE France Culture-Echecs 2026-27 Etape 1",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73744",
+    "cadence": "Blitz",
+    "lieu": "92 - SURESNES",
+    "arbitre": "BASTIEN Andre"
+  },
+  {
+    "date": "2026-11-20",
     "titre": "Grand Prix Blitz de Mulhouse 2026-2027 - Tournoi 2",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73423",
     "cadence": "Blitz",
@@ -35086,6 +35366,14 @@
     "cadence": "Lente",
     "lieu": "69 - LYON",
     "arbitre": "PARIS Thierry"
+  },
+  {
+    "date": "2026-11-21",
+    "titre": "1ere étape du Circuit Féminin du LOE 2026-27",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73765",
+    "cadence": "Lente",
+    "lieu": "69 - LYON",
+    "arbitre": "MATHIEU Christophe"
   },
   {
     "date": "2026-11-21",
@@ -35177,6 +35465,22 @@
   },
   {
     "date": "2026-11-21",
+    "titre": "Grand prix d'Angers 2026-2027 Tournoi A",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73735",
+    "cadence": "Lente",
+    "lieu": "49 - ANGERS",
+    "arbitre": "VERNEREY Laurent"
+  },
+  {
+    "date": "2026-11-21",
+    "titre": "Grand prix d'Angers 2026-2027 Tournoi B",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73737",
+    "cadence": "Lente",
+    "lieu": "49 - ANGERS",
+    "arbitre": "VERNEREY Laurent"
+  },
+  {
+    "date": "2026-11-21",
     "titre": "Open 13 - Marseille 2026-27 (-2200) r3-4",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73155",
     "cadence": "Lente",
@@ -35222,6 +35526,14 @@
     "cadence": "Lente",
     "lieu": "77 - FONTAINEBLEAU",
     "arbitre": "LECLERC Louis"
+  },
+  {
+    "date": "2026-11-21",
+    "titre": "Trophée Jean BIOU 2026-27 r1",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73728",
+    "cadence": "Lente",
+    "lieu": "44 - NANTES",
+    "arbitre": "JOVELIN Alain"
   },
   {
     "date": "2026-11-22",
@@ -35358,6 +35670,14 @@
     "cadence": "Lente",
     "lieu": "09 - LE MAS D'AZIL",
     "arbitre": "GALLORINI Jean-Chris"
+  },
+  {
+    "date": "2026-11-22",
+    "titre": "Compétition du Centre Alsace 2026-27 U8 - 2ème journée",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73778",
+    "cadence": "Lente",
+    "lieu": "67 - BARR",
+    "arbitre": "LEFEBVRE Pierre"
   },
   {
     "date": "2026-11-22",
@@ -35606,6 +35926,14 @@
     "cadence": "Lente",
     "lieu": "35 - RENNES",
     "arbitre": "AUBRY Pascal"
+  },
+  {
+    "date": "2026-11-27",
+    "titre": "GP Rapide Academie FIDE France Culture-Echecs 2026-27 Etape 1",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73738",
+    "cadence": "Rapide",
+    "lieu": "92 - SURESNES",
+    "arbitre": "BASTIEN Andre"
   },
   {
     "date": "2026-11-27",
@@ -36553,6 +36881,14 @@
   },
   {
     "date": "2026-12-11",
+    "titre": "GP Blitz Academie FIDE France Culture-Echecs 2026-27 Etape 2",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73745",
+    "cadence": "Blitz",
+    "lieu": "92 - SURESNES",
+    "arbitre": "BASTIEN Andre"
+  },
+  {
+    "date": "2026-12-11",
     "titre": "Tournoi Interne de Naucelle 2026-27 r1-3",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73284",
     "cadence": "Lente",
@@ -36681,6 +37017,14 @@
   },
   {
     "date": "2026-12-14",
+    "titre": "Tournoi des séniors du LOE du lundi 14 décembre 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73762",
+    "cadence": "Lente",
+    "lieu": "69 - LYON",
+    "arbitre": "MATHIEU Christophe"
+  },
+  {
+    "date": "2026-12-14",
     "titre": "Tournoi du mercredi Grenoble – Hiver 2027 r1-3 (-2400)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72937",
     "cadence": "Lente",
@@ -36742,6 +37086,14 @@
     "cadence": "Rapide",
     "lieu": "75 - PARIS",
     "arbitre": "RUBINI Xavier"
+  },
+  {
+    "date": "2026-12-18",
+    "titre": "GP Rapide Academie FIDE France Culture-Echecs 2026-27 Etape 2",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73739",
+    "cadence": "Rapide",
+    "lieu": "92 - SURESNES",
+    "arbitre": "BASTIEN Andre"
   },
   {
     "date": "2026-12-18",
@@ -36896,6 +37248,14 @@
     "arbitre": "SAUVE Philippe"
   },
   {
+    "date": "2026-12-19",
+    "titre": "Trophée Jean BIOU 2026-27 r2",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73729",
+    "cadence": "Lente",
+    "lieu": "44 - NANTES",
+    "arbitre": "JOVELIN Alain"
+  },
+  {
     "date": "2026-12-20",
     "titre": "10e Grand Prix des Pyramides de Port-Marly - Tournoi de parties rapides",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73387",
@@ -37030,6 +37390,14 @@
     "cadence": "Lente",
     "lieu": "78 - MONTIGNY LE BRETONNEUX",
     "arbitre": "PLANTET Marc"
+  },
+  {
+    "date": "2026-12-20",
+    "titre": "Trophée Blitz Metropole de Lyon du dimanche 20 décembre 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73769",
+    "cadence": "Blitz",
+    "lieu": "69 - LYON",
+    "arbitre": "MATHIEU Christophe"
   },
   {
     "date": "2026-12-21",
