@@ -29037,7 +29037,7 @@
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73490",
     "cadence": "Blitz",
     "lieu": "75 - PARIS",
-    "arbitre": "GOBERT Alexis"
+    "arbitre": "GOBERT Simon"
   },
   {
     "date": "2026-10-11",
@@ -32070,6 +32070,14 @@
     "cadence": "Lente",
     "lieu": "87 - LIMOGES",
     "arbitre": "TCHEFRANOFF Stephane"
+  },
+  {
+    "date": "2026-10-25",
+    "titre": "1er Tournoi Halloween Accompagnateur d'Arras",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73819",
+    "cadence": "Lente",
+    "lieu": "62 - ARRAS",
+    "arbitre": "TAHAR-CHAOUCH Fouzia"
   },
   {
     "date": "2026-10-25",
