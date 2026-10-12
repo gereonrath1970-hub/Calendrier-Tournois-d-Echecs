@@ -35329,6 +35329,14 @@
   },
   {
     "date": "2026-11-18",
+    "titre": "Championnat Académique Scolaire Paris 2026-2027 - Ecoles",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73837",
+    "cadence": "Lente",
+    "lieu": "75 - PARIS",
+    "arbitre": "AZZEGAG Jocelyn"
+  },
+  {
+    "date": "2026-11-18",
     "titre": "Championnat Interne de Kingersheim 2026 r5-6",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72896",
     "cadence": "Lente",
@@ -35926,6 +35934,14 @@
     "cadence": "Lente",
     "lieu": "35 - RENNES",
     "arbitre": "AUBRY Pascal"
+  },
+  {
+    "date": "2026-11-25",
+    "titre": "Championnat Académique Scolaire Paris 2026-2027 - Colleges",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73838",
+    "cadence": "Lente",
+    "lieu": "75 - PARIS",
+    "arbitre": "AZZEGAG Jocelyn"
   },
   {
     "date": "2026-11-25",
@@ -36846,6 +36862,22 @@
     "cadence": "Lente",
     "lieu": "73 - AIX LES BAINS",
     "arbitre": "FRION Sandrine"
+  },
+  {
+    "date": "2026-12-09",
+    "titre": "Championnat Départemental Scolaire 77 2026-2027 - Colleges",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73839",
+    "cadence": "Lente",
+    "lieu": "77 - VILLEPARISIS",
+    "arbitre": "AZZEGAG Jocelyn"
+  },
+  {
+    "date": "2026-12-09",
+    "titre": "Championnat Départemental Scolaire 77 2026-2027 - Ecoles",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73840",
+    "cadence": "Lente",
+    "lieu": "77 - VILLEPARISIS",
+    "arbitre": "AZZEGAG Jocelyn"
   },
   {
     "date": "2026-12-09",
