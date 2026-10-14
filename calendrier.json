@@ -29681,14 +29681,6 @@
   },
   {
     "date": "2026-10-17",
-    "titre": "CDJeunes 80 2026 U8",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73340",
-    "cadence": "Lente",
-    "lieu": "80 - FRESSENNEVILLE",
-    "arbitre": "MIRAUT Michel"
-  },
-  {
-    "date": "2026-10-17",
     "titre": "Championnat Interne de Kingersheim 2026 r3-4",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72895",
     "cadence": "Lente",
@@ -30427,14 +30419,6 @@
     "date": "2026-10-18",
     "titre": "CDJeunes 80 2026 U18-20",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73345",
-    "cadence": "Lente",
-    "lieu": "80 - FRESSENNEVILLE",
-    "arbitre": "MIRAUT Michel"
-  },
-  {
-    "date": "2026-10-18",
-    "titre": "CDJeunes 80 2026 U8",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73340",
     "cadence": "Lente",
     "lieu": "80 - FRESSENNEVILLE",
     "arbitre": "MIRAUT Michel"
@@ -33065,6 +33049,22 @@
   },
   {
     "date": "2026-10-31",
+    "titre": "294è Open FIDE Interchess de 3 Rondes (réservé élo de 1800 à 2300)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73901",
+    "cadence": "Lente",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-10-31",
+    "titre": "295è Open FIDE Interchess de 3 Rondes -1800",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73902",
+    "cadence": "Lente",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-10-31",
     "titre": "2ème Festival d'Echecs Roque n'Panazol - Open Fischer (-2400)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71426",
     "cadence": "Lente",
@@ -33174,6 +33174,14 @@
     "cadence": "Lente",
     "lieu": "35 - DOMLOUP",
     "arbitre": "AUBRY Pascal"
+  },
+  {
+    "date": "2026-10-31",
+    "titre": "491è Rapide FIDE Interchess -2000 (conseillé aux debutants adultes jeunes et enfants)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73903",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
   },
   {
     "date": "2026-10-31",
@@ -33297,6 +33305,14 @@
   },
   {
     "date": "2026-11-01",
+    "titre": "128è Blitz FIDE Interchess",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73906",
+    "cadence": "Blitz",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-11-01",
     "titre": "15e Open des Vendanges de Libourne",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=71038",
     "cadence": "Lente",
@@ -33310,6 +33326,14 @@
     "cadence": "Lente",
     "lieu": "58 - SAINT BRISSON",
     "arbitre": "BESNARD Eric"
+  },
+  {
+    "date": "2026-11-01",
+    "titre": "296è Open FIDE Interchess de 3 Rondes -1800",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73904",
+    "cadence": "Lente",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
   },
   {
     "date": "2026-11-01",
@@ -33430,6 +33454,14 @@
     "cadence": "Lente",
     "lieu": "35 - DOMLOUP",
     "arbitre": "AUBRY Pascal"
+  },
+  {
+    "date": "2026-11-01",
+    "titre": "492è Rapide FIDE Interchess -2000",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73905",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
   },
   {
     "date": "2026-11-01",
@@ -33667,6 +33699,14 @@
     "date": "2026-11-07",
     "titre": "Marcassins de Liffré 2027-1",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73860",
+    "cadence": "Lente",
+    "lieu": "35 - LIFFRE",
+    "arbitre": "RUHLMANN Dominique"
+  },
+  {
+    "date": "2026-11-07",
+    "titre": "Sangliers de Liffré 2027-1",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73880",
     "cadence": "Lente",
     "lieu": "35 - LIFFRE",
     "arbitre": "RUHLMANN Dominique"
@@ -34025,6 +34065,22 @@
   },
   {
     "date": "2026-11-11",
+    "titre": "U08 Bas-Rhin 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73891",
+    "cadence": "Lente",
+    "lieu": "67 - MOMMENHEIM",
+    "arbitre": "MENUET Anais"
+  },
+  {
+    "date": "2026-11-11",
+    "titre": "U10 Bas-Rhin 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73892",
+    "cadence": "Lente",
+    "lieu": "67 - MOMMENHEIM",
+    "arbitre": "MENUET Anais"
+  },
+  {
+    "date": "2026-11-11",
     "titre": "championnat de Savoie 2026-27 r3-4",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73293",
     "cadence": "Lente",
@@ -34118,6 +34174,14 @@
     "cadence": "Lente",
     "lieu": "9A - SAINT PAUL",
     "arbitre": "LUTARD Florian"
+  },
+  {
+    "date": "2026-11-12",
+    "titre": "Tournoi de Blitz FIDE Grenoble novembre 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73908",
+    "cadence": "Blitz",
+    "lieu": "38 - GRENOBLE",
+    "arbitre": "SALINAS Pierre"
   },
   {
     "date": "2026-11-12",
@@ -34230,6 +34294,86 @@
     "cadence": "Lente",
     "lieu": "9A - SAINT PAUL",
     "arbitre": "LUTARD Florian"
+  },
+  {
+    "date": "2026-11-13",
+    "titre": "Tournois Fermés Chess In Lyon novembre 2026 Poule A",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73881",
+    "cadence": "Lente",
+    "lieu": "69 - LYON",
+    "arbitre": "MATHIEU Christophe"
+  },
+  {
+    "date": "2026-11-13",
+    "titre": "Tournois Fermés Chess In Lyon novembre 2026 Poule B",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73882",
+    "cadence": "Lente",
+    "lieu": "69 - LYON",
+    "arbitre": "MATHIEU Christophe"
+  },
+  {
+    "date": "2026-11-13",
+    "titre": "Tournois Fermés Chess In Lyon novembre 2026 Poule C",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73883",
+    "cadence": "Lente",
+    "lieu": "69 - LYON",
+    "arbitre": "MATHIEU Christophe"
+  },
+  {
+    "date": "2026-11-13",
+    "titre": "Tournois Fermés Chess In Lyon novembre 2026 Poule D",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73884",
+    "cadence": "Lente",
+    "lieu": "69 - LYON",
+    "arbitre": "MATHIEU Christophe"
+  },
+  {
+    "date": "2026-11-13",
+    "titre": "Tournois Fermés Chess In Lyon novembre 2026 Poule E",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73885",
+    "cadence": "Lente",
+    "lieu": "69 - LYON",
+    "arbitre": "MATHIEU Christophe"
+  },
+  {
+    "date": "2026-11-13",
+    "titre": "Tournois Fermés Chess In Lyon novembre 2026 Poule F",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73886",
+    "cadence": "Lente",
+    "lieu": "69 - LYON",
+    "arbitre": "MATHIEU Christophe"
+  },
+  {
+    "date": "2026-11-13",
+    "titre": "Tournois Fermés Chess In Lyon novembre 2026 Poule G",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73887",
+    "cadence": "Lente",
+    "lieu": "69 - LYON",
+    "arbitre": "MATHIEU Christophe"
+  },
+  {
+    "date": "2026-11-13",
+    "titre": "Tournois Fermés Chess In Lyon novembre 2026 Poule H",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73888",
+    "cadence": "Lente",
+    "lieu": "69 - LYON",
+    "arbitre": "MATHIEU Christophe"
+  },
+  {
+    "date": "2026-11-13",
+    "titre": "Tournois Fermés Chess In Lyon novembre 2026 Poule I",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73889",
+    "cadence": "Lente",
+    "lieu": "69 - LYON",
+    "arbitre": "MATHIEU Christophe"
+  },
+  {
+    "date": "2026-11-13",
+    "titre": "Tournois Fermés Chess In Lyon novembre 2026 Poule J",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73890",
+    "cadence": "Lente",
+    "lieu": "69 - LYON",
+    "arbitre": "MATHIEU Christophe"
   },
   {
     "date": "2026-11-13",
@@ -34769,11 +34913,115 @@
   },
   {
     "date": "2026-11-14",
+    "titre": "Tournois Fermés Chess In Lyon novembre 2026 Poule A",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73881",
+    "cadence": "Lente",
+    "lieu": "69 - LYON",
+    "arbitre": "MATHIEU Christophe"
+  },
+  {
+    "date": "2026-11-14",
+    "titre": "Tournois Fermés Chess In Lyon novembre 2026 Poule B",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73882",
+    "cadence": "Lente",
+    "lieu": "69 - LYON",
+    "arbitre": "MATHIEU Christophe"
+  },
+  {
+    "date": "2026-11-14",
+    "titre": "Tournois Fermés Chess In Lyon novembre 2026 Poule C",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73883",
+    "cadence": "Lente",
+    "lieu": "69 - LYON",
+    "arbitre": "MATHIEU Christophe"
+  },
+  {
+    "date": "2026-11-14",
+    "titre": "Tournois Fermés Chess In Lyon novembre 2026 Poule D",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73884",
+    "cadence": "Lente",
+    "lieu": "69 - LYON",
+    "arbitre": "MATHIEU Christophe"
+  },
+  {
+    "date": "2026-11-14",
+    "titre": "Tournois Fermés Chess In Lyon novembre 2026 Poule E",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73885",
+    "cadence": "Lente",
+    "lieu": "69 - LYON",
+    "arbitre": "MATHIEU Christophe"
+  },
+  {
+    "date": "2026-11-14",
+    "titre": "Tournois Fermés Chess In Lyon novembre 2026 Poule F",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73886",
+    "cadence": "Lente",
+    "lieu": "69 - LYON",
+    "arbitre": "MATHIEU Christophe"
+  },
+  {
+    "date": "2026-11-14",
+    "titre": "Tournois Fermés Chess In Lyon novembre 2026 Poule G",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73887",
+    "cadence": "Lente",
+    "lieu": "69 - LYON",
+    "arbitre": "MATHIEU Christophe"
+  },
+  {
+    "date": "2026-11-14",
+    "titre": "Tournois Fermés Chess In Lyon novembre 2026 Poule H",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73888",
+    "cadence": "Lente",
+    "lieu": "69 - LYON",
+    "arbitre": "MATHIEU Christophe"
+  },
+  {
+    "date": "2026-11-14",
+    "titre": "Tournois Fermés Chess In Lyon novembre 2026 Poule I",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73889",
+    "cadence": "Lente",
+    "lieu": "69 - LYON",
+    "arbitre": "MATHIEU Christophe"
+  },
+  {
+    "date": "2026-11-14",
+    "titre": "Tournois Fermés Chess In Lyon novembre 2026 Poule J",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73890",
+    "cadence": "Lente",
+    "lieu": "69 - LYON",
+    "arbitre": "MATHIEU Christophe"
+  },
+  {
+    "date": "2026-11-14",
     "titre": "Trophée Jeunes de Vandoeuvre 2026-2027 étape 2 - 14 novembre 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73703",
     "cadence": "Lente",
     "lieu": "54 - VANDOEUVRE LES NANCY",
     "arbitre": "SAVINA Anastasia"
+  },
+  {
+    "date": "2026-11-14",
+    "titre": "U12 Bas-Rhin 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73893",
+    "cadence": "Lente",
+    "lieu": "67 - MOMMENHEIM",
+    "arbitre": "MENUET Anais"
+  },
+  {
+    "date": "2026-11-14",
+    "titre": "U14 Bas-Rhin 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73894",
+    "cadence": "Lente",
+    "lieu": "67 - MOMMENHEIM",
+    "arbitre": "MENUET Anais"
+  },
+  {
+    "date": "2026-11-14",
+    "titre": "U16 Bas-Rhin 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73895",
+    "cadence": "Lente",
+    "lieu": "67 - MOMMENHEIM",
+    "arbitre": "MENUET Anais"
   },
   {
     "date": "2026-11-14",
@@ -34830,6 +35078,14 @@
     "cadence": "Lente",
     "lieu": "06 - GRASSE",
     "arbitre": "CANET Gerard"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "1er Tournoi Interne Tresses 2026-2027",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73879",
+    "cadence": "Lente",
+    "lieu": "33 - TRESSES",
+    "arbitre": "FEIT Jean-Luc"
   },
   {
     "date": "2026-11-15",
@@ -35593,6 +35849,110 @@
   },
   {
     "date": "2026-11-15",
+    "titre": "Tournois Fermés Chess In Lyon novembre 2026 Poule A",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73881",
+    "cadence": "Lente",
+    "lieu": "69 - LYON",
+    "arbitre": "MATHIEU Christophe"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Tournois Fermés Chess In Lyon novembre 2026 Poule B",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73882",
+    "cadence": "Lente",
+    "lieu": "69 - LYON",
+    "arbitre": "MATHIEU Christophe"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Tournois Fermés Chess In Lyon novembre 2026 Poule C",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73883",
+    "cadence": "Lente",
+    "lieu": "69 - LYON",
+    "arbitre": "MATHIEU Christophe"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Tournois Fermés Chess In Lyon novembre 2026 Poule D",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73884",
+    "cadence": "Lente",
+    "lieu": "69 - LYON",
+    "arbitre": "MATHIEU Christophe"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Tournois Fermés Chess In Lyon novembre 2026 Poule E",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73885",
+    "cadence": "Lente",
+    "lieu": "69 - LYON",
+    "arbitre": "MATHIEU Christophe"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Tournois Fermés Chess In Lyon novembre 2026 Poule F",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73886",
+    "cadence": "Lente",
+    "lieu": "69 - LYON",
+    "arbitre": "MATHIEU Christophe"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Tournois Fermés Chess In Lyon novembre 2026 Poule G",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73887",
+    "cadence": "Lente",
+    "lieu": "69 - LYON",
+    "arbitre": "MATHIEU Christophe"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Tournois Fermés Chess In Lyon novembre 2026 Poule H",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73888",
+    "cadence": "Lente",
+    "lieu": "69 - LYON",
+    "arbitre": "MATHIEU Christophe"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Tournois Fermés Chess In Lyon novembre 2026 Poule I",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73889",
+    "cadence": "Lente",
+    "lieu": "69 - LYON",
+    "arbitre": "MATHIEU Christophe"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Tournois Fermés Chess In Lyon novembre 2026 Poule J",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73890",
+    "cadence": "Lente",
+    "lieu": "69 - LYON",
+    "arbitre": "MATHIEU Christophe"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "U12 Bas-Rhin 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73893",
+    "cadence": "Lente",
+    "lieu": "67 - MOMMENHEIM",
+    "arbitre": "MENUET Anais"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "U14 Bas-Rhin 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73894",
+    "cadence": "Lente",
+    "lieu": "67 - MOMMENHEIM",
+    "arbitre": "MENUET Anais"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "U16 Bas-Rhin 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73895",
+    "cadence": "Lente",
+    "lieu": "67 - MOMMENHEIM",
+    "arbitre": "MENUET Anais"
+  },
+  {
+    "date": "2026-11-15",
     "titre": "cht départemental jeunes des A.M. 2026 U10 Mixte",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73666",
     "cadence": "Lente",
@@ -35902,6 +36262,22 @@
     "cadence": "Lente",
     "lieu": "85 - MONTAIGU",
     "arbitre": "GUICHETEAU Dany"
+  },
+  {
+    "date": "2026-11-21",
+    "titre": "Championnat jeunes de Haute-Loire U08-U10",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73897",
+    "cadence": "Lente",
+    "lieu": "43 - BRIOUDE",
+    "arbitre": "BOYADJIS Philippe"
+  },
+  {
+    "date": "2026-11-21",
+    "titre": "Championnat jeunes de Haute-Loire U12 à U16",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73898",
+    "cadence": "Lente",
+    "lieu": "43 - BRIOUDE",
+    "arbitre": "BOYADJIS Philippe"
   },
   {
     "date": "2026-11-21",
