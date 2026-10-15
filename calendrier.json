@@ -29973,7 +29973,7 @@
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72735",
     "cadence": "Lente",
     "lieu": "67 - OBERHAUSBERGEN",
-    "arbitre": "LEFEBVRE Pierre"
+    "arbitre": "HEDDACHE Rachid"
   },
   {
     "date": "2026-10-17",
@@ -30669,7 +30669,7 @@
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72735",
     "cadence": "Lente",
     "lieu": "67 - OBERHAUSBERGEN",
-    "arbitre": "LEFEBVRE Pierre"
+    "arbitre": "HEDDACHE Rachid"
   },
   {
     "date": "2026-10-18",
@@ -33766,6 +33766,14 @@
     "cadence": "Lente",
     "lieu": "73 - AIX LES BAINS",
     "arbitre": "FRION Sandrine"
+  },
+  {
+    "date": "2026-11-11",
+    "titre": "13ème rapide de St-Pierre-des-Corps - Tournoi C (limite élo Rapide -1400)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73913",
+    "cadence": "Rapide",
+    "lieu": "37 - SAINT PIERRE DES CORPS",
+    "arbitre": "SALLY Paul-Adrien"
   },
   {
     "date": "2026-11-11",
@@ -37494,6 +37502,46 @@
     "cadence": "Rapide",
     "lieu": "76 - DIEPPE",
     "arbitre": "DELABARRE Olivier"
+  },
+  {
+    "date": "2026-12-06",
+    "titre": "Championnat d'Ariège 2026 U08",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73916",
+    "cadence": "Lente",
+    "lieu": "09 - TARASCON SUR ARIEGE",
+    "arbitre": "JOIN Etienne"
+  },
+  {
+    "date": "2026-12-06",
+    "titre": "Championnat d'Ariège 2026 U10",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73917",
+    "cadence": "Lente",
+    "lieu": "09 - TARASCON SUR ARIEGE",
+    "arbitre": "JOIN Etienne"
+  },
+  {
+    "date": "2026-12-06",
+    "titre": "Championnat d'Ariège 2026 U12",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73918",
+    "cadence": "Lente",
+    "lieu": "09 - TARASCON SUR ARIEGE",
+    "arbitre": "JOIN Etienne"
+  },
+  {
+    "date": "2026-12-06",
+    "titre": "Championnat d'Ariège 2026 U14",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73919",
+    "cadence": "Lente",
+    "lieu": "09 - TARASCON SUR ARIEGE",
+    "arbitre": "JOIN Etienne"
+  },
+  {
+    "date": "2026-12-06",
+    "titre": "Championnat d'Ariège 2026 U16",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73920",
+    "cadence": "Lente",
+    "lieu": "09 - TARASCON SUR ARIEGE",
+    "arbitre": "JOIN Etienne"
   },
   {
     "date": "2026-12-06",
