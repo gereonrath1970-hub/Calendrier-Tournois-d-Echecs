@@ -28009,7 +28009,7 @@
   },
   {
     "date": "2026-10-03",
-    "titre": "118è Rapide FFE Interchess -2000 Elo (conseillé aux débutants adultes jeunes et enfants)",
+    "titre": "118è Rapide FFE Interchess -2000 Elo ANNULE",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73270",
     "cadence": "Rapide",
     "lieu": "75 - PARIS",
@@ -28349,7 +28349,7 @@
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72705",
     "cadence": "Rapide",
     "lieu": "37 - TOURS",
-    "arbitre": "GRATEAU Jean-Noel"
+    "arbitre": "MOURET Erick"
   },
   {
     "date": "2026-10-04",
@@ -28357,7 +28357,7 @@
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72706",
     "cadence": "Rapide",
     "lieu": "37 - TOURS",
-    "arbitre": "GRATEAU Jean-Noel"
+    "arbitre": "MOURET Erick"
   },
   {
     "date": "2026-10-04",
@@ -30017,14 +30017,6 @@
   },
   {
     "date": "2026-10-17",
-    "titre": "Phase Nord du Championnat de France Jeunes 2026 U20 (-1800)",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73303",
-    "cadence": "Lente",
-    "lieu": "59 - CAPPELLE LA GRANDE",
-    "arbitre": "FERYN Alexandre"
-  },
-  {
-    "date": "2026-10-17",
     "titre": "Phase Pas-de-Calais du Championnat de France Jeunes 2026 U12",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73448",
     "cadence": "Lente",
@@ -30721,14 +30713,6 @@
   },
   {
     "date": "2026-10-18",
-    "titre": "Phase Nord du Championnat de France Jeunes 2026 U20 (-1800)",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73303",
-    "cadence": "Lente",
-    "lieu": "59 - CAPPELLE LA GRANDE",
-    "arbitre": "FERYN Alexandre"
-  },
-  {
-    "date": "2026-10-18",
     "titre": "Phase Pas-de-Calais du Championnat de France Jeunes 2026 U08",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73447",
     "cadence": "Lente",
@@ -31051,14 +31035,6 @@
     "date": "2026-10-19",
     "titre": "Phase Nord du Championnat de France Jeunes 2026 U18 (-1800)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73302",
-    "cadence": "Lente",
-    "lieu": "59 - CAPPELLE LA GRANDE",
-    "arbitre": "FERYN Alexandre"
-  },
-  {
-    "date": "2026-10-19",
-    "titre": "Phase Nord du Championnat de France Jeunes 2026 U20 (-1800)",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73303",
     "cadence": "Lente",
     "lieu": "59 - CAPPELLE LA GRANDE",
     "arbitre": "FERYN Alexandre"
@@ -32961,6 +32937,14 @@
   },
   {
     "date": "2026-10-30",
+    "titre": "EG Intra club - octobre 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74093",
+    "cadence": "Lente",
+    "lieu": "88 - GERARDMER",
+    "arbitre": "LIST Jean-Pierre"
+  },
+  {
+    "date": "2026-10-30",
     "titre": "Festival du Mans 2026 (-2400)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73252",
     "cadence": "Lente",
@@ -33817,6 +33801,14 @@
   },
   {
     "date": "2026-11-08",
+    "titre": "Paris Chess Youth League 1",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74103",
+    "cadence": "Lente",
+    "lieu": "75 - PARIS",
+    "arbitre": "CHELLILI Bachir"
+  },
+  {
+    "date": "2026-11-08",
     "titre": "championnat de Savoie 2026-27 r3-4",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73293",
     "cadence": "Lente",
@@ -33837,6 +33829,14 @@
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73293",
     "cadence": "Lente",
     "lieu": "73 - AIX LES BAINS",
+    "arbitre": "FRION Sandrine"
+  },
+  {
+    "date": "2026-11-10",
+    "titre": "1er afterwork blitz",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74100",
+    "cadence": "Blitz",
+    "lieu": "73 - CHAMBERY",
     "arbitre": "FRION Sandrine"
   },
   {
@@ -34950,6 +34950,30 @@
     "cadence": "Lente",
     "lieu": "30 - CAISSARGUES",
     "arbitre": "PIERRE Timothee"
+  },
+  {
+    "date": "2026-11-14",
+    "titre": "Championnat du Gers 2026 - U12",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74094",
+    "cadence": "Lente",
+    "lieu": "32 - AUCH",
+    "arbitre": "JOIN Etienne"
+  },
+  {
+    "date": "2026-11-14",
+    "titre": "Championnat du Gers 2026 - U14",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74095",
+    "cadence": "Lente",
+    "lieu": "32 - AUCH",
+    "arbitre": "JOIN Etienne"
+  },
+  {
+    "date": "2026-11-14",
+    "titre": "Championnat du Gers 2026 - U16",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74096",
+    "cadence": "Lente",
+    "lieu": "32 - AUCH",
+    "arbitre": "JOIN Etienne"
   },
   {
     "date": "2026-11-14",
@@ -36129,6 +36153,30 @@
   },
   {
     "date": "2026-11-15",
+    "titre": "Championnat du Gers 2026 - U12",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74094",
+    "cadence": "Lente",
+    "lieu": "32 - AUCH",
+    "arbitre": "JOIN Etienne"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Championnat du Gers 2026 - U14",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74095",
+    "cadence": "Lente",
+    "lieu": "32 - AUCH",
+    "arbitre": "JOIN Etienne"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Championnat du Gers 2026 - U16",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74096",
+    "cadence": "Lente",
+    "lieu": "32 - AUCH",
+    "arbitre": "JOIN Etienne"
+  },
+  {
+    "date": "2026-11-15",
     "titre": "Championnat du Maine et Loire U10 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73862",
     "cadence": "Lente",
@@ -36929,6 +36977,54 @@
   },
   {
     "date": "2026-11-21",
+    "titre": "Manche Jeunes 2026 U10",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74087",
+    "cadence": "Lente",
+    "lieu": "50 - CHERBOURG",
+    "arbitre": "BENETEAU Hubert"
+  },
+  {
+    "date": "2026-11-21",
+    "titre": "Manche Jeunes 2026 U12",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74088",
+    "cadence": "Lente",
+    "lieu": "50 - CHERBOURG",
+    "arbitre": "BENETEAU Hubert"
+  },
+  {
+    "date": "2026-11-21",
+    "titre": "Manche Jeunes 2026 U14",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74089",
+    "cadence": "Lente",
+    "lieu": "50 - CHERBOURG",
+    "arbitre": "BENETEAU Hubert"
+  },
+  {
+    "date": "2026-11-21",
+    "titre": "Manche Jeunes 2026 U16",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74090",
+    "cadence": "Lente",
+    "lieu": "50 - CHERBOURG",
+    "arbitre": "BENETEAU Hubert"
+  },
+  {
+    "date": "2026-11-21",
+    "titre": "Manche Jeunes 2026 U18",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74091",
+    "cadence": "Lente",
+    "lieu": "50 - CHERBOURG",
+    "arbitre": "BENETEAU Hubert"
+  },
+  {
+    "date": "2026-11-21",
+    "titre": "Manche Jeunes 2026 U20",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74092",
+    "cadence": "Lente",
+    "lieu": "50 - CHERBOURG",
+    "arbitre": "BENETEAU Hubert"
+  },
+  {
+    "date": "2026-11-21",
     "titre": "Open 13 - Marseille 2026-27 (-2200) r3-4",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73155",
     "cadence": "Lente",
@@ -37222,6 +37318,62 @@
     "cadence": "Lente",
     "lieu": "67 - BARR",
     "arbitre": "LEFEBVRE Pierre"
+  },
+  {
+    "date": "2026-11-22",
+    "titre": "Manche Jeunes 2026 U08",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74086",
+    "cadence": "Lente",
+    "lieu": "50 - CHERBOURG",
+    "arbitre": "BENETEAU Hubert"
+  },
+  {
+    "date": "2026-11-22",
+    "titre": "Manche Jeunes 2026 U10",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74087",
+    "cadence": "Lente",
+    "lieu": "50 - CHERBOURG",
+    "arbitre": "BENETEAU Hubert"
+  },
+  {
+    "date": "2026-11-22",
+    "titre": "Manche Jeunes 2026 U12",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74088",
+    "cadence": "Lente",
+    "lieu": "50 - CHERBOURG",
+    "arbitre": "BENETEAU Hubert"
+  },
+  {
+    "date": "2026-11-22",
+    "titre": "Manche Jeunes 2026 U14",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74089",
+    "cadence": "Lente",
+    "lieu": "50 - CHERBOURG",
+    "arbitre": "BENETEAU Hubert"
+  },
+  {
+    "date": "2026-11-22",
+    "titre": "Manche Jeunes 2026 U16",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74090",
+    "cadence": "Lente",
+    "lieu": "50 - CHERBOURG",
+    "arbitre": "BENETEAU Hubert"
+  },
+  {
+    "date": "2026-11-22",
+    "titre": "Manche Jeunes 2026 U18",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74091",
+    "cadence": "Lente",
+    "lieu": "50 - CHERBOURG",
+    "arbitre": "BENETEAU Hubert"
+  },
+  {
+    "date": "2026-11-22",
+    "titre": "Manche Jeunes 2026 U20",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74092",
+    "cadence": "Lente",
+    "lieu": "50 - CHERBOURG",
+    "arbitre": "BENETEAU Hubert"
   },
   {
     "date": "2026-11-22",
@@ -39350,6 +39502,14 @@
     "cadence": "Rapide",
     "lieu": "75 - PARIS",
     "arbitre": "RUBINI Xavier"
+  },
+  {
+    "date": "2026-12-18",
+    "titre": "Blitz de Noël de l'Échiquier Nîmois 2026-12-18",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74099",
+    "cadence": "Blitz",
+    "lieu": "30 - NIMES",
+    "arbitre": "FOSSELLA Manuel"
   },
   {
     "date": "2026-12-18",
