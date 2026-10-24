@@ -29201,7 +29201,7 @@
   },
   {
     "date": "2026-10-15",
-    "titre": "120è Rapide FFE Interchess d'entrainement 1500-2000 Elo",
+    "titre": "120è Rapide FFE Interchess d'entrainement ANNULE",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73551",
     "cadence": "Rapide",
     "lieu": "75 - PARIS",
@@ -30613,7 +30613,7 @@
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73636",
     "cadence": "Rapide",
     "lieu": "9D - SCHOELCHER",
-    "arbitre": "SIMEON Gilles"
+    "arbitre": "MOURET Erick"
   },
   {
     "date": "2026-10-18",
@@ -31334,14 +31334,6 @@
     "cadence": "Lente",
     "lieu": "66 - PERPIGNAN",
     "arbitre": "LABORDE Stephane"
-  },
-  {
-    "date": "2026-10-21",
-    "titre": "Blitz BS du mercredi 21-10-2026",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73326",
-    "cadence": "Blitz",
-    "lieu": "75 - PARIS",
-    "arbitre": "AUDER Benjamin"
   },
   {
     "date": "2026-10-21",
@@ -33528,6 +33520,22 @@
     "arbitre": "BOUDART Thierry"
   },
   {
+    "date": "2026-11-01",
+    "titre": "Tournoi du Tampon d'Halloween 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74109",
+    "cadence": "Lente",
+    "lieu": "9A - LE TAMPON",
+    "arbitre": "FONTAINE Cedric"
+  },
+  {
+    "date": "2026-11-01",
+    "titre": "Tournoi du Tampon des petits Halloween 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74108",
+    "cadence": "Lente",
+    "lieu": "9A - LE TAMPON",
+    "arbitre": "FONTAINE Cedric"
+  },
+  {
     "date": "2026-11-04",
     "titre": "125è Rapide FFE Interchess -1700 (conseillé aux débutants adultes jeunes et enfants)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74061",
@@ -33641,11 +33649,35 @@
   },
   {
     "date": "2026-11-07",
+    "titre": "129è Blitz FIDE Interchess -2000 (conseillé aux débutants adultes jeunes et enfants)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74111",
+    "cadence": "Blitz",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-11-07",
+    "titre": "18è Marathon Rapide FIDE Interchess",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74113",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-11-07",
     "titre": "23eme Rapide du Samedi de l'ECCM",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73244",
     "cadence": "Rapide",
     "lieu": "69 - CORBAS",
     "arbitre": "ACIKGOZ Tuncay"
+  },
+  {
+    "date": "2026-11-07",
+    "titre": "494è Rapide FIDE Interchess -2000 (conseillé aux débutants adultes jeunes et enfants)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74112",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
   },
   {
     "date": "2026-11-07",
@@ -33766,6 +33798,30 @@
     "cadence": "Lente",
     "lieu": "73 - AIX LES BAINS",
     "arbitre": "FRION Sandrine"
+  },
+  {
+    "date": "2026-11-08",
+    "titre": "129è Blitz FIDE Interchess",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74116",
+    "cadence": "Blitz",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-11-08",
+    "titre": "297è Open FIDE Interchess de 3 Rondes -1800",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74114",
+    "cadence": "Lente",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-11-08",
+    "titre": "495è Rapide FIDE Interchess",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74115",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
   },
   {
     "date": "2026-11-08",
@@ -35449,6 +35505,14 @@
   },
   {
     "date": "2026-11-15",
+    "titre": "Baie-Mahault School Chess Challenge novembre 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74110",
+    "cadence": "Lente",
+    "lieu": "9C - BAIE MAHAULT",
+    "arbitre": "MAROT Philippe"
+  },
+  {
+    "date": "2026-11-15",
     "titre": "Championnat 74 jeunes 2026-2027 catégorie U10",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73351",
     "cadence": "Lente",
@@ -36865,6 +36929,14 @@
   },
   {
     "date": "2026-11-21",
+    "titre": "Challenge des Big Boss des mats Brive 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74117",
+    "cadence": "Lente",
+    "lieu": "19 - BRIVE LA GAILLARDE",
+    "arbitre": "LAVAL Jose"
+  },
+  {
+    "date": "2026-11-21",
     "titre": "Championnat 35 toutes catégories 2027 r1-2",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73696",
     "cadence": "Lente",
@@ -37454,6 +37526,14 @@
     "cadence": "Lente",
     "lieu": "52 - CHAUMONT",
     "arbitre": "PICARD Serge"
+  },
+  {
+    "date": "2026-11-23",
+    "titre": "Tournoi interne échiquier nîmois 2026-27 r1",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74122",
+    "cadence": "Lente",
+    "lieu": "30 - NIMES",
+    "arbitre": "CANONGE Jerome"
   },
   {
     "date": "2026-11-24",
@@ -38158,6 +38238,14 @@
     "cadence": "Lente",
     "lieu": "06 - CANNES",
     "arbitre": "DE LABACA Romuald"
+  },
+  {
+    "date": "2026-12-02",
+    "titre": "Championnat des écoles primaires 06 secteur Grasse 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74107",
+    "cadence": "Lente",
+    "lieu": "06 - GRASSE",
+    "arbitre": "CANET Gerard"
   },
   {
     "date": "2026-12-02",
@@ -39990,6 +40078,14 @@
     "cadence": "Lente",
     "lieu": "30 - ALES",
     "arbitre": "PIERRE Timothee"
+  },
+  {
+    "date": "2026-12-21",
+    "titre": "Tournoi interne échiquier nîmois 2026-27 r2",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74123",
+    "cadence": "Lente",
+    "lieu": "30 - NIMES",
+    "arbitre": "CANONGE Jerome"
   },
   {
     "date": "2026-12-22",
