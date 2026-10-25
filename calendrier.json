@@ -31681,14 +31681,6 @@
   },
   {
     "date": "2026-10-24",
-    "titre": "10e Blitz de Chambéry",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73173",
-    "cadence": "Blitz",
-    "lieu": "73 - CHAMBERY",
-    "arbitre": "FRION Sandrine"
-  },
-  {
-    "date": "2026-10-24",
     "titre": "127è Blitz FIDE Interchess -2000 Elo",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73644",
     "cadence": "Blitz",
@@ -33873,6 +33865,14 @@
   },
   {
     "date": "2026-11-10",
+    "titre": "2e Blitz Édouard Lévy-Grünwald",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74130",
+    "cadence": "Blitz",
+    "lieu": "90 - BELFORT",
+    "arbitre": "RICHARD Steve"
+  },
+  {
+    "date": "2026-11-10",
     "titre": "Championnat Interne de Kingersheim 2026 r5-6",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72896",
     "cadence": "Lente",
@@ -34086,6 +34086,22 @@
     "cadence": "Lente",
     "lieu": "83 - FREJUS",
     "arbitre": "AIDAOUI Brice"
+  },
+  {
+    "date": "2026-11-11",
+    "titre": "Mémorial Pavilla 2026 - Tournoi Jeunes (de Petits Poussins à Benjamins)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74137",
+    "cadence": "Lente",
+    "lieu": "9D - LAMENTIN",
+    "arbitre": "SIMEON Gilles"
+  },
+  {
+    "date": "2026-11-11",
+    "titre": "Mémorial Pavilla 2026 - Tournoi Senior (de Minimes à Vétérans) (-2400)",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74138",
+    "cadence": "Lente",
+    "lieu": "9D - LAMENTIN",
+    "arbitre": "SIMEON Gilles"
   },
   {
     "date": "2026-11-11",
@@ -35145,6 +35161,38 @@
   },
   {
     "date": "2026-11-14",
+    "titre": "Chpt Dept. Jeunes Mayenne 2026 - U10",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74140",
+    "cadence": "Lente",
+    "lieu": "53 - CHATEAU GONTIER",
+    "arbitre": "AUMONT Eric"
+  },
+  {
+    "date": "2026-11-14",
+    "titre": "Chpt Dept. Jeunes Mayenne 2026 - U12",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74141",
+    "cadence": "Lente",
+    "lieu": "53 - CHATEAU GONTIER",
+    "arbitre": "AUMONT Eric"
+  },
+  {
+    "date": "2026-11-14",
+    "titre": "Chpt Dept. Jeunes Mayenne 2026 - U14",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74142",
+    "cadence": "Lente",
+    "lieu": "53 - CHATEAU GONTIER",
+    "arbitre": "AUMONT Eric"
+  },
+  {
+    "date": "2026-11-14",
+    "titre": "Chpt Dept. Jeunes Mayenne 2026 - U16",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74143",
+    "cadence": "Lente",
+    "lieu": "53 - CHATEAU GONTIER",
+    "arbitre": "AUMONT Eric"
+  },
+  {
+    "date": "2026-11-14",
     "titre": "Circuit des calanques - 39ème blitz des calanques - La Ciotat",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72889",
     "cadence": "Blitz",
@@ -35481,6 +35529,14 @@
   },
   {
     "date": "2026-11-15",
+    "titre": "1er Rapide FIDE d’Automne des Épesses",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74134",
+    "cadence": "Rapide",
+    "lieu": "85 - LES EPESSES",
+    "arbitre": "GUICHETEAU Dany"
+  },
+  {
+    "date": "2026-11-15",
     "titre": "1er Tournoi Interne Tresses 2026-2027",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73879",
     "cadence": "Lente",
@@ -35774,6 +35830,14 @@
     "cadence": "Lente",
     "lieu": "78 - MAISONS LAFFITTE",
     "arbitre": "MOURGUES Joelle"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Championnat Jeunes des Yvelines 2026 - U18-U20",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74132",
+    "cadence": "Lente",
+    "lieu": "78 - MAISONS LAFFITTE",
+    "arbitre": "FOURNIER Nicolas"
   },
   {
     "date": "2026-11-15",
@@ -36417,6 +36481,46 @@
   },
   {
     "date": "2026-11-15",
+    "titre": "Chpt Dept. Jeunes Mayenne 2026 - U10",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74140",
+    "cadence": "Lente",
+    "lieu": "53 - CHATEAU GONTIER",
+    "arbitre": "AUMONT Eric"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Chpt Dept. Jeunes Mayenne 2026 - U12",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74141",
+    "cadence": "Lente",
+    "lieu": "53 - CHATEAU GONTIER",
+    "arbitre": "AUMONT Eric"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Chpt Dept. Jeunes Mayenne 2026 - U14",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74142",
+    "cadence": "Lente",
+    "lieu": "53 - CHATEAU GONTIER",
+    "arbitre": "AUMONT Eric"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Chpt Dept. Jeunes Mayenne 2026 - U16",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74143",
+    "cadence": "Lente",
+    "lieu": "53 - CHATEAU GONTIER",
+    "arbitre": "AUMONT Eric"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Chpt. Indiv. Jeunes Mayenne 2026 - U08",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74139",
+    "cadence": "Lente",
+    "lieu": "53 - CHATEAU GONTIER",
+    "arbitre": "AUMONT Eric"
+  },
+  {
+    "date": "2026-11-15",
     "titre": "Master A 2026 Varois",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73532",
     "cadence": "Lente",
@@ -36736,6 +36840,14 @@
     "arbitre": "DE FAVERI Gabriel"
   },
   {
+    "date": "2026-11-18",
+    "titre": "Tournoi d'Echecs Scolaire de Lyon du 18 novembre 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74135",
+    "cadence": "Lente",
+    "lieu": "69 - LYON",
+    "arbitre": "MATHIEU Christophe"
+  },
+  {
     "date": "2026-11-19",
     "titre": "1er Tournoi fermé MI LYON",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73695",
@@ -36870,6 +36982,14 @@
     "cadence": "Lente",
     "lieu": "69 - LYON",
     "arbitre": "PARIS Thierry"
+  },
+  {
+    "date": "2026-11-21",
+    "titre": "1er tournoi de parties rapides des jeunes de la Haute-Loire",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74133",
+    "cadence": "Rapide",
+    "lieu": "43 - BRIOUDE",
+    "arbitre": "BOYADJIS Philippe"
   },
   {
     "date": "2026-11-21",
@@ -39529,6 +39649,14 @@
   },
   {
     "date": "2026-12-16",
+    "titre": "Tournoi d'Echecs Scolaire de Lyon du 16 décembre 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74136",
+    "cadence": "Lente",
+    "lieu": "69 - LYON",
+    "arbitre": "MATHIEU Christophe"
+  },
+  {
+    "date": "2026-12-16",
     "titre": "Tournoi du mercredi Grenoble – Hiver 2027 r1-3 (-2400)",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72937",
     "cadence": "Lente",
@@ -40081,6 +40209,14 @@
   },
   {
     "date": "2026-12-21",
+    "titre": "Tournoi de Noël 2026 du Creonnais",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74129",
+    "cadence": "Lente",
+    "lieu": "33 - CREON",
+    "arbitre": "ABOUD Tony"
+  },
+  {
+    "date": "2026-12-21",
     "titre": "Tournoi interne échiquier nîmois 2026-27 r2",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74123",
     "cadence": "Lente",
@@ -40142,6 +40278,14 @@
     "cadence": "Lente",
     "lieu": "54 - VANDOEUVRE LES NANCY",
     "arbitre": "SAVINA Anastasia"
+  },
+  {
+    "date": "2026-12-22",
+    "titre": "Tournoi de Noël 2026 du Creonnais",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74129",
+    "cadence": "Lente",
+    "lieu": "33 - CREON",
+    "arbitre": "ABOUD Tony"
   },
   {
     "date": "2026-12-22",
@@ -40214,6 +40358,14 @@
     "cadence": "Lente",
     "lieu": "54 - VANDOEUVRE LES NANCY",
     "arbitre": "SAVINA Anastasia"
+  },
+  {
+    "date": "2026-12-23",
+    "titre": "Tournoi de Noël 2026 du Creonnais",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74129",
+    "cadence": "Lente",
+    "lieu": "33 - CREON",
+    "arbitre": "ABOUD Tony"
   },
   {
     "date": "2026-12-26",
