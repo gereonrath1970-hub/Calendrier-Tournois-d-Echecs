@@ -180,32 +180,32 @@
     "titre": "14eme Festival de Tournois Olympique Grande Synthe - Open",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70662",
     "cadence": "Lente",
-    "lieu": "Information indisponible",
-    "arbitre": "Information indisponible"
+    "lieu": "59 - GRANDE SYNTHE",
+    "arbitre": "BLOT Philippe"
   },
   {
     "date": "2026-04-04",
     "titre": "14eme Festival de Tournois Olympique Grande Synthe - Tournoi A",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70656",
     "cadence": "Lente",
-    "lieu": "Information indisponible",
-    "arbitre": "Information indisponible"
+    "lieu": "59 - GRANDE SYNTHE",
+    "arbitre": "BLOT Philippe"
   },
   {
     "date": "2026-04-04",
     "titre": "14eme Festival de Tournois Olympique Grande Synthe - Tournoi B",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70657",
     "cadence": "Lente",
-    "lieu": "Information indisponible",
-    "arbitre": "Information indisponible"
+    "lieu": "59 - GRANDE SYNTHE",
+    "arbitre": "BLOT Philippe"
   },
   {
     "date": "2026-04-04",
     "titre": "14eme Festival de Tournois Olympique Grande Synthe - Tournoi C",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70658",
     "cadence": "Lente",
-    "lieu": "Information indisponible",
-    "arbitre": "Information indisponible"
+    "lieu": "59 - GRANDE SYNTHE",
+    "arbitre": "BLOT Philippe"
   },
   {
     "date": "2026-04-04",
@@ -220,8 +220,8 @@
     "titre": "14eme Festival de Tournois Olympique Grande Synthe - Tournoi E",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70660",
     "cadence": "Lente",
-    "lieu": "Information indisponible",
-    "arbitre": "Information indisponible"
+    "lieu": "59 - GRANDE SYNTHE",
+    "arbitre": "BLOT Philippe"
   },
   {
     "date": "2026-04-04",
@@ -236,8 +236,8 @@
     "titre": "14th Chess Open Juvisy -2200 elo Mémorial Arnaud Courrier",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70561",
     "cadence": "Lente",
-    "lieu": "Information indisponible",
-    "arbitre": "Information indisponible"
+    "lieu": "91 - SAVIGNY SUR ORGE",
+    "arbitre": "MARKS Edwin"
   },
   {
     "date": "2026-04-04",
@@ -252,16 +252,16 @@
     "titre": "23eme Open International de Paques Saint Dié des Vosges Tournoi A",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70436",
     "cadence": "Lente",
-    "lieu": "Information indisponible",
-    "arbitre": "Information indisponible"
+    "lieu": "88 - SAINT DIE DES VOSGES",
+    "arbitre": "ANTOINE Jean-Luc"
   },
   {
     "date": "2026-04-04",
     "titre": "23eme Open International de Paques Saint Dié des Vosges Tournoi B",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=70437",
     "cadence": "Lente",
-    "lieu": "Information indisponible",
-    "arbitre": "Information indisponible"
+    "lieu": "88 - SAINT DIE DES VOSGES",
+    "arbitre": "ANTOINE Jean-Luc"
   },
   {
     "date": "2026-04-04",
@@ -492,24 +492,24 @@
     "titre": "Festival Classique du Roussillon 2026 Fermé C",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=69138",
     "cadence": "Lente",
-    "lieu": "Information indisponible",
-    "arbitre": "Information indisponible"
+    "lieu": "66 - PERPIGNAN",
+    "arbitre": "LABORDE Stephane"
   },
   {
     "date": "2026-04-04",
     "titre": "Festival Classique du Roussillon 2026 Fermé D",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=69139",
     "cadence": "Lente",
-    "lieu": "Information indisponible",
-    "arbitre": "Information indisponible"
+    "lieu": "66 - PERPIGNAN",
+    "arbitre": "LABORDE Stephane"
   },
   {
     "date": "2026-04-04",
     "titre": "Festival Classique du Roussillon 2026 Open E",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=69140",
     "cadence": "Lente",
-    "lieu": "Information indisponible",
-    "arbitre": "Information indisponible"
+    "lieu": "66 - PERPIGNAN",
+    "arbitre": "LABORDE Stephane"
   },
   {
     "date": "2026-04-04",
@@ -11980,8 +11980,8 @@
     "titre": "tournoi Annuel du CABE 2025-26 r8-9",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=68069",
     "cadence": "Lente",
-    "lieu": "Information indisponible",
-    "arbitre": "Information indisponible"
+    "lieu": "74 - ANNEMASSE",
+    "arbitre": "SYLVESTRE-BARON Mich"
   },
   {
     "date": "2026-06-06",
@@ -33953,6 +33953,14 @@
   },
   {
     "date": "2026-11-11",
+    "titre": "16e Tournoi Rapide Jeunes de Décines",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74193",
+    "cadence": "Rapide",
+    "lieu": "69 - DECINES CHARPIEU",
+    "arbitre": "VIEIRA Matthieu"
+  },
+  {
+    "date": "2026-11-11",
     "titre": "18ème Tournoi Rapide de Montbron",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73671",
     "cadence": "Rapide",
@@ -37140,16 +37148,16 @@
     "titre": "1ere étape du Circuit Féminin du LOE 2026-27",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73765",
     "cadence": "Lente",
-    "lieu": "Information indisponible",
-    "arbitre": "Information indisponible"
+    "lieu": "69 - LYON",
+    "arbitre": "MATHIEU Christophe"
   },
   {
     "date": "2026-11-21",
     "titre": "2ème Rapide 21 Jeunes 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73515",
     "cadence": "Rapide",
-    "lieu": "Information indisponible",
-    "arbitre": "Information indisponible"
+    "lieu": "21 - QUETIGNY",
+    "arbitre": "BOILEAU Mickael"
   },
   {
     "date": "2026-11-21",
