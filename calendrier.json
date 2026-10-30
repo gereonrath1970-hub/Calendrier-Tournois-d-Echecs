@@ -27937,6 +27937,14 @@
   },
   {
     "date": "2026-10-02",
+    "titre": "4ème Tournoi Blitz Pizza de Sanary 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73253",
+    "cadence": "Blitz",
+    "lieu": "83 - SANARY SUR MER",
+    "arbitre": "BRONGERS Henk"
+  },
+  {
+    "date": "2026-10-02",
     "titre": "591e Rapide Fide du Canal",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72643",
     "cadence": "Rapide",
@@ -28553,14 +28561,6 @@
   },
   {
     "date": "2026-10-04",
-    "titre": "Tournoi rapide de Juillan 2026",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72971",
-    "cadence": "Rapide",
-    "lieu": "65 - JUILLAN",
-    "arbitre": "GOSSELIN Vincent"
-  },
-  {
-    "date": "2026-10-04",
     "titre": "Tournoi rapide du CDJE du Calvados 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73458",
     "cadence": "Rapide",
@@ -28638,14 +28638,6 @@
     "cadence": "Blitz",
     "lieu": "09 - SOUEIX ROGALLE",
     "arbitre": "GALLORINI Jean-Chris"
-  },
-  {
-    "date": "2026-10-07",
-    "titre": "Tournoi de Blitz Echiquier Bordelais - 07-10-26",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73388",
-    "cadence": "Blitz",
-    "lieu": "33 - BORDEAUX",
-    "arbitre": "LAPEYRE Pierre"
   },
   {
     "date": "2026-10-07",
@@ -29169,14 +29161,6 @@
   },
   {
     "date": "2026-10-14",
-    "titre": "Tournoi de Blitz Echiquier Bordelais - 14-10-26",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73389",
-    "cadence": "Blitz",
-    "lieu": "33 - BORDEAUX",
-    "arbitre": "LAPEYRE Pierre"
-  },
-  {
-    "date": "2026-10-14",
     "titre": "Tournoi de Fromelles 1 M 26-27",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73321",
     "cadence": "Lente",
@@ -29366,14 +29350,6 @@
     "cadence": "Lente",
     "lieu": "54 - NANCY",
     "arbitre": "SAVINA Anastasia"
-  },
-  {
-    "date": "2026-10-16",
-    "titre": "Tournoi de Blitz Echiquier Bordelais - 16-10-26",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73560",
-    "cadence": "Blitz",
-    "lieu": "33 - BORDEAUX",
-    "arbitre": "LAPEYRE Pierre"
   },
   {
     "date": "2026-10-17",
@@ -30022,14 +29998,6 @@
     "cadence": "Lente",
     "lieu": "62 - ISBERGUES",
     "arbitre": "TAHAR-CHAOUCH Fouzia"
-  },
-  {
-    "date": "2026-10-17",
-    "titre": "RAPIDASPOM 2026 10-17",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73273",
-    "cadence": "Lente",
-    "lieu": "33 - BORDEAUX",
-    "arbitre": "SALLETTE Alain"
   },
   {
     "date": "2026-10-17",
@@ -32545,14 +32513,6 @@
   },
   {
     "date": "2026-10-28",
-    "titre": "Blitz BS du mercredi 28-10-2026",
-    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73327",
-    "cadence": "Blitz",
-    "lieu": "75 - PARIS",
-    "arbitre": "AUDER Benjamin"
-  },
-  {
-    "date": "2026-10-28",
     "titre": "Breizh Chess Challenger 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=72847",
     "cadence": "Lente",
@@ -32636,8 +32596,8 @@
     "titre": "24èmes Rencontres Nationales et Internationales d'Echecs - Avenir",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73004",
     "cadence": "Lente",
-    "lieu": "34 - AGDE",
-    "arbitre": "HENNEQUIN Chantal"
+    "lieu": "Information indisponible",
+    "arbitre": "Information indisponible"
   },
   {
     "date": "2026-10-29",
@@ -34361,6 +34321,14 @@
   },
   {
     "date": "2026-11-12",
+    "titre": "128è Rapide d'entrainement FIDE Interchess -2200",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74202",
+    "cadence": "Rapide",
+    "lieu": "75 - PARIS",
+    "arbitre": "GRALL Gwenole"
+  },
+  {
+    "date": "2026-11-12",
     "titre": "498è Rapide FIDE Interchess",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74183",
     "cadence": "Rapide",
@@ -35049,6 +35017,54 @@
   },
   {
     "date": "2026-11-14",
+    "titre": "Championnat de la Loire Jeunes 2026 - U10",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74210",
+    "cadence": "Lente",
+    "lieu": "42 - SAINT ETIENNE",
+    "arbitre": "ACIKGOZ Tuncay"
+  },
+  {
+    "date": "2026-11-14",
+    "titre": "Championnat de la Loire Jeunes 2026 - U12",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74211",
+    "cadence": "Lente",
+    "lieu": "42 - SAINT ETIENNE",
+    "arbitre": "ACIKGOZ Tuncay"
+  },
+  {
+    "date": "2026-11-14",
+    "titre": "Championnat de la Loire Jeunes 2026 - U14",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74212",
+    "cadence": "Lente",
+    "lieu": "42 - SAINT ETIENNE",
+    "arbitre": "ACIKGOZ Tuncay"
+  },
+  {
+    "date": "2026-11-14",
+    "titre": "Championnat de la Loire Jeunes 2026 - U16",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74213",
+    "cadence": "Lente",
+    "lieu": "42 - SAINT ETIENNE",
+    "arbitre": "ACIKGOZ Tuncay"
+  },
+  {
+    "date": "2026-11-14",
+    "titre": "Championnat de la Loire Jeunes 2026 - U18-U20",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74214",
+    "cadence": "Lente",
+    "lieu": "42 - SAINT ETIENNE",
+    "arbitre": "ACIKGOZ Tuncay"
+  },
+  {
+    "date": "2026-11-14",
+    "titre": "Championnat de la Loire Jeunes 2026 - U8",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74199",
+    "cadence": "Lente",
+    "lieu": "42 - SAINT ETIENNE",
+    "arbitre": "ACIKGOZ Tuncay"
+  },
+  {
+    "date": "2026-11-14",
     "titre": "Championnat des Pyrénées Orientales 2026 U08",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=73286",
     "cadence": "Lente",
@@ -35382,6 +35398,14 @@
     "cadence": "Lente",
     "lieu": "83 - FREJUS",
     "arbitre": "AIDAOUI Brice"
+  },
+  {
+    "date": "2026-11-14",
+    "titre": "Open Rapide de Novembre 2026 a Foix",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74203",
+    "cadence": "Rapide",
+    "lieu": "09 - FOIX",
+    "arbitre": "FONT Marc"
   },
   {
     "date": "2026-11-14",
@@ -36334,6 +36358,54 @@
     "cadence": "Lente",
     "lieu": "26 - ROMANS SUR ISERE",
     "arbitre": "ARMES Timothy"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Championnat de la Loire Jeunes 2026 - U10",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74210",
+    "cadence": "Lente",
+    "lieu": "42 - SAINT ETIENNE",
+    "arbitre": "ACIKGOZ Tuncay"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Championnat de la Loire Jeunes 2026 - U12",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74211",
+    "cadence": "Lente",
+    "lieu": "42 - SAINT ETIENNE",
+    "arbitre": "ACIKGOZ Tuncay"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Championnat de la Loire Jeunes 2026 - U14",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74212",
+    "cadence": "Lente",
+    "lieu": "42 - SAINT ETIENNE",
+    "arbitre": "ACIKGOZ Tuncay"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Championnat de la Loire Jeunes 2026 - U16",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74213",
+    "cadence": "Lente",
+    "lieu": "42 - SAINT ETIENNE",
+    "arbitre": "ACIKGOZ Tuncay"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Championnat de la Loire Jeunes 2026 - U18-U20",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74214",
+    "cadence": "Lente",
+    "lieu": "42 - SAINT ETIENNE",
+    "arbitre": "ACIKGOZ Tuncay"
+  },
+  {
+    "date": "2026-11-15",
+    "titre": "Championnat de la Loire Jeunes 2026 - U8",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74199",
+    "cadence": "Lente",
+    "lieu": "42 - SAINT ETIENNE",
+    "arbitre": "ACIKGOZ Tuncay"
   },
   {
     "date": "2026-11-15",
@@ -38545,6 +38617,14 @@
   },
   {
     "date": "2026-12-02",
+    "titre": "Championnat des écoles primaires 06 secteur Echiquier Niçois 2026",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74201",
+    "cadence": "Lente",
+    "lieu": "06 - NICE",
+    "arbitre": "VILLEGAS Pierre"
+  },
+  {
+    "date": "2026-12-02",
     "titre": "Championnat des écoles primaires 06 secteur Grasse 2026",
     "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74107",
     "cadence": "Lente",
@@ -39894,6 +39974,14 @@
     "cadence": "Lente",
     "lieu": "38 - GRENOBLE",
     "arbitre": "SALINAS Pierre"
+  },
+  {
+    "date": "2026-12-16",
+    "titre": "Tournoi interne St-Nicolas Fismes 2026 - Lutins",
+    "url_source": "https://www.echecs.asso.fr/FicheTournoi.aspx?Ref=74200",
+    "cadence": "Lente",
+    "lieu": "51 - FISMES",
+    "arbitre": "AKREMANN Jordan"
   },
   {
     "date": "2026-12-16",
